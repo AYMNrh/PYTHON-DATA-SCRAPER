@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU503261,10-2,2019-04-16 07:48:35.75,Completed,Germany,100,BMW Werk 06.10 Regensburg Lackiererei,5026238,Bayerische Motoren Werke Aktiengesellschaft,European Commission,100,EU Allowance deletion,5016380,European Commission,19919,Details
+EU503469,10-2,2019-04-16 07:47:16.273,Completed,Germany,100,1782 - Anlagenkonto,5015301,Bayerische Motoren Werke Aktiengesellschaft,European Commission,100,EU Allowance deletion,5016380,European Commission,74546,Details
+EU513917,10-2,2019-04-16 07:40:35.133,Completed,Romania,100,Operator Account,5010037,COMPANIA LOCALA DE TERMOFICARE COLTERM SA,European Commission,100,EU Allowance deletion,5016380,European Commission,9399,Details
+EU503472,10-2,2019-04-16 07:39:17.775,Completed,Germany,100,BMWFlugdienst,5000510,Bayerische Motoren Werke Aktiengesellschaft,European Commission,100,EU Allowance deletion,5016380,European Commission,1313,Details
+EU509449,10-2,2019-04-16 07:38:36.183,Completed,Finland,100,Ounasrinne:FI382,5010438,Napapiirin Energia ja Vesi Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,122,Details
+EU513916,10-2,2019-04-16 07:38:09.488,Completed,Germany,100,Lackiererei Werk 2.40,5028001,Bayerische Motoren Werke Aktiengesellschaft,European Commission,100,EU Allowance deletion,5016380,European Commission,18905,Details
+EU509458,10-2,2019-04-16 07:37:47.129,Completed,Finland,100,Nivavaara,5010761,Napapiirin Energia ja Vesi Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,6327,Details
+EU513915,10-2,2019-04-16 07:35:28.037,Completed,Italy,100,VERZUOLO,5012467,Smurfit Kappa Cartiera di Verzuolo srl,European Commission,100,EU Allowance deletion,5016380,European Commission,373078,Details
+EU513913,10-2,2019-04-16 07:30:09.518,Completed,Italy,100,Burgo Group S.p.A.,5026880,Burgo Group S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,83481,Details
+EU513912,10-2,2019-04-16 07:23:16.21,Completed,Italy,100,Operator Account,5012683,Burgo Group S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,56222,Details
+EU513852,10-36,2019-04-16 01:31:04.085,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Thyssenkrupp Galmed, S.A.U",5026116,"Thyssenkrupp Galmed, S.A.U",23011,Details
+EU513858,10-36,2019-04-16 01:31:04.062,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,HVC Lasarettet,5001423,Falu Energi & Vatten AB,172,Details
+EU513880,10-36,2019-04-16 01:31:03.893,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Backencentralen,5002256,Umeå Energi AB,434,Details
+EU513895,10-36,2019-04-16 01:31:03.829,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Akalla,5001949,Stockholm Exergi AB,11163,Details
+EU513851,10-36,2019-04-16 01:31:03.811,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,PC Brandkärr,5002235,Vattenfall AB,372,Details
+EU513894,10-36,2019-04-16 01:31:03.612,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Grosvad,5001956,Finspångs Tekniska Verk AB,10,Details
+EU513892,10-36,2019-04-16 01:31:03.609,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Findus Sverige AB,5001473,Foodhills Fastigheter AB,3869,Details
+EU513812,10-36,2019-04-16 01:31:03.365,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Romania,100,SNGN Romgaz SA - SPEE Iernut,5010061,ELECTROCENTRALE BUCURESTI S.A,274882,Details
+EU513856,10-36,2019-04-16 01:31:03.328,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Reservcentralen Gjuterigatan,5001787,Ljungby Energi AB,204,Details
+EU513813,10-36,2019-04-16 01:31:02.749,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,Operator Account:EE16,5016321,Silpower AS,7916,Details

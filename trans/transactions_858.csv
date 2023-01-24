@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU502171,10-0,2019-03-29 13:35:05.58,Completed,Belgium,100,303 EDFL - Seraing,5004316,Luminus,Belgium,100,298 EDFL - Centrale Ham 68 Gent,5004311,Luminus,54926,Details
+EU502986,10-0,2019-03-29 13:34:48.082,Completed,Germany,100,innogy SE,5017191,innogy SE,Germany,100,RWE Vertrieb AG Retail - Trading,5017190,innogy SE,6000,Details
+EU502476,10-71,2019-03-29 13:34:13.995,Completed,Spain,100,"Nitricomax, S.L.U.",5022518,"Nitricomax, S.L.U.",European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,1082,Details
+EU502168,10-0,2019-03-29 13:31:02.544,Completed,Netherlands,100,Litasco CO2 NL,5011186,Litasco SA,United Kingdom,100,Litasco trading UK,5017260,LITASCO SA,930,Details
+EU502164,10-0,2019-03-29 13:29:29.128,Completed,Belgium,100,303 EDFL - Seraing,5004316,Luminus,Belgium,100,300 EDFL - Izegem,5004313,Luminus,593,Details
+EU502888,10-0,2019-03-29 13:26:31.204,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Spain,100,Helvetic Airways,5019790,Helvetic Airways,149,Details
+EU502155,10-0,2019-03-29 13:25:48.39,Completed,Belgium,100,303 EDFL - Seraing,5004316,Luminus,Belgium,100,297 EDFL - Centrale Buitenring Wondelgem Gent,5004310,Luminus,729369,Details
+EU502885,10-0,2019-03-29 13:25:34.916,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Germany,100,564 - Anlagenkonto,5015710,Pall Filtersystems GmbH,1820,Details
+EU502880,10-0,2019-03-29 13:24:15.214,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Austria,100,SPARFELL Luftfahrt GmbH,5027798,Sparfell Luftfahrt GmbH,4645,Details
+EU502976,10-2,2019-03-29 13:22:44.412,Completed,Ireland,100,Operator Account,5011964,St. James's Hospital Board,European Commission,100,EU Allowance deletion,5016380,European Commission,6820,Details
+EU502382,10-2,2019-03-29 13:20:58.301,Completed,Germany,100,"Solvay Chemicals GmbH, KW Rheinberg",5015851,Solvay Chemicals GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,600902,Details
+EU502943,10-2,2019-03-29 13:18:40.182,Completed,Italy,100,Conto registro FPD Srl,5013256,F.P.D. S.r.l.,European Commission,100,EU Allowance deletion,5016380,European Commission,909,Details
+EU502978,10-2,2019-03-29 13:18:29.483,Completed,France,100,Quotas CO2 La Rochette Venizel,5005495,SAICA PAPER FRANCE,European Commission,100,EU Allowance deletion,5016380,European Commission,56183,Details
+EU502111,10-0,2019-03-29 13:17:09.82,Completed,Bulgaria,100,Bulgarian Energy Holding EAD,5026019,Bulgarian Energy Holding EAD,Bulgaria,100,TPP MARITSA EAST 2  EAD,5016161,TPP MARITSA EAST 2  EAD,2800000,Details
+EU502849,10-2,2019-03-29 13:16:44.46,Completed,Germany,100,Robert Bosch GmbH,5016441,Robert Bosch Gesellschaft mit beschränkter Haftung,European Commission,100,EU Allowance deletion,5016380,European Commission,2948,Details
+EU502974,10-2,2019-03-29 13:10:35.562,Completed,Spain,100,"S.A.I.C.A. 4, S.A. - Industrias Celulosa Aragonesa",5008830,S.A.I.C.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,212208,Details
+EU502969,10-2,2019-03-29 13:08:08.596,Completed,Spain,100,"S.A.I.C.A.-1, S.A. - Industrias Celulosa Aragonesa",5009884,S.A.I.C.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,257859,Details
+EU502023,10-0,2019-03-29 13:07:26.006,Completed,France,100,ARCELORMITTAL TREASURY Détention,5026253,ARCELORMITTAL TREASURY,Spain,100,"Arcelormittal Sestao, S.L.U.",5009489,"ARCELORMITTAL SESTAO, S.L.U.",31784,Details
+EU502859,10-2,2019-03-29 13:06:58.272,Completed,Greece,100,SOFIDEL GREECE S.A.,5002436,SOFIDEL GREECE S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,9633,Details
+EU502926,10-2,2019-03-29 13:06:26.644,Completed,Germany,100,Kaminrohrwerk,5021941,ERLUS Aktiengesellschaft,European Commission,100,EU Allowance deletion,5016380,European Commission,1388,Details

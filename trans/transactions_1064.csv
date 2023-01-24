@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU498384,10-0,2019-03-20 10:02:24.473,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Netherlands,100,USG handelsrekening,5011363,Utility Support Group (USG) B.V.,30000,Details
+EU498342,10-0,2019-03-20 10:02:15.557,Completed,Germany,100,Emissionshandelsgesellschaft,5017225,Emissionshandelsgesellschaft Michael Pohlmann GmbH & Co. KG,Germany,100,597 - Anlagenkonto,5016005,Mitsubishi HiTec Paper Europe GmbH,2200,Details
+EU498279,10-0,2019-03-20 10:02:11.257,Completed,Norway,100,Norsk Hydro ASA Trading,5017169,Norsk Hydro ASA,Norway,100,Hydro Aluminium AS Høyanger aluminiumsverk,5020503,Hydro Aluminium AS Høyanger aluminiumsverk,3218,Details
+EU498289,10-0,2019-03-20 10:01:17.798,Completed,Norway,100,Norsk Hydro ASA Trading,5017169,Norsk Hydro ASA,Norway,100,Hydro Aluminium AS Sunndal aluminiumsverk,5020510,Hydro Aluminium AS Sunndal aluminiumsverk,26632,Details
+EU498254,10-0,2019-03-20 10:00:49.586,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Bulgaria,100,TPP VARNA EAD,5027636,TPP VARNA EAD,18900,Details
+EU498412,10-0,2019-03-20 10:00:40.131,Completed,Italy,100,A2A S.P.A.,5025361,A2A SPA,Italy,100,Operator Account,5012868,LINEA GREEN S.P.A.,15000,Details
+EU498398,10-2,2019-03-20 09:41:15.239,Completed,Sweden,100,Special Coil Nyby,5001834,Outokumpu Stainless AB,European Commission,100,EU Allowance deletion,5016380,European Commission,16522,Details
+EU498336,10-2,2019-03-20 09:28:08.831,Completed,Denmark,100,Nybro Gas,5006224,ØRSTED Salg & Service A/S,European Commission,100,EU Allowance deletion,5016380,European Commission,7419,Details
+EU498352,10-2,2019-03-20 09:15:03.798,Completed,Denmark,100,Haldor Topsøe,5006166,Topsoe A/S,European Commission,100,EU Allowance deletion,5016380,European Commission,34819,Details
+EU498344,10-2,2019-03-20 09:08:12.519,Completed,Sweden,100,Sofidel Sweden AB,5001452,SOFIDEL SWEDEN AB,European Commission,100,EU Allowance deletion,5016380,European Commission,9292,Details
+EU498354,10-2,2019-03-20 09:06:50.294,Completed,Germany,100,367 - Anlagenkonto,5016087,Tonwerk Venus GmbH & Co KG,European Commission,100,EU Allowance deletion,5016380,European Commission,11674,Details
+EU498340,10-2,2019-03-20 09:02:50.216,Completed,Sweden,100,Karstorpsverket,5002275,Västervik Miljö & Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,105,Details
+EU498113,10-2,2019-03-20 08:59:35.477,Completed,Denmark,100,VarpelevTomater,5006456,Østervang Sjælland A/S,European Commission,100,EU Allowance deletion,5016380,European Commission,8757,Details
+EU498338,10-2,2019-03-20 08:58:44.859,Completed,Sweden,100,Gamlebyverket,5002012,Västervik Miljö & Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,1223,Details
+EU498087,10-2,2019-03-20 08:40:27.442,Completed,Germany,100,Rolls-Royce Deutschland,5022719,Rolls-Royce Deutschland Ltd & Co KG,European Commission,100,EU Allowance deletion,5016380,European Commission,19019,Details
+EU498346,10-2,2019-03-20 08:37:04.28,Completed,Denmark,100,Bramming Fjernv,5006527,Bramming Fjernvarme amba,European Commission,100,EU Allowance deletion,5016380,European Commission,12719,Details
+EU498134,10-2,2019-03-20 08:32:30.1,Completed,Denmark,100,Aarhusværket Varmecentral,5006397,Kredsløb Transmission A/S,European Commission,100,EU Allowance deletion,5016380,European Commission,201,Details
+EU498136,10-2,2019-03-20 08:31:26.01,Completed,Denmark,100,Gellerup Varmecentral,5006509,Kredsløb Transmission A/S,European Commission,100,EU Allowance deletion,5016380,European Commission,418,Details
+EU498139,10-2,2019-03-20 08:30:08.789,Completed,Denmark,100,Viby Varmecentral,5006557,Kredsløb Fjernvarme A/S,European Commission,100,EU Allowance deletion,5016380,European Commission,32,Details
+EU498140,10-2,2019-03-20 08:28:47.435,Completed,Denmark,100,Jens Juuls Vej Varmecentral,5006558,Kredsløb Transmission A/S,European Commission,100,EU Allowance deletion,5016380,European Commission,73,Details

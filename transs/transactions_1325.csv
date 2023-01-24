@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU492851,10-36,2019-03-01 01:30:50.249,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Belgium,100,201 Steinzeug - Keramo,5004600,Steinzeug - Keramo,7803,Details
+EU492848,10-36,2019-03-01 01:30:50.248,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Belgium,100,242 Holcim Cimenterie Obourg,5004641,Holcim,497442,Details
+EU492850,10-36,2019-03-01 01:30:50.247,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT116,5006097,UAB Akmenes energija,2603,Details
+EU492853,10-36,2019-03-01 01:30:50.247,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT50,5006041,AB Vilniaus silumos tinklai,6224,Details
+EU492835,10-36,2019-03-01 01:30:50.246,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT24,5006015,AB Nordic Sugar Kedainiai,26835,Details
+EU492838,10-36,2019-03-01 01:30:50.242,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,UAB Gren Klaipeda,5026233,UAB Gren Klaipėda,40264,Details
+EU492841,10-36,2019-03-01 01:30:50.242,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT93,5006084,UAB Kaisiadoriu siluma,2944,Details
+EU492842,10-36,2019-03-01 01:30:50.194,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Cyprus,100,Operator Account:CY16,5012200,George Ntoas,6132,Details
+EU492846,10-36,2019-03-01 01:30:50.194,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT47,5006038,UAB Silutes silumos tinklai,5391,Details
+EU492852,10-36,2019-03-01 01:30:50.193,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,UAB Vilkaviskio silumos tinklai,5006075,UAB Vilkaviskio silumos tinklai,2502,Details
+EU492822,10-36,2019-03-01 01:30:50.192,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Oprator AccountLT83,5006074,UAB Litesko,953,Details
+EU492847,10-36,2019-03-01 01:30:50.19,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Cyprus,100,Operator Account:CY9,5012193,Electricity Authority of Cyprus,110322,Details
+EU492827,10-36,2019-03-01 01:30:50.189,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT11,5006002,AB Palemono keramikos gamykla,7395,Details
+EU492821,10-36,2019-03-01 01:30:50.155,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Cyprus,100,Vassiliko Cement Works Public Company Ltd,5012195,Vassiliko Cement Works Public Company Ltd,1033404,Details
+EU492763,10-36,2019-03-01 01:30:35.386,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Cyprus,100,Operator Account:CY16,5012200,George Ntoas,1792,Details
+EU492752,10-36,2019-03-01 01:30:35.312,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,SpK Elferweg - 788,5015313,Stadtwerke Würzburg Aktiengesellschaft,136,Details
+EU492764,10-36,2019-03-01 01:30:35.239,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Cyprus,100,Operator Account:CY15,5012199,Kyriakos Chrysafis,1879,Details
+EU492753,10-36,2019-03-01 01:30:35.179,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Slovakia,100,"ZTS METALURG, a.s.",5022908,"ZTS METALURG, a. s.",3995,Details
+EU492761,10-36,2019-03-01 01:30:35.117,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Ireland,100,Operator Account,5012010,Abbott Ireland,17916,Details
+EU492762,10-36,2019-03-01 01:30:35.061,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Belgium,100,294 Knauf Visé,5004307,Knauf,6572,Details

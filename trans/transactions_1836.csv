@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+DE123659,4-0,2019-01-31 11:20:09.065,Completed,Germany,121,UNFCCC secretariat,3306,UNFCCC secretariat,Germany,230,Nationalkonto - Löschung 2013-2020,5018222,Deutschland,35097,Details
+DE123660,4-0,2019-01-31 11:18:41.495,Completed,Germany,121,UNFCCC secretariat,3306,UNFCCC secretariat,Germany,230,Nationalkonto - Löschung 2013-2020,5018222,Deutschland,80000,Details
+EU482185,10-0,2019-01-31 11:18:28.248,Completed,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,Poland,100,ENERGA Elektrownie Ostrołęa SA,5003353,ENERGA Elektrownie Ostrołęka S.A.,10000,Details
+EU482186,10-0,2019-01-31 11:17:39.189,Completed,United Kingdom,100,Macquarie Bank Limited (EUA),5017114,Macquarie Bank Limited,France,100,SOCIETE AIR FRANCE,5016955,Verspick,369000,Details
+EU482178,10-2,2019-01-31 11:17:33.696,Completed,Czech Republic,100,ABS Jets,5024732,"ABS Jets, a.s.",European Commission,100,EU Allowance deletion,5016380,European Commission,8091,Details
+DE123661,4-0,2019-01-31 11:17:07.427,Completed,Germany,121,UNFCCC secretariat,3306,UNFCCC secretariat,Germany,230,Nationalkonto - Löschung 2013-2020,5018222,Deutschland,32000,Details
+DE123662,4-0,2019-01-31 11:15:44.65,Completed,Germany,121,UNFCCC secretariat,3306,UNFCCC secretariat,Germany,230,Nationalkonto - Löschung 2013-2020,5018222,Deutschland,1707,Details
+DE123663,4-0,2019-01-31 11:14:24.449,Completed,Germany,121,UNFCCC secretariat,3306,UNFCCC secretariat,Germany,230,Nationalkonto - Löschung 2013-2020,5018222,Deutschland,192,Details
+DE123664,4-0,2019-01-31 11:13:07.977,Completed,Germany,121,UNFCCC secretariat,3306,UNFCCC secretariat,Germany,230,Nationalkonto - Löschung 2013-2020,5018222,Deutschland,1040,Details
+DE123665,4-0,2019-01-31 11:12:04.769,Completed,Germany,121,UNFCCC secretariat,3306,UNFCCC secretariat,Germany,230,Nationalkonto - Löschung 2013-2020,5018222,Deutschland,4631,Details
+DE123655,4-0,2019-01-31 11:10:38.05,Completed,Germany,121,UNFCCC secretariat,3306,UNFCCC secretariat,Germany,230,Nationalkonto - Löschung 2013-2020,5018222,Deutschland,649,Details
+EU482188,10-0,2019-01-31 11:08:49.574,Completed,United Kingdom,100,Citigroup Global Markets Limited,5021318,Citigroup Global Markets Limited,Portugal,100,7108-EDP - Energias de portugal S.A.,5003348,EDP - Energias de portugal S.A.,8267,Details
+CDM56703,3-0,2019-01-31 11:00:45.635,Completed,CDM,110,,1000,,Sweden,100,Internationella klimatinsatser,5017396,Statens energimyndighet,8926,Details
+CDM56702,3-0,2019-01-31 11:00:08.462,Completed,CDM,110,,1000,,Sweden,100,Internationella klimatinsatser,5017396,Statens energimyndighet,16300,Details
+CDM56701,3-0,2019-01-31 10:59:25.027,Completed,CDM,110,,1000,,Sweden,100,Internationella klimatinsatser,5017396,Statens energimyndighet,78795,Details
+CDM56700,3-0,2019-01-31 10:58:44.687,Completed,CDM,110,,1000,,Germany,121,First Climate Markets AG,369,First Climate Markets AG,10500,Details
+EU482173,10-0,2019-01-31 10:49:12.811,Completed,France,100,SOCIETE GENERALE,5017623,SOCIETE GENERALE,France,100,SOCIETE AIR FRANCE,5016955,Verspick,1450000,Details
+EU482183,10-0,2019-01-31 10:48:39.678,Completed,Germany,100,Alpiq AG,5021597,Alpiq AG,Czech Republic,100,Teplárna Kladno s.r.o.,5006925,Teplárna Kladno s.r.o.,6000,Details
+EU482180,10-0,2019-01-31 10:33:07.595,Completed,Germany,100,Shell Trading International Limited,5027588,Shell Trading International Limited,Germany,100,Deutsche Lufthansa Aktiengesellschaft,5013721,Deutsche Lufthansa Aktiengesellschaft,15000,Details
+EU482138,10-0,2019-01-31 10:10:07.039,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Netherlands,100,USG handelsrekening,5011363,Utility Support Group (USG) B.V.,10000,Details

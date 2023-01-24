@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU514902,10-0,2019-04-17 10:38:04.387,Completed,Germany,100,STEAG GmbH,5017212,STEAG GmbH,Germany,100,Kraftwerk Lünen,5014651,STEAG GmbH,1043514,Details
+EU514994,10-2,2019-04-17 10:36:49.431,Completed,Czech Republic,100,Wienerberger - závod Řepov,5006703,Wienerberger s.r.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,3361,Details
+EU514997,10-2,2019-04-17 10:35:52.656,Completed,Czech Republic,100,Wienerberger - závod Novosedly,5006708,Wienerberger s.r.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,17661,Details
+EU513751,10-2,2019-04-17 10:35:52.652,Completed,Czech Republic,100,EUROSERUM s.r.o.,5006769,EUROSERUM s.r.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,2299,Details
+EU514906,10-0,2019-04-17 10:35:32.366,Completed,Germany,100,STEAG GmbH,5017212,STEAG GmbH,Germany,100,Heizkraftwerk Walsum,5014658,STEAG GmbH,3280752,Details
+EU514998,10-2,2019-04-17 10:34:47.551,Completed,Czech Republic,100,Wienerberger - závod Týn n/Vltavou,5006710,Wienerberger s.r.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,16200,Details
+EU514999,10-2,2019-04-17 10:33:56.974,Completed,Czech Republic,100,Wienerberger - závod Holice,5006716,Wienerberger s.r.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,8997,Details
+EU515002,10-2,2019-04-17 10:33:10.703,Completed,Czech Republic,100,Wienerberger cihelna Jezernice,5006969,Wienerberger s.r.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,30015,Details
+EU515015,10-0,2019-04-17 10:33:02.536,Completed,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,Germany,100,Industrieheizkraftwerk Andernach,5016016,IHKW Industrieheizkraftwerk Andernach GmbH,10000,Details
+EU514908,10-0,2019-04-17 10:33:01.495,Completed,Germany,100,STEAG GmbH,5017212,STEAG GmbH,Germany,100,Kraftwerk Weiher III,5015931,STEAG GmbH,23585,Details
+EU514984,10-2,2019-04-17 10:30:30.898,Completed,Slovakia,100,Wienerberger - závod Boleráz,5003493,Wienerberger s.r.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,19544,Details
+EU514910,10-0,2019-04-17 10:29:53.638,Completed,Germany,100,STEAG GmbH,5017212,STEAG GmbH,Germany,100,Kraftwerk Bexbach,5015971,STEAG GmbH,37768,Details
+EU514988,10-2,2019-04-17 10:29:04.927,Completed,Slovakia,100,Wienerberger - závod Zlaté Moravce,5003498,Wienerberger s.r.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,14358,Details
+EU515006,10-0,2019-04-17 10:27:58.258,Completed,Italy,100,conto di scambio fenice,5016921,Fenice spa,Italy,100,Operator Account,5013126,P.I.CHI. S.c.r.l.,3000,Details
+EU514919,10-0,2019-04-17 10:26:59.955,Completed,Germany,100,STEAG GmbH,5017212,STEAG GmbH,Germany,100,Modellkraftwerk Völklingen,5015965,STEAG GmbH,350547,Details
+EU514974,10-2,2019-04-17 10:24:47.322,Completed,Greece,100,CAOHELLAS,5002340,CaO HELLAS ΜΑΚΕΔΟΝΙΚΗ ΑΒΕΕ,European Commission,100,EU Allowance deletion,5016380,European Commission,31159,Details
+EU514925,10-0,2019-04-17 10:24:03.106,Completed,Germany,100,STEAG GmbH,5017212,STEAG GmbH,Germany,100,Heizkraftwerk Völklingen,5013904,STEAG GmbH,611375,Details
+EU514913,10-2,2019-04-17 10:23:00.04,Completed,Germany,100,Industrieheizkraftwerk Andernach,5016016,IHKW Industrieheizkraftwerk Andernach GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,92638,Details
+EU514996,10-2,2019-04-17 10:22:54.76,Completed,France,100,Banco Safra S.A.,5019952,Banco Safra S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,25,Details
+EU514979,10-2,2019-04-17 10:21:34.766,Completed,Poland,100,CIEPŁOWNIA,5003642,"""Ciepłownia Łańcut"" Sp. z o.o.",European Commission,100,EU Allowance deletion,5016380,European Commission,12461,Details

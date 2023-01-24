@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU503783,10-2,2019-04-01 14:05:00.274,Completed,Germany,100,1795 - Anlagenkonto,5015322,SWE Energie GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,280780,Details
+EU501608,10-2,2019-04-01 14:03:46.781,Completed,Finland,100,Ristee:FI421,5010477,Suomussalmen Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,2357,Details
+EU501616,10-2,2019-04-01 14:01:48.019,Completed,Finland,100,Siikaranta:FI422,5010478,Suomussalmen Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,455,Details
+EU503282,10-2,2019-04-01 14:01:45.991,Completed,Sweden,100,Lugnviksverket P1 och P2,5001570,Jämtkraft AB,European Commission,100,EU Allowance deletion,5016380,European Commission,1535,Details
+EU502096,10-2,2019-04-01 14:01:28.753,Completed,Germany,100,Schmiedewerke Gröditz GmbH -Stahlwerk-,5015799,Schmiedewerke Gröditz GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,11907,Details
+EU502867,10-0,2019-04-01 14:01:16.094,Completed,Germany,100,Kraftwerk Hallendorf,5014399,Salzgitter Flachstahl GmbH,Germany,100,Kaltwalzwerk,5017297,Salzgitter Flachstahl GmbH,212210,Details
+EU502100,10-2,2019-04-01 14:00:23.84,Completed,Germany,100,Schmiedewerke Gröditz GmbH -Schmiede-,5019829,Schmiedewerke Gröditz GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,47158,Details
+EU503283,10-2,2019-04-01 13:59:51.303,Completed,Sweden,100,Göviken,5001681,Jämtkraft AB,European Commission,100,EU Allowance deletion,5016380,European Commission,14,Details
+EU503633,10-0,2019-04-01 13:59:18.732,Completed,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,Poland,100,ENERGA Elektrownie Ostrołęa SA,5003353,ENERGA Elektrownie Ostrołęka S.A.,3000,Details
+EU502103,10-2,2019-04-01 13:58:40.006,Completed,Germany,100,Schmiedewerke Gröditz GmbH -RWW-,5019868,Schmiedewerke Gröditz GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,10864,Details
+EU503302,10-2,2019-04-01 13:58:01.876,Completed,Sweden,100,Odensala Östra,5001683,Jämtkraft AB,European Commission,100,EU Allowance deletion,5016380,European Commission,10,Details
+EU501387,10-2,2019-04-01 13:57:43.604,Completed,Sweden,100,Hjo Energi AB,5024673,Hjo Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,47,Details
+EU503683,10-0,2019-04-01 13:56:32.881,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,32000,Details
+EU501390,10-2,2019-04-01 13:56:29.727,Completed,Sweden,100,Odal Hjo Energi AB,5025861,Hjo Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,1,Details
+EU501826,10-0,2019-04-01 13:56:24.734,Completed,France,100,SVD 38,5024626,SVD 38,Poland,100,Zakład Produkcyjny 4 Murcki,5003571,Dalkia Polska Energia S.A.,191000,Details
+EU503309,10-2,2019-04-01 13:56:22.776,Completed,Sweden,100,Öneberget,5002007,Jämtkraft AB,European Commission,100,EU Allowance deletion,5016380,European Commission,60,Details
+EU503787,10-72,2019-04-01 13:55:51.154,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,23 - Anlagenkonto,5015196,OMV Deutschland Operations GmbH & Co. KG,6713,Details
+EU503656,10-0,2019-04-01 13:55:29.979,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Luxembourg,100,LUXAIR,5017633,LUXAIR,2933,Details
+EU503312,10-2,2019-04-01 13:54:51.387,Completed,Sweden,100,Lugnviksverket KVV,5002094,Jämtkraft AB,European Commission,100,EU Allowance deletion,5016380,European Commission,20947,Details
+EU503762,10-71,2019-04-01 13:54:43.906,Completed,Germany,100,23 - Anlagenkonto,5015196,OMV Deutschland Operations GmbH & Co. KG,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,6713,Details

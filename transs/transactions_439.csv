@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU510901,10-0,2019-04-12 12:04:10.087,Completed,Estonia,100,Operator Account:EE36,5016341,Danpower Eesti AS,Estonia,100,Baltic Energy Partners OÜ,5016905,Baltic Energy Partners OÜ,10000,Details
+EU510906,10-0,2019-04-12 12:04:03.424,Completed,Germany,100,096 Daimler-Konzern,5013725,Daimler AG,Germany,100,020 Mannheim Gießerei,5018810,Daimler Truck AG,413397,Details
+EU511006,10-0,2019-04-12 12:04:00.686,Completed,Sweden,100,Notnäs,5002278,Värmevärden AB,Sweden,100,Källhagsverket,5001604,Värmevärden AB,5504,Details
+EU510161,10-0,2019-04-12 12:03:59.846,Completed,Denmark,100,Danske Commodities A/S,5017234,Danske Commodities A/S,Sweden,100,Dåva KVV,5001863,Umeå Energi AB,15358,Details
+EU510919,10-0,2019-04-12 12:03:54.905,Completed,Romania,100,Operator Account,5010030,THERMOENERGY GROUP SA Bacau,Romania,100,Operator Account,5010031,THERMOENERGY GROUP SA Bacau,3132,Details
+EU510795,10-0,2019-04-12 12:03:53.365,Completed,Spain,100,"Fertiberia, S.A. Fábrica de Sagunto",5009532,"Fertiberia, S.A.",Spain,100,"Fertiberia, S.A. - Fábrica de Palos",5017819,"Fertiberia, S.A.",16033,Details
+EU510685,10-0,2019-04-12 12:03:52.781,Completed,Italy,100,Operator Account,5013411,Ottana Energia s.p.a,Spain,100,"Global Factor Commodity Trading, S.A.U.",5016901,"Global Factor Commodity Trading, S.A.U.",20000,Details
+EU510825,10-0,2019-04-12 12:03:46.432,Completed,Finland,100,UPM KauVo,5010763,Kaukaan Voima Oy,Finland,100,Kaukaan Voima Oy:FI775,5010746,Kaukaan Voima Oy,60770,Details
+EU510806,10-0,2019-04-12 12:03:31.303,Completed,Italy,100,Operator Account,5012708,Ital Green Energy srl,Italy,100,Operator Account,5012700,Ital Green Energy srl,4441,Details
+EU511891,10-2,2019-04-12 12:03:31.226,Completed,Poland,100,Kotłownia Ciepłownii Rydułtowy Sp. z o.o.,5002521,Ciepłownia Rydułtowy sp. z o.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,18778,Details
+EU510835,10-0,2019-04-12 12:03:30.252,Completed,Spain,100,"Baldocer, S.A.",5020200,"Baldocer, S.A.",Spain,100,Baldocer S.A. (Planta 3),5027062,"Baldocer, S.A.",35971,Details
+EU510783,10-0,2019-04-12 12:03:20.876,Completed,France,100,Société Valmy Défense 17 - SVD17,5023377,SVD 17,France,100,SOCOPIC STE DE COGENERATION DE PICARDIE,5004969,SOCIETE DE COGENERATION DE PICARDIE- SOCOPIC,1074,Details
+EU510874,10-0,2019-04-12 12:03:20.875,Completed,Denmark,100,Affaldvarme Aarhus,5006285,Aarhus Kommune,Denmark,100,Lystrup Fjernvarme,5006562,Lystrup Fjernvarme A M B A,30,Details
+EU510811,10-0,2019-04-12 12:03:13.006,Completed,France,100,Société Valmy Défense 17 - SVD17,5023377,SVD 17,France,100,DALKIA Hôpital Bel Air - Thionville,5004687,DALKIA,4189,Details
+EU510749,10-0,2019-04-12 12:03:07.051,Completed,United Kingdom,100,Solvay Interox Trading,5007798,Solvay Interox Limited,France,100,SOLVAY ENERGY SERVICES,5017277,SOLVAY ENERGY SERVICES,4820,Details
+EU510150,10-0,2019-04-12 12:02:56.11,Completed,Spain,100,"Verallia Spain, S.A. - Instalación de Azuqueca de Henares",5009223,"VERALLIA SPAIN, S.A.",Spain,100,"Verallia Spain, S.A. - Instalación de Burgos",5009209,"VERALLIA SPAIN, S.A.",53620,Details
+EU512254,10-0,2019-04-12 12:02:52.918,Completed,Norway,100,Norsk Hydro ASA Trading,5017169,Norsk Hydro ASA,Luxembourg,100,HYDRO ALUMINIUM CLERVAUX,5022677,HYDRO ALUMINIUM CLERVAUX,1000,Details
+EU510882,10-0,2019-04-12 12:02:51.078,Completed,Netherlands,100,Dow Benelux B.V. BKG 4,5021277,DOW Benelux B.V.,Netherlands,100,Dow Benelux B.V. BKG 1,5011128,DOW Benelux B.V.,164424,Details
+EU510760,10-0,2019-04-12 12:02:48.024,Completed,United Kingdom,100,ConocoPhillips (U.K.) Marketing and Trading Limited,5007127,CHRYSAOR PRODUCTION (U.K.) LIMITED,Norway,100,ConocoPhillips Skandinavia AS Ekofiskområdet,5012218,ConocoPhillips Skandinavia AS,5303,Details
+EU510759,10-0,2019-04-12 12:02:15.732,Completed,United Kingdom,100,Theddlethorpe Gas Terminal,5007117,CHRYSAOR PRODUCTION (U.K.) LIMITED,United Kingdom,100,ConocoPhillips (U.K.) Marketing and Trading Limited,5007127,CHRYSAOR PRODUCTION (U.K.) LIMITED,20498,Details

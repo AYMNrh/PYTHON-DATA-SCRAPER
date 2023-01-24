@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU487916,10-0,2019-02-25 10:01:00.208,Completed,United Kingdom,100,SSE Energy Supply Limited,5023336,SSE Energy Supply Limited,United Kingdom,100,Aldbrough Storage Installation,5008578,SSE Hornsea Limited,4010,Details
+EU487920,10-0,2019-02-25 10:00:45.241,Completed,United Kingdom,100,ALLCOT AG,5023840,ALLCOT AG,Bulgaria,100,LYBRA ENERGY,5023501,Либра Енерджи ЕООД,2313,Details
+EU488006,10-0,2019-02-25 10:00:34.918,Completed,Germany,100,Bayern LB,5016942,Bayerische Landesbank,Germany,100,963 - Anlagenkonto,5014073,Käserei Champignon Hofmeister GmbH & Co. KG,10000,Details
+EU487780,10-2,2019-02-25 08:59:18.667,Completed,Austria,100,Nettingsdorfer Ansfelden,5004082,Smurfit Kappa Nettingsdorf AG & Co KG,European Commission,100,EU Allowance deletion,5016380,European Commission,58292,Details
+EU487981,10-2,2019-02-25 08:57:52.777,Completed,Germany,100,Handelskonto HME,5018137,Heinrich Meier Eisengießerei GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,27275,Details
+EU487987,10-72,2019-02-25 08:57:40.679,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,Handelskonto HME,5018137,Heinrich Meier Eisengießerei GmbH & Co. KG,1228,Details
+EU487984,10-71,2019-02-25 08:56:32.965,Completed,Germany,100,Handelskonto HME,5018137,Heinrich Meier Eisengießerei GmbH & Co. KG,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,1228,Details
+EU487679,10-2,2019-02-25 08:48:20.714,Completed,Austria,100,Stadtwerke Kufstein,5004101,Bioenergie Kufstein GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,1527,Details
+EU487979,10-2,2019-02-25 08:44:28.821,Completed,Czech Republic,100,Tepelné hospodářství Prachatice,5006832,Tepelné hospodářství Prachatice s.r.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,9131,Details
+EU487977,10-2,2019-02-25 05:28:26.867,Completed,United Kingdom,100,,5001079,,European Commission,100,EU Allowance deletion,5016380,European Commission,438,Details
+EU485498,10-2,2019-02-23 03:39:14.2,Completed,United Kingdom,100,Operator Account,5007201,Indian Queens Power Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,531,Details
+EU487968,10-36,2019-02-23 01:30:49.365,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1322 - Anlagenkonto,5014640,Energie- und Wasserversorgung Bonn/Rhein-Sieg GmbH (EnW Bonn/Rhein-Sieg),228,Details
+EU487966,10-36,2019-02-23 01:30:49.346,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,Põlva  Soojus,5016373,Põlva Soojus AS,2773,Details
+EU487965,10-36,2019-02-23 01:30:49.199,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,TERMOIL,5016356,Liwathon E.O.S. AS,4560,Details
+EU487952,10-36,2019-02-23 01:30:47.969,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,VKG Oil Petrote,5016374,VKG Oil AS,495485,Details
+EU487951,10-36,2019-02-23 01:30:47.829,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,Anne koostootmisjaam:EE76,5016366,Gren Tartu AS,25499,Details
+EU487947,10-36,2019-02-23 01:30:47.826,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,EURODEK SYNERGY:EE66,5016358,Vesta Terminal Tallinn OÜ,2917,Details
+EU487963,10-36,2019-02-23 01:30:47.731,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,Operator Account:EE29,5016334,Gren Tartu AS,2257,Details
+EU487961,10-36,2019-02-23 01:30:47.712,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,Operator Account:EE43,5016348,O-I Estonia AS,22156,Details
+EU487967,10-36,2019-02-23 01:30:47.679,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,Operator Account:EE4,5016309,Enefit Power AS,58772,Details

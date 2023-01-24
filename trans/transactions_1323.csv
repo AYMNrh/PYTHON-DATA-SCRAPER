@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU492780,10-36,2019-03-01 01:30:55.023,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,operator holding:LT113,5006096,UAB Gargzdu plytu gamykla,2181,Details
+EU492849,10-36,2019-03-01 01:30:54.995,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT31,5006022,AB Klaipedos nafta,8858,Details
+EU492808,10-36,2019-03-01 01:30:54.954,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT118,5006099,UAB IKEA Industry Lietuva,36716,Details
+EU492802,10-36,2019-03-01 01:30:54.838,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,NEO GROUP:LT124,5006102,UAB NEO Group,31989,Details
+EU492800,10-36,2019-03-01 01:30:54.702,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT10,5006001,UAB Roku keramika,7570,Details
+EU492834,10-36,2019-03-01 01:30:54.7,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Romania,100,Operator Account,5010031,THERMOENERGY GROUP SA Bacau,4756,Details
+EU492767,10-36,2019-03-01 01:30:54.548,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Romania,100,S.C. BIOENERGY SUCEAVA SRL,5024288,S.C.BIOENERGY SUCEAVA S.A.,12392,Details
+EU492798,10-36,2019-03-01 01:30:54.53,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT86,5006077,UAB Litesko,1795,Details
+EU492771,10-36,2019-03-01 01:30:54.521,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,AB Roquette Amilina,5023077,AB Roquette Amilina,613,Details
+EU492832,10-36,2019-03-01 01:30:54.519,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Kedainiu RK:LT125,5006103,AB Panevezio energija,50,Details
+EU492773,10-36,2019-03-01 01:30:54.445,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Romania,100,Operator Account,5010026,SC CET Govora SA,101593,Details
+EU492783,10-36,2019-03-01 01:30:54.363,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1328 - Anlagenkonto,5014648,Stadtwerke Bernau GmbH,4564,Details
+EU492786,10-36,2019-03-01 01:30:54.334,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT54,5006045,AB Siauliu energija,35597,Details
+EU492826,10-36,2019-03-01 01:30:54.313,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Belgium,100,021 Virginal Paper,5004399,Virginal Paper,11226,Details
+EU492778,10-36,2019-03-01 01:30:54.306,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Belgium,100,031 Ploegsteert Barry,5004421,Briqueteries De Ploegsteert,7430,Details
+EU492787,10-36,2019-03-01 01:30:54.267,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Heizkraftwerk Ilmenau,5014670,STEAG New Energies GmbH,3052,Details
+EU492854,10-36,2019-03-01 01:30:54.251,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT53,5006044,UAB Sirvintu siluma,2128,Details
+EU492824,10-36,2019-03-01 01:30:54.223,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Belgium,100,244 Wienerberger - divisie Lanaken,5004643,Wienerberger,4404,Details
+EU492829,10-36,2019-03-01 01:30:54.164,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,UAB Idex Biruliskiu,5027159,UAB Idex Biruliskiu,11916,Details
+EU492782,10-36,2019-03-01 01:30:54.032,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT75,5006066,AB Kauno energija,1069,Details

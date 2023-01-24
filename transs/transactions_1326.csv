@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU492760,10-36,2019-03-01 01:30:35.001,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Belgium,100,244 Wienerberger - divisie Lanaken,5004643,Wienerberger,4495,Details
+EU492758,10-36,2019-03-01 01:30:34.935,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Cyprus,100,Operator Account:CY17,5012201,Yiannakis Melios,4599,Details
+EU492759,10-36,2019-03-01 01:30:34.867,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Belgium,100,056 Interconnector Zeebrugge,5004426,Interconnector Zeebrugge Terminal,1983,Details
+EU492756,10-36,2019-03-01 01:30:34.811,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Cyprus,100,Operator Account:CY20,5012204,Varnavas Nicolaou,4716,Details
+EU492757,10-36,2019-03-01 01:30:34.735,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,900 - HKW Barmen,5013854,WSW Energie & Wasser AG,4916,Details
+EU492765,10-36,2019-03-01 01:30:34.681,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Austria,100,Jungbunzlauer Wulzeshofen,5004181,Jungbunzlauer Austria AG,30601,Details
+EU492754,10-36,2019-03-01 01:30:34.626,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Belgium,100,052 Fluxys compressiestation Winksele,5004415,Fluxys Belgium,2902,Details
+EU492766,10-36,2019-03-01 01:30:34.57,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Belgium,100,201 Steinzeug - Keramo,5004600,Steinzeug - Keramo,7963,Details
+EU492755,10-36,2019-03-01 01:30:34.512,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Ireland,100,C&D Foods OHA,5026203,C&D Foods Unlimited Company,3300,Details
+EU492860,10-35,2019-03-01 01:30:34.311,Completed,European Commission,100,EU AVIATION ALLOCATION ACCOUNT,5022595,EUROPEAN UNION,Romania,100,S.C. Compania Nationala de Transporturi Aeriene Romane TAROM S.A.,5000176,S.C. TAROM S.A.,135528,Details
+EU492750,10-36,2019-03-01 01:30:34.31,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Slovakia,100,"ZTS METALURG, a.s.",5022908,"ZTS METALURG, a. s.",3875,Details
+EU492751,10-36,2019-03-01 01:30:34.241,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Ireland,100,C&D Foods OHA,5026203,C&D Foods Unlimited Company,3905,Details
+EU492859,10-35,2019-03-01 01:30:34.241,Completed,European Commission,100,EU AVIATION ALLOCATION ACCOUNT,5022595,EUROPEAN UNION,Romania,100,BLUE AIR AVIATION S.A.,5000174,BLUE AIR AVIATION S.A.,153915,Details
+EU489800,10-2,2019-02-28 20:28:11.894,Completed,United Kingdom,100,Private Jet Account,5017872,FJ900 INC.,European Commission,100,EU Allowance deletion,5016380,European Commission,78,Details
+EU490921,10-0,2019-02-28 17:57:49.868,Completed,United Kingdom,100,KC Delyn Trading,5007910,Kimberly Clark Limited,United Kingdom,100,KC Barrow Mill,5007909,Kimberly Clark Limited,44000,Details
+EU484828,10-2,2019-02-28 17:46:59.596,Completed,Ireland,100,Operator Account,5011954,Genzyme Ireland Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,5124,Details
+EU490747,10-0,2019-02-28 17:29:29.172,Completed,Spain,100,"Ercros, S.A. ( Tortosa)",5009152,"Ercros, S.A.",Spain,100,"Ercros, S.A. - Fabrica de Vilaseca II",5009331,"Ercros, S.A.",11504,Details
+EU490600,10-2,2019-02-28 17:25:45.862,Completed,United Kingdom,100,,5018855,,European Commission,100,EU Allowance deletion,5016380,European Commission,297,Details
+EU490898,10-0,2019-02-28 17:24:50.087,Completed,Netherlands,100,Koole Tankstorage Botlek B.V. (BKG-2),5021376,Koole Tankstorage Botlek B.V.,Netherlands,100,Koole Tankstorage Botlek B.V. (BKG-1),5011271,Koole Tankstorage Botlek B.V.,9500,Details
+EU490894,10-0,2019-02-28 17:22:39.078,Completed,United Kingdom,100,Phillips 66 Trading Limited,5008518,Phillips 66 Trading Limited,United Kingdom,100,Humber Refinery,5008450,Phillips 66 Limited,68000,Details

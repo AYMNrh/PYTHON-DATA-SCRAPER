@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU512503,10-0,2019-04-15 16:58:44.903,Completed,Austria,100,Borealis AG,5020105,Borealis AG,France,100,BOREALIS UNITE DE PRODUCTION D'ACIDE NITRIQUE,5020681,BOREALIS CHIMIE SAS,132797,Details
+EU512481,10-0,2019-04-15 16:57:03.073,Completed,Germany,100,Emissionshändler.com GEMB mbH,5019435,GEMB Gesellschaft für Emissionsmanagement und Beratung mbH,Germany,100,Kübler & Niethammer Papierfabrik Kriebstein GmbH,5015311,Kübler & Niethammer Papierfabrik Kriebstein GmbH,18000,Details
+EU512500,10-0,2019-04-15 16:57:02.616,Completed,Netherlands,100,LYB TC,5011220,LYB Trading Company B.V.,Germany,100,PE-HD Produktionsanlage,5027290,Basell Polyolefine GmbH,200,Details
+EU512495,10-0,2019-04-15 16:56:27.56,Completed,Austria,100,Borealis AG,5020105,Borealis AG,France,100,BOREALIS Unité de production d'acide nitrique N8,5020679,BOREALIS CHIMIE SAS,64176,Details
+EU513606,10-2,2019-04-15 16:56:27.454,Completed,Czech Republic,100,"Pittsburgh Corning CR,s.r.o.",5025261,"Pittsburgh Corning CR, s.r.o.",European Commission,100,EU Allowance deletion,5016380,European Commission,7200,Details
+EU506314,10-2,2019-04-15 16:55:42.727,Completed,Spain,100,"Grespania, S.A.",5008871,"Grespania, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,34446,Details
+EU512489,10-0,2019-04-15 16:54:25.445,Completed,Austria,100,Borealis AG,5020105,Borealis AG,France,100,BOREALIS Unité de production d'acide nitrique N7,5020675,BOREALIS CHIMIE SAS,95293,Details
+EU512797,10-2,2019-04-15 16:53:06.038,Completed,Denmark,100,Gråsten Varme A/S,5006309,Sønderborg Varme A/S,European Commission,100,EU Allowance deletion,5016380,European Commission,1725,Details
+EU506317,10-2,2019-04-15 16:53:03.323,Completed,Spain,100,"Grespania, S.A. - Castellón",5018461,"Grespania, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,14858,Details
+EU512486,10-0,2019-04-15 16:51:40.736,Completed,Austria,100,Borealis AG,5020105,Borealis AG,France,100,BOREALIS Unité de fabrication d'ammoniac AM2,5020677,BOREALIS CHIMIE SAS,555718,Details
+EU512482,10-0,2019-04-15 16:49:56.399,Completed,Austria,100,Borealis AG,5020105,Borealis AG,France,100,BOREALIS UNITE DE PRODUCTION D'AMMONIAC,5020683,BOREALIS CHIMIE SAS,443914,Details
+EU513675,10-2,2019-04-15 16:49:22.917,Completed,United Kingdom,100,Agropecuaria Santana Do Deserto LTDA,5027652,Agropecuaria Santana Do Deserto LTDA,European Commission,100,EU Allowance deletion,5016380,European Commission,22,Details
+EU506325,10-2,2019-04-15 16:48:50.26,Completed,Spain,100,"Grespania, S.A. - Moncofar",5025879,"Grespania, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,3427,Details
+EU513376,10-2,2019-04-15 16:48:37.317,Completed,France,100,CICEO,5004899,CICEO,European Commission,100,EU Allowance deletion,5016380,European Commission,9278,Details
+EU512478,10-0,2019-04-15 16:48:07.098,Completed,Austria,100,Borealis AG,5020105,Borealis AG,France,100,Borealis PEC-Rhin,5023034,Borealis Produits et Engrais Chimiques du Rhin,511612,Details
+EU513388,10-2,2019-04-15 16:47:47.406,Completed,France,100,Chaufferie des Linandes,5018531,CENERGY,European Commission,100,EU Allowance deletion,5016380,European Commission,28384,Details
+EU513396,10-2,2019-04-15 16:46:59.272,Completed,France,100,SEBIO,5004844,SEBIO,European Commission,100,EU Allowance deletion,5016380,European Commission,9441,Details
+EU513403,10-2,2019-04-15 16:46:19.093,Completed,France,100,DALKIA - Chaufferie SEM,5004893,DALKIA,European Commission,100,EU Allowance deletion,5016380,European Commission,5353,Details
+EU512475,10-0,2019-04-15 16:46:12.436,Completed,Austria,100,Borealis AG,5020105,Borealis AG,Germany,100,Anlagenkonto der Borealis AMD GmbH,5021387,Borealis Agrolinz Melamine Deutschland GmbH,34877,Details
+EU513413,10-2,2019-04-15 16:45:30.232,Completed,France,100,GIE EVRY,5005012,GRAND PARIS SUD ENERGIE POSITIVE,European Commission,100,EU Allowance deletion,5016380,European Commission,55480,Details

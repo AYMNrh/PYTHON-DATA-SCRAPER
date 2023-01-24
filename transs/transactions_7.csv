@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU520109,10-0,2019-04-30 12:43:37.851,Completed,Italy,100,Operator Account,5013305,Gruppo Mauro Saviola S.r.l.,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,1725,Details
+EU520616,10-2,2019-04-30 12:41:11.38,Completed,Germany,100,GKB Bremen,5023810,Gemeinschaftskraftwerk Bremen GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,10000,Details
+EU520611,10-2,2019-04-30 12:40:35.482,Completed,Iceland,100,Bluebird Cargo,5017996,Bluebird,European Commission,100,EU Allowance deletion,5016380,European Commission,21862,Details
+EU520558,10-0,2019-04-30 12:37:11.909,Completed,Germany,100,RWEST GmbH IS Trading Account,5016831,RWE Supply & Trading GmbH,Germany,100,RWE Power AG - Händlerkonto,5017639,RWE Power Aktiengesellschaft,72000,Details
+EU520615,10-0,2019-04-30 12:36:56.471,Completed,France,100,BNP PARIBAS,5027964,BNP PARIBAS,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,780000,Details
+EU520561,10-0,2019-04-30 12:35:58.042,Completed,Germany,100,RWEST GmbH Trading Account,5016830,RWE Supply & Trading GmbH,Germany,100,innogy SE,5017191,innogy SE,4000,Details
+EU520489,10-0,2019-04-30 12:35:56.709,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,86000,Details
+EU520494,10-0,2019-04-30 12:34:07.451,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,30000,Details
+EU520593,10-2,2019-04-30 12:32:57.712,Completed,Norway,100,Eidsiva Bioenergi AS avdeling Hamar,5012238,Eidsiva Bioenergi AS,European Commission,100,EU Allowance deletion,5016380,European Commission,624,Details
+EU520602,10-2,2019-04-30 12:32:15.899,Completed,Spain,100,"New Tiles, S.L.",5023156,"New Tiles, S.L.",European Commission,100,EU Allowance deletion,5016380,European Commission,13168,Details
+EU520499,10-0,2019-04-30 12:32:10.809,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,180000,Details
+EU520612,10-0,2019-04-30 12:32:01.66,Completed,France,100,BNP PARIBAS,5027964,BNP PARIBAS,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,323000,Details
+EU520609,10-0,2019-04-30 12:31:52.966,Completed,Germany,100,Vattenfall Energy Trading GmbH,5017244,Vattenfall Energy Trading GmbH,France,100,BNP PARIBAS,5027964,BNP PARIBAS,780000,Details
+EU520502,10-0,2019-04-30 12:30:32.857,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Denmark,100,Trading Account nr 1,5019121,ØRSTED Salg & Service A/S,2000,Details
+EU520565,10-0,2019-04-30 12:28:40.959,Completed,Netherlands,100,BNP Paribas London Branch,5027681,BNP Paribas London Branch,France,100,BNP PARIBAS,5027964,BNP PARIBAS,117000,Details
+EU520505,10-0,2019-04-30 12:28:22.075,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Slovenia,100,Belektron TRD Si,5016820,BELEKTRON d.o.o.,365000,Details
+EU517852,10-0,2019-04-30 12:27:29.214,Completed,France,100,BOREALIS Unité de production d'acide nitrique N7,5020675,BOREALIS CHIMIE SAS,Austria,100,Borealis AG,5020105,Borealis AG,79849,Details
+EU520605,10-2,2019-04-30 12:27:27.676,Completed,Spain,100,ElPozo Alimentación,5009468,"ElPozo Alimentación, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,40582,Details
+EU520507,10-0,2019-04-30 12:26:23.696,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Spain,100,"Naturgy Energy Group, S.A.",5017187,"Naturgy Energy Group, S.A.",89000,Details
+EU520603,10-2,2019-04-30 12:26:10.244,Completed,Poland,100,CIEPŁOWNIA,5003499,Miejska Energetyka Cieplna Sp. z o.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,27865,Details

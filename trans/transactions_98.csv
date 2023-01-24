@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU478323,10-0,2018-12-21 12:00:49.928,Completed,Netherlands,100,Royal Cosun,5011477,Coöperatie Koninklijke Cosun U.A.,Netherlands,100,"Aviko B.V., vestiging Steenderen",5011459,Aviko B.V.,50000,Details
+EU479068,10-0,2018-12-21 12:00:33.486,Completed,Poland,100,PGE Dom Maklerski S.A.,5023795,PGE Dom Maklerski S.A.,Poland,100,Elektrociepłownia Z.A. Puławy,5002801,Grupa Azoty Zakłady Azotowe Puławy S.A.,167000,Details
+EU478313,10-0,2018-12-21 12:00:30.731,Completed,France,100,SOLVAY ENERGY SERVICES,5017277,SOLVAY ENERGY SERVICES,France,100,SLV-Ta-SOLEXIS,5022329,SOLVAY OPERATIONS FRANCE,1687,Details
+EU479096,10-72,2018-12-21 12:00:28.862,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,United Kingdom,100,Purfleet,5022844,Aggregate Industries UK Limited,349,Details
+EU478842,10-71,2018-12-21 11:59:26.443,Completed,United Kingdom,100,Purfleet,5022844,Aggregate Industries UK Limited,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,349,Details
+EU479087,10-0,2018-12-21 11:59:10.539,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Poland,100,WLM II - Żniwna 5,5003389,Kielecka Spóldzielnia Mieszkaniowa,4752,Details
+EU479094,10-72,2018-12-21 11:58:57.433,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,United Kingdom,100,Croft,5024504,Aggregate Industries UK Limited,299,Details
+EU479078,10-0,2018-12-21 11:58:05.614,Completed,France,100,SVD 38,5024626,SVD 38,Poland,100,Zakład Produkcyjny 4 Murcki,5003571,Dalkia Polska Energia S.A.,18400,Details
+EU478843,10-71,2018-12-21 11:57:56.946,Completed,United Kingdom,100,Croft,5024504,Aggregate Industries UK Limited,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,299,Details
+EU479091,10-72,2018-12-21 11:57:04.982,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,United Kingdom,100,Chryston,5024665,Aggregate Industries UK Limited,348,Details
+EU478844,10-71,2018-12-21 11:56:15.191,Completed,United Kingdom,100,Chryston,5024665,Aggregate Industries UK Limited,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,348,Details
+EU479015,10-0,2018-12-21 11:55:15.177,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Italy,100,Tor di Valle,5013314,ACEA PRODUZIONE S.p.A.,45000,Details
+EU479018,10-0,2018-12-21 11:54:00.382,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Italy,100,Burgo Energia Srl,5017270,Burgo Energia Srl,30000,Details
+EU479086,10-72,2018-12-21 11:53:56.738,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,United Kingdom,100,Heathrow,5024666,Aggregate Industries UK Limited,872,Details
+EU478845,10-71,2018-12-21 11:52:42.368,Completed,United Kingdom,100,Heathrow,5024666,Aggregate Industries UK Limited,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,872,Details
+EU479024,10-0,2018-12-21 11:52:24.921,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Italy,100,conto di scambio fenice,5016921,Fenice spa,40000,Details
+EU479081,10-0,2018-12-21 11:52:06.321,Completed,Bulgaria,100,Zagora Finacorp Jsc.,5027231,Zagora Finacorp Jsc.,United Kingdom,100,ED&F Man Capital Markets Ltd,5023256,E D & F MAN CAPITAL MARKETS LIMITED,2000,Details
+EU479033,10-0,2018-12-21 11:49:57.886,Completed,France,100,SOCIETE GENERALE,5017623,SOCIETE GENERALE,Czech Republic,100,"Komerční banka, a.s. obchodní účet",5016819,"Komerční banka, a.s.",90000,Details
+EU479057,10-0,2018-12-21 11:46:55.87,Completed,France,100,SOCIETE GENERALE,5017623,SOCIETE GENERALE,Portugal,100,7108-EDP - Energias de portugal S.A.,5003348,EDP - Energias de portugal S.A.,200000,Details
+EU479076,10-0,2018-12-21 11:45:08.62,Completed,France,100,MERCURIA ENERGY TRADING SA,5016876,MERCURIA ENERGY TRADING SA,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,12000,Details

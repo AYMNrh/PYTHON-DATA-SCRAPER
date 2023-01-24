@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU508409,10-71,2019-04-08 14:53:26.203,Completed,Austria,100,Austrian Airlines AG,5000153,Austrian Airlines AG,European Commission,100,EU International Credit Account - Aviation,5022591,EUROPEAN COMMISSION,13123,Details
+EU507557,10-2,2019-04-08 14:52:56.951,Completed,Germany,100,20 - Anlagenkonto,5015164,Haltermann Carless Deutschland GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,464,Details
+EU508419,10-2,2019-04-08 14:51:50.581,Completed,Netherlands,100,B.V. Steenfabriek Spijk,5011561,Steenfabriek Spijk B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,26602,Details
+EU508223,10-2,2019-04-08 14:50:19.873,Completed,Italy,100,Conto quote ETS Ceramica Mediterranea S.p.A.,5018516,Ceramica Mediterranea S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,17796,Details
+EU504283,10-2,2019-04-08 14:48:09.663,Completed,France,100,CPTE PAPETERIES DU RHIN,5005652,PAPETERIES DU RHIN,European Commission,100,EU Allowance deletion,5016380,European Commission,3948,Details
+EU508426,10-72,2019-04-08 14:45:36.527,Completed,European Commission,100,EU Credit Exchange Account - Aviation,5022592,EUROPEAN COMMISSION,Latvia,100,Smartlynx Airlines,5000042,Smartlynx Airlines,22,Details
+EU508420,10-71,2019-04-08 14:44:47.666,Completed,Latvia,100,Smartlynx Airlines,5000042,Smartlynx Airlines,European Commission,100,EU International Credit Account - Aviation,5022591,EUROPEAN COMMISSION,22,Details
+EU508424,10-72,2019-04-08 14:44:35.795,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Austria,100,Ziegelwerk Eder Weibern,5004146,Ziegelwerk Eder GmbH,1093,Details
+EU508415,10-2,2019-04-08 14:44:22.91,Completed,Italy,100,Operator Account,5013539,Sadam S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,31271,Details
+EU508412,10-71,2019-04-08 14:43:46.755,Completed,Austria,100,Ziegelwerk Eder Weibern,5004146,Ziegelwerk Eder GmbH,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,1093,Details
+EU508304,10-2,2019-04-08 14:43:07.509,Completed,Germany,100,Anlagenkonto thyssenkrupp Rasselstein GmbH,5019884,ThyssenKrupp Rasselstein GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,62238,Details
+EU508312,10-2,2019-04-08 14:42:17.721,Completed,Germany,100,tk Electrical Steel Gelsenkirchen Anlagenkonto,5026175,ThyssenKrupp Electrical Steel GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,29085,Details
+EU508376,10-2,2019-04-08 14:41:14.108,Completed,Luxembourg,100,Cimalux Esch/Alzette,5022668,Cimalux S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,7631,Details
+EU507416,10-0,2019-04-08 14:41:01.027,Completed,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,Germany,100,Silk Way West Airlines,5024068,Silk Way West Airlines,4166,Details
+EU508107,10-2,2019-04-08 14:40:41.463,Completed,Finland,100,Madesalmi CO2,5010987,Kotkan Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,13,Details
+EU503063,10-0,2019-04-08 14:40:04.042,Completed,Greece,100,THERSERR,5019413,THERMI SERRON,Greece,100,THERSERR,5002408,THERMI SERRON,17400,Details
+EU508111,10-2,2019-04-08 14:39:26.486,Completed,Finland,100,Itäkatu CO2:FI205,5010988,Kotkan Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,103,Details
+EU507420,10-0,2019-04-08 14:39:16.118,Completed,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,Germany,100,Silk Way West Airlines,5024068,Silk Way West Airlines,285,Details
+EU508116,10-2,2019-04-08 14:38:13.248,Completed,Finland,100,Karhuvuori CO2:FI206,5010989,Kotkan Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,30,Details
+EU508379,10-2,2019-04-08 14:38:01.572,Completed,Luxembourg,100,24 - Usine Intermoselle,5013689,Cimalux S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,591441,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU494617,10-0,2019-03-07 13:55:53.686,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,United Kingdom,100,Ark Data Centres Limited,5026841,Ark Data Centres Limited,73,Details
+EU495255,10-2,2019-03-07 13:55:22.867,Completed,United Kingdom,100,BOC TH2 EU ETS holding,5017962,BOC Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,226300,Details
+EU494771,10-0,2019-03-07 13:53:58.207,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,France,100,VULCAN INC,5000452,VULCAN INC.,140,Details
+EU494719,10-0,2019-03-07 13:53:53.461,Completed,Czech Republic,100,Třinecké železárny,5006980,"TŘINECKÉ ŽELEZÁRNY, a. s.",Czech Republic,100,ENERGETIKA TŘINEC,5006712,"ENERGETIKA TŘINEC, a.s.",15000,Details
+EU494772,10-0,2019-03-07 13:53:03.786,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,United Kingdom,100,Bentley Trading,5007768,Bentley Motors Limited,8220,Details
+EU495115,10-0,2019-03-07 13:51:45.485,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,531000,Details
+EU494803,10-0,2019-03-07 13:49:00.862,Completed,Lithuania,100,AB Roquette Amilina,5023077,AB Roquette Amilina,Lithuania,100,AB Roquette Amilina,5022077,AB Roquette Amilina,613,Details
+EU494775,10-0,2019-03-07 13:48:35.95,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,United Kingdom,100,Cozuro Ltd C/O Metis Aviation Ltd,5023953,Cozuro Ltd,170,Details
+EU495259,10-2,2019-03-07 13:48:34.952,Completed,United Kingdom,100,Damhead Creek Power Station,5007238,VPI Power Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,1596272,Details
+EU495260,10-2,2019-03-07 13:47:07.321,Completed,United Kingdom,100,Rye House Power Station,5007240,VPI Power Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,183916,Details
+EU495243,10-0,2019-03-07 13:46:10.361,Completed,France,100,TOTALENERGIES GAS & POWER LIMITED,5022752,TOTALENERGIES GAS & POWER LIMITED,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,20000,Details
+EU495261,10-2,2019-03-07 13:45:56.682,Completed,United Kingdom,100,Shoreham Power Station,5007243,VPI Power Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,346999,Details
+EU495262,10-2,2019-03-07 13:44:47.421,Completed,United Kingdom,100,Blackburn Mill CHP,5007263,VPI Power Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,30083,Details
+ES1065592,3-0,2019-03-07 13:43:22.112,Completed,Spain,121,"Naturgy Ciclos Combinados, S.L.U.",861,"Naturgy Ciclos Combinados, S.L.U.",Spain,100,CUENTA NEGOCIACION MERCADOS CO2,5017384,"Naturgy Ciclos Combinados, S.L.U.",171,Details
+EU495264,10-2,2019-03-07 13:43:16.413,Completed,United Kingdom,100,Daldowie Fuel Plant,5021221,SMW Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,27748,Details
+EU495254,10-0,2019-03-07 13:42:50.259,Completed,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,Netherlands,100,HEP,5019101,Hrvatska elektroprivreda d.d.,100000,Details
+EU494764,10-0,2019-03-07 13:37:09.206,Completed,Italy,100,CD PORTOGRUARO,5019133,CEREAL DOCKS SPA,Italy,100,CD CAMISANO,5022911,CEREAL DOCKS SPA,40000,Details
+EU495258,10-2,2019-03-07 13:34:34.489,Completed,Spain,100,NIRO CERÁMICA ESPAÑA S.L.U.,5022724,NIRO CERÁMICA ESPAÑA S.L.U.,European Commission,100,EU Allowance deletion,5016380,European Commission,1,Details
+EU495247,10-0,2019-03-07 13:32:43.702,Completed,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,80000,Details
+EU494779,10-0,2019-03-07 13:31:30.417,Completed,France,100,NOVAPEX,5022586,NOVAPEX,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,70000,Details

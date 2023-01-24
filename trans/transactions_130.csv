@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU478402,10-72,2018-12-19 21:38:42.345,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,United Kingdom,100,Nevern Power Limited,5027044,Nevern Power Limited,84,Details
+EU478394,10-71,2018-12-19 21:37:53.797,Completed,United Kingdom,100,Nevern Power Limited,5027044,Nevern Power Limited,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,84,Details
+EU478400,10-72,2018-12-19 21:37:16.409,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,United Kingdom,100,Marden Power Limited,5027030,Marden Power Limited,4,Details
+EU478396,10-71,2018-12-19 21:36:26.258,Completed,United Kingdom,100,Marden Power Limited,5027030,Marden Power Limited,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,4,Details
+EU477841,10-0,2018-12-19 17:59:50.442,Completed,Germany,100,Ford Cologne Vehicle Operations,5017901,Ford-Werke GmbH,United Kingdom,100,FGT,5007375,Ford Global Treasury,81,Details
+EU477834,10-0,2018-12-19 17:53:10.094,Completed,Germany,100,BHKW Fordwerke Saarlouis,5024805,Ford-Werke GmbH,United Kingdom,100,FGT,5007375,Ford Global Treasury,167,Details
+EU477827,10-0,2018-12-19 17:49:31.055,Completed,Sweden,100,MBCEs handelskonto,5001779,SSAB AB,Finland,100,Raahen terästehdas:FI373,5010429,SSAB Europe Oy,35599,Details
+EU477817,10-0,2018-12-19 17:48:40.493,Completed,United Kingdom,100,Drax Power Station,5007174,Drax Power Limited,United Kingdom,100,UK Trading Account,5017443,Drax Power Limited,415000,Details
+EU477824,10-0,2018-12-19 17:46:33.686,Completed,Netherlands,100,Shell Nederland Raffinaderij B.V.,5011351,SHELL Nederland Raffinaderij B.V.,Netherlands,100,Pergen VOF,5011511,Pergen V.O.F.,523412,Details
+EU477822,10-0,2018-12-19 17:44:23.914,Completed,Sweden,100,MBCEs handelskonto,5001779,SSAB AB,Sweden,100,SSAB Luleå,5001518,SSAB EMEA AB,27641,Details
+EU477819,10-0,2018-12-19 17:33:30.158,Completed,United Kingdom,100,Ineos Europe AG Trading,5008458,Ineos Europe AG,United Kingdom,100,BASF Seal Sands Trading,5008022,Ineos Nitriles (U.K) Ltd,92000,Details
+EU477815,10-0,2018-12-19 17:27:11.404,Completed,United Kingdom,100,Ineos Europe AG Trading,5008458,Ineos Europe AG,France,100,Usine chimique de Lavéra- LPP,5022929,INEOS CHEMICALS LAVERA SAS,20000,Details
+EU477814,10-0,2018-12-19 17:26:51.864,Completed,Austria,100,Salzburg AG,5004231,"Salzburg AG für Energie, Verkehr und Telekommunikation",Germany,100,Anlagenkonto TKL GmbH & Co. KG,5013872,Trianel Kohlekraftwerk Lünen GmbH & Co. KG,15000,Details
+EU477813,10-0,2018-12-19 17:25:12.875,Completed,United Kingdom,100,Ineos Europe AG Trading,5008458,Ineos Europe AG,United Kingdom,100,Grangemouth GHP Limited,5008113,Grangemouth CHP Limited,540000,Details
+EU477791,10-0,2018-12-19 17:25:05.305,Completed,France,100,ARCELORMITTAL TREASURY Détention,5026253,ARCELORMITTAL TREASURY,Germany,100,78 - Anlagenkonto,5015713,ArcelorMittal Bremen GmbH,25609,Details
+EU477793,10-0,2018-12-19 17:24:05.322,Completed,France,100,ARCELORMITTAL TREASURY Détention,5026253,ARCELORMITTAL TREASURY,Germany,100,78 - Anlagenkonto,5015713,ArcelorMittal Bremen GmbH,21508,Details
+EU477811,10-0,2018-12-19 17:23:59.121,Completed,United Kingdom,100,Ineos Europe AG Trading,5008458,Ineos Europe AG,United Kingdom,100,Operator Account,5008171,Ineos Infrastructure (Grangemouth) Limited,448000,Details
+EU477808,10-0,2018-12-19 17:22:11.841,Completed,United Kingdom,100,Ineos Europe AG Trading,5008458,Ineos Europe AG,Belgium,100,125 Ineos Feluy,5004524,Ineos Feluy,10000,Details
+EU477785,10-0,2018-12-19 17:16:35.195,Completed,Bulgaria,100,STROIKERAMIKA S.A.-Mezdra,5016186,STROIKERAMIKA S.A.,Bulgaria,100,Zagora Finacorp Jsc.,5027231,Zagora Finacorp Jsc.,3000,Details
+EU477788,10-0,2018-12-19 17:03:24.353,Completed,Netherlands,100,China Carbon N.V.,5016544,China Carbon N.V.,United Kingdom,100,Numerco Limited,5025480,Numerco Limited,15000,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU515379,10-2,2019-04-17 16:20:40.286,Completed,Italy,100,PANARIAGROUP N 2,5018621,PANARIAGROUP INDUSTRIE CERAMICHE S.P.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,34999,Details
+EU515363,10-2,2019-04-17 16:20:05.759,Completed,Spain,100,"Cerlat, S.A.",5020078,"Cerlat, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,4814,Details
+EU514490,10-0,2019-04-17 16:20:05.108,Completed,Germany,100,1815 - Anlagenkonto,5015355,Stadtwerke Tübingen GmbH,Germany,100,747 - Anlagenkonto,5014873,Stadtwerke Tübingen GmbH,2243,Details
+EU514488,10-0,2019-04-17 16:17:18.273,Completed,Germany,100,1815 - Anlagenkonto,5015355,Stadtwerke Tübingen GmbH,Germany,100,1114 - Anlagenkonto,5014351,Stadtwerke Tübingen GmbH,8962,Details
+EU515387,10-72,2019-04-17 16:15:16.59,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Portugal,100,"Primus Ceramics, S.A.",5021696,"Primus Ceramics, S.A.",272,Details
+EU515308,10-71,2019-04-17 16:14:17.976,Completed,Portugal,100,"Primus Ceramics, S.A.",5021696,"Primus Ceramics, S.A.",European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,272,Details
+EU514472,10-0,2019-04-17 16:12:32.307,Completed,Germany,100,STEAG GmbH,5017212,STEAG GmbH,Germany,100,165 - Anlagenkonto,5014226,Rheinkalk GmbH,1261,Details
+EU515353,10-2,2019-04-17 16:11:57.219,Completed,Italy,100,ETHIOPIAN AIRLINES,5019903,ETHIOPIAN AIRLINES,European Commission,100,EU Allowance deletion,5016380,European Commission,36218,Details
+EU508661,10-2,2019-04-17 16:11:38.789,Completed,Germany,100,SCHOTT AG - Grünenplan (246 - Anlagenkonto),5014949,Schott AG,European Commission,100,EU Allowance deletion,5016380,European Commission,9573,Details
+EU505305,10-0,2019-04-17 16:10:56.625,Completed,Sweden,100,HVC 4 Bergnäset,5001997,Luleå Energi AB,Sweden,100,HVC 1 Fräsen,5001665,Luleå Energi AB,1000,Details
+EU508650,10-2,2019-04-17 16:10:31.169,Completed,Germany,100,SCHOTT AG - Mainz (247 - Anlagenkonto),5014956,Schott AG,European Commission,100,EU Allowance deletion,5016380,European Commission,37600,Details
+EU505318,10-0,2019-04-17 16:09:34.55,Completed,Sweden,100,HVC 4 Bergnäset,5001997,Luleå Energi AB,Sweden,100,HVC 2 Aronstorp,5001996,Luleå Energi AB,1000,Details
+EU514354,10-0,2019-04-17 16:06:57.07,Completed,France,100,CPTE LAITERIE DU VAL D'ANCENIS ex cana,5005830,SAS LAITERIE DU VAL D'ANCENIS,France,100,UCLAB INDUSTRIE,5022985,UCLAB INDUSTRIE,6000,Details
+CH26082,3-0,2019-04-17 16:06:13.495,Completed,Switzerland,100,,546,,Bulgaria,100,Bulgaria Air JSC,5000160,Bulgaria Air,1809,Details
+EU513440,10-2,2019-04-17 16:05:35.505,Completed,Italy,100,Operator Account,5013298,Mascioni S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,49813,Details
+EU514453,10-0,2019-04-17 16:05:31.907,Completed,Spain,100,"Sistema Europeo de Negociación de Co2, S.L.",5020183,"SISTEMA EUROPEO DE NEGOCIACIÓN DE CO2, S.L.",Spain,100,Roca - Factoría de Alcalá de Henares - Fábrica de Porcelana,5022379,"Roca Sanitario, S.A.",174,Details
+EU515373,10-2,2019-04-17 16:04:50.881,Completed,Portugal,100,"213-Empresa de Electricidade da Madeira, S.A",5002916,"Empresa de Electricidade da Madeira, S.A",European Commission,100,EU Allowance deletion,5016380,European Commission,233105,Details
+EU515374,10-2,2019-04-17 16:04:23.149,Completed,Spain,100,"Cerámicas Vilar Albaro, S.L.",5021954,"Cerámicas Vilar Albaro, S.L.",European Commission,100,EU Allowance deletion,5016380,European Commission,1184,Details
+EU514469,10-0,2019-04-17 16:03:57.809,Completed,Finland,100,Pölkky:FI668,5010688,Pölkky Oy,Finland,100,Gasum Consulting Oy,5018688,Gasum Consulting Oy,6800,Details
+EU514450,10-0,2019-04-17 16:03:44.244,Completed,Spain,100,"Sistema Europeo de Negociación de Co2, S.L.",5020183,"SISTEMA EUROPEO DE NEGOCIACIÓN DE CO2, S.L.",Spain,100,"Roca Sanitario, S.A.-Factoria de Gava",5017888,"Roca Sanitario, S.A.",453,Details

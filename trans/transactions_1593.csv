@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU487469,10-36,2019-02-22 01:33:32.01,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,HVC Simhallen,5001620,Ulricehamns Energi AB,301,Details
+EU487472,10-36,2019-02-22 01:33:31.993,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Lidingö,5002000,Stockholm Exergi AB,266,Details
+EU487462,10-36,2019-02-22 01:33:31.989,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,PC Lövholmens såg,5001434,Klubbgärdet Fastighets AB,6236,Details
+EU487453,10-36,2019-02-22 01:33:31.984,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Slovenia,100,PERKEMIJA,5008657,"BELINKA PERKEMIJA, D.O.O.",17653,Details
+EU487475,10-36,2019-02-22 01:33:31.975,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Åkers sågverk,5019132,Sandåsa Timber AB,4186,Details
+EU487473,10-36,2019-02-22 01:33:31.962,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Kraftwerk O10 - Kessel 3-5 14310-0266,5016018,INEOS Manufacturing Deutschland GmbH,472637,Details
+EU487474,10-36,2019-02-22 01:33:31.953,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Utmeland hetvattencentral,5002198,Adven Energilösningar AB,256,Details
+EU487467,10-36,2019-02-22 01:33:31.951,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Baggeboverket i Tibro,5002181,Nevel AB,5582,Details
+EU487476,10-36,2019-02-22 01:33:31.949,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Linköping KVV,5002211,Tekniska Verken i Linköping AB,24063,Details
+EU487434,10-36,2019-02-22 01:33:31.906,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Sävenäsverket,5002042,Göteborg Energi AB,29028,Details
+EU487465,10-36,2019-02-22 01:33:31.904,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Lyckeverket,5002142,Arvika Fjärrvärme AB,12817,Details
+EU487478,10-36,2019-02-22 01:33:31.882,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Slovenia,100,METAL RAVNE,5008628,SIJ METAL RAVNE d.o.o.,50032,Details
+EU487437,10-36,2019-02-22 01:33:31.877,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,HVC Draken,5001975,Kalmar Energi Värme AB,4861,Details
+EU487185,10-36,2019-02-22 01:33:30.725,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,PC Grums Fjärrvärme,5002070,Värmevärden AB,194,Details
+EU487214,10-36,2019-02-22 01:33:30.546,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Vattumyren PC,5002200,Adven Energilösningar AB,5918,Details
+EU487217,10-36,2019-02-22 01:33:30.533,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Jabo Värmeverk,5001857,Adven Energilösningar AB,1551,Details
+EU487213,10-36,2019-02-22 01:33:30.529,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,PC IFÖ,5001489,Karlshamn Energi AB,47,Details
+EU487215,10-36,2019-02-22 01:33:30.527,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,LKAB Malmberget,5001528,LKAB,171276,Details
+EU487186,10-36,2019-02-22 01:33:30.524,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,EC Flygfältet,5001723,Norrtälje Energi AB,16,Details
+EU487223,10-36,2019-02-22 01:33:30.506,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,PC Västra Fäladen,5002225,Landskrona Energi Kraft AB,59,Details

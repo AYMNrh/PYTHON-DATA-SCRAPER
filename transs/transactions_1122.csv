@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU497117,10-0,2019-03-14 12:27:27.049,Completed,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,50000,Details
+EU497068,10-0,2019-03-14 12:26:41.839,Completed,France,100,SOCIETE GENERALE,5017623,SOCIETE GENERALE,Czech Republic,100,"Komerční banka, a.s. obchodní účet",5016819,"Komerční banka, a.s.",6500,Details
+EU496980,10-0,2019-03-14 12:26:10.322,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,145000,Details
+EU496676,10-0,2019-03-14 12:25:38.005,Completed,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,United Kingdom,100,Pegasus Adinistracao e Participacoes LTDA,5027633,Pegasus Administracao e Participacoes LTDA,198,Details
+EU496981,10-0,2019-03-14 12:24:21.475,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,100000,Details
+EU496982,10-0,2019-03-14 12:22:55.83,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,30000,Details
+EU496983,10-0,2019-03-14 12:21:23.114,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,30000,Details
+EU497055,10-0,2019-03-14 12:19:24.53,Completed,Netherlands,100,China Carbon N.V.,5026480,China Carbon N.V.,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,13877,Details
+EU496502,10-2,2019-03-14 12:16:22.28,Completed,France,100,NOV GRANT PRIDECO FRANCE- Etablissement Aulnoye Aymeries,5022608,NOV GRANT PRIDECO FRANCE,European Commission,100,EU Allowance deletion,5016380,European Commission,3662,Details
+EU496507,10-0,2019-03-14 12:09:35.697,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Netherlands,100,VDL Nedcar B.V.,5011066,VDL Nedcar B.V.,4000,Details
+EU496547,10-0,2019-03-14 12:09:23.813,Completed,Luxembourg,100,25 - Kronospan Luxembourg,5013690,Kronospan Luxembourg S.A.,United Kingdom,100,Operator Account,5008322,Kronospan Ltd,376,Details
+GB72732,3-0,2019-03-14 12:09:02.659,Completed,United Kingdom,121,ACT Commodities BV,5024448,ACT Commodities BV,Netherlands,121,ACT Carbon,778,ACT Financial Solutions B.V.,1,Details
+EU496654,10-0,2019-03-14 12:09:01.486,Completed,United Kingdom,100,Broughton,5007154,AIRBUS OPERATIONS LIMITED,France,100,AIRBUS OPERATIONS SAS - Site Clément Ader,5004915,AIRBUS OPERATIONS SAS,31444,Details
+GB72731,3-0,2019-03-14 12:08:02.055,Completed,United Kingdom,121,Numerco Limited,5026108,Numerco Limited,Australia,100,,2617,,117897,Details
+EU496539,10-0,2019-03-14 12:07:55.465,Completed,France,100,AIRBUS OPERATIONS SAS - Site Clément Ader,5004915,AIRBUS OPERATIONS SAS,France,100,AIRBUS SAS,5019797,AIRBUS SAS,1071,Details
+EU496642,10-0,2019-03-14 12:07:31.018,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,United Kingdom,100,London Executive Aviation Limited,5019308,London Executive Aviation Limited,2617,Details
+EU496636,10-0,2019-03-14 12:06:48.756,Completed,Germany,100,Werk 3,5015161,Girnghuber GmbH,Germany,100,Werk 5,5018926,Girnghuber GmbH,5000,Details
+EU496656,10-0,2019-03-14 12:06:30.146,Completed,United Kingdom,100,Broughton,5007154,AIRBUS OPERATIONS LIMITED,France,100,AIRBUS OPERATIONS SAS - Site Clément Ader,5004915,AIRBUS OPERATIONS SAS,8587,Details
+EU496643,10-0,2019-03-14 12:06:26.356,Completed,Germany,100,ECC AG Auction Delivery Account EU,5016991,European Commodity Clearing AG,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,2495000,Details
+EU496670,10-0,2019-03-14 12:05:58.259,Completed,United Kingdom,100,MICHELIN TYRE DUNDEE,5007859,Michelin Tyre Plc,Netherlands,100,Compagnie Financière Michelin,5026250,Compagnie Financière Michelin SA,26585,Details

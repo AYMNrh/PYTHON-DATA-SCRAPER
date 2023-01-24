@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU513701,10-2,2019-04-15 17:14:41.101,Completed,Italy,100,Operator Account,5012700,Ital Green Energy srl,European Commission,100,EU Allowance deletion,5016380,European Commission,10835,Details
+EU512526,10-0,2019-04-15 17:12:18.997,Completed,Austria,100,Borealis AG,5020105,Borealis AG,Sweden,100,Polyetenanläggningen,5001438,Borealis AB,27289,Details
+EU513652,10-2,2019-04-15 17:12:16.974,Completed,Ireland,100,Operator Account,5012037,Anglo Beef Processors Ireland Unlimited Company,European Commission,100,EU Allowance deletion,5016380,European Commission,16734,Details
+EU510820,10-2,2019-04-15 17:12:08.696,Completed,Italy,100,Operator Account,5012668,VETROBALSAMO   SPA,European Commission,100,EU Allowance deletion,5016380,European Commission,53476,Details
+EU513700,10-2,2019-04-15 17:11:34.441,Completed,Malta,100,D3 Power Generation Ltd.,5027209,D3 Power Generation Ltd.,European Commission,100,EU Allowance deletion,5016380,European Commission,179611,Details
+EU513432,10-2,2019-04-15 17:10:33.123,Completed,Italy,100,Operator Account,5013561,EUROPIZZI Srl,European Commission,100,EU Allowance deletion,5016380,European Commission,9663,Details
+EU513658,10-2,2019-04-15 17:09:46.946,Completed,Ireland,100,Operator Account,5012036,Anglo Beef Processors Ireland Unlimited Company,European Commission,100,EU Allowance deletion,5016380,European Commission,16940,Details
+EU512518,10-0,2019-04-15 17:09:20.469,Completed,Austria,100,Borealis AG,5020105,Borealis AG,Sweden,100,Krackeranläggningen,5001437,Borealis AB,636536,Details
+EU512516,10-0,2019-04-15 17:06:47.118,Completed,Austria,100,Borealis AG,5020105,Borealis AG,Finland,100,Borealis Polymers Oy:n tuotantolaitokset,5010728,Borealis Polymers Oy,548245,Details
+EU512283,10-2,2019-04-15 17:05:41.045,Completed,Ireland,100,Lakeland Dairies Drying Plant OHA,5022479,Lakeland Dairies Co-operative Society Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,8201,Details
+EU513699,10-72,2019-04-15 17:05:01.555,Completed,European Commission,100,EU Credit Exchange Account - Aviation,5022592,EUROPEAN COMMISSION,Iceland,100,Flugfélag Íslands,5000338,Flugfélag Íslands ehf.,224,Details
+EU505444,10-0,2019-04-15 17:04:52.458,Completed,Denmark,100,DTU Kraftvarmeværk:DK292,5006352,DTU Kraftvarmeværk ApS,Denmark,100,DTUKedelcentral,5006134,I/S Vestforbrænding,2500,Details
+EU513690,10-71,2019-04-15 17:04:13.025,Completed,Iceland,100,Flugfélag Íslands,5000338,Flugfélag Íslands ehf.,European Commission,100,EU International Credit Account - Aviation,5022591,EUROPEAN COMMISSION,224,Details
+EU512285,10-2,2019-04-15 17:03:26.446,Completed,Ireland,100,Operator Account,5011958,Lakeland Dairies Co-operative Society Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,72591,Details
+EU512513,10-0,2019-04-15 17:03:19.887,Completed,Austria,100,Borealis AG,5020105,Borealis AG,France,100,BOREALIS USINE DE GRANDPUITS,5005351,BOREALIS CHIMIE SAS,19629,Details
+EU512510,10-0,2019-04-15 17:01:41.073,Completed,Germany,100,838 - Anlagenkonto,5015756,ENSO Energie Sachsen Ost AG,Germany,100,757 - Anlagenkonto,5014969,DREWAG - Stadtwerke Dresden GmbH,19500,Details
+EU512508,10-0,2019-04-15 17:01:14.938,Completed,Austria,100,Borealis AG,5020105,Borealis AG,France,100,BOREALIS USINE DE GRAND-QUEVILLY,5005550,BOREALIS CHIMIE SAS,27574,Details
+EU513693,10-72,2019-04-15 17:01:08.228,Completed,European Commission,100,EU Credit Exchange Account - Aviation,5022592,EUROPEAN COMMISSION,France,100,ASL AIRLINES FRANCE SA,5000172,ASL AIRLINES FRANCE SA,1905,Details
+EU512497,10-0,2019-04-15 17:00:50.086,Completed,Spain,100,"Global Factor Commodity Trading, S.A.U.",5016901,"Global Factor Commodity Trading, S.A.U.",Spain,100,SARVAL BIO-INDUSTRIES S.L.U.,5020878,"SARVAL BIO-INDUSTRIES, S.L.U.",4000,Details
+EU512507,10-71,2019-04-15 17:00:11.098,Completed,France,100,ASL AIRLINES FRANCE SA,5000172,ASL AIRLINES FRANCE SA,European Commission,100,EU International Credit Account - Aviation,5022591,EUROPEAN COMMISSION,1905,Details

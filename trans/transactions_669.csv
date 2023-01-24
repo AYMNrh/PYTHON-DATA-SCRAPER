@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU507428,10-2,2019-04-05 13:26:01.624,Completed,Germany,100,276 - Anlagenkonto,5015257,Wöllner GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,29340,Details
+EU504522,10-2,2019-04-05 13:25:43.158,Completed,Hungary,100,Operator Account:HU66,5011703,E.ON Energiatermelő Kft.,European Commission,100,EU Allowance deletion,5016380,European Commission,19831,Details
+EU506344,10-0,2019-04-05 13:19:53.666,Completed,Germany,100,Glykol-Fabrik,5018025,BASF SE,Germany,100,BASF SE - Hub,5016964,BASF SE,4874,Details
+EU507441,10-2,2019-04-05 13:19:44.531,Completed,Bulgaria,100,DS SMITH BULGARIA S.A.,5016210,DS SMITH BULGARIA S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,38872,Details
+EU506337,10-0,2019-04-05 13:18:43.966,Completed,Germany,100,Melaminfabrik-HP3_Teil,5018021,BASF SE,Germany,100,BASF SE - Hub,5016964,BASF SE,6462,Details
+EU506371,10-0,2019-04-05 13:17:33.378,Completed,Denmark,100,CTR I/S 2,5006283,CTR I/S,Denmark,100,HOFOR Fjernvarme P/S,5006284,HOFOR Fjernvarme P/S,7141,Details
+EU506246,10-0,2019-04-05 13:17:32.946,Completed,Germany,100,Formaldehyd-Fabrik,5017968,BASF SE,Germany,100,BASF SE - Hub,5016964,BASF SE,201099,Details
+EU506989,10-2,2019-04-05 13:16:53.294,Completed,Poland,100,Ciepłownia Zakładowa Firmy Oponiarskiej Dębica S.A.,5002968,Firma Oponiarska Dębica S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,35655,Details
+EU506350,10-0,2019-04-05 13:16:42.729,Completed,Germany,100,680 - Gasturbine A855 Lu,5014229,BASF SE,Germany,100,BASF SE - Hub,5016964,BASF SE,4077,Details
+EU507447,10-2,2019-04-05 13:16:20.65,Completed,Germany,100,55 - Anlagenkonto,5015552,AVISTA OIL Deutschland GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,33672,Details
+EU506352,10-0,2019-04-05 13:15:54.421,Completed,Germany,100,Propionsäure-Fabrik,5017972,BASF SE,Germany,100,BASF SE - Hub,5016964,BASF SE,3564,Details
+EU507448,10-0,2019-04-05 13:15:54.421,Completed,Finland,100,Trading 2,5023517,Fortum Power and Heat Oy,Finland,100,CO2 Loviisa vara diesel FI-526:FI99,5010882,Fortum Power and Heat Oy,521,Details
+EU506328,10-0,2019-04-05 13:15:36.572,Completed,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,Italy,100,Impianto Idrogeno 2 RAM,5018409,Raffineria di Milazzo S.C.p.A.,19500,Details
+EU506139,10-0,2019-04-05 13:15:35.611,Completed,Spain,100,GEPESA - Cogeneración Refinería Gibraltar,5009184,"Generación Eléctrica Peninsular, S.A.",Spain,100,GEPESA -  Cogeneración la Rábida,5008816,"Generación Eléctrica Peninsular, S.A.",1811,Details
+EU505770,10-0,2019-04-05 13:15:33.068,Completed,Austria,100,Ziegelwerk Eder Peuerbach Bruck,5004145,Ziegelwerk Eder GmbH,Austria,100,Ziegelwerk Eder Weibern,5004146,Ziegelwerk Eder GmbH,1093,Details
+EU506244,10-0,2019-04-05 13:15:01.84,Completed,Germany,100,2591 - Steamcracker2 - Lu,5015950,BASF SE,Germany,100,BASF SE - Hub,5016964,BASF SE,296122,Details
+EU507412,10-0,2019-04-05 13:13:58.131,Completed,Germany,100,EnBW Trading Account,5022149,EnBW Energie Baden-Württemberg AG,Germany,100,1882 - EnBW Trading GmbH Personenkonto,5015443,EnBW Energie Baden-Württemberg AG,3500000,Details
+EU506361,10-0,2019-04-05 13:13:52.464,Completed,Lithuania,100,Operator Account:LT41,5006032,UAB Jonavos silumos tinklai,Lithuania,100,Operator Account:LT40,5006031,UAB Jonavos silumos tinklai,2483,Details
+EU506359,10-0,2019-04-05 13:13:31.425,Completed,Denmark,100,CTR I/S 2,5006283,CTR I/S,Denmark,100,Amagerværket:DK299,5006373,HOFOR Energiproduktion A/S,79418,Details
+EU506250,10-0,2019-04-05 13:12:31.756,Completed,Germany,100,Synthesegasanlage-ab_2013,5017955,BASF SE,Germany,100,BASF SE - Hub,5016964,BASF SE,132591,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU513484,10-72,2019-04-15 14:52:26.554,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Finland,100,Kilpilahden vetylaitos HPU3,5026201,Oy Linde Gas Ab,11891,Details
+EU510864,10-0,2019-04-15 14:52:12.339,Completed,Finland,100,Päästöt-Rantakylä:FI26,5010809,Savon Voima Joensuu Oy,Finland,100,Päästöt-Kontiosuo:FI21,5010804,Savon Voima Joensuu Oy,26301,Details
+EU513377,10-2,2019-04-15 14:51:47.221,Completed,Poland,100,CIEPŁOWNIA,5003049,Spółdzielnia Mleczarska MLEKOVITA,European Commission,100,EU Allowance deletion,5016380,European Commission,49951,Details
+EU512148,10-0,2019-04-15 14:51:32.721,Completed,Slovenia,100,METAL RAVNE,5008628,SIJ METAL RAVNE d.o.o.,Slovenia,100,PETROL ENERGETIKA,5008686,"PETROL d.d., Ljubljana",1,Details
+EU513421,10-71,2019-04-15 14:51:28.282,Completed,Finland,100,Kilpilahden vetylaitos HPU3,5026201,Oy Linde Gas Ab,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,11891,Details
+EU509723,10-2,2019-04-15 14:51:14.246,Completed,France,100,ARKEMA FRANCE LACQ,5020871,ARKEMA FRANCE,European Commission,100,EU Allowance deletion,5016380,European Commission,4000,Details
+EU510861,10-0,2019-04-15 14:51:00.246,Completed,Finland,100,Lk 238:FI713,5010714,Vantaan Energia Keski-Uusimaa Oy,Finland,100,Päästöt-Noljakka:FI23,5010806,Savon Voima Joensuu Oy,104,Details
+EU512308,10-0,2019-04-15 14:50:59.735,Completed,Poland,100,Kotłownia OZPOW w Skrzyńsku,5025801,Hortex Sp. z o.o.,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,2,Details
+EU512331,10-0,2019-04-15 14:50:46.115,Completed,Germany,100,Glasschmelzwanne Wanne B,5013817,LEDVANCE GmbH,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,25000,Details
+EU512323,10-0,2019-04-15 14:47:58.288,Completed,Ireland,100,Ryanair DAC,5001120,Ryanair Designated Activity Company,Poland,100,Ryanair Sun S.A.,5027639,Ryanair Sun S.A.,34819,Details
+EU509736,10-2,2019-04-15 14:46:10.342,Completed,France,100,ARKEMA FRANCE La Chambre,5005007,ARKEMA FRANCE,European Commission,100,EU Allowance deletion,5016380,European Commission,46460,Details
+CDM57543,3-0,2019-04-15 14:45:31.433,Completed,CDM,110,,1000,,Netherlands,121,China Carbon N.V.,5016549,China Carbon N.V.,163314,Details
+EU513455,10-2,2019-04-15 14:45:28.081,Completed,Poland,100,Piec obrotowy do wypalania klinkieru dolomitowego,5003602,ArcelorMittal Refractories sp. z o.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,11934,Details
+AU12148,3-0,2019-04-15 14:44:34.515,Completed,Australia,100,,2848,,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,6000,Details
+EU512315,10-0,2019-04-15 14:44:32.267,Completed,Spain,100,"Celltech, S.L.U.",5026146,"Celltech, S.L.U.",Spain,100,"Sniace, S.A. - Instalación Sniace-Cogeneración",5026148,"SNIACE, S.A.",61520,Details
+CDM57542,3-0,2019-04-15 14:44:26.09,Completed,CDM,110,,1000,,Netherlands,121,China Carbon N.V.,5016549,China Carbon N.V.,145985,Details
+EU513390,10-2,2019-04-15 14:44:23.371,Completed,Italy,100,Operator Account,5012410,SKF INDUSTRIE S.P.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,4863,Details
+EU512313,10-0,2019-04-15 14:44:22.793,Completed,Ireland,100,Ryanair DAC,5001120,Ryanair Designated Activity Company,Poland,100,Ryanair Sun S.A.,5027639,Ryanair Sun S.A.,987,Details
+EU513451,10-2,2019-04-15 14:44:11.123,Completed,Romania,100,Operator Account,5010055,SC ELECTROCARBON SA,European Commission,100,EU Allowance deletion,5016380,European Commission,1480,Details
+EU513459,10-2,2019-04-15 14:43:39.18,Completed,Poland,100,Piece tunelowe do wypalania materiałów ogniotrwałych,5003603,ArcelorMittal Refractories sp. z o.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,13669,Details

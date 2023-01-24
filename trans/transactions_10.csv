@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU480754,10-0,2019-01-15 10:09:35.537,Completed,Spain,100,FUTURA CARBONO S.L.,5024181,FUTURA CARBONO S.L.,Spain,100,"Compañía Energetica de Pata de Mulo, S.L.",5009172,"Compañía Energética Pata de Mulo, S.L.",1503,Details
+EU480743,10-0,2019-01-15 10:09:33.082,Completed,Hungary,100,MOL Commodity Trading Kft,5017387,MOL Commodity Trading Kft.,Croatia,100,Objekti prerade plina Molve,5021973,INA d.d.,2313,Details
+EU480770,10-0,2019-01-15 10:09:04.033,Completed,Greece,100,Optima Bank S.A,5025742,OPTIMA BANK S.A.,Greece,100,PROTERGIA S.A.,5022760,MYTILINEOS HOLDINGS S.A.,151000,Details
+EU480760,10-0,2019-01-15 10:09:00.936,Completed,Poland,100,TAURON Polska Energia S.A.,5019474,TAURON Polska Energia S.A.,Poland,100,Kotłownia zakładowa,5002872,Bunge Polska Sp.z o.o.,6000,Details
+EU480752,10-0,2019-01-15 10:08:59.656,Completed,Spain,100,FUTURA CARBONO S.L.,5024181,FUTURA CARBONO S.L.,Spain,100,"Compañía Energética de Puente del Obispo, S.L.",5009164,"Compañía Energética de Puente del Obispo, S.L.",5550,Details
+EU480763,10-0,2019-01-15 10:08:55.534,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Italy,100,Operator Account,5013367,DS Smith Paper Italia srl,10000,Details
+EU480737,10-0,2019-01-15 10:08:53.61,Completed,Hungary,100,MOL Commodity Trading Kft,5017387,MOL Commodity Trading Kft.,Croatia,100,Rafinerija nafte Rijeka,5021784,INA d.d.,4545,Details
+EU480757,10-0,2019-01-15 10:08:44.123,Completed,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,6000,Details
+EU480742,10-0,2019-01-15 10:08:13.335,Completed,Hungary,100,MOL Commodity Trading Kft,5017387,MOL Commodity Trading Kft.,Croatia,100,Rafinerija nafte Sisak,5021823,INA d.d.,12683,Details
+EU480741,10-0,2019-01-15 10:08:07.429,Completed,Hungary,100,MOL Commodity Trading Kft,5017387,MOL Commodity Trading Kft.,Croatia,100,Rafinerija nafte Rijeka,5021784,INA d.d.,28948,Details
+EU480759,10-0,2019-01-15 10:08:05.865,Completed,Poland,100,TAURON Polska Energia S.A.,5019474,TAURON Polska Energia S.A.,Poland,100,Kotłownia zakładowa,5003129,Bunge Polska Sp.z o.o.,2000,Details
+EU480745,10-0,2019-01-15 10:07:34.571,Completed,Hungary,100,MOL Commodity Trading Kft,5017387,MOL Commodity Trading Kft.,Croatia,100,Objekti frakcionacije Ivanić Grad,5021972,INA d.d.,1973,Details
+EU480753,10-0,2019-01-15 10:07:19.356,Completed,Spain,100,FUTURA CARBONO S.L.,5024181,FUTURA CARBONO S.L.,Spain,100,"Compañía Energética de las Villas, S.L.",5009151,"Compañía Energética de las Villas, S.L.",5737,Details
+EU480739,10-0,2019-01-15 10:06:29.829,Completed,Hungary,100,MOL Commodity Trading Kft,5017387,MOL Commodity Trading Kft.,Croatia,100,Objekti prerade plina Molve,5021973,INA d.d.,400,Details
+EU480767,10-0,2019-01-15 10:06:01.699,Completed,Spain,100,"Naturgy Energy Group, S.A.",5017187,"Naturgy Energy Group, S.A.",Spain,100,Wind to Market SA,5017211,"WIND TO MARKET, S.A.",1500,Details
+EU480758,10-0,2019-01-15 10:06:00.381,Completed,United Kingdom,100,Hartree Partners Power & Gas,5024579,Hartree Partners Power & Gas Company (UK) Limited,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,5000,Details
+EU480755,10-0,2019-01-15 10:05:53.124,Completed,Spain,100,FUTURA CARBONO S.L.,5024181,FUTURA CARBONO S.L.,Spain,100,Compañía Energética de Linares S.L,5008782,Compañía Energética de Linares S.L,7210,Details
+EU480772,10-0,2019-01-15 10:05:43.104,Completed,Greece,100,Optima Bank S.A,5025742,OPTIMA BANK S.A.,Greece,100,ALOUMIN,5017344,MYTILINEOS HOLDINGS S.A.,131000,Details
+EU480738,10-0,2019-01-15 10:05:32.929,Completed,Hungary,100,MOL Commodity Trading Kft,5017387,MOL Commodity Trading Kft.,Croatia,100,Rafinerija nafte Sisak,5021823,INA d.d.,1430,Details
+EU480750,10-0,2019-01-15 10:05:08.245,Completed,United Kingdom,100,UK Trading Account,5017443,Drax Power Limited,United Kingdom,100,Drax Power Station,5007174,Drax Power Limited,100000,Details

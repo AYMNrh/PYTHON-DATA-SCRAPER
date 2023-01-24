@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU485173,10-36,2019-02-20 01:33:37.017,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Klingenberg Dekoramik,5026246,Klingenberg Dekoramik GmbH,6680,Details
+EU485149,10-36,2019-02-20 01:33:36.965,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Elektrostahlwerk,5015567,Stahlwerk Thüringen GmbH,43058,Details
+EU485063,10-36,2019-02-20 01:33:36.561,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Reduktionsanlage,5021139,ArcelorMittal Hamburg GmbH,245844,Details
+EU485144,10-36,2019-02-20 01:33:36.529,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,BSW Walzwerk,5017932,Badische Stahlwerke GmbH,69358,Details
+EU485142,10-36,2019-02-20 01:33:36.391,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,329 - Anlagenkonto,5015747,Ernst Ziegelwerk GmbH & Co. KG,919,Details
+EU485182,10-36,2019-02-20 01:33:36.387,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,14225-0010 Walzwerk Nauweiler SAG,5016002,Saarstahl Aktiengesellschaft,36114,Details
+EU485145,10-36,2019-02-20 01:33:36.299,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,438 - Anlagenkonto,5014336,Kerawil Tonwerk Wilhelmshöhe GmbH i.I. vertr. durch InsV Hans-Achim Ernst,4891,Details
+EU485184,10-36,2019-02-20 01:33:36.215,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Werk  Görlitz  DZ,5018831,Argeton GmbH,4667,Details
+EU485159,10-36,2019-02-20 01:33:35.961,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Zuckerfabrik Plattling,5013907,Südzucker AG,77680,Details
+EU485168,10-36,2019-02-20 01:33:35.278,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Eisengießerei,5020070,Buderus Guss GmbH,35184,Details
+EU485146,10-36,2019-02-20 01:33:35.101,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Werk  Malsch,5015921,Wienerberger GmbH,32221,Details
+EU485136,10-36,2019-02-20 01:33:34.938,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,HCAG_Zementwerk Paderborn,5013966,HeidelbergCement AG,212563,Details
+EU485151,10-36,2019-02-20 01:33:34.752,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,27 - Anlagenkonto,5015237,BAYERNOIL Raffineriegesellschaft mbH,472102,Details
+EU485147,10-36,2019-02-20 01:33:34.672,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Greece,100,UNIPAK A.E.,5002332,UNIPAK HELLAS CENTRAL A.E.,7575,Details
+EU485068,10-36,2019-02-20 01:33:34.503,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,224 - Anlagenkonto,5014740,GRACE Silica GmbH,17912,Details
+EU485140,10-36,2019-02-20 01:33:34.393,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,74 - Anlagenkonto,5015668,Aktien-Gesellschaft der Dillinger Hüttenwerke,17988,Details
+EU485137,10-36,2019-02-20 01:33:33.857,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Greece,100,ELVAL,5021399,ΕΛΒΑΛ ΕΛΛΗΝΙΚΗ ΒΙΟΜΗΧΑΝΙΑ ΑΛΟΥΜΙΝΙΟΥ ΑΕ,73063,Details
+EU485183,10-36,2019-02-20 01:33:33.785,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,59 - Anlagenkonto,5015575,Lech-Stahlwerke GmbH,136612,Details
+EU485138,10-36,2019-02-20 01:33:33.773,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Greece,100,ΕΛΛΗΝΙΚΗ ΕΤΑΙΡΕΙΑ ΚΟΝΣΕΡΒΩΝ Α.Ε. ΚΥΚΝΟΣ,5022603,ΕΛΛΗΝΙΚΗ ΕΤΑΙΡΕΙΑ ΚΟΝΣΕΡΒΩΝ Α.Ε. ΚΥΚΝΟΣ,2787,Details
+EU485167,10-36,2019-02-20 01:33:33.694,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Sappi Ehingen GmbH,5015209,Sappi Ehingen GmbH,78747,Details

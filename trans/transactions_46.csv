@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU480041,10-0,2019-01-04 14:47:13.2,Completed,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,75000,Details
+ES1065550,10-0,2019-01-04 14:28:39.582,Completed,Spain,121,"Iberdrola Generación, S.A.U. - Cuenta de persona",859,"Iberdrola Generación Térmica, S.L.",Spain,121,"Iberdrola Energía España, S.A.U.",5023791,"Iberdrola Energía España, S.A.U.",3827,Details
+EU479911,10-0,2019-01-04 14:08:37.231,Completed,Slovakia,100,"PETUM, s.r.o.",5003555,PETUM s.r.o.,United Kingdom,100,Vertis Environmental Finance Ltd / GB Trading Account,5016869,Vertis Environmental Finance,3000,Details
+EU479964,10-0,2019-01-04 14:05:27.494,Completed,United Kingdom,100,Morgan Stanley Capital Group Inc,5017295,Morgan Stanley Capital Group Inc,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,5353000,Details
+EU479908,10-0,2019-01-04 14:02:02.916,Completed,Germany,100,540 - NOR,5015541,Nordland Papier GmbH,Germany,100,Rhein Papier Hürth,5019202,Rhein Papier GmbH,8300,Details
+EU480039,10-0,2019-01-04 14:01:25.443,Completed,Germany,100,envia Mitteldeutsche Energie AG,5017416,envia Mitteldeutsche Energie AG,Germany,100,717 - Anlagenkonto,5014586,Stadtwerke Greifswald Gesellschaft mit beschränkter Haftung,16363,Details
+EU480040,10-0,2019-01-04 14:00:42.639,Completed,Finland,100,Trading 1,5023516,Fortum Power and Heat Oy,Finland,100,JE CO Keltinmäki:FI139,5010922,Alva-yhtiöt Oy,2000,Details
+EU479906,10-0,2019-01-04 13:56:15.685,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,United Kingdom,100,Scunthorpe Integrated Steel Works,5008234,British Steel Limited,2019809,Details
+EU479995,10-0,2019-01-04 13:48:22.846,Completed,Germany,100,RWEST GmbH Trading Account,5016830,RWE Supply & Trading GmbH,Germany,100,innogy SE,5017191,innogy SE,17000,Details
+EU480023,10-0,2019-01-04 13:47:39.608,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Italy,100,SCANZOROSCIATE,5013154,Polynt SpA,68000,Details
+EU480025,10-0,2019-01-04 13:46:48.68,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Italy,100,SAN GIOVANNII VALDARNO,5013156,Polynt SpA,14500,Details
+EU480026,10-0,2019-01-04 13:46:02.645,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Italy,100,RAVENNA PLANT,5022143,Polynt SpA,82500,Details
+EU479903,10-0,2019-01-04 13:24:31.458,Completed,United Kingdom,100,Prinovis CO2 Trading,5007424,Prinovis UK Limited,Germany,100,781 - Anlagenkonto,5015231,Mohn Media Mohndruck GmbH,10000,Details
+EU479890,10-0,2019-01-04 13:16:47.473,Completed,Netherlands,100,Royal Cosun,5011477,Coöperatie Koninklijke Cosun U.A.,Germany,100,Weißzuckeranlage NAP-1031 - Kalkofen,5013920,Cosun Beet Company GmbH & Co. KG,80000,Details
+EU479902,10-0,2019-01-04 13:12:11.073,Completed,Germany,100,819 - Anlagenkonto,5015586,Evonik Operations GmbH,Germany,100,BKWW,5020702,BK-Wolfgang-Wärme GmbH,6700,Details
+EU480037,10-72,2019-01-04 13:07:14.628,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,France,100,EDF - CENTRALE DE CORDEMAIS,5005767,EDF SA,1,Details
+EU479963,10-71,2019-01-04 13:06:25.785,Completed,France,100,EDF - CENTRALE DE CORDEMAIS,5005767,EDF SA,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,1,Details
+EU480034,10-0,2019-01-04 12:59:58.276,Completed,Poland,100,TAURON Polska Energia S.A.,5019474,TAURON Polska Energia S.A.,Poland,100,Elektrociepłownia PCC Rokita SA,5002783,PCC Rokita SA,1000,Details
+EU479896,10-0,2019-01-04 12:55:17.509,Completed,Italy,100,Ahlstrom Italy S.p.A.,5023262,Ahlstrom Italy S.p.A.,Italy,100,Operator Account,5012450,Ahlstrom-Munksjo Italia S.p.A.,7087,Details
+EU480035,10-0,2019-01-04 12:54:47.04,Completed,Spain,100,"Naturgy Energy Group, S.A.",5017187,"Naturgy Energy Group, S.A.",United Kingdom,100,BNP PARIBAS COMMODITY FUTURES LTD,5017675,BNP Paribas Commodity Futures Limited,25000,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU484578,10-0,2019-02-20 12:07:34.05,Completed,Finland,100,Outokumpu Oyj:FI558,5010606,Outokumpu Oyj,United Kingdom,100,Outokumpu Stainless,5007841,Outokumpu Stainless Limited,8200,Details
+EU484532,10-0,2019-02-20 12:07:01.915,Completed,Netherlands,100,China Carbon N.V.,5026480,China Carbon N.V.,United Kingdom,100,UPM Trading GB,5022576,UPM Umwelt-Projekt-Management GmbH,12190,Details
+EU485453,10-0,2019-02-20 12:06:15.72,Completed,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,200000,Details
+EU484563,10-0,2019-02-20 12:06:03.281,Completed,Sweden,100,Södra Cell Värö,5001465,Södra Skogsägarna ekonomisk förening,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,100000,Details
+EU484574,10-0,2019-02-20 12:05:14.665,Completed,Sweden,100,Åmotfors Bruk AB,5001483,Nordic Paper Åmotfors AB,Sweden,100,Åmotfors Energi,5019818,Åmotfors Energi,15000,Details
+EU485455,10-0,2019-02-20 12:04:14.412,Completed,Italy,100,Intermonte Partners SIM S.p.A.,5021903,Intermonte Partners SIM S.p.A.,Italy,100,COGENIO - PILKINGTON,5012920,COGENIO SRL,5000,Details
+EU484544,10-0,2019-02-20 12:03:28.721,Completed,Spain,100,"Hijos de Francisco Gaya Forés, S.L.- Factoria 2",5018056,"Hijos de Francisco Gaya Forés, S.L.",Portugal,100,TRADE2C,5026779,"TRADE2C, UNIPESSOAL, LDA.",6380,Details
+EU484553,10-0,2019-02-20 12:03:15.218,Completed,France,100,AXENS Usine de Salindres,5020823,AXENS,France,100,CPTE GIE CHIMIE SALINDRES,5005695,GIE CHIMIE SALINDRES,7529,Details
+EU485456,10-0,2019-02-20 12:02:47.734,Completed,Italy,100,Intermonte Partners SIM S.p.A.,5021903,Intermonte Partners SIM S.p.A.,Italy,100,COGENIO - PILKINGTON,5012920,COGENIO SRL,5000,Details
+EU484619,10-0,2019-02-20 12:01:53.435,Completed,Germany,100,ECC AG Auction Delivery Account EU,5016991,European Commodity Clearing AG,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,2495000,Details
+EU484577,10-0,2019-02-20 12:00:45.389,Completed,Finland,100,Outokumpu Oyj:FI558,5010606,Outokumpu Oyj,Sweden,100,"Outokumpu Stainless, Degerfors",5001505,Outokumpu Stainless AB,11800,Details
+EU484575,10-0,2019-02-20 12:00:23.565,Completed,Sweden,100,Bäckhammars bruk,5001430,Nordic Paper Bäckhammar AB,Sweden,100,Åmotfors Energi,5019818,Åmotfors Energi,14015,Details
+EU485448,10-0,2019-02-20 11:56:29.047,Completed,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,66000,Details
+EU485449,10-0,2019-02-20 11:55:26.593,Completed,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,2000,Details
+EU485426,10-0,2019-02-20 11:36:30.578,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Norway,100,Aker BP ASA Alvheim,5012252,Aker BP ASA,65000,Details
+EU485431,10-0,2019-02-20 11:33:59.577,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Norway,100,Aker BP ASA Skarv,5012217,Aker BP ASA,90000,Details
+EU485435,10-0,2019-02-20 11:32:45.037,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Netherlands,100,USG handelsrekening,5011363,Utility Support Group (USG) B.V.,10000,Details
+EU485439,10-0,2019-02-20 11:31:42.517,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Cyprus,100,Operator Account:CY8,5012192,Electricity Authority of Cyprus,56103,Details
+EU485440,10-0,2019-02-20 11:26:50.568,Completed,Poland,100,PGE Dom Maklerski S.A.,5023795,PGE Dom Maklerski S.A.,Poland,100,Ciepłownia Wołomin,5002595,Zakład Energetyki Cieplnej w Wołominie Sp. z o.o.,20000,Details
+EU485401,10-0,2019-02-20 11:25:25.703,Completed,Czech Republic,100,"ČEZ, a.s. - obchodní účet",5016960,"ČEZ, a. s.",United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,200000,Details

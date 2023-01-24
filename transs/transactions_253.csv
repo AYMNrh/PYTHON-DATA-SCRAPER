@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+CDM57588,3-0,2019-04-18 11:52:00.679,Completed,CDM,110,,1000,,Sweden,100,CPF - Carbon Participation Fund,5017400,Statens energimyndighet,44965,Details
+EU515802,10-0,2019-04-18 11:51:24.143,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,France,100,SOFIVO CHAMPDENIERS,5005937,SOFIVO SAS,4500,Details
+CDM57589,3-0,2019-04-18 11:51:21.042,Completed,CDM,110,,1000,,Spain,121,"Endesa Generación, S.A.",860,"Endesa Generación, S.A.",78689,Details
+EU515711,10-0,2019-04-18 11:51:08.153,Completed,Netherlands,100,FUTURES CLIENT TRADING ACCOUNT,5027936,Macquarie Bank Limited,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,29000,Details
+CDM57590,3-0,2019-04-18 11:50:45.233,Completed,CDM,110,,1000,,Germany,121,E.ON Carbon Sourcing,2554,RWE Renewables International GmbH,22483,Details
+EU515800,10-0,2019-04-18 11:50:14.839,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,France,100,CPTE ELVIR,5005934,ELVIR,5360,Details
+EU515821,10-0,2019-04-18 11:48:54.277,Completed,Germany,100,Handelskonto,5018212,VSE Aktiengesellschaft,Germany,100,BHKW Ramstein,5027974,FFR Fernwärmeversorgung Flugplatz Ramstein GmbH,33688,Details
+EU515661,10-2,2019-04-18 11:47:49.389,Completed,Greece,100,TITANDREP,5002319,TITAN  AE,European Commission,100,EU Allowance deletion,5016380,European Commission,717356,Details
+CDM57584,3-0,2019-04-18 11:47:39.312,Completed,CDM,110,,1000,,Germany,121,1906 - Statkraft Markets GmbH  Personenkonto,1906,Statkraft Markets GmbH,124452,Details
+EU515717,10-0,2019-04-18 11:47:34.056,Completed,Netherlands,100,Macquarie Bank Limited,5027924,Macquarie Bank Limited,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,636000,Details
+EU515818,10-72,2019-04-18 11:46:14.518,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Italy,100,Marazzi Group - Finale Emilia,5018259,Marazzi  Group S.r.l. a Socio Unico,719,Details
+EU515707,10-71,2019-04-18 11:45:16.057,Completed,Italy,100,Marazzi Group - Finale Emilia,5018259,Marazzi  Group S.r.l. a Socio Unico,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,719,Details
+EU515667,10-2,2019-04-18 11:45:02.543,Completed,Greece,100,TITANVOIOT,5002324,TITAN  AE,European Commission,100,EU Allowance deletion,5016380,European Commission,1696210,Details
+EU515796,10-0,2019-04-18 11:44:01.416,Completed,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,Italy,100,Operator Account,5012818,CAMBI LUIGI  & C. S.R.L.,2250,Details
+EU515672,10-2,2019-04-18 11:42:22.22,Completed,Greece,100,TITANTHES,5002325,TITAN  AE,European Commission,100,EU Allowance deletion,5016380,European Commission,615954,Details
+EU515463,10-2,2019-04-18 11:41:50.509,Completed,Italy,100,Operator Account,5013159,Rocca Paper Mill S.r.l.,European Commission,100,EU Allowance deletion,5016380,European Commission,17775,Details
+EU515657,10-2,2019-04-18 11:40:34.32,Completed,Spain,100,Vidrés S.A.,5009039,"Vidres, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,9750,Details
+EU515805,10-72,2019-04-18 11:39:48.447,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Italy,100,Marazzi Group - Fiorano Modenese,5018260,Marazzi  Group S.r.l. a Socio Unico,3160,Details
+EU515710,10-71,2019-04-18 11:38:48.289,Completed,Italy,100,Marazzi Group - Fiorano Modenese,5018260,Marazzi  Group S.r.l. a Socio Unico,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,3160,Details
+EU515779,10-2,2019-04-18 11:37:18.565,Completed,Italy,100,Operator Account,5012543,CARTIERA GIACOSA S.P.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,1160,Details

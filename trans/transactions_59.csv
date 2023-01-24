@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU479598,10-0,2018-12-31 12:49:33.988,Completed,Denmark,100,Knauf A/S,5006230,KNAUF A/S,Denmark,100,ØRSTED Salg & Service,5006291,ØRSTED Salg & Service A/S,30000,Details
+EU479719,10-0,2018-12-31 12:44:04.381,Completed,United Kingdom,100,Macquarie Bank Limited (EUA),5017114,Macquarie Bank Limited,United Kingdom,100,Thistle,5008378,EnQuest Heather Limited,36,Details
+EU479720,10-0,2018-12-31 12:42:31.518,Completed,United Kingdom,100,Macquarie Bank Limited (EUA),5017114,Macquarie Bank Limited,United Kingdom,100,Kittiwake,5008533,EnQuest Heather Limited,5025,Details
+EU479584,10-0,2018-12-31 12:31:50.277,Completed,France,100,BRUYERES et Fils,5005822,SEE BRUYERES et Fils,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,5000,Details
+EU479586,10-0,2018-12-31 12:16:52.497,Completed,United Kingdom,100,Huntsman Polyurethanes (UK),5021222,Huntsman Polyurethanes (UK) Limited,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,50000,Details
+EU479502,10-0,2018-12-31 12:09:36.666,Completed,United Kingdom,100,Santon Asphalt,5021622,Tarmac Trading Limited,United Kingdom,100,Harper Lane Asphalt,5021648,Tarmac Aggregates Ltd,740,Details
+EU479493,10-0,2018-12-31 12:07:25.901,Completed,United Kingdom,100,Santon Asphalt,5021622,Tarmac Trading Limited,United Kingdom,100,Cross Green Asphalt,5021623,Tarmac Trading Limited,837,Details
+EU479570,10-0,2018-12-31 12:07:14.993,Completed,Denmark,100,Skjern Fjernvarme amba,5006122,Skjern Fjernvarme,Denmark,100,ØRSTED Salg & Service,5006291,ØRSTED Salg & Service A/S,5000,Details
+EU479495,10-0,2018-12-31 12:06:02.045,Completed,United Kingdom,100,Santon Asphalt,5021622,Tarmac Trading Limited,United Kingdom,100,Torcoed Asphalt,5021643,Tarmac Trading Limited,319,Details
+EU479494,10-0,2018-12-31 12:04:51.892,Completed,United Kingdom,100,Santon Asphalt,5021622,Tarmac Trading Limited,United Kingdom,100,Hillwood Asphalt,5021624,Tarmac Trading Limited,373,Details
+EU479496,10-0,2018-12-31 12:04:27.099,Completed,United Kingdom,100,Santon Asphalt,5021622,Tarmac Trading Limited,United Kingdom,100,Hayes Asphalt,5021645,Tarmac Trading Limited,706,Details
+EU479505,10-0,2018-12-31 12:04:06.154,Completed,United Kingdom,100,Santon Asphalt,5021622,Tarmac Trading Limited,United Kingdom,100,Agecroft Asphalt,5025621,Tarmac Trading Limited,356,Details
+EU479503,10-0,2018-12-31 12:03:19.803,Completed,United Kingdom,100,Santon Asphalt,5021622,Tarmac Trading Limited,United Kingdom,100,Mountsorrel Asphalt,5021649,Tarmac Aggregates Ltd,792,Details
+EU479497,10-0,2018-12-31 12:02:00.587,Completed,United Kingdom,100,Santon Asphalt,5021622,Tarmac Trading Limited,United Kingdom,100,Hothfield Asphalt,5021646,Tarmac Trading Limited,193,Details
+EU479501,10-0,2018-12-31 12:01:43.748,Completed,United Kingdom,100,Santon Asphalt,5021622,Tarmac Trading Limited,United Kingdom,100,Dolyhir Asphalt,5021647,Tarmac Trading Limited,430,Details
+EU479708,10-0,2018-12-31 11:53:43.983,Completed,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,France,100,SOCIETE GENERALE,5017623,SOCIETE GENERALE,50000,Details
+EU479709,10-0,2018-12-31 11:44:55.625,Completed,Spain,100,"Axpo Iberia, S.L.U.",5017059,"Axpo  Iberia, S.L.U.",Spain,100,Central Termosolar Andasol-1,5009744,"Andasol-1 Central Termosolar Uno,S.L.",225,Details
+EU479712,10-0,2018-12-31 11:43:24.634,Completed,Spain,100,"Axpo Iberia, S.L.U.",5017059,"Axpo  Iberia, S.L.U.",Spain,100,Central Termosolar Andasol - 2,5009369,"Andasol - 2 Central Termosolar Dos, S.L.",225,Details
+EU479711,10-0,2018-12-31 11:37:23.974,Completed,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,2195000,Details
+EU479714,10-0,2018-12-31 11:24:34.907,Completed,Greece,100,Optima Bank S.A,5025742,OPTIMA BANK S.A.,Greece,100,ΤΡΑΠΕΖΑ ΠΕΙΡΑΙΩΣ ΑΕ,5020090,ΤΡΑΠΕΖΑ ΠΕΙΡΑΙΩΣ ΑΕ,200000,Details

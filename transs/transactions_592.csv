@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU508864,10-0,2019-04-09 12:10:29.289,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,692500,Details
+EU507265,10-0,2019-04-09 12:10:01.435,Completed,Germany,100,Westlake Vinnolit Handelskonto,5013772,Westlake Vinnolit GmbH & Co. KG,Germany,100,B012-EDC-Anlage,5017009,Westlake Vinnolit GmbH & Co. KG,165,Details
+EU507308,10-0,2019-04-09 12:09:52.039,Completed,Germany,100,Westlake Vinnolit Handelskonto,5013772,Westlake Vinnolit GmbH & Co. KG,Germany,100,Vinnol E Burghausen,5027871,Westlake Vinnolit GmbH & Co. KG,16590,Details
+EU507888,10-0,2019-04-09 12:09:50.338,Completed,Spain,100,"Cementos Tudela Veguín, S.A. - Aboño",5008924,Cementos Tudela Veguín SA,Spain,100,Calera de San Cucao S.A.,5008925,"Caleras de San Cucao, S.A.",30000,Details
+EU507639,10-0,2019-04-09 12:09:44.694,Completed,United Kingdom,100,SWISS INTERNATIONAL AIR LINES LTD,5000682,SWISS INTERNATIONAL AIR LINES AG,Germany,100,Deutsche Lufthansa AG,5000022,Deutsche Lufthansa Aktiengesellschaft,1366,Details
+EU507246,10-0,2019-04-09 12:09:24.809,Completed,France,100,ENGIE,5005254,ENGIE,Germany,100,ENGIE GLOBAL MARKETS,5016881,ENGIE Global Markets,1397166,Details
+EU506769,10-0,2019-04-09 12:09:23.772,Completed,France,100,FEDERAL EXPRESS CORPORATION,5000325,FEDERAL EXPRESS CORPORATION,Belgium,100,11102.FedEx Express Corporate Aviation,5016455,Federal Express Corporation,87,Details
+EU509170,10-0,2019-04-09 12:09:21.764,Completed,United Kingdom,100,ED&F Man Capital Markets Ltd,5023256,E D & F MAN CAPITAL MARKETS LIMITED,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,156000,Details
+EU507682,10-0,2019-04-09 12:09:19.579,Completed,Sweden,100,Mölnlycke FVC,5002103,Solör Bioenergi Fjärrvärme AB,Sweden,100,Backen,5001882,Solör Bioenergi Fjärrvärme AB,41,Details
+EU508870,10-0,2019-04-09 12:09:09.117,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,130000,Details
+EU507321,10-0,2019-04-09 12:09:04.896,Completed,Germany,100,Westlake Vinnolit Handelskonto,5013772,Westlake Vinnolit GmbH & Co. KG,Germany,100,P Köln,5027874,Westlake Vinnolit GmbH & Co. KG,10,Details
+EU507681,10-0,2019-04-09 12:08:41.721,Completed,Sweden,100,Mölnlycke FVC,5002103,Solör Bioenergi Fjärrvärme AB,Sweden,100,Stolpen Mönsterås Fjärrvärme,5001661,Solör Bioenergi Fjärrvärme AB,129,Details
+EU507683,10-0,2019-04-09 12:08:21.487,Completed,Sweden,100,Mölnlycke FVC,5002103,Solör Bioenergi Fjärrvärme AB,Poland,100,CIEPŁOWNIA,5002886,SOLOR BIOENERGY POLSKA,14763,Details
+EU508877,10-0,2019-04-09 12:08:16.835,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Germany,100,Statkraft Markets GmbH,5017011,Statkraft Markets GmbH,1000000,Details
+EU507630,10-0,2019-04-09 12:08:14.745,Completed,Bulgaria,100,Zagora Finacorp Jsc.,5027231,Zagora Finacorp Jsc.,Bulgaria,100,Toplofikacia Pleven,5016151,Toplofikacia Pleven EAD,48000,Details
+EU507261,10-0,2019-04-09 12:08:00.192,Completed,Germany,100,Westlake Vinnolit Handelskonto,5013772,Westlake Vinnolit GmbH & Co. KG,Germany,100,B012-EDC-Anlage,5017009,Westlake Vinnolit GmbH & Co. KG,66,Details
+EU507294,10-0,2019-04-09 12:07:27.781,Completed,Germany,100,Westlake Vinnolit Handelskonto,5013772,Westlake Vinnolit GmbH & Co. KG,Germany,100,B12 - Vinylchlorid,5017006,Westlake Vinnolit GmbH & Co. KG,3662,Details
+EU507817,10-0,2019-04-09 12:07:26.675,Completed,Germany,100,890 - Anlagenkonto,5013773,Stadtwerke Lemgo GmbH,Germany,100,980 - Anlagenkonto,5014106,Stadtwerke Lemgo GmbH,25000,Details
+EU507439,10-0,2019-04-09 12:07:23.248,Completed,Germany,100,040 Berlin Heizwerk,5015035,Mercedes-Benz AG,Germany,100,096 Daimler-Konzern,5013725,Daimler AG,5495,Details
+EU500048,10-0,2019-04-09 12:07:18.555,Completed,Portugal,100,71-Celbi,5004010,Celbi,Portugal,100,"BIOTEK, S.A.",5002901,"Celtejo - Empresa de Celulose do Tejo, S.A",47000,Details

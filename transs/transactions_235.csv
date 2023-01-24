@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU514701,10-2,2019-04-18 15:56:12.704,Completed,Finland,100,Alppilan lämpökeskus:FI106,5010889,Helen Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,143,Details
+EU514703,10-2,2019-04-18 15:55:27.107,Completed,Finland,100,Hanasaari B:FI107,5010890,Helen Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,1270179,Details
+EU516115,10-0,2019-04-18 15:54:27.51,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Finland,100,Gasum Consulting Oy,5018688,Gasum Consulting Oy,4146,Details
+EU514706,10-2,2019-04-18 15:54:22.451,Completed,Finland,100,Jakomäen lämpökeskus:FI108,5010891,Helen Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,9,Details
+EU516129,10-2,2019-04-18 15:54:04.009,Completed,Portugal,100,"138-Turbogás - Produtora Energética, S.A",5002686,"Turbogás - Produtora Energética, S.A",European Commission,100,EU Allowance deletion,5016380,European Commission,1501817,Details
+EU516105,10-0,2019-04-18 15:53:33.686,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Ireland,100,Janssen Sciences Operator Holding Account,5012047,Janssen Sciences Ireland UC,800,Details
+EU514711,10-2,2019-04-18 15:53:26.702,Completed,Finland,100,Lassilan lämpökeskus:FI109,5010892,Helen Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,17608,Details
+EU515929,10-0,2019-04-18 15:53:16.707,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Netherlands,100,EDF Energy Ltd,5027983,EDF Energy Limited,20000,Details
+EU516132,10-2,2019-04-18 15:53:08.815,Completed,Belgium,100,140 Picanol,5019373,Picanol,European Commission,100,EU Allowance deletion,5016380,European Commission,22171,Details
+EU515225,10-0,2019-04-18 15:52:46.638,Completed,Spain,100,"Global Factor Commodity Trading, S.A.U.",5016901,"Global Factor Commodity Trading, S.A.U.",Italy,100,Blue Panorama Airlines S.p.A.,5026151,Blue Panorama Airlines S.p.A.,10000,Details
+EU516102,10-0,2019-04-18 15:52:44.109,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Belgium,100,353 Energie Services Duffel,5004383,Energie Services Duffel,10453,Details
+EU514717,10-2,2019-04-18 15:52:32.684,Completed,Finland,100,Munkkisaaren lämpökeskus:FI110,5010893,Helen Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,1288,Details
+EU516098,10-0,2019-04-18 15:51:58.069,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Ireland,100,Dublin Products Compliance Account,5012040,Dublin Products Limited,3645,Details
+EU515935,10-0,2019-04-18 15:51:52.232,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Netherlands,100,EDF Energy Ltd,5027983,EDF Energy Limited,148896,Details
+EU514720,10-2,2019-04-18 15:51:39.904,Completed,Finland,100,Myllypuron lämpökeskus:FI111,5010894,Helen Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,11902,Details
+EU515938,10-0,2019-04-18 15:51:07.822,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Netherlands,100,EDF Energy Ltd,5027983,EDF Energy Limited,166525,Details
+EU514723,10-2,2019-04-18 15:50:47.284,Completed,Finland,100,Patolan lämpökeskus:FI112,5010895,Helen Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,10502,Details
+EU516084,10-0,2019-04-18 15:50:12.128,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,France,100,SUNDESHY- Site de Francheville,5022266,SUNDESHY,2527,Details
+EU515942,10-0,2019-04-18 15:50:08.636,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Netherlands,100,EDF Energy Ltd,5027983,EDF Energy Limited,77068,Details
+EU516079,10-0,2019-04-18 15:49:19.899,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,France,100,WINOA,5020824,WINOA,916,Details

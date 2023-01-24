@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU507957,10-2,2019-04-09 14:58:17.824,Completed,Finland,100,Kaukolämpökeskus KIP E teollisuusalueella,5010983,Kokkolan Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,444,Details
+EU509411,10-2,2019-04-09 14:58:09.464,Completed,Germany,100,A034-Vinylchlorid,5017008,Westlake Vinnolit GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,29971,Details
+EU509460,10-2,2019-04-09 14:57:47.818,Completed,Germany,100,Rohrkontistraße,5021577,Vallourec Deutschland GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,53935,Details
+EU509452,10-2,2019-04-09 14:57:23.021,Completed,Netherlands,100,Sensus B.V. Zwolle,5022250,Sensus B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,8587,Details
+ES1065606,3-0,2019-04-09 14:57:03.043,Completed,Spain,121,"Naturgy Ciclos Combinados, S.L.U.",861,"Naturgy Ciclos Combinados, S.L.U.",Spain,100,CUENTA NEGOCIACION MERCADOS CO2,5017384,"Naturgy Ciclos Combinados, S.L.U.",69,Details
+EU507959,10-2,2019-04-09 14:56:09.697,Completed,Finland,100,Voimalaitos Voima,5010984,Kokkolan Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,40446,Details
+ES1065607,3-0,2019-04-09 14:55:34.589,Completed,Spain,121,"Naturgy Ciclos Combinados, S.L.U.",861,"Naturgy Ciclos Combinados, S.L.U.",Spain,100,CUENTA NEGOCIACION MERCADOS CO2,5017384,"Naturgy Ciclos Combinados, S.L.U.",171,Details
+EU508849,10-2,2019-04-09 14:53:32.183,Completed,Spain,100,"Guardian Industries Navarra, S.L.",5008824,"Guardian Industries Navarra, S.L.",European Commission,100,EU Allowance deletion,5016380,European Commission,124239,Details
+EU509179,10-2,2019-04-09 14:53:32.181,Completed,Hungary,100,Operator Account:HU168,5011919,Rába Energiaszolgáltató Kft.,European Commission,100,EU Allowance deletion,5016380,European Commission,8013,Details
+EU508221,10-0,2019-04-09 14:53:05.5,Completed,Netherlands,100,Amercentrale,5011265,RWE Generation NL B.V.,Belgium,100,354 T-Power,5004371,T-Power,68977,Details
+ES1065608,3-0,2019-04-09 14:52:57.375,Completed,Spain,121,"Naturgy Ciclos Combinados, S.L.U.",861,"Naturgy Ciclos Combinados, S.L.U.",Spain,100,CUENTA NEGOCIACION MERCADOS CO2,5017384,"Naturgy Ciclos Combinados, S.L.U.",76,Details
+EU509180,10-2,2019-04-09 14:51:22.266,Completed,Hungary,100,Operator Account:HU147,5011775,MESZ Mosonmagyaróvár Energia Szolgáltató Kft.,European Commission,100,EU Allowance deletion,5016380,European Commission,8488,Details
+EU508195,10-0,2019-04-09 14:48:41.962,Completed,Germany,100,Kaltwalzwerk,5017297,Salzgitter Flachstahl GmbH,Germany,100,Glocke,5015587,Salzgitter Flachstahl GmbH,228807,Details
+EU508205,10-0,2019-04-09 14:47:50.284,Completed,Finland,100,Kevätniemen voimalaitos:FI480,5010536,Nevel Oy,Finland,100,Päästö Kiimassuo:FI56,5010839,Nevel Oy,1461,Details
+EU500321,10-2,2019-04-09 14:47:07.918,Completed,Sweden,100,LHVC,5001466,Kraftringen Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,838,Details
+FI92786,10-0,2019-04-09 14:46:44.434,Completed,Finland,121,FPCF,5016463,Fine Post-2012 Carbon Fund Ky,Finland,120,Hovinsaari CO2:FI208,208,Kotkan Energia Oy,6892,Details
+EU500325,10-2,2019-04-09 14:46:00.627,Completed,Sweden,100,Alnarps PC,5001703,Kraftringen Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,224,Details
+DE123695,3-0,2019-04-09 14:45:39.308,Completed,Germany,121,First Climate Markets AG,369,First Climate Markets AG,Norway,121,Avinor AS,174,Avinor AS,17000,Details
+EU500327,10-2,2019-04-09 14:44:47.786,Completed,Sweden,100,Återbruket,5001766,Kraftringen Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,45,Details
+FI92785,10-0,2019-04-09 14:44:41.336,Completed,Finland,121,FPCF,5016463,Fine Post-2012 Carbon Fund Ky,Finland,120,CO2_Aittaluoto:FI343,343,Pori Energia Oy,13786,Details

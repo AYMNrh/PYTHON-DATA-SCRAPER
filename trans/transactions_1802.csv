@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU482766,10-0,2019-02-06 10:05:45.848,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,United Kingdom,100,Operator Account,5008618,SembCorp Utilities (UK) Limited,3000,Details
+EU482859,10-0,2019-02-06 10:05:38.279,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Poland,100,CIEPŁOWNIA,5003852,Przedsiębiorstwo Energetyki Cieplnej w Lubartowie Spółka z ograniczoną odpowiedzialnością,1000,Details
+EU482858,10-0,2019-02-06 10:04:45.775,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Poland,100,ProfitTakers.eu,5027697,ProfitTakers.eu,5000,Details
+EU482762,10-0,2019-02-06 10:04:42.712,Completed,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,Germany,100,ENGIE GLOBAL MARKETS,5016881,ENGIE Global Markets,3000,Details
+EU482740,10-0,2019-02-06 10:04:36.974,Completed,Germany,100,Statkraft Markets GmbH,5017011,Statkraft Markets GmbH,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,100000,Details
+EU482847,10-0,2019-02-06 10:04:00.984,Completed,Czech Republic,100,"ČEZ, a.s. - obchodní účet",5016960,"ČEZ, a. s.",United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,342000,Details
+EU482857,10-0,2019-02-06 10:03:52.192,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Lithuania,100,R-123,5006112,AB Achema,20000,Details
+EU482850,10-0,2019-02-06 10:03:41.297,Completed,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,Cyprus,100,Operator Account:CY8,5012192,Electricity Authority of Cyprus,56104,Details
+EU482856,10-0,2019-02-06 10:02:49.575,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Netherlands,100,USG handelsrekening,5011363,Utility Support Group (USG) B.V.,10000,Details
+EU482761,10-0,2019-02-06 10:01:37.551,Completed,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,Spain,100,"Repsol Trading, S.A.",5024180,"Repsol Trading, S.A",44000,Details
+EU482846,10-0,2019-02-06 10:00:17.709,Completed,Germany,100,Statkraft Markets GmbH,5017011,Statkraft Markets GmbH,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,500000,Details
+CDM56766,3-0,2019-02-06 09:56:23.345,Completed,CDM,110,,1000,,Italy,120,Operator Account,1470,CEMENTERIE ALDO BARBETTI SPA,1774,Details
+CDM56741,3-0,2019-02-06 09:29:25.702,Completed,CDM,110,,1000,,Italy,121,Iren Mercato,2312,IREN MERCATO S.p.A.,2661,Details
+CDM56740,3-0,2019-02-06 09:28:20.629,Completed,CDM,110,,1000,,Italy,121,Italian Ministry CERs/ERUs,2609,Ministry for the Environment Land and Sea - DEPARTMENT FOR ENVIRONMENTAL RESEARCH AND DEVELOPMENT,96326,Details
+CDM56739,3-0,2019-02-06 09:27:39.173,Completed,CDM,110,,1000,,Italy,121,ITC trading,2309,Italcementi SPA,887,Details
+CDM56738,3-0,2019-02-06 09:26:51.692,Completed,CDM,110,,1000,,Italy,121,ERG Spa,2565,ERG SPA,8868,Details
+CDM56737,3-0,2019-02-06 09:25:57.828,Completed,CDM,110,,1000,,Italy,121,ENEL TRADE ITALIA,2363,Enel Global Trading S.p.A.,5320,Details
+CDM56736,3-0,2019-02-06 09:24:52.844,Completed,CDM,110,,1000,,Italy,120,TAVAZZANO,1571,E.ON Produzione S.p.A.,22169,Details
+EU482612,10-2,2019-02-06 07:58:48.44,Completed,Germany,100,1720 - Anlagenkonto,5015200,Evonik Operations GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,28646,Details
+EU482793,10-36,2019-02-06 01:31:00.547,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Hungary,100,Operator Account:HU51,5011689,ISD Kokszoló Kft.,230363,Details

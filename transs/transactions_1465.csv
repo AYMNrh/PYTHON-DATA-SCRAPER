@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU488372,10-0,2019-02-26 10:04:06.602,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Ireland,100,Operator Account,5011945,Irving Oil Whitegate Refinery Limited,15000,Details
+EU489890,10-0,2019-02-26 10:04:01.155,Completed,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,Germany,100,116 - Anlagenkonto,5013999,thomas zement GmbH & Co. KG,31777,Details
+EU488377,10-0,2019-02-26 10:03:57.39,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,United Kingdom,100,Kerry Ingredients & Flavours (EMEA),5007721,Kerry Ingredients (UK) Limited,5776,Details
+EU489885,10-0,2019-02-26 10:03:39.544,Completed,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,Germany,100,1110 - Anlagenkonto,5014346,Stadtwerke Gotha GmbH,5250,Details
+EU488374,10-0,2019-02-26 10:03:34.08,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Italy,100,Trading Account,5017215,Tirreno Power SpA,10000,Details
+EU488382,10-0,2019-02-26 10:03:21.804,Completed,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,Italy,100,Cartiera Capostrada,5013223,Cartiera Capostrada,3646,Details
+EU488360,10-0,2019-02-26 10:03:18.832,Completed,Spain,100,FUTURA CARBONO S.L.,5024181,FUTURA CARBONO S.L.,Spain,100,"Oleoenergía El Puente, S.L.",5009633,"Oleoenergía El Puente, S.L.",4000,Details
+EU488343,10-0,2019-02-26 10:03:18.801,Completed,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,Italy,100,Cartiere Carrara Spa - Stabilimento Ferrania,5019265,Cartiere Carrara spa,3646,Details
+EU488338,10-0,2019-02-26 10:03:16.048,Completed,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,Italy,100,Cartiere Carrara Spa - Stabilimento Ferrania,5019265,Cartiere Carrara spa,1054,Details
+EU488365,10-0,2019-02-26 10:03:10.85,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,United Kingdom,100,Sedamyl Selby,5018420,Sedamyl UK Limited,2266,Details
+EU488387,10-0,2019-02-26 10:03:00.97,Completed,Netherlands,100,"Gunvor International B.V., Amsterdam, Geneva Branch",5024828,Gunvor International B.V.,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,55000,Details
+EU489825,10-0,2019-02-26 10:02:58.539,Completed,Norway,100,DNB Markets Trading Account,5017497,DNB Bank ASA,Norway,100,Widerøe,5000306,Widerøe's Flyveselskap AS,30385,Details
+EU488367,10-0,2019-02-26 10:02:35.957,Completed,Austria,100,voestalpine AG,5017343,voestalpine AG,Austria,100,voestalpine Stahl Donawitz GmbH,5004136,voestalpine Stahl Donawitz GmbH,90000,Details
+EU489865,10-0,2019-02-26 10:02:32.597,Completed,Finland,100,ADVEN Trading,5018009,Adven Oy,Finland,100,Gasum Consulting Oy,5018688,Gasum Consulting Oy,3612,Details
+EU489871,10-0,2019-02-26 10:02:27.24,Completed,Germany,100,Axpo Solutions AG,5017149,AXPO Solutions AG,Norway,100,"Eramet Norway AS, Porsgrunn",5018840,Eramet Norway AS,5000,Details
+EU488353,10-0,2019-02-26 10:01:54.591,Completed,Hungary,100,MOL Commodity Trading Kft,5017387,MOL Commodity Trading Kft.,Croatia,100,Rafinerija nafte Sisak,5021823,INA d.d.,12095,Details
+EU489880,10-2,2019-02-26 10:01:53.217,Completed,France,100,NUTREA,5027554,N.N.A,European Commission,100,EU Allowance deletion,5016380,European Commission,1874,Details
+EU488384,10-0,2019-02-26 10:01:00.492,Completed,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,Italy,100,Cartiera Capostrada,5013223,Cartiera Capostrada,1054,Details
+EU488795,10-36,2019-02-26 09:27:00.942,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Netherlands,100,Vattenfall HWC Boris Pasternak,5011549,Vattenfall Power Generation Netherlands B.V.,168,Details
+EU489876,10-72,2019-02-26 09:19:02.403,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,Styrol-Fabrik,5017964,BASF SE,1517,Details

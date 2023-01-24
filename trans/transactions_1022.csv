@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU499536,10-36,2019-03-22 01:32:52.944,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Koivuhaan lämpökeskus,5010981,Kokkolan Energia Oy,3,Details
+EU499534,10-36,2019-03-22 01:32:52.943,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Hijos de Francisco Gaya Forés, S.L.- Factoria 2",5018056,"Hijos de Francisco Gaya Forés, S.L.",12362,Details
+EU499496,10-36,2019-03-22 01:32:52.939,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Porcelanosa, S.A.",5009788,"Porcelanosa, S.A.",51765,Details
+EU499535,10-36,2019-03-22 01:32:52.93,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Kevätniemen voimalaitos:FI480,5010536,Nevel Oy,8530,Details
+EU499533,10-36,2019-03-22 01:32:52.895,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,AK CO2:FI319,5010375,Oy Alholmens Kraft Ab,20202,Details
+EU499537,10-36,2019-03-22 01:32:52.235,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Keskussairaala:FI427,5010483,Suur-Savon Sähkö Oy,208,Details
+EU499525,10-36,2019-03-22 01:32:52.215,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"El Barco, S.L.",5018723,"El Barco, S.L.",3914,Details
+EU499520,10-36,2019-03-22 01:32:52.212,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Fertiberia, S.A. Fábrica de Sagunto",5009532,"Fertiberia, S.A.",80155,Details
+EU499529,10-36,2019-03-22 01:32:52.211,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Jämsänkosken Voima CO2:FI152,5010935,UPM-Kymmene Oyj,139030,Details
+EU499538,10-36,2019-03-22 01:32:52.211,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Koivukylä:FI475,5010531,Vantaan Energia Oy,1421,Details
+EU499524,10-36,2019-03-22 01:32:52.21,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Luxembourg,100,30 - ArcelorMittal Belval et Differdange-Site Diff,5013695,ArcelorMittal Belval et Differdange,134800,Details
+EU499528,10-36,2019-03-22 01:32:52.208,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"ENAGAS TRANSPORTE, S.A.U. - Estación de compresión de Crevillente",5008771,"ENAGAS TRANSPORTE, S.A.U",3,Details
+EU499521,10-36,2019-03-22 01:32:52.208,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,JTK Päästöt:FI138,5010921,Jujo Thermal Oy,29780,Details
+EU499522,10-36,2019-03-22 01:32:52.206,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,Cal de Castilla S.A.,5008819,Cal de Castilla S.A.,100377,Details
+EU499510,10-36,2019-03-22 01:32:52.205,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Kauttua:FI92,5010875,Adven Oy,4731,Details
+EU499527,10-36,2019-03-22 01:32:52.204,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Suokatu:FI125,5010908,Hyvinkään Lämpövoima,33,Details
+EU499513,10-36,2019-03-22 01:32:52.2,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Heinolan voimalaitos,5011036,Adven Oy,12520,Details
+EU499539,10-36,2019-03-22 01:32:52.196,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Ylikeravan lämpökeskus:FI195,5010978,Keravan Energia Oy,5894,Details
+EU499523,10-36,2019-03-22 01:32:52.194,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Nurmesrit:FI299,5010355,Nurmeksen Lämpö Oy,6565,Details
+EU499526,10-36,2019-03-22 01:32:52.192,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Kemira Chemicals Oulu,5023110,Kemira Chemicals Oy,142306,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU493571,10-36,2019-03-05 01:33:22.594,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Operator Account,5013591,Favini S.r.l.,589,Details
+EU493566,10-36,2019-03-05 01:33:22.547,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Conto ETS Coem S.p.A.,5017914,COEM SPA,515,Details
+EU493572,10-36,2019-03-05 01:33:22.493,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,FORGIATURA_MORANDINI,5017847,FORGIATURA MORANDINI SRL,231,Details
+EU493567,10-36,2019-03-05 01:33:22.486,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Operator Account,5013174,Acciaieria Arvedi S.p.A.,677,Details
+EU493580,10-36,2019-03-05 01:33:22.414,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,PORTO MARGHERA,5026875,PILKINGTON ITALIA S.p.A,13779,Details
+EU493570,10-36,2019-03-05 01:33:22.411,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Impianto di Aosta - Telcha,5023819,ENGIE Servizi S.p.A.,5049,Details
+EU493568,10-36,2019-03-05 01:33:22.348,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Caldaie Polioli,5012679,Alcoplast Srl,13877,Details
+EU493562,10-36,2019-03-05 01:33:22.335,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Caldaie Polioli,5012679,Alcoplast Srl,11391,Details
+EU493564,10-36,2019-03-05 01:33:22.329,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Caldaie Polioli,5012679,Alcoplast Srl,14131,Details
+EU493579,10-36,2019-03-05 01:33:22.326,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Impianto di Aosta - Telcha,5023819,ENGIE Servizi S.p.A.,4352,Details
+EU493581,10-36,2019-03-05 01:33:22.326,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,ETS ALESSANDRIA CALORE,5026842,Alessandria Calore S.r.l.,466,Details
+EU493563,10-36,2019-03-05 01:33:22.248,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Impianto di Aosta - Telcha,5023819,ENGIE Servizi S.p.A.,703,Details
+EU493569,10-36,2019-03-05 01:33:22.247,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Operator Account,5013396,O.R.I. MARTIN S.P.A.,636,Details
+EU493565,10-36,2019-03-05 01:33:22.239,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Impianto di Aosta - Telcha,5023819,ENGIE Servizi S.p.A.,5769,Details
+EU493176,10-2,2019-03-04 18:33:10.08,Completed,United Kingdom,100,,5000142,,European Commission,100,EU Allowance deletion,5016380,European Commission,59,Details
+EU492577,10-0,2019-03-04 17:55:12.588,Completed,Ireland,100,Operator Account,5011942,Kerry Ingredients (Ireland) Limited,Ireland,100,Operator Account,5011943,Kerry Ingredients (Ireland) Limited,3500,Details
+EU493482,10-2,2019-03-04 17:47:05.378,Completed,United Kingdom,100,DS Smith Kemsley Paper Mill,5007696,DS Smith Paper Ltd,European Commission,100,EU Allowance deletion,5016380,European Commission,27,Details
+EU493543,10-2,2019-03-04 17:35:16.856,Completed,United Kingdom,100,Smurfit Kappa SSK,5007980,Smurfit Kappa UK Ltd,European Commission,100,EU Allowance deletion,5016380,European Commission,75326,Details
+EU493548,10-2,2019-03-04 17:32:44.86,Completed,Italy,100,Operator Account,5012538,CARTIERA FRANCESCANTONIO CERRONE SPA,European Commission,100,EU Allowance deletion,5016380,European Commission,8028,Details
+EU493517,10-2,2019-03-04 17:30:01.116,Completed,United Kingdom,100,Chickerell Power Station,5008573,SSEPG (OPERATIONS) LIMITED,European Commission,100,EU Allowance deletion,5016380,European Commission,3496,Details

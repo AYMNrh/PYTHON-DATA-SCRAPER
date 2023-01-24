@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU487533,10-36,2019-02-22 01:33:35.255,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Ekobacken PC,5001916,Vattenfall AB,3536,Details
+EU487532,10-36,2019-02-22 01:33:35.139,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Sofidel Sweden AB,5001452,SOFIDEL SWEDEN AB,14592,Details
+EU487538,10-36,2019-02-22 01:33:35.129,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Boliden Bergsöe AB,5002102,Boliden Bergsöe AB,37352,Details
+EU487480,10-36,2019-02-22 01:33:35.112,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Nygårds PC,5001794,Statkraft Värme AB,3446,Details
+EU487539,10-36,2019-02-22 01:33:35.1,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Volvo PC,5001786,Solör Bioenergi Öst AB,39,Details
+EU487570,10-36,2019-02-22 01:33:35.029,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Ardagh Glass Limmared AB,5001567,Ardagh Glass Limmared AB,46019,Details
+EU487208,10-36,2019-02-22 01:33:35.026,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Gruvöns bruk,5001416,BillerudKorsnäs Sweden AB,213936,Details
+EU487202,10-36,2019-02-22 01:33:35.019,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Okvista Värmeverk,5001715,E.ON Energiinfrastruktur AB,2915,Details
+EU487572,10-36,2019-02-22 01:33:34.995,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Notnäs,5002278,Värmevärden AB,7013,Details
+EU487447,10-36,2019-02-22 01:33:34.942,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Lersäters PC,5001799,Kils Energi AB,2992,Details
+EU487574,10-36,2019-02-22 01:33:34.935,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Rådmannen,5002115,Alvesta Energi AB,17,Details
+EU487205,10-36,2019-02-22 01:33:34.931,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Sösia,5019091,Jämtkraft AB,2777,Details
+EU487575,10-36,2019-02-22 01:33:34.766,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Husbyborgverket,5002170,Vattenfall AB,580,Details
+EU487204,10-36,2019-02-22 01:33:34.733,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,PC Säffle Fjärrvärme,5002157,Säffle Fjärrvärme AB,2201,Details
+EU487573,10-36,2019-02-22 01:33:34.729,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Sandviksverket,5002283,Växjö Energi AB,48228,Details
+EU487446,10-36,2019-02-22 01:33:34.671,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,PC Marjarp,5002244,Solör Bioenergi Falköping AB,7191,Details
+EU487444,10-36,2019-02-22 01:33:34.651,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,PC-Väster,5002161,Tekniska Verken i Linköping AB,17112,Details
+EU487203,10-36,2019-02-22 01:33:33.963,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Tibro Järnvägsgatan,5001828,Nevel AB,7,Details
+EU487442,10-36,2019-02-22 01:33:33.493,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Vittinge Tegelbruk,5001556,Monier Roofing AB,3531,Details
+EU487449,10-36,2019-02-22 01:33:33.412,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Panncentral CSK,5002197,C4 Energi AB,1660,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU514721,10-2,2019-04-16 17:25:05.548,Completed,Spain,100,IBERIA LAE SA OPERADORA SU,5009287,IBERIA LAE SA OPERADORA SU,European Commission,100,EU Allowance deletion,5016380,European Commission,13897,Details
+EU513988,10-2,2019-04-16 17:23:25.368,Completed,Belgium,100,362 Borealis Antwerpen,5020643,Borealis Antwerpen,European Commission,100,EU Allowance deletion,5016380,European Commission,13,Details
+EU513433,10-0,2019-04-16 17:23:12.826,Completed,Netherlands,100,HBEL,5027810,Holcibel,France,100,Lafarge Ciments - Usine de Val d'Azergues,5005105,LAFARGE CIMENTS,263047,Details
+EU513426,10-0,2019-04-16 17:20:48.65,Completed,Netherlands,100,HBEL,5027810,Holcibel,France,100,Lafarge Ciments Usine St Pierre La Cour,5005827,LAFARGE CIMENTS,843896,Details
+EU514750,10-2,2019-04-16 17:19:32.673,Completed,Spain,100,"Baicerám, S.L",5009768,"Baicerám, S.L",European Commission,100,EU Allowance deletion,5016380,European Commission,7852,Details
+EU513402,10-0,2019-04-16 17:18:30.83,Completed,Netherlands,100,HBEL,5027810,Holcibel,France,100,Lafarge Ciments - Usine de Port La Nouvelle,5005758,LAFARGE CIMENTS,466872,Details
+EU505804,10-2,2019-04-16 17:18:20.794,Completed,Germany,100,491 - Anlagenkonto,5015003,Ziegelwerk Oberlausitz GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,12338,Details
+EU508745,10-2,2019-04-16 17:17:48.184,Completed,Spain,100,Papelera Guipuzcoana de Zicuñaga S.A,5009078,"Papelera Guipuzcoana de Zicuñaga, SA",European Commission,100,EU Allowance deletion,5016380,European Commission,214521,Details
+EU514738,10-2,2019-04-16 17:17:00.29,Completed,Italy,100,Operator Account,5012573,HOLCIM (ITALIA) SPA,European Commission,100,EU Allowance deletion,5016380,European Commission,504545,Details
+EU513391,10-0,2019-04-16 17:16:11.627,Completed,Netherlands,100,HBEL,5027810,Holcibel,France,100,Lafarge Ciments - Usine de Martres Tolosane,5004877,LAFARGE CIMENTS,456178,Details
+EU513382,10-0,2019-04-16 17:13:51.193,Completed,Netherlands,100,HBEL,5027810,Holcibel,France,100,Lafarge Ciments - Usine du Teil,5005264,LAFARGE CIMENTS,567284,Details
+EU512410,10-2,2019-04-16 17:13:39.333,Completed,Germany,100,1280 - Anlagenkonto,5014581,Freiburger Wärmeversorgungs GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,22198,Details
+EU504517,10-0,2019-04-16 17:13:25.103,Completed,Poland,100,Jednostki produkcyjne,5019475,Grupa Azoty S.A.,Poland,100,ELEKTROCIEPŁOWNIA,5002802,Grupa Azoty S.A.,63768,Details
+EU514749,10-72,2019-04-16 17:13:02.336,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Italy,100,Operator Account,5013235,DISTILLERIE BONOLLO SPA,5209,Details
+EU513526,10-0,2019-04-16 17:12:05.246,Completed,Poland,100,CIEPŁOWNIA,5003049,Spółdzielnia Mleczarska MLEKOVITA,Poland,100,Fabryka Proszków Mlecznych Mlekovita 3,5027693,Spółdzielnia Mleczarska MLEKOVITA,9594,Details
+EU514741,10-71,2019-04-16 17:12:03.991,Completed,Italy,100,Operator Account,5013235,DISTILLERIE BONOLLO SPA,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,5209,Details
+EU514747,10-72,2019-04-16 17:11:08.13,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Italy,100,Marazzi Group - Casiglie,5018257,Marazzi  Group S.r.l. a Socio Unico,2768,Details
+EU513378,10-0,2019-04-16 17:10:53.177,Completed,Netherlands,100,HBEL,5027810,Holcibel,France,100,Lafarge Ciments - Usine de La Malle,5005400,LAFARGE CIMENTS,402709,Details
+EU513520,10-0,2019-04-16 17:10:52.557,Completed,Germany,100,Furnacerußanlage,5013890,Orion Engineered Carbons GmbH,Germany,100,Gasrußanlage,5016041,Orion Engineered Carbons GmbH,5000,Details
+EU514688,10-71,2019-04-16 17:10:10.34,Completed,Italy,100,Marazzi Group - Casiglie,5018257,Marazzi  Group S.r.l. a Socio Unico,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,2768,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU503893,10-2,2019-04-18 16:20:24.413,Completed,Italy,100,Operator Account,5013430,PILKINGTON ITALIA S.p.A,European Commission,100,EU Allowance deletion,5016380,European Commission,111914,Details
+EU516144,10-2,2019-04-18 16:19:30.964,Completed,Portugal,100,"231-Sumol+Compal, Marcas, S.A.",5002970,"Sumol+Compal, Marcas, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,6162,Details
+EU503905,10-2,2019-04-18 16:19:16.928,Completed,Italy,100,Operator Account,5012407,PILKINGTON ITALIA S.p.A,European Commission,100,EU Allowance deletion,5016380,European Commission,88411,Details
+EU503910,10-2,2019-04-18 16:17:48.468,Completed,Italy,100,PORTO MARGHERA,5026875,PILKINGTON ITALIA S.p.A,European Commission,100,EU Allowance deletion,5016380,European Commission,115714,Details
+EU516157,10-72,2019-04-18 16:17:25.689,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Italy,100,EMILCERAMICA FIORANO 2,5020097,EMILCERAMICA Srl,933,Details
+EU515889,10-71,2019-04-18 16:16:28.827,Completed,Italy,100,EMILCERAMICA FIORANO 2,5020097,EMILCERAMICA Srl,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,933,Details
+EU516137,10-2,2019-04-18 16:11:23.219,Completed,France,100,CHEMINEES PHILIPPE,5023206,CHEMINEES PHILIPPE,European Commission,100,EU Allowance deletion,5016380,European Commission,4390,Details
+EU516150,10-72,2019-04-18 16:11:15.939,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Italy,100,EMILCERAMICA SOLIGNANO,5020098,EMILCERAMICA Srl,1079,Details
+EU516060,10-2,2019-04-18 16:10:52.046,Completed,Belgium,100,02344.SAUDI ARABIAN AIRLINES,5024735,SAUDI ARABIAN AIRLINES CORPORATION,European Commission,100,EU Allowance deletion,5016380,European Commission,2046,Details
+EU515891,10-71,2019-04-18 16:10:16.986,Completed,Italy,100,EMILCERAMICA SOLIGNANO,5020098,EMILCERAMICA Srl,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,1079,Details
+EU514929,10-0,2019-04-18 16:08:28.757,Completed,Poland,100,WALCOWNIA,5003757,Celsa Huta Ostrowiec sp. z o.o.,Poland,100,"ZAKŁAD WYROBÓW KUTYCH, ZAKŁAD WYROBÓW WALCOWANYCH",5002977,Celsa Huta Ostrowiec sp. z o.o.,4050,Details
+EU507572,10-2,2019-04-18 16:05:35.093,Completed,France,100,GEOGAZ LAVERA,5005458,GEOGAZ LAVERA,European Commission,100,EU Allowance deletion,5016380,European Commission,232,Details
+EU515253,10-0,2019-04-18 16:03:19.467,Completed,Ireland,100,CityJet Limited,5016690,CityJet Limited,Malta,100,CFP Trading Limited,5027818,CFP Trading Limited,38000,Details
+EU515250,10-0,2019-04-18 16:01:13.842,Completed,Germany,100,Heizkraftwerk Darmstadt,5014254,ENTEGA STEAG Wärme GmbH,Germany,100,1747 - Frankfurter Str.,5015244,ENTEGA AG,2006,Details
+EU516142,10-0,2019-04-18 15:59:57.855,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Portugal,100,Waylawn Ltd,5025862,Waylawn Ltd,135,Details
+EU516118,10-0,2019-04-18 15:59:16.648,Completed,Spain,100,FUTURA CARBONO S.L.,5024181,FUTURA CARBONO S.L.,United Kingdom,100,ED&F Man Capital Markets Ltd,5023256,E D & F MAN CAPITAL MARKETS LIMITED,37000,Details
+EU516139,10-0,2019-04-18 15:59:05.113,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Portugal,100,Waylawn Ltd,5025862,Waylawn Ltd,3,Details
+EU516141,10-2,2019-04-18 15:58:03.723,Completed,Italy,100,Operator Account,5013244,CALCARTA SRL,European Commission,100,EU Allowance deletion,5016380,European Commission,4892,Details
+EU514690,10-2,2019-04-18 15:57:00.239,Completed,Finland,100,Hanasaaren lämpökeskus:FI780,5010751,Helen Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,258,Details
+EU515926,10-0,2019-04-18 15:56:36.697,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Netherlands,100,EDF Energy Ltd,5027983,EDF Energy Limited,35434,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU477858,10-0,2018-12-19 14:40:41.198,Completed,Germany,100,Axpo Solutions AG,5017149,AXPO Solutions AG,Germany,100,511 - Anlagenkonto,5015260,Essity Operations Mannheim GmbH,23350,Details
+EU478073,10-0,2018-12-19 14:40:37.872,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,France,100,ALBIOMA BOIS-ROUGE,5005198,ALBIOMA BOIS ROUGE,42707,Details
+EU478246,10-0,2018-12-19 14:39:37.161,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Romania,100,Operator Account,5010002,SC AZOMURES SA,100000,Details
+EU477690,10-0,2018-12-19 14:39:32.338,Completed,Finland,100,Virasojan biolämpökeskus,5024769,Imatran Lämpö Oy,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,5000,Details
+EU478227,10-0,2018-12-19 14:39:17.469,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,United Kingdom,100,Stella,5025540,Ithaca Energy (UK) Limited,8106,Details
+EU478226,10-0,2018-12-19 14:38:39.898,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,United Kingdom,100,Nissan Motor Manufacturing (UK) Limited,5020465,Nissan Motor Manufacturing (UK) Limited,12068,Details
+EU478242,10-0,2018-12-19 14:38:39.827,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Romania,100,Operator Account,5010002,SC AZOMURES SA,100000,Details
+EU478241,10-0,2018-12-19 14:37:41.595,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Romania,100,Operator Account,5010002,SC AZOMURES SA,100000,Details
+EU478138,10-0,2018-12-19 14:37:06.456,Completed,Netherlands,100,Stichting Custody ACT Financial Solutions,5027124,Stichting Custody ACT Financial Solutions,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,129000,Details
+EU478233,10-0,2018-12-19 14:36:42.773,Completed,United Kingdom,100,UBS TRADING ACCOUNT,5018280,UBS Limited,Finland,100,Trading 1,5023516,Fortum Power and Heat Oy,1395000,Details
+EU478093,10-0,2018-12-19 14:36:23.485,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Northern Ireland,100,Operator Account,5008067,EP Kilroot Power Limited,62393,Details
+EU478252,10-0,2018-12-19 14:36:14.959,Completed,Germany,100,ENGIE GLOBAL MARKETS,5016881,ENGIE Global Markets,Portugal,100,7108-EDP - Energias de portugal S.A.,5003348,EDP - Energias de portugal S.A.,300000,Details
+EU478088,10-0,2018-12-19 14:35:36.124,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,France,100,ALBIOMA GALION,5005880,ALBIOMA GALION,2619,Details
+EU478082,10-0,2018-12-19 14:34:55.751,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,France,100,ALBIOMA CARAIBES,5016547,ALBIOMA CARAIBES,19454,Details
+EU478013,10-0,2018-12-19 14:34:49.201,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,France,100,EDF PEI HAUTE CORSE,5022732,EDF PRODUCTION ELECTRIQUE INSULAIRE SAS,23129,Details
+EU477857,10-0,2018-12-19 14:34:09.692,Completed,Germany,100,Axpo Solutions AG,5017149,AXPO Solutions AG,Germany,100,529 - Anlagenkonto,5015450,Essity Operations Neuss GmbH,9150,Details
+EU478079,10-0,2018-12-19 14:33:59.404,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,France,100,ALBIOMA LE MOULE,5005539,ALBIOMA LE MOULE,36154,Details
+EU478239,10-0,2018-12-19 14:33:47.39,Completed,United Kingdom,100,UBS TRADING ACCOUNT,5018280,UBS Limited,Germany,100,Alpiq AG,5021597,Alpiq AG,2908000,Details
+EU478016,10-0,2018-12-19 14:33:43.962,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,France,100,EDF PEI Centrale de production d'électricité de Port Est,5018802,EDF PRODUCTION ELECTRIQUE INSULAIRE SAS,43809,Details
+EU478021,10-0,2018-12-19 14:32:46.881,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,France,100,EDF PEI - ETABLISSEMENT DE BELLEFONTAINE B,5022731,EDF PRODUCTION ELECTRIQUE INSULAIRE SAS,41680,Details

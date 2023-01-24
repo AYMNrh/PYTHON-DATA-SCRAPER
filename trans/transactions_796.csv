@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU504697,10-2,2019-04-02 14:37:06.565,Completed,France,100,CPTE SAM MONTEREAU,5005332,SAM MONTEREAU,European Commission,100,EU Allowance deletion,5016380,European Commission,90859,Details
+EU504707,10-2,2019-04-02 14:36:54.799,Completed,Belgium,100,280 Unilin - site Vielsalm,5004293,Unilin,European Commission,100,EU Allowance deletion,5016380,European Commission,7998,Details
+EU504710,10-0,2019-04-02 14:33:09.153,Completed,Malta,100,CFP Trading Limited,5027818,CFP Trading Limited,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,45000,Details
+EU504503,10-2,2019-04-02 14:30:13.009,Completed,Germany,100,HMGTEHG,5022160,Harz Oxid GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,49033,Details
+EU504704,10-2,2019-04-02 14:29:49.33,Completed,Belgium,100,039 Site Balen,5004437,Nyrstar Belgium,European Commission,100,EU Allowance deletion,5016380,European Commission,20266,Details
+EU504505,10-2,2019-04-02 14:28:48.292,Completed,Germany,100,Nordenham Metall GmbH,5022170,Nordenham Metall GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,54756,Details
+EU504703,10-2,2019-04-02 14:28:04.429,Completed,Germany,100,Rockwool Werk Gladbeck,5013929,ROCKWOOL Operations GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,82387,Details
+EU503640,10-0,2019-04-02 14:26:58.196,Completed,Finland,100,Päästö Rauhala:FI484,5010540,Nevel Oy,Finland,100,Kevätniemen voimalaitos:FI480,5010536,Nevel Oy,2,Details
+EU504602,10-0,2019-04-02 14:25:35.55,Completed,Italy,100,CONTO SCAMBIO IEN,5024606,Iren Energia S.p.A.,Italy,100,Moncalieri,5012710,Iren Energia S.p.A.,1259601,Details
+EU504610,10-0,2019-04-02 14:24:08.117,Completed,Italy,100,CONTO SCAMBIO IEN,5024606,Iren Energia S.p.A.,Italy,100,Torino Nord,5012723,Iren Energia S.p.A.,841946,Details
+EU503272,10-2,2019-04-02 14:23:30.445,Completed,Estonia,100,Operator Account:EE12,5016317,VKG Oil AS,European Commission,100,EU Allowance deletion,5016380,European Commission,39999,Details
+EU503981,10-2,2019-04-02 14:23:27.498,Completed,Germany,100,Werk  Pente,5014345,Wienerberger GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,17715,Details
+EU504613,10-0,2019-04-02 14:22:28.925,Completed,Italy,100,CONTO SCAMBIO IEN,5024606,Iren Energia S.p.A.,Italy,100,BIT,5012715,Iren Energia S.p.A.,2618,Details
+EU503984,10-2,2019-04-02 14:22:26.741,Completed,Germany,100,Werk  Bogen  DZ,5018829,Wienerberger GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,9011,Details
+EU503626,10-0,2019-04-02 14:21:52.168,Completed,Romania,100,Ciech Soda România SA,5021445,Witold Urbanowski,Romania,100,TDR Energy SRL,5024160,TDR Energy SRL,35000,Details
+EU504620,10-0,2019-04-02 14:21:14.51,Completed,Italy,100,CONTO SCAMBIO IEN,5024606,Iren Energia S.p.A.,Italy,100,Sampierdarena,5012717,Iren Energia S.p.A.,15433,Details
+EU503987,10-2,2019-04-02 14:20:59.048,Completed,Germany,100,Werk  Eisenberg/Pf W3  DZ,5018832,Wienerberger GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,7982,Details
+EU503611,10-0,2019-04-02 14:20:32.95,Completed,Hungary,100,GlobalNRG,5027802,Global NRG Zrt,Hungary,100,Operator Account:HU54,5011691,ISD Dunaferr Zrt.,5000,Details
+EU503274,10-2,2019-04-02 14:20:22.538,Completed,Estonia,100,VKG Oil Petrote,5016374,VKG Oil AS,European Commission,100,EU Allowance deletion,5016380,European Commission,666794,Details
+EU503992,10-2,2019-04-02 14:19:39.817,Completed,Germany,100,Werk  Langenzenn DZ,5015957,Wienerberger GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,18384,Details

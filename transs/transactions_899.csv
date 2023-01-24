@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU501952,10-0,2019-03-28 10:38:15.774,Completed,Germany,100,Statkraft Markets GmbH,5017011,Statkraft Markets GmbH,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,946000,Details
+EU497957,10-2,2019-03-28 10:37:50.486,Completed,Finland,100,Imatra:FI101,5010884,Gasgrid Finland Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,383,Details
+EU497958,10-2,2019-03-28 10:35:58.52,Completed,Finland,100,Valkeala:FI103,5010886,Gasgrid Finland Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,6514,Details
+EU501956,10-0,2019-03-28 10:34:47.553,Completed,Germany,100,Statkraft Markets GmbH,5017011,Statkraft Markets GmbH,Bulgaria,100,ContourGlobal Maritsa East 3 AD,5016120,ContourGlobal Maritsa East 3 AD,200000,Details
+EU502065,10-0,2019-03-28 10:33:49.868,Completed,Germany,100,Goldman Sachs International,5027670,Goldman Sachs International,Italy,100,Snam S.p.A.,5027816,Snam S.p.A.,14608,Details
+EU501958,10-0,2019-03-28 10:33:00.375,Completed,Germany,100,Statkraft Markets GmbH,5017011,Statkraft Markets GmbH,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,100000,Details
+EU502056,10-2,2019-03-28 10:32:20.191,Completed,Spain,100,"Bestile, S.L.",5021459,"Bestile, S.L.",European Commission,100,EU Allowance deletion,5016380,European Commission,13627,Details
+EU501966,10-2,2019-03-28 10:27:34.549,Completed,Germany,100,1741 - Anlagenkonto,5015236,HOMANIT GmbH & Co KG,European Commission,100,EU Allowance deletion,5016380,European Commission,2094,Details
+EU501992,10-2,2019-03-28 10:24:33.498,Completed,Germany,100,KKW Grohnde,5014324,PreussenElektra GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,1657,Details
+EU502053,10-72,2019-03-28 10:23:11.804,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Spain,100,"Bestile, S.L.",5021459,"Bestile, S.L.",613,Details
+EU501999,10-2,2019-03-28 10:23:06.796,Completed,Germany,100,KKW Brokdorf,5014347,PreussenElektra GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,2068,Details
+EU502033,10-71,2019-03-28 10:22:07.583,Completed,Spain,100,"Bestile, S.L.",5021459,"Bestile, S.L.",European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,613,Details
+EU500806,10-2,2019-03-28 10:21:03.357,Completed,Italy,100,Operator Account,5013122,LEONE LA FERLA S.P.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,33599,Details
+EU502048,10-0,2019-03-28 10:20:18.997,Completed,Sweden,100,Svenska Handelsbanken AB,5022059,Svenska Handelsbanken AB,Denmark,100,Nordjyllandsværket,5006367,Nordjyllandsværket A/S,40000,Details
+EU502035,10-2,2019-03-28 10:19:32.078,Completed,Spain,100,"Cerámicas Mimas, S.L. - Planta 2",5021482,"Cerámicas Mimas, S.L.",European Commission,100,EU Allowance deletion,5016380,European Commission,14916,Details
+EU499078,10-2,2019-03-28 10:18:27.783,Completed,Germany,100,Kraftwerk Bergkamen,5015128,Bayer Aktiengesellschaft,European Commission,100,EU Allowance deletion,5016380,European Commission,37475,Details
+EU502046,10-72,2019-03-28 10:17:37.344,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Spain,100,"Cerámicas Mimas, S.L. - Planta 2",5021482,"Cerámicas Mimas, S.L.",672,Details
+EU502043,10-0,2019-03-28 10:16:49.871,Completed,Sweden,100,Svenska Handelsbanken AB,5022059,Svenska Handelsbanken AB,Sweden,100,Stena Aluminium AB,5019167,Stena Aluminium AB,12000,Details
+EU502038,10-71,2019-03-28 10:16:40.274,Completed,Spain,100,"Cerámicas Mimas, S.L. - Planta 2",5021482,"Cerámicas Mimas, S.L.",European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,672,Details
+EU501973,10-0,2019-03-28 10:15:46.94,Completed,Germany,100,EnBW Trading Account,5022149,EnBW Energie Baden-Württemberg AG,Germany,100,1882 - EnBW Trading GmbH Personenkonto,5015443,EnBW Energie Baden-Württemberg AG,5000000,Details

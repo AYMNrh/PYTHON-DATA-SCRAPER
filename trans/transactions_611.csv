@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU508592,10-2,2019-04-08 16:34:34.761,Completed,Hungary,100,Operator Account:HU121,5011755,FGSZ Földgázszállító Zrt.,European Commission,100,EU Allowance deletion,5016380,European Commission,15699,Details
+EU508625,10-86,2019-04-08 16:34:20.627,Completed,Italy,100,Genova Cornigliano,5012604,Acciaierie d'Italia S.p.A.,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,27025,Details
+EU508515,10-2,2019-04-08 16:34:00.842,Completed,Italy,100,VARESE TLR,5012651,Varese Risorse S.p.a.,European Commission,100,EU Allowance deletion,5016380,European Commission,19753,Details
+EU507503,10-0,2019-04-08 16:33:51.084,Completed,Germany,100,517 - Anlagenkonto,5015319,Papierfabrik Palm GmbH & Co.KG,Germany,100,Palm Power HKW Eltmann,5013738,Palm Power GmbH & Co. KG,163816,Details
+CDM57472,3-0,2019-04-08 16:33:03.26,Completed,CDM,110,,1000,,Netherlands,121,China Carbon N.V.,5016549,China Carbon N.V.,83982,Details
+EU508609,10-2,2019-04-08 16:32:25.988,Completed,Italy,100,Operator Account,5013354,STAMPERIA DI GOVONE SRL,European Commission,100,EU Allowance deletion,5016380,European Commission,12041,Details
+EU504808,10-2,2019-04-08 16:32:23.676,Completed,Germany,100,525 - Anlagenkonto,5015410,Buchmann Gesellschaft mit beschränkter Haftung,European Commission,100,EU Allowance deletion,5016380,European Commission,86065,Details
+EU507502,10-0,2019-04-08 16:32:20.461,Completed,Germany,100,517 - Anlagenkonto,5015319,Papierfabrik Palm GmbH & Co.KG,Germany,100,519 - Anlagenkonto,5015342,Papierfabrik Palm GmbH & Co.KG,100000,Details
+EU508519,10-2,2019-04-08 16:31:13.06,Completed,Italy,100,Centrale termofrigorifera,5012652,Varese Risorse S.p.a.,European Commission,100,EU Allowance deletion,5016380,European Commission,8132,Details
+EU508594,10-2,2019-04-08 16:30:45.127,Completed,Hungary,100,Operator Account:HU122,5011756,FGSZ Földgázszállító Zrt.,European Commission,100,EU Allowance deletion,5016380,European Commission,13038,Details
+EU507499,10-0,2019-04-08 16:29:58.745,Completed,Germany,100,517 - Anlagenkonto,5015319,Papierfabrik Palm GmbH & Co.KG,Germany,100,Palm Power HKW Wörth,5013709,Palm Power GmbH & Co. KG,254192,Details
+EU507377,10-0,2019-04-08 16:29:21.22,Completed,Poland,100,Instalacja do produkcji wyrobów ceramicznych - Zakład nr 1 CERRAD,5018630,CERRAD Sp. z o.o.,Poland,100,CERRAD Sp. z o.o. zakład nr 2,5024821,CERRAD Sp. z o.o.,3380,Details
+EU508598,10-2,2019-04-08 16:28:59.256,Completed,Hungary,100,Operator Account:HU123,5011757,FGSZ Földgázszállító Zrt.,European Commission,100,EU Allowance deletion,5016380,European Commission,6196,Details
+EU507496,10-0,2019-04-08 16:28:17.943,Completed,Sweden,100,Nova Airlines AB,5017231,Nova Airlines AB,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,15000,Details
+EU508528,10-2,2019-04-08 16:27:28.003,Completed,Italy,100,Sermide,5013339,A2A GENCOGAS S.P.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,556195,Details
+EU508548,10-2,2019-04-08 16:27:11.751,Completed,Italy,100,Operator Account,5012509,ACCIAIERIE VENETE S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,65414,Details
+EU507594,10-2,2019-04-08 16:27:06.928,Completed,Austria,100,Wienerberger Göllersdorf,5004113,Wienerberger Österreich GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,21406,Details
+EU508605,10-2,2019-04-08 16:26:52.677,Completed,Hungary,100,FGSZ Bata Komp.,5011913,FGSZ Földgázszállító Zrt.,European Commission,100,EU Allowance deletion,5016380,European Commission,34,Details
+EU508559,10-2,2019-04-08 16:25:30.005,Completed,Italy,100,Operator Account,5012512,ACCIAIERIE VENETE S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,94625,Details
+EU507599,10-2,2019-04-08 16:24:51.94,Completed,Austria,100,Wienerberger Krengelbach Haiding,5004116,Wienerberger Österreich GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,28292,Details

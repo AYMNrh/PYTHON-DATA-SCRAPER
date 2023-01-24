@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU501383,10-0,2019-03-28 12:09:32.939,Completed,Sweden,100,Hjo Energi AB,5024673,Hjo Energi AB,Sweden,100,Brandmannen Hjo Energi AB,5025860,Hjo Energi AB,50,Details
+EU500450,10-0,2019-03-28 12:09:24.973,Completed,Norway,100,Aker BP ASA Edvard Grieg,5024034,Aker BP ASA,Norway,100,Lundin Energy Norway AS Brynhild,5024033,ABP Norway AS,73,Details
+EU501277,10-0,2019-03-28 12:09:02.775,Completed,Germany,100,ECC AG Auction Delivery Account EU,5016991,European Commodity Clearing AG,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,2495000,Details
+EU501366,10-0,2019-03-28 12:08:49.693,Completed,France,100,KEM ONE BALAN,5005331,KEM ONE,France,100,COGESTAR - ARKEMA Balan,5005356,COGESTAR,24534,Details
+EU497895,10-0,2019-03-28 12:08:32.875,Completed,Germany,100,SWT Stadtwerke Trier Versorgungs-GmbH,5015875,SWT Stadtwerke Trier Versorgungs-GmbH,Germany,100,RWE Vertrieb AG Retail - Trading,5017190,innogy SE,10403,Details
+EU500673,10-0,2019-03-28 12:08:13.418,Completed,Netherlands,100,Tata Steel IJmuiden bv BKG 1,5011418,Tata Steel IJmuiden B.V.,Netherlands,100,Vattenfall Energy Trading Netherlands N.V.,5011398,Vattenfall Energy Trading Netherlands N.V.,538292,Details
+EU501244,10-0,2019-03-28 12:07:56.932,Completed,Germany,100,"Solvay Chemicals Werk Bernburg, Industriekraftwerk (721)",5014619,Solvay Chemicals GmbH,Germany,100,"Solvay Chemicals GmbH, KW Rheinberg",5015851,Solvay Chemicals GmbH,50000,Details
+EU501111,10-0,2019-03-28 12:07:54.016,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Germany,100,AFK-Geothermie GmbH,5026280,AFK-Geothermie GmbH,582,Details
+EU500191,10-0,2019-03-28 12:07:52.564,Completed,Italy,100,Giancarlo Ferlini,5012900,Conserve Italia soc.coop.agricola,Italy,100,gferlini@ccci.it,5012895,Conserve Italia soc.coop.agricola,1800,Details
+EU501107,10-0,2019-03-28 12:07:46.762,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Belgium,100,122 Sofidel Benelux,5004521,Sofidel Benelux,5000,Details
+EU501186,10-0,2019-03-28 12:07:29.779,Completed,United Kingdom,100,"North & South Morecambe, Rivers",5008579,Spirit Energy Production UK Limited,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,26591,Details
+EU501360,10-0,2019-03-28 12:07:28.276,Completed,Germany,100,Stadtwerke Geldern,5013753,Stadtwerke Geldern GmbH,Germany,100,RWE Vertrieb AG Retail - Trading,5017190,innogy SE,10404,Details
+EU501260,10-0,2019-03-28 12:07:28.063,Completed,Germany,100,Anlagenkonto EO-Anlage,5018837,Sasol Germany GmbH,Germany,100,Sasol Germany Produktionskomplex BB,5022715,Sasol Germany GmbH,40000,Details
+EU501263,10-0,2019-03-28 12:07:11.049,Completed,Germany,100,Anlagenkonto HKW Niehl,5014605,RheinEnergie AG,Germany,100,Anlagenkonto HKW Merkenich,5014602,RheinEnergie AG,452706,Details
+EU502091,10-2,2019-03-28 12:07:00.282,Completed,Sweden,100,Tynneredscentralen,5002064,Göteborg Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,17,Details
+EU501358,10-0,2019-03-28 12:06:40.054,Completed,Germany,100,Nobian GmbH,5015816,Nobian GmbH,Germany,100,RWEST GmbH IS Trading Account,5016831,RWE Supply & Trading GmbH,30514,Details
+EU502026,10-37,2019-03-28 12:06:35.749,Completed,European Commission,100,EU AUCTION ACCOUNT,5016932,EUROPEAN UNION,Germany,100,ECC AG Auction Delivery Account EU,5016991,European Commodity Clearing AG,2495000,Details
+EU500793,10-0,2019-03-28 12:05:54.346,Completed,Belgium,100,089 Electrabel Turbo Jet back up Cierreux,5004488,Electrabel,Netherlands,100,Electrabel S.A./N.V.,5017550,Electrabel NV/SA,189000,Details
+EU501164,10-0,2019-03-28 12:05:53.556,Completed,Netherlands,100,Dow Europe GmbH trading account,5011182,Dow Europe GmbH,Netherlands,100,Dow Benelux B.V. BKG 10,5011402,DOW Benelux B.V.,46,Details
+EU501262,10-0,2019-03-28 12:05:51.277,Completed,Germany,100,Anlagenkonto HKW Niehl,5014605,RheinEnergie AG,Germany,100,Anlagenkonto HKW Merheim,5014600,RheinEnergie AG,32582,Details

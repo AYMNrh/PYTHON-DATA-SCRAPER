@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU503327,10-71,2019-04-01 09:14:21.264,Completed,Spain,100,"KERABEN GRUPO, S.A.U",5018115,"KERABEN GRUPO, S.A.U.",European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,626,Details
+EU502212,10-2,2019-04-01 09:09:08.695,Completed,Belgium,100,059 UCB Braine L'Alleud,5004458,UCB Pharma,European Commission,100,EU Allowance deletion,5016380,European Commission,10609,Details
+EU503305,10-2,2019-04-01 09:08:26.235,Completed,Romania,100,Operator Account,5009985,SC AEROSTAR SA BACAU,European Commission,100,EU Allowance deletion,5016380,European Commission,2751,Details
+EU498007,10-2,2019-04-01 09:08:02.696,Completed,Austria,100,Saint-Gobain Rigips Austria GesmbH,5018017,Saint-Gobain Austria GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,22517,Details
+EU502936,10-2,2019-04-01 08:57:06.076,Completed,Finland,100,Ahtiala:FI228,5011011,Lahti Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,571,Details
+EU501871,10-2,2019-04-01 08:55:06.551,Completed,France,100,GLANZSTOFF LONGLAVILLE,5004880,GLANZSTOFF LONGLAVILLE,European Commission,100,EU Allowance deletion,5016380,European Commission,15622,Details
+EU503294,10-2,2019-04-01 08:54:57.231,Completed,Poland,100,Zakład Gozdnica,5003517,GZCB SP. Z O.O.,European Commission,100,EU Allowance deletion,5016380,European Commission,6172,Details
+EU502938,10-2,2019-04-01 08:54:28.156,Completed,Finland,100,Ilmarinen:FI229,5011012,Lahti Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,364,Details
+EU503214,10-2,2019-04-01 08:52:56.873,Completed,Slovakia,100,PPC Malženice,5004014,"ZSE Elektrárne, s.r.o.",European Commission,100,EU Allowance deletion,5016380,European Commission,84301,Details
+EU502939,10-2,2019-04-01 08:52:23.786,Completed,Finland,100,Keskikangas:FI232,5011015,Lahti Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,1,Details
+EU503152,10-2,2019-04-01 08:52:03.988,Completed,Germany,100,CIECH Soda Deutschland GmbH & Co. KG,5021321,CIECH Soda Deutschland GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,130244,Details
+EU503155,10-2,2019-04-01 08:50:51.606,Completed,Germany,100,CIECH Energy Deutschland GmbH,5014058,CIECH Energy Deutschland GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,392967,Details
+EU502947,10-2,2019-04-01 08:50:49.046,Completed,Finland,100,Koneharju:FI233,5011016,Lahti Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,2779,Details
+EU502948,10-2,2019-04-01 08:49:01.956,Completed,Finland,100,Kymijärvi:FI235,5011018,Lahti Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,457796,Details
+EU502950,10-2,2019-04-01 08:47:33.566,Completed,Finland,100,Liipola:FI237,5011020,Lahti Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,2916,Details
+EU502951,10-2,2019-04-01 08:45:45.242,Completed,Finland,100,Koskisen Oy:n levyteollisuus:FI202,5010985,Koskipower Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,1763,Details
+EU502954,10-2,2019-04-01 08:43:08.844,Completed,Finland,100,Mukkula:FI238,5011021,Lahti Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,2509,Details
+EU502957,10-2,2019-04-01 08:40:55.948,Completed,Finland,100,Nastola:FI240,5011023,Lahti Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,454,Details
+EU502959,10-2,2019-04-01 08:38:53.383,Completed,Finland,100,Nikula:FI241,5011024,Lahti Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,2,Details
+EU503099,10-2,2019-04-01 08:36:37.093,Completed,Finland,100,Ruokotie:FI247,5011030,Lahti Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,71,Details

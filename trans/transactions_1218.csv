@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU494960,10-0,2019-03-07 10:03:36.247,Completed,Italy,100,conto di scambio fenice,5016921,Fenice spa,Italy,100,Operator Account,5013631,Fenice spa,35119,Details
+EU495054,10-0,2019-03-07 10:02:48.703,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,10000,Details
+EU494995,10-0,2019-03-07 10:02:43.474,Completed,Portugal,100,TRADE2C,5026779,"TRADE2C, UNIPESSOAL, LDA.",Portugal,100,"24-Prado-Cartolinas da Lousã, S.A",5003906,"Prado-Cartolinas da Lousã, S.A",4353,Details
+EU494978,10-0,2019-03-07 10:02:34.784,Completed,Italy,100,conto di scambio fenice,5016921,Fenice spa,Italy,100,Operator Account,5023102,Fenice spa,55141,Details
+EU495058,10-0,2019-03-07 10:01:45.095,Completed,Germany,100,Statkraft Markets GmbH,5017011,Statkraft Markets GmbH,Bulgaria,100,ContourGlobal Maritsa East 3 AD,5016120,ContourGlobal Maritsa East 3 AD,250000,Details
+EU495044,10-0,2019-03-07 10:01:39.49,Completed,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,Slovakia,100,"U. S. Steel Košice, s.r.o.-FE",5026051,"U. S. Steel Košice, s.r.o.",9000,Details
+EU495043,10-0,2019-03-07 10:01:37.157,Completed,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,United Kingdom,100,ED&F Man Capital Markets Ltd,5023256,E D & F MAN CAPITAL MARKETS LIMITED,191000,Details
+EU494961,10-0,2019-03-07 10:00:28.09,Completed,Bulgaria,100,Zagora Finacorp Jsc.,5027231,Zagora Finacorp Jsc.,Bulgaria,100,Toplofikatsia - Razgrad AD,5016137,Toplofikatsia Razgrad AD,1000,Details
+EU495066,10-2,2019-03-07 09:57:35.595,Completed,United Kingdom,100,LRS,5008316,Lucozade Ribena Suntory Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,28957,Details
+EU494829,10-2,2019-03-07 09:55:24.217,Completed,Poland,100,ELEKTROCIEPŁOWNIA FENICE W RZESZOWIE,5003412,FENICE POLAND SP.Z O.O.,European Commission,100,EU Allowance deletion,5016380,European Commission,16449,Details
+EU493263,10-2,2019-03-07 09:53:35.288,Completed,Belgium,100,425 IBM Belgium - Vaux-sur-Sûre,5026159,IBM Belgium,European Commission,100,EU Allowance deletion,5016380,European Commission,67,Details
+EU493269,10-2,2019-03-07 09:51:58.102,Completed,Belgium,100,426 IBM Belgium - Bastogne,5026163,IBM Belgium,European Commission,100,EU Allowance deletion,5016380,European Commission,85,Details
+EU493078,10-2,2019-03-07 09:39:05.632,Completed,Netherlands,100,FNsteel B.V.,5021375,FNsteel B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,23109,Details
+EU495057,10-2,2019-03-07 09:23:48.557,Completed,United Kingdom,100,Operator Account,5008187,AAK International,European Commission,100,EU Allowance deletion,5016380,European Commission,24697,Details
+EU495046,10-2,2019-03-07 08:45:40.869,Completed,United Kingdom,100,RAC MiG,5027161,"Joint Stock Company Russian Aircraft Corp ""MIG""",European Commission,100,EU Allowance deletion,5016380,European Commission,10,Details
+EU495041,10-2,2019-03-07 08:12:31.702,Completed,United Kingdom,100,,5026248,,European Commission,100,EU Allowance deletion,5016380,European Commission,131,Details
+EU494831,10-2,2019-03-07 07:38:43.249,Completed,Czech Republic,100,DEZA - teplárna závodu,5007052,"DEZA, a.s.",European Commission,100,EU Allowance deletion,5016380,European Commission,308976,Details
+EU495020,10-36,2019-03-07 01:30:30.608,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,FSW Kraftwerk,5013918,Schoeller Technocell GmbH & Co. KG,6636,Details
+EU495022,10-36,2019-03-07 01:30:30.546,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1273 - Anlagenkonto,5014573,EVH GmbH,7026,Details
+EU495011,10-36,2019-03-07 01:30:30.487,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Celanese02VAM,5020122,Celanese Production Germany GmbH & Co. KG,68126,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU507378,10-72,2019-04-05 11:59:51.966,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Italy,100,FORGIA DI BOLLATE SPA CANNETO,5022447,FORGIA DI BOLLATE S.p.A.,458,Details
+EU507314,10-2,2019-04-05 11:59:49.48,Completed,Germany,100,DC Aviation GmbH,5000322,DC Aviation GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,7668,Details
+EU506786,10-0,2019-04-05 11:59:23.098,Completed,Italy,100,A2A S.P.A.,5025361,A2A SPA,Italy,100,Silla,5013424,A2A AMBIENTE S.P.A.,589,Details
+EU507270,10-71,2019-04-05 11:58:54.407,Completed,Italy,100,FORGIA DI BOLLATE SPA CANNETO,5022447,FORGIA DI BOLLATE S.p.A.,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,458,Details
+EU507374,10-72,2019-04-05 11:58:31.324,Completed,European Commission,100,EU Credit Exchange Account - Aviation,5022592,EUROPEAN COMMISSION,Spain,100,Swiftair SA,5016400,Swiftair SA,551,Details
+EU506792,10-0,2019-04-05 11:58:13.417,Completed,Italy,100,A2A S.P.A.,5025361,A2A SPA,Italy,100,VARESE TLR,5012651,Varese Risorse S.p.a.,19753,Details
+EU507372,10-72,2019-04-05 11:57:54.323,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Italy,100,OFAR SPA CANNETO,5023069,Ofar Spa,358,Details
+EU507249,10-2,2019-04-05 11:57:42.098,Completed,Germany,100,1132 - Anlagenkonto,5014376,Stadtwerke Lutherstadt Wittenberg GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,5477,Details
+EU506538,10-2,2019-04-05 11:57:35.762,Completed,France,100,Tata Steel Maubeuge,5022758,TATA STEEL MAUBEUGE SAS,European Commission,100,EU Allowance deletion,5016380,European Commission,55271,Details
+EU507358,10-71,2019-04-05 11:57:15.753,Completed,Spain,100,Swiftair SA,5016400,Swiftair SA,European Commission,100,EU International Credit Account - Aviation,5022591,EUROPEAN COMMISSION,551,Details
+EU507354,10-71,2019-04-05 11:56:46.559,Completed,Italy,100,OFAR SPA CANNETO,5023069,Ofar Spa,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,358,Details
+EU506801,10-0,2019-04-05 11:56:33.491,Completed,Italy,100,A2A S.P.A.,5025361,A2A SPA,Italy,100,Centrale termofrigorifera,5012652,Varese Risorse S.p.a.,6720,Details
+EU507352,10-2,2019-04-05 11:55:37.01,Completed,Poland,100,KOTŁOWNIA PRZEMYSŁOWA NR1 BISKUPICE,5003053,TERMA-DOM SP. Z O.O.,European Commission,100,EU Allowance deletion,5016380,European Commission,15454,Details
+EU506803,10-0,2019-04-05 11:53:48.427,Completed,Italy,100,A2A S.P.A.,5025361,A2A SPA,Italy,100,Sermide,5013339,A2A GENCOGAS S.P.A.,344361,Details
+EU507360,10-0,2019-04-05 11:51:51.552,Completed,Denmark,100,Ørsted Bioenergy & Thermal Power A/S,5021198,Ørsted Bioenergy & Thermal Power A/S,Denmark,100,Skærbækværket,5006341,Ørsted Bioenergy & Thermal Power A/S,508,Details
+EU507045,10-2,2019-04-05 11:51:40.099,Completed,Spain,100,"Iberdrola Generación Térmica, S.L.U. – Central Térmica de Velilla, grupos 1 y 2",5009784,"Iberdrola Generación Térmica, S.L.",European Commission,100,EU Allowance deletion,5016380,European Commission,424925,Details
+EU502899,10-2,2019-04-05 11:51:08.126,Completed,France,100,ROYAL AIR MAROC,5000712,ROYAL AIR MAROC,European Commission,100,EU Allowance deletion,5016380,European Commission,1010,Details
+EU507323,10-2,2019-04-05 11:51:08.124,Completed,Finland,100,Toppila:FI307,5010363,Oulun Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,483023,Details
+EU506617,10-2,2019-04-05 11:51:04.727,Completed,Austria,100,Zementwerk Leube Gartenau,5004213,Leube Zement GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,324752,Details
+EU507327,10-2,2019-04-05 11:49:40.576,Completed,Spain,100,"Bahía de Bizkaia Gas, S.L. - Planta regasificadora",5009132,"BAHIA DE BIZKAIA GAS, SL",European Commission,100,EU Allowance deletion,5016380,European Commission,782,Details

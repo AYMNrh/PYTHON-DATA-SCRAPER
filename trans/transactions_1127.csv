@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU496977,10-2,2019-03-14 08:42:24.851,Completed,Romania,100,Operator Account,5010197,TEREOS ROMANIA SA,European Commission,100,EU Allowance deletion,5016380,European Commission,19830,Details
+CDM57166,3-0,2019-03-14 08:08:42.854,Completed,CDM,110,,1000,,Sweden,100,Internationella klimatinsatser,5017396,Statens energimyndighet,53492,Details
+EU496754,10-2,2019-03-14 08:08:08.782,Completed,Germany,100,1857 - Anlagenkonto,5015415,VNG Gasspeicher GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,21019,Details
+CDM57165,3-0,2019-03-14 08:04:04.953,Completed,CDM,110,,1000,,Sweden,121,NEFCO Carbon Fund,925,Nordic Environment Finance Corporation,7383,Details
+EU496972,10-2,2019-03-14 06:16:13.204,Completed,Slovakia,100,Fermas s.r.o.,5002966,Evonik Fermas s.r.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,17192,Details
+EU496910,10-36,2019-03-14 01:30:44.233,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Central H,5006551,Vestforsyning Varme A/S,394,Details
+EU496917,10-36,2019-03-14 01:30:43.775,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,KOV,5006144,FJERNVARME FYN DISTRIBUTION A/S,252,Details
+EU496909,10-36,2019-03-14 01:30:43.642,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Czech Republic,100,Teplárny Brno - Provoz Špitálka,5007038,"Teplárny Brno, a.s.",38057,Details
+EU496943,10-36,2019-03-14 01:30:43.426,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Greece,100,TERNA MAG S.A.,5024676,TERNA MAG S.A.,31809,Details
+EU496912,10-36,2019-03-14 01:30:43.217,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Bødkervænget V,5006404,Vordingborg fjernvarme A/S,95,Details
+EU496944,10-36,2019-03-14 01:30:43.073,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Dronningborg,5006331,Verdo Produktion A/S,21,Details
+EU496919,10-36,2019-03-14 01:30:42.822,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Sønderborg Fv,5006274,Sønderborg Varme A/S,42,Details
+EU496922,10-36,2019-03-14 01:30:42.811,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Frederiksgade V,5006410,Hillerød Varme A/S,1096,Details
+EU496942,10-36,2019-03-14 01:30:42.626,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Kolding Skovpar,5006531,TREFOR Varme A/S,54,Details
+EU496900,10-36,2019-03-14 01:30:42.437,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Czech Republic,100,"PRECIOSA ORNELA-závod Polubný,Příchovice a Desná",5006809,"PRECIOSA ORNELA, a.s.",9523,Details
+EU496939,10-36,2019-03-14 01:30:42.076,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,VC Pårup,5006270,FJERNVARME FYN DISTRIBUTION A/S,333,Details
+EU496938,10-36,2019-03-14 01:30:41.948,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Hagfors Jernverk,5001521,Uddeholms AB,24189,Details
+EU496901,10-36,2019-03-14 01:30:41.916,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Latvia,100,Operator Account:LV36,5012103,A/S „Rigas kugu buvetava”,1400,Details
+EU496906,10-36,2019-03-14 01:30:41.869,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,SYV,5006335,FJERNVARME FYN DISTRIBUTION A/S,209,Details
+EU496898,10-36,2019-03-14 01:30:41.853,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,KVV Tårnvej,5006251,GEV Varme A/S,1236,Details

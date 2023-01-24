@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU498975,10-0,2019-03-21 13:13:51.889,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Greece,100,ELPETR,5017669,ΕΛΛΗΝΙΚΑ ΠΕΤΡΕΛΑΙΑ  Δ.Ε.Π.Π.Π. Α.Ε.,50000,Details
+EU498475,10-0,2019-03-21 13:13:00.969,Completed,United Kingdom,100,Maersk Curlew,5007163,Shell UK Limited,Germany,100,Shell Trading International Limited,5027588,Shell Trading International Limited,13770,Details
+EU498473,10-0,2019-03-21 13:10:59.445,Completed,United Kingdom,100,PLASMOR LTD TRADING,5007650,PLASMOR LIMITED,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,53582,Details
+EU498472,10-0,2019-03-21 13:10:38.85,Completed,United Kingdom,100,Brent Charlie,5007177,Shell UK Limited,Germany,100,Shell Trading International Limited,5027588,Shell Trading International Limited,39280,Details
+EU498969,10-0,2019-03-21 13:03:21.077,Completed,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,79000,Details
+EU498470,10-0,2019-03-21 13:02:47.804,Completed,France,100,EUROVIA GRANDS PROJETS FRANCE- RF500 SUD,5023210,EUROVIA GRANDS PROJETS FRANCE,France,100,EUROVIA GRANDS PROJETS FRANCE- RF500 NORD,5026443,EUROVIA GRANDS PROJETS FRANCE,56,Details
+EU498372,10-0,2019-03-21 13:01:02.491,Completed,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,Italy,100,Operator Account,5013426,CRC Tissue S.r.l.,1162,Details
+EU498467,10-0,2019-03-21 12:59:44.554,Completed,United Kingdom,100,Brent Bravo,5007175,Shell UK Limited,Germany,100,Shell Trading International Limited,5027588,Shell Trading International Limited,8429,Details
+EU498964,10-2,2019-03-21 12:58:35.259,Completed,Denmark,100,Lygten Varme,5006525,HOFOR Fjernvarme P/S,European Commission,100,EU Allowance deletion,5016380,European Commission,9590,Details
+EU498466,10-0,2019-03-21 12:57:09.123,Completed,United Kingdom,100,Bacton,5007172,Shell UK Limited,Germany,100,Shell Trading International Limited,5027588,Shell Trading International Limited,11180,Details
+EU498966,10-2,2019-03-21 12:57:04.475,Completed,Denmark,100,Østre Varme,5006526,HOFOR Fjernvarme P/S,European Commission,100,EU Allowance deletion,5016380,European Commission,2757,Details
+EU498465,10-0,2019-03-21 12:56:33.357,Completed,France,100,EUROVIA GPI TSM SENIOR,5023209,EUROVIA GRANDS PROJETS FRANCE,France,100,EUROVIA GRANDS PROJETS FRANCE- RF500 NORD,5026443,EUROVIA GRANDS PROJETS FRANCE,193,Details
+EU498967,10-2,2019-03-21 12:54:53.863,Completed,Denmark,100,Sundholm Varmec,5006543,HOFOR Fjernvarme P/S,European Commission,100,EU Allowance deletion,5016380,European Commission,6361,Details
+EU498452,10-0,2019-03-21 12:52:44.301,Completed,Czech Republic,100,"Komerční banka, a.s. obchodní účet",5016819,"Komerční banka, a.s.",Czech Republic,100,"Sklárny Moravia, a.s.",5006702,"SKLÁRNY MORAVIA, a.s.",1500,Details
+EU498460,10-0,2019-03-21 12:52:34.414,Completed,Netherlands,100,PZEM Energy B.V.,5011426,PZEM Energy B.V.,Netherlands,100,Sloe Centrale B.V.,5011138,Sloe Centrale B.V.,653457,Details
+EU498457,10-0,2019-03-21 12:50:05.421,Completed,United Kingdom,100,Inbev UK,5007892,AB INBEV UK LIMITED,United Kingdom,100,Inbev Magor,5007893,AB INBEV UK LIMITED,5700,Details
+EU498446,10-0,2019-03-21 12:48:15.212,Completed,Portugal,100,TRADE2C,5026779,"TRADE2C, UNIPESSOAL, LDA.",Spain,100,"Iberoalcolense, S.L.",5023237,"Iberoalcorense, S.L.",319,Details
+EU498965,10-0,2019-03-21 12:44:17.409,Completed,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,Romania,100,SNGN Romgaz SA - SPEE Iernut,5010061,ELECTROCENTRALE BUCURESTI S.A,50000,Details
+EU498451,10-0,2019-03-21 12:43:51.962,Completed,Finland,100,PVO-Lämpövoiman THL EUA-tili:FI357,5010413,PVO-Lämpövoima Oy,Finland,100,PVO-Lämpövoiman KRS EUA-tili:FI356,5010412,PVO-Lämpövoima Oy,587,Details
+EU498968,10-86,2019-03-21 12:42:41.076,Completed,United Kingdom,100,Glenlossie Distillery Complex,5021317,Diageo Scotland Limited,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,3992,Details

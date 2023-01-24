@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU497172,10-2,2019-03-15 07:52:07.348,Completed,United Kingdom,100,Coors Brewers Ltd Burton Brewery,5007773,MOLSON COORS BREWING COMPANY (UK) LIMITED,European Commission,100,EU Allowance deletion,5016380,European Commission,21259,Details
+EU497351,10-36,2019-03-15 01:30:40.235,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Brøndby Strand Fjernvarmecentral,5006255,BRØNDBY FJERNVARME A M B A,144,Details
+EU497310,10-36,2019-03-15 01:30:40.161,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,"Roskilde Varme, Hovedcentralen",5006187,FORS Varme Roskilde A/S,455,Details
+EU497322,10-36,2019-03-15 01:30:40.09,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,H.C. Ørstedværket,5006347,Ørsted Bioenergy & Thermal Power A/S,51956,Details
+EU497328,10-36,2019-03-15 01:30:40.028,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Ireland,100,Operator Account,5012016,Smartply Europe Designated Activity Company,26564,Details
+EU497315,10-36,2019-03-15 01:30:39.927,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,VOV,5006273,FJERNVARME FYN DISTRIBUTION A/S,234,Details
+EU497357,10-36,2019-03-15 01:30:39.592,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Hjørring Varmef,5006428,HJØRRING VARMEFORSYNING A M B A,558,Details
+EU497317,10-36,2019-03-15 01:30:39.469,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Central Ellebæk,5006559,Vestforsyning Varme A/S,342,Details
+EU497323,10-36,2019-03-15 01:30:39.462,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Central Nord,5006555,Vestforsyning Varme A/S,86,Details
+EU497324,10-36,2019-03-15 01:30:39.46,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Hungary,100,Operator Account:HU198,5011824,Wienerberger zRt.,5414,Details
+EU497354,10-36,2019-03-15 01:30:39.365,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Ireland,100,Operator Account,5012058,Hovione Limited,5044,Details
+EU497325,10-36,2019-03-15 01:30:39.272,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Hvidovre Midt,5006544,FD Hvidovre AMBA,12,Details
+EU497320,10-36,2019-03-15 01:30:38.802,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Ireland,100,Operator Account,5011980,Breedon Cement Ireland Limited,375889,Details
+EU497327,10-36,2019-03-15 01:30:38.628,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,VC Centrum,5006266,FJERNVARME FYN DISTRIBUTION A/S,542,Details
+EU497353,10-36,2019-03-15 01:30:38.62,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Phistersvej SC,5006513,CTR I/S,157,Details
+EU497318,10-36,2019-03-15 01:30:38.575,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Frderikshavn VF,5006312,Frederikshavn Varme A/S,1240,Details
+EU497355,10-36,2019-03-15 01:30:38.414,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Ireland,100,Dupont Nutrition Ireland OHA,5012068,DuPont Nutrition Manufacturing Ireland Limited,28348,Details
+EU497350,10-36,2019-03-15 01:30:38.296,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Ireland,100,Operator Account,5012062,Pfizer Ireland Pharmaceuticals,12020,Details
+EU497352,10-36,2019-03-15 01:30:38.037,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Ireland,100,Operator Account,5011960,Lakeland Dairies Co-operative Society Limited,2900,Details
+EU497329,10-36,2019-03-15 01:30:37.953,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Ireland,100,Wyeth Nutrionals Ireland Limited,5012071,Wyeth Nutritionals Ireland Limited,26982,Details

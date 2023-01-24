@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU508417,10-2,2019-04-10 10:50:47.906,Completed,Germany,100,VDM Metals Unna,5019251,VDM Metals GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,22445,Details
+EU508738,10-71,2019-04-10 10:50:05.286,Completed,Portugal,100,Pavigrés Cerâmicas SA - UF Pavigrés,5022105,Pavigrés Cerâmicas SA,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,940,Details
+EU510239,10-2,2019-04-10 10:50:01.205,Completed,Poland,100,PGE Toruń S.A. - Elektrociepłownia EC1,5003497,PGE Toruń S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,237719,Details
+EU510261,10-72,2019-04-10 10:49:14.501,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Portugal,100,Pavigrés Cerâmicas SA - Grespor,5022103,Pavigrés Cerâmicas SA,555,Details
+EU510215,10-2,2019-04-10 10:48:26.324,Completed,Poland,100,KOTŁOWNIA I PALNIKI GAZOWE,5003142,Volkswagen Poznań,European Commission,100,EU Allowance deletion,5016380,European Commission,23128,Details
+EU510257,10-72,2019-04-10 10:48:23.454,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Portugal,100,Pavigrés Cerâmicas SA - Cerev,5022104,Pavigrés Cerâmicas SA,547,Details
+EU508739,10-71,2019-04-10 10:48:16.184,Completed,Portugal,100,Pavigrés Cerâmicas SA - Grespor,5022103,Pavigrés Cerâmicas SA,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,555,Details
+EU508422,10-2,2019-04-10 10:47:16.046,Completed,Germany,100,VDM Metals B2,5019252,VDM Metals GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,71299,Details
+EU508741,10-71,2019-04-10 10:47:06.78,Completed,Portugal,100,Pavigrés Cerâmicas SA - Cerev,5022104,Pavigrés Cerâmicas SA,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,547,Details
+EU510252,10-72,2019-04-10 10:46:07.417,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Portugal,100,Pavigrés II - Bustos,5022987,Pavigrés Cerâmicas SA,354,Details
+EU508742,10-71,2019-04-10 10:44:57.6,Completed,Portugal,100,Pavigrés II - Bustos,5022987,Pavigrés Cerâmicas SA,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,354,Details
+EU509622,10-2,2019-04-10 10:44:33.832,Completed,Germany,100,1175 - Anlagenkonto,5014434,Heizkraftwerk Halle-Trotha GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,150567,Details
+EU510104,10-2,2019-04-10 10:44:30.323,Completed,Italy,100,CCE SRL Trading,5013031,Birla Carbon Italy s.r.l.,European Commission,100,EU Allowance deletion,5016380,European Commission,135554,Details
+FR210121,4-0,2019-04-10 10:44:15.894,Completed,France,120,Chaufferie de Chelles,680,CHELLES CHALEUR,France,230,Cpt d'annulation volontaire,17,France,2,Details
+EU510216,10-2,2019-04-10 10:42:46.123,Completed,Netherlands,100,Dow Benelux B.V. BKG 10,5011402,DOW Benelux B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,904823,Details
+EU510204,3-0,2019-04-10 10:42:45.437,Completed,Netherlands,100,China Carbon N.V.,5026480,China Carbon N.V.,Netherlands,121,China Carbon N.V.,5016549,China Carbon N.V.,2253,Details
+EU509633,10-2,2019-04-10 10:41:55.445,Completed,Germany,100,1273 - Anlagenkonto,5014573,EVH GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,11363,Details
+EU510213,10-2,2019-04-10 10:41:40.11,Completed,Italy,100,Operator Account,5012846,CARVAL CARTIERA DI VALLETTROMPIA SRL,European Commission,100,EU Allowance deletion,5016380,European Commission,4813,Details
+EU510178,10-2,2019-04-10 10:41:02.542,Completed,Sweden,100,Lessebo Bruk,5001487,Lessebo Paper AB,European Commission,100,EU Allowance deletion,5016380,European Commission,819,Details
+EU509651,10-2,2019-04-10 10:39:31.316,Completed,France,100,UEM Chambière,5004718,UEM,European Commission,100,EU Allowance deletion,5016380,European Commission,58495,Details

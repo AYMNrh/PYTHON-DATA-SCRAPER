@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU501811,10-2,2019-04-02 10:40:58.391,Completed,Sweden,100,PC Vägga,5002053,Karlshamn Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,68,Details
+EU501823,10-2,2019-04-02 10:40:02.799,Completed,Sweden,100,HVC Stilleryd,5002046,Karlshamn Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,8,Details
+EU503286,10-2,2019-04-02 10:39:11.076,Completed,Sweden,100,PC IFÖ,5001489,Karlshamn Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,286,Details
+EU504374,10-2,2019-04-02 10:38:46.226,Completed,Italy,100,Operator Account,5012739,Cartiere Modesto Cardella S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,63180,Details
+EU503288,10-2,2019-04-02 10:37:34.932,Completed,Sweden,100,PC Halda,5001835,Karlshamn Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,274,Details
+EU504318,10-0,2019-04-02 10:37:24.634,Completed,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,Netherlands,100,Zalco B.V.,5022869,Zalco B.V.,2312,Details
+EU504376,10-0,2019-04-02 10:36:39.546,Completed,Germany,100,RWEST GmbH Trading Account,5016830,RWE Supply & Trading GmbH,United Kingdom,100,ABN AMRO Clearing Bank N.V,5017351,"ABN AMRO Clearing Bank N.V, London Branch",184000,Details
+EU503289,10-2,2019-04-02 10:36:37.352,Completed,Sweden,100,PC Lasarettet,5002051,Karlshamn Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,36,Details
+EU504330,10-0,2019-04-02 10:36:28.718,Completed,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,Poland,100,ENERGA Elektrownie Ostrołęa SA,5003353,ENERGA Elektrownie Ostrołęka S.A.,3000,Details
+EU504215,10-2,2019-04-02 10:35:31.471,Completed,Poland,100,CIEPŁOWNIA BIELSZOWICE,5002653,WĘGLOKOKS ENERGIA ZCP sp. z o.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,11447,Details
+EU503291,10-2,2019-04-02 10:34:59.493,Completed,Sweden,100,PC Östralycke,5002054,Karlshamn Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,17,Details
+EU504219,10-2,2019-04-02 10:34:28.202,Completed,Poland,100,CIEPŁOWNIA HALEMBA,5002657,WĘGLOKOKS ENERGIA ZCP sp. z o.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,24269,Details
+EU504223,10-2,2019-04-02 10:33:19.559,Completed,Poland,100,ELEKTROCIEPŁOWNIA MIKOŁAJ,5003588,WĘGLOKOKS ENERGIA ZCP sp. z o.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,94264,Details
+EU504230,10-2,2019-04-02 10:31:15.943,Completed,Poland,100,Zakład Ciepłowniczy Piast,5003666,WĘGLOKOKS ENERGIA NSE sp. z o.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,22623,Details
+EU504232,10-2,2019-04-02 10:30:23.431,Completed,Poland,100,Zakład Ciepłowniczy Brzeszcze,5003832,WĘGLOKOKS ENERGIA NSE sp. z o.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,23310,Details
+EU504234,10-2,2019-04-02 10:29:02.19,Completed,Poland,100,Zakład Ciepłowniczy Janina,5003839,WĘGLOKOKS ENERGIA NSE sp. z o.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,13123,Details
+EU504368,10-0,2019-04-02 10:28:07.568,Completed,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,Slovenia,100,Belektron TRD Si,5016820,BELEKTRON d.o.o.,3000,Details
+EU502709,10-2,2019-04-02 10:27:24.048,Completed,Belgium,100,421 Roosevelt Services Belgium,5024040,Roosevelt Services Belgium,European Commission,100,EU Allowance deletion,5016380,European Commission,33,Details
+EU504365,10-0,2019-04-02 10:26:42.218,Completed,Germany,100,RWE Supply & Trading GmbH CAO DE,5023243,RWE Supply & Trading GmbH,Germany,100,RWEST GmbH Trading Account,5016830,RWE Supply & Trading GmbH,184000,Details
+EU503001,10-2,2019-04-02 10:26:17.297,Completed,Netherlands,100,DSM Delft Permit B.V.,5011360,DSM Delft Permit B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,52476,Details

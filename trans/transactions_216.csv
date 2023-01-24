@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU515608,10-0,2019-04-19 13:24:53.614,Completed,Greece,100,KYKNOS,5002352,ΚΥΚΝΟΣ  ΑΕ,Greece,100,IPPC S.A.,5016925,ΕΥΣΤΑΘΙΟΣ ΚΟΥΡΝΙΩΤΗΣ,2000,Details
+EU515614,10-0,2019-04-19 13:23:19.523,Completed,Greece,100,KYKNOS,5002352,ΚΥΚΝΟΣ  ΑΕ,Greece,100,IPPC S.A.,5016925,ΕΥΣΤΑΘΙΟΣ ΚΟΥΡΝΙΩΤΗΣ,24079,Details
+EU515778,10-0,2019-04-19 13:18:06.352,Completed,Belgium,100,1040 Aperam Stainless Belgium S.A.,5004503,Aperam Stainless Belgium,Luxembourg,100,Aperam Treasury SCA,5020086,Aperam Treasury SCA,25000,Details
+EU516417,10-2,2019-04-19 13:15:25.192,Completed,Greece,100,ENERGTHES,5002385,ELPEDISON (ΠΡ ΕΝΕΡΓΕΙΑΚΗ ΘΕΣΣΑΛΟΝΙΚΗΣ Α.Ε.),European Commission,100,EU Allowance deletion,5016380,European Commission,458439,Details
+EU516418,10-2,2019-04-19 13:13:56.964,Completed,Greece,100,ELPEDISONTHISVI,5002432,ELPEDISON (ΠΡ ΕΝΕΡΓΕΙΑΚΗ ΘΕΣΣΑΛΟΝΙΚΗΣ Α.Ε.),European Commission,100,EU Allowance deletion,5016380,European Commission,449917,Details
+EU515755,10-0,2019-04-19 13:09:19.877,Completed,Romania,100,Operator Account,5010101,SC LEMARCO CRISTAL SRL,Romania,100,DIVORI TRADING,5020686,S.C. DIVORI PREST S.R.L.,1388,Details
+EU516364,10-2,2019-04-19 13:08:41.916,Completed,France,100,ARTEMIS,5021485,ARTEMIS,European Commission,100,EU Allowance deletion,5016380,European Commission,530,Details
+EU515764,10-0,2019-04-19 13:07:44.844,Completed,Italy,100,Fornaci F.lli Zulian srl,5012435,Fornaci Zulian srl,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,10000,Details
+EU516416,10-2,2019-04-19 13:03:13.638,Completed,France,100,FIGENAL,5005438,FIGENAL SNC,European Commission,100,EU Allowance deletion,5016380,European Commission,81678,Details
+EU516415,10-2,2019-04-19 13:00:24.49,Completed,Italy,100,Operator Account,5013538,S.EL.I.S. LAMPEDUSA S.P.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,25399,Details
+EU516413,10-2,2019-04-19 12:57:57.454,Completed,Italy,100,Operator Account,5013553,S.MED.E. PANTELLERIA S.P.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,25658,Details
+EU515421,10-2,2019-04-19 12:56:20.137,Completed,Italy,100,ASO FORGE,5022545,ASOFORGE S.R.L.,European Commission,100,EU Allowance deletion,5016380,European Commission,10583,Details
+EU515729,10-0,2019-04-19 12:53:38.689,Completed,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,France,100,UNITED TECHNOLOGIES CORPORATION,5020657,UNITED TECHNOLOGIES CORPORATION,150,Details
+EU515419,10-2,2019-04-19 12:52:54.25,Completed,Italy,100,Operator Account,5012574,ASONEXT SPA UNIPERSONALE,European Commission,100,EU Allowance deletion,5016380,European Commission,15383,Details
+EU516399,10-0,2019-04-19 12:52:33.588,Completed,Italy,100,ENEL TRADE ITALIA,5016899,Enel Global Trading S.p.A.,Italy,100,Operator Acoount,5013651,Free Energia S.p.A.,13164,Details
+EU515774,10-2,2019-04-19 12:51:08.922,Completed,France,100,NUTRIBIO - MONTAUBAN,5004903,NUTRIBIO,European Commission,100,EU Allowance deletion,5016380,European Commission,14288,Details
+EU515118,10-2,2019-04-19 12:49:36.82,Completed,France,100,Communauté d'Agglomération du Grand Besançon,5005505,Communauté d'Agglomération du Grand Besançon,European Commission,100,EU Allowance deletion,5016380,European Commission,7968,Details
+EU516015,10-2,2019-04-19 12:47:30.916,Completed,France,100,PERIGORD ENERGIES,5005064,PERIGORD ENERGIES,European Commission,100,EU Allowance deletion,5016380,European Commission,144632,Details
+EU516412,10-0,2019-04-19 12:46:58.83,Completed,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,Italy,100,Henkel Italia Operations srl,5013050,HENKEL ITALIA OPERATIONS srl,9850,Details
+EU516410,10-0,2019-04-19 12:36:45.002,Completed,Netherlands,100,BCI Carbon Trading Account,5019414,Brainchild Capital Investments B.V.,Netherlands,100,Agro Care WP11 Exploitatie,5011633,AgroCare WP11 Exploitatie B.V.,2700,Details

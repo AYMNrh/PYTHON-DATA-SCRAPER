@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU520153,10-2,2019-04-29 11:30:58.464,Completed,Germany,100,884 - Anlagenkonto,5016053,Stadtwerke Frankfurt (Oder) GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,1442,Details
+EU515119,10-2,2019-04-29 11:30:46.539,Completed,Netherlands,100,Koole Tankstorage Pernis B.V.,5011042,Koole Tankstorage Pernis B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,15620,Details
+EU520147,10-2,2019-04-29 11:28:05.889,Completed,Slovakia,100,VAS - CO2,5003818,VAS s.r.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,7261,Details
+EU520114,10-2,2019-04-29 11:27:27.002,Completed,Portugal,100,53-Iberol-Sociedade Ibérica de Biocombustíveis e Olea,5003970,Iberol-Sociedade Ibérica de Biocombustíveis e Olea,European Commission,100,EU Allowance deletion,5016380,European Commission,18870,Details
+EU520149,10-2,2019-04-29 11:27:18.179,Completed,Poland,100,SprintAir S.A.,5027336,SprintAir S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,10648,Details
+EU520146,10-2,2019-04-29 11:25:43.384,Completed,Poland,100,KOTŁOWNIA,5003604,WARTER SPÓŁKA JAWNA,European Commission,100,EU Allowance deletion,5016380,European Commission,8708,Details
+EU505439,10-2,2019-04-29 11:25:27.662,Completed,Lithuania,100,Operator Account:LT10,5006001,UAB Roku keramika,European Commission,100,EU Allowance deletion,5016380,European Commission,1915,Details
+EU520107,10-2,2019-04-29 11:24:51.583,Completed,Hungary,100,VIRESOL Kft.,5027904,VIRESOL KFT.,European Commission,100,EU Allowance deletion,5016380,European Commission,1,Details
+EU520143,10-0,2019-04-29 11:23:50.581,Completed,Portugal,100,TRADE2C,5026779,"TRADE2C, UNIPESSOAL, LDA.",Portugal,100,"UNIGERAÇÃO, Lda.",5024075,"UNIGERAÇÃO, Lda.",630,Details
+EU519602,10-2,2019-04-29 11:21:58.457,Completed,Spain,100,"Iberboard Mill, S.L.",5009238,"Iberboard Mill, S.L.",European Commission,100,EU Allowance deletion,5016380,European Commission,25270,Details
+EU520118,10-2,2019-04-29 11:19:47.966,Completed,Hungary,100,DUNAFIN Zrt.,5011872,Dunafin Zrt.,European Commission,100,EU Allowance deletion,5016380,European Commission,8357,Details
+EU520148,10-0,2019-04-29 11:18:00.616,Completed,Germany,100,ENGIE GLOBAL MARKETS,5016881,ENGIE Global Markets,France,100,PRODIA SNC,5005473,PRODIA SNC,17400,Details
+EU519886,10-0,2019-04-29 11:16:03.99,Completed,Portugal,100,TRADE2C,5026779,"TRADE2C, UNIPESSOAL, LDA.",Spain,100,FUTURA CARBONO S.L.,5024181,FUTURA CARBONO S.L.,121,Details
+EU520088,10-2,2019-04-29 11:14:50.914,Completed,France,100,Safran Aircraft Engines - Villaroche,5005327,Safran Aircraft Engines,European Commission,100,EU Allowance deletion,5016380,European Commission,8666,Details
+EU520139,10-2,2019-04-29 11:13:38.016,Completed,Finland,100,CO2 Meri Pori FI-3:FI78,5010861,Fortum Power and Heat Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,51654,Details
+EU518485,10-2,2019-04-29 11:04:39.212,Completed,France,100,DALKIA - Chauffage Urbain de Joué Les Tours,5005766,DALKIA,European Commission,100,EU Allowance deletion,5016380,European Commission,25031,Details
+EU520111,10-2,2019-04-29 11:03:36.17,Completed,Italy,100,COLUMBUS,5021977,COLUMBUS SRL,European Commission,100,EU Allowance deletion,5016380,European Commission,10002,Details
+EU517240,10-2,2019-04-29 11:03:12.051,Completed,Ireland,100,Janssen Sciences Operator Holding Account,5012047,Janssen Sciences Ireland UC,European Commission,100,EU Allowance deletion,5016380,European Commission,4093,Details
+EU518307,10-2,2019-04-29 11:00:27.59,Completed,France,100,EFECTIS FRANCE,5023263,EFECTIS FRANCE,European Commission,100,EU Allowance deletion,5016380,European Commission,413,Details
+EU519695,10-2,2019-04-29 11:00:21.508,Completed,Spain,100,"Data Holdings Future, S.L",5023192,"Data Holdings Future, S.L",European Commission,100,EU Allowance deletion,5016380,European Commission,97,Details

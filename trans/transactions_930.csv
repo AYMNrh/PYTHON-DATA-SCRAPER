@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU500089,10-2,2019-03-27 10:15:16.407,Completed,Sweden,100,Hässleholmsfabriken,5017798,Paroc AB,European Commission,100,EU Allowance deletion,5016380,European Commission,33708,Details
+EU500950,10-2,2019-03-27 10:14:28.001,Completed,Latvia,100,Operator Account:LV18,5012085,SIA „Aizkraukles siltums”,European Commission,100,EU Allowance deletion,5016380,European Commission,2830,Details
+EU500092,10-2,2019-03-27 10:13:25.624,Completed,Sweden,100,Hällekisfabriken,5001842,Paroc AB,European Commission,100,EU Allowance deletion,5016380,European Commission,69011,Details
+EU501345,10-0,2019-03-27 10:09:51.704,Completed,Germany,100,Vattenfall Energy Trading GmbH,5017244,Vattenfall Energy Trading GmbH,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,100000,Details
+EU501224,10-0,2019-03-27 10:09:43.456,Completed,Germany,100,SWH Trading Account,5016947,enercity Aktiengesellschaft,Germany,100,1400 - Anlagenkonto,5014749,enercity Aktiengesellschaft,253281,Details
+EU501381,10-0,2019-03-27 10:09:40.98,Completed,Germany,100,Goldman Sachs International,5027670,Goldman Sachs International,Italy,100,Snam S.p.A.,5027816,Snam S.p.A.,14608,Details
+EU501210,10-0,2019-03-27 10:09:04.456,Completed,Italy,100,Axpo Italia Trading Account,5023288,Axpo Italia S.p.A.,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,359000,Details
+EU501223,10-0,2019-03-27 10:08:10.66,Completed,Germany,100,SWH Trading Account,5016947,enercity Aktiengesellschaft,Germany,100,1405 - Anlagenkonto,5014756,GKH - Gemeinschaftskraftwerk Hannover GmbH,148734,Details
+EU501285,10-0,2019-03-27 10:07:25.364,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,France,100,SEMECO IDEX ENERGIES - Chaufferie de Bobigny,5004862,IDEX ENERGIES,30000,Details
+EU501350,10-0,2019-03-27 10:07:25.32,Completed,Italy,100,Carbon Trading 1,5016906,Banca Finnat S.p.A.,Italy,100,Loro Piana SpA,5026069,Loro Piana SpA,1000,Details
+EU501279,10-2,2019-03-27 10:07:24.147,Completed,Lithuania,100,Operator AccountLT87,5006078,UAB Palangos silumos tinklai,European Commission,100,EU Allowance deletion,5016380,European Commission,2703,Details
+EU501371,10-0,2019-03-27 10:06:46.799,Completed,Norway,100,DNB Markets Trading Account,5017497,DNB Bank ASA,Norway,100,Widerøe,5000306,Widerøe's Flyveselskap AS,8362,Details
+EU501287,10-0,2019-03-27 10:06:19.553,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Poland,100,WLM II - Żniwna 5,5003389,Kielecka Spóldzielnia Mieszkaniowa,5511,Details
+EU501348,10-0,2019-03-27 10:05:22.348,Completed,Germany,100,Statkraft Markets GmbH,5017011,Statkraft Markets GmbH,Germany,100,Knapsack II,5019053,Statkraft Markets GmbH,14266,Details
+EU501340,10-2,2019-03-27 10:04:20.058,Completed,Netherlands,100,AVEBE U.A. locatie Gasselternijveen,5011290,Coöperatie Koninklijke Avebe U.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,97350,Details
+EU501160,10-0,2019-03-27 10:04:18.883,Completed,Netherlands,100,RBC – Toronto Branch,5027869,RBC Europe Limited,Netherlands,100,Royal Bank of Canada,5027912,Royal Bank of Canada,1,Details
+EU501323,10-0,2019-03-27 10:03:54.434,Completed,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,Ireland,100,Stobart Air Operator account,5019271,Stobart Air Unlimited Company,15000,Details
+EU501225,10-0,2019-03-27 10:03:53.743,Completed,Germany,100,SWH Trading Account,5016947,enercity Aktiengesellschaft,Germany,100,1402 - Anlagenkonto,5014753,enercity Aktiengesellschaft,18134,Details
+EU500991,10-0,2019-03-27 10:03:48.583,Completed,Germany,100,Bayern LB,5016942,Bayerische Landesbank,Germany,100,808 - Anlagenkonto,5015512,Merck KGaA,4793863,Details
+EU501313,10-0,2019-03-27 10:02:44.446,Completed,Italy,100,Axpo Italia Trading Account,5023288,Axpo Italia S.p.A.,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,10000,Details

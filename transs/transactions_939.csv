@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU501152,10-0,2019-03-26 15:47:20.903,Completed,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,United Kingdom,100,ED&F Man Capital Markets Ltd,5023256,E D & F MAN CAPITAL MARKETS LIMITED,16000,Details
+EU501031,10-2,2019-03-26 15:46:28.199,Completed,Germany,100,Ford Cologne Vehicle Operations,5017901,Ford-Werke GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,16946,Details
+EU501036,10-2,2019-03-26 15:45:19.35,Completed,Germany,100,BHKW Fordwerke Saarlouis,5024805,Ford-Werke GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,65098,Details
+EU500830,10-0,2019-03-26 15:44:46.066,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,United Kingdom,100,A2A S.p.A.,5026060,A2A S.P.A.,5000,Details
+EU498025,10-2,2019-03-26 15:44:29.808,Completed,Germany,100,781 - Anlagenkonto,5015231,Mohn Media Mohndruck GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,69350,Details
+EU500831,10-0,2019-03-26 15:43:25.446,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Norway,100,DNB Markets Trading Account,5017497,DNB Bank ASA,9000,Details
+EU500906,10-0,2019-03-26 15:42:02.663,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Greece,100,MOTOKOR,5016949,ΜΟΤΟΡ ΟΙΛ - Δ. ΚΟΡΙΝΘΟΥ,5000,Details
+EU500832,10-0,2019-03-26 15:41:30.13,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Italy,100,ENEL TRADE ITALIA,5016899,Enel Global Trading S.p.A.,9000,Details
+EU501048,10-0,2019-03-26 15:40:48.257,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Belgium,100,176 Esso Raffinaderij,5004575,Exxonmobil Petroleum & Chemical,102000,Details
+EU500109,10-2,2019-03-26 15:40:27.262,Completed,Netherlands,100,Asfalt-Centrale BAM B.V.,5022200,Asfalt-Centrale BAM B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,2984,Details
+EU501147,10-0,2019-03-26 15:39:25.189,Completed,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,16000,Details
+EU501144,10-0,2019-03-26 15:38:04.358,Completed,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,Bulgaria,100,Grand Energy Distribution EOOD,5027708,Grand Energy Disribution EOOD,40000,Details
+EU501100,10-0,2019-03-26 15:36:45.545,Completed,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,350000,Details
+EU501141,10-0,2019-03-26 15:35:14.164,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,16000,Details
+EU500411,10-0,2019-03-26 15:35:08.558,Completed,Belgium,100,1281 BASF Antwerpen - 127a,5020269,B.A.S.F. Antwerpen,Belgium,100,307 Zandvliet Power,5004320,Zandvliet Power,38801,Details
+EU501104,10-0,2019-03-26 15:34:36.492,Completed,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,United Kingdom,100,ED&F Man Capital Markets Ltd,5023256,E D & F MAN CAPITAL MARKETS LIMITED,259000,Details
+EU500431,10-0,2019-03-26 15:33:42.964,Completed,Greece,100,IPPC S.A.,5016925,ΕΥΣΤΑΘΙΟΣ ΚΟΥΡΝΙΩΤΗΣ,France,100,MERCURIA ENERGY TRADING SA,5016876,MERCURIA ENERGY TRADING SA,2000,Details
+EU500394,10-0,2019-03-26 15:33:42.906,Completed,Denmark,100,Neas Energy A/S,5020307,Centrica Energy Trading A/S,Denmark,100,Svendborg Kraftvarme A/S,5019352,Svendborg Kraftvarme A/S,6000,Details
+EU501110,10-0,2019-03-26 15:33:39.762,Completed,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,23000,Details
+EU501114,10-0,2019-03-26 15:32:41.724,Completed,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,10000,Details

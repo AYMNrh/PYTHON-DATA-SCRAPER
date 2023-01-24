@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU501891,10-72,2019-03-27 18:34:35.561,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Italy,100,Conto Tioxide,5021435,Venator Italy s.r.l.,1689,Details
+EU501713,10-71,2019-03-27 18:33:42.7,Completed,Italy,100,Conto Tioxide,5021435,Venator Italy s.r.l.,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,1689,Details
+EU501788,10-2,2019-03-27 18:10:38.956,Completed,Italy,100,Operator Account,5013526,ERG Power S.r.l.,European Commission,100,EU Allowance deletion,5016380,European Commission,1008423,Details
+EU501869,10-2,2019-03-27 18:10:33.202,Completed,France,100,CPTE PDM industries,5004729,PDM Industries,European Commission,100,EU Allowance deletion,5016380,European Commission,8007,Details
+EU501875,10-2,2019-03-27 18:09:01.063,Completed,France,100,Papeteries de Saint Girons,5004941,Papeteries de Saint Girons,European Commission,100,EU Allowance deletion,5016380,European Commission,15469,Details
+EU501883,10-2,2019-03-27 18:06:52.827,Completed,France,100,CPTE LTR INDUSTRIES,5005836,LTR Industries,European Commission,100,EU Allowance deletion,5016380,European Commission,10958,Details
+EU501885,10-2,2019-03-27 18:02:08.909,Completed,Italy,100,Mondovì trading,5013097,Mondo Energia S.r.l.,European Commission,100,EU Allowance deletion,5016380,European Commission,19073,Details
+EU500205,10-0,2019-03-27 18:00:08.578,Completed,Italy,100,Giancarlo Ferlini,5012900,Conserve Italia soc.coop.agricola,Italy,100,Giancarlo Ferlini,5012905,Conserve Italia soc.coop.agricola,3200,Details
+EU500224,10-0,2019-03-27 17:59:02.386,Completed,Italy,100,Giancarlo Ferlini,5012901,Conserve Italia soc.coop.agricola,Italy,100,Giancarlo Ferlini,5012903,Conserve Italia soc.coop.agricola,7000,Details
+EU500231,10-0,2019-03-27 17:57:29.604,Completed,Italy,100,Giancarlo Ferlini,5012901,Conserve Italia soc.coop.agricola,Italy,100,Giancarlo Ferlini,5012897,Conserve Italia soc.coop.agricola,1500,Details
+EU501058,10-0,2019-03-27 17:56:52.071,Completed,Germany,100,ENGIE Deutschland  - Personenkonto,5015441,ENGIE Deutschland AG,Germany,100,KW Wilhelmshaven,5022382,Onyx Kraftwerk Wilhelmshaven GmbH & Co. KG,34642,Details
+EU500239,10-0,2019-03-27 17:55:46.662,Completed,Italy,100,Giancarlo Ferlini,5012901,Conserve Italia soc.coop.agricola,Italy,100,Giancarlo Ferlini,5012902,Conserve Italia soc.coop.agricola,1500,Details
+EU501112,10-0,2019-03-27 17:50:37.026,Completed,Italy,100,VILLAPANA ET,5013128,VILLAPANA SPA,Italy,100,Intermonte Partners SIM S.p.A.,5021903,Intermonte Partners SIM S.p.A.,9000,Details
+NL31938,4-0,2019-03-27 17:48:36.273,Completed,Netherlands,121,FairClimateFund,901,FairClimateFund B.V.,Netherlands,230,Annuleringsrekening CP2,5018612,Nederlandse Emissieautoriteit,140,Details
+EU501163,10-0,2019-03-27 17:48:03.658,Completed,United Kingdom,100,BPEOC Dimlington-Easington,5008311,Perenco UK Limited,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,500000,Details
+NL31939,4-0,2019-03-27 17:47:20.527,Completed,Netherlands,121,FairClimateFund,901,FairClimateFund B.V.,Netherlands,230,Annuleringsrekening CP2,5018612,Nederlandse Emissieautoriteit,184,Details
+EU501149,10-0,2019-03-27 17:46:40.477,Completed,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,9807,Details
+EU501148,10-0,2019-03-27 17:37:24.986,Completed,Germany,100,KKW Brokdorf,5014347,PreussenElektra GmbH,Germany,100,KKW Grohnde,5014324,PreussenElektra GmbH,1657,Details
+EU501882,10-72,2019-03-27 17:37:19.552,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Netherlands,100,Oldambt Groenvoederdrogerij B.V.,5020253,B.V. Oldambt,1162,Details
+EU501873,10-71,2019-03-27 17:36:21.444,Completed,Netherlands,100,Oldambt Groenvoederdrogerij B.V.,5020253,B.V. Oldambt,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,1162,Details

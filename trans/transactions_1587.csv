@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU487558,10-36,2019-02-22 01:33:41.908,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Stora Enso Fors AB,5001553,Stora Enso Fors AB,86712,Details
+EU487520,10-36,2019-02-22 01:33:41.71,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Slovenia,100,REVOZ,5008690,REVOZ D.D.,17595,Details
+EU487514,10-36,2019-02-22 01:33:41.453,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Tierps gasolanläggning,5001608,Tierps Fjärrvärme AB,3460,Details
+EU487502,10-36,2019-02-22 01:33:41.446,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,RÜTGERS Basisaromaten Castrop-Rauxel,5019869,Rain Carbon Germany GmbH,100668,Details
+EU487481,10-36,2019-02-22 01:33:41.434,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,SCA Energy AB,5001832,SCA Energy AB,8485,Details
+EU487528,10-36,2019-02-22 01:33:40.867,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Skogsbacka,5002017,Skellefteå Kraft AB,12135,Details
+EU487511,10-36,2019-02-22 01:33:40.815,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Slovenia,100,PIVOVARNA LAŠKO,5008687,PIVOVARNA LAŠKO UNION d.o.o.,2325,Details
+EU487482,10-36,2019-02-22 01:33:40.679,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Figeholm Utnäs 4,5001397,Hitachi Energy Sweden AB,5591,Details
+EU487485,10-36,2019-02-22 01:33:40.534,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Alleima Tube AB,5001435,Alleima Tube AB,80626,Details
+EU487526,10-36,2019-02-22 01:33:40.51,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Bodens värmeverk,5002150,Bodens Energi AB,23982,Details
+EU487486,10-36,2019-02-22 01:33:40.5,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Höganäs Borgestad AB,5001548,Höganäs Borgestad AB,4185,Details
+EU487516,10-36,2019-02-22 01:33:40.498,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Celanese Production Sweden AB,5021783,Celanese Production Sweden AB,2717,Details
+EU487505,10-36,2019-02-22 01:33:40.453,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Äpplet,5001577,Ystad Energi AB,82,Details
+EU487515,10-36,2019-02-22 01:33:40.452,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Werk 2 mit Linie 3 und 4 inklusive Mahlanlage,5021940,ERLUS Aktiengesellschaft,38251,Details
+EU487493,10-36,2019-02-22 01:33:40.444,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Nymölla Bruk,5001425,Stora Enso Paper AB,126955,Details
+EU487529,10-36,2019-02-22 01:33:40.389,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Aarhus Karlshamns ångcentral,5001495,AAK Sweden AB,27111,Details
+EU487512,10-36,2019-02-22 01:33:40.377,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Värtan,5002090,Stockholm Exergi AB,159448,Details
+EU487518,10-36,2019-02-22 01:33:40.266,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,HVC Gällivare,5001989,Gällivare Energi AB,13007,Details
+EU487513,10-36,2019-02-22 01:33:40.209,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Hovhultsverket,5002251,Uddevalla Kraft AB,9378,Details
+EU487506,10-36,2019-02-22 01:33:40.041,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Brunna fabrik,5001462,Fresenius Kabi AB,3949,Details

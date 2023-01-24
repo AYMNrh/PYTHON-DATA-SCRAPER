@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU520545,10-71,2019-04-30 13:08:08.237,Completed,Belgium,100,220 Clarebout Potatoes,5004619,Clarebout Potatoes,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,2,Details
+EU520623,10-2,2019-04-30 13:03:36.644,Completed,France,100,Cpte GASSCO AS,5005298,GASSCO SA,European Commission,100,EU Allowance deletion,5016380,European Commission,5956,Details
+EU520624,10-2,2019-04-30 13:02:07.631,Completed,Bulgaria,100,Biovet JSCo-Cogeneration plant Biovet,5016154,Biovet JSCo,European Commission,100,EU Allowance deletion,5016380,European Commission,370,Details
+EU520136,10-0,2019-04-30 13:01:38.276,Completed,Germany,100,917 - Anlagenkonto,5013963,Stadtwerke Ratingen GmbH,Germany,100,RWE Vertrieb AG Retail - Trading,5017190,innogy SE,4162,Details
+EU520618,10-0,2019-04-30 13:00:48.135,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,15000,Details
+EU520620,10-2,2019-04-30 13:00:36.755,Completed,United Kingdom,100,JPS LTD,5007882,Advanced Proteins Unltd,European Commission,100,EU Allowance deletion,5016380,European Commission,34137,Details
+EU520622,10-0,2019-04-30 12:57:42.907,Completed,Czech Republic,100,LAMA,5020068,LAMA energy a.s.,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,1750,Details
+EU520614,10-0,2019-04-30 12:56:37.061,Completed,Slovenia,100,Belektron TRD Si,5016820,BELEKTRON d.o.o.,Netherlands,100,FUTURES CLIENT TRADING ACCOUNT,5027936,Macquarie Bank Limited,118000,Details
+EU507278,10-2,2019-04-30 12:56:31.547,Completed,Ireland,100,Friedkin Aviation Inc,5020045,Friedkin Aviation Inc,European Commission,100,EU Allowance deletion,5016380,European Commission,132,Details
+EU520124,10-0,2019-04-30 12:56:18.551,Completed,Germany,100,MVV Enamic GmbH - Händlerkonto,5013943,MVV Enamic GmbH,Germany,100,iglo GmbH Heizwerk Reken,5015046,iglo GmbH,13247,Details
+EU520122,10-0,2019-04-30 12:55:32.567,Completed,Italy,100,Sadepanchimica,5017727,Sadepan Chimica S.r.l.,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,6889,Details
+EU520619,10-2,2019-04-30 12:53:49.806,Completed,Bulgaria,100,Bulgaria Air JSC,5000160,Bulgaria Air,European Commission,100,EU Allowance deletion,5016380,European Commission,120564,Details
+EU515295,10-0,2019-04-30 12:52:51.939,Completed,Bulgaria,100,Biovet JSCo-Pechtera,5016153,Biovet JSCo,Bulgaria,100,Biovet JSCo-Cogeneration plant Biovet,5016154,Biovet JSCo,370,Details
+EU520119,10-0,2019-04-30 12:52:45.458,Completed,Italy,100,Operator Account,5013308,Gruppo Mauro Saviola S.r.l.,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,1213,Details
+EU520115,10-0,2019-04-30 12:50:55.227,Completed,Italy,100,Operator Account,5013237,MARANGONI TYRE S.P.A.,Italy,100,Operator Account,5013228,Marangoni S.p.A.,1002,Details
+EU520104,10-0,2019-04-30 12:50:04.38,Completed,Italy,100,Intermonte Partners SIM S.p.A.,5021903,Intermonte Partners SIM S.p.A.,Italy,100,Operator Account,5012494,CARTIERA DI FERRARA S.P.A.,10400,Details
+EU520117,10-0,2019-04-30 12:49:25.463,Completed,Italy,100,Operator Account,5013306,Gruppo Mauro Saviola S.r.l.,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,1687,Details
+EU520090,10-0,2019-04-30 12:48:21.665,Completed,France,100,Société Valmy Défense 17 - SVD17,5023377,SVD 17,France,100,COGESTAR 3 - Mc Cain Matougues,5028069,COGESTAR 3,6621,Details
+EU520113,10-2,2019-04-30 12:44:37.684,Completed,Liechtenstein,100,31 - Hilcona AG,5001346,Hilcona AG,European Commission,100,EU Allowance deletion,5016380,European Commission,242,Details
+EU520063,10-0,2019-04-30 12:44:20.66,Completed,Germany,100,ECC AG Auction Delivery Account DE,5016816,European Commodity Clearing AG,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,3209000,Details

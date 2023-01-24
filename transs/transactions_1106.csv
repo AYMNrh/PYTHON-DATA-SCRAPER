@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU496749,10-2,2019-03-15 12:06:56.823,Completed,United Kingdom,100,Aberdeen Compressor Station,5007423,National Grid Gas Plc,European Commission,100,EU Allowance deletion,5016380,European Commission,67687,Details
+EU496662,10-0,2019-03-15 12:06:54.249,Completed,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,Netherlands,100,ESSO Raffinaderij Rotterdam,5011347,Esso Nederland B.V.,96000,Details
+EU496823,10-0,2019-03-15 12:06:44.896,Completed,Sweden,100,HVC Östanå,5002038,Mjölby-Svartådalen Energi AB,Sweden,100,HVC Sörby,5002035,Mjölby-Svartådalen Energi AB,3500,Details
+EU497019,10-0,2019-03-15 12:06:38.519,Completed,Austria,100,Magna Steyr Werk 1 Graz,5004219,MAGNA STEYR Fahrzeugtechnik GmbH & Co KG,Austria,100,FHKW Thondorf,5004053,Energie Steiermark Wärme GmbH,10398,Details
+EU496989,10-0,2019-03-15 12:06:18.203,Completed,United Kingdom,100,Operator Account,5007430,Total Lindsey Oil Refinery Limited,France,100,TRF Compte de dépôt,5005166,TOTALENERGIES RAFFINAGE FRANCE,37124,Details
+EU492440,10-0,2019-03-15 12:06:18.195,Completed,Denmark,100,Danske Commodities A/S,5017234,Danske Commodities A/S,Denmark,100,Måbjergværket A/S:DK329,5006357,Maabjerg Energy Center - BioHeat&Power A/S,12043,Details
+EU496997,10-0,2019-03-15 12:06:08.253,Completed,Cyprus,100,Operator Account:CY20,5012204,Varnavas Nicolaou,Bulgaria,100,Zagora Finacorp Jsc.,5027231,Zagora Finacorp Jsc.,2000,Details
+EU496827,10-0,2019-03-15 12:06:07.926,Completed,Germany,100,UST Handelskonto,5013741,Uniper Energy Storage GmbH,Germany,100,Etzel Feuerungsanlagen,5016551,Uniper Energy Storage GmbH,834,Details
+EU496789,10-0,2019-03-15 12:06:05.266,Completed,France,100,KERVALIS ARMOR,5005987,KERVALIS ARMOR,France,100,KERVALIS,5022165,KERVALIS,9612,Details
+EU496974,10-0,2019-03-15 12:05:05.133,Completed,Sweden,100,FVC1 Craboverket,5002264,Västerbergslagens Energi AB,Sweden,100,"LVC2 Lasarettets PC, Ludvika",5002266,Västerbergslagens Energi AB,10600,Details
+EU496881,10-0,2019-03-15 12:04:54.717,Completed,United Kingdom,100,DSDC Donnington,5007313,MOD Donnington,United Kingdom,100,,5024760,,1195,Details
+EU496831,10-0,2019-03-15 12:04:42.628,Completed,Germany,100,UST Handelskonto,5013741,Uniper Energy Storage GmbH,Germany,100,Speicherverdichterstation Epe - Feuerungsanlagen,5014344,Uniper Energy Storage GmbH,2218,Details
+EU496885,10-0,2019-03-15 12:04:31.325,Completed,United Kingdom,100,Sandhurst,5007894,Ministry of Defence,United Kingdom,100,RAF Brize Norton,5008334,Ministry of Defence,28,Details
+EU496816,10-0,2019-03-15 12:04:11.451,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,United Kingdom,100,Morgan Stanley Capital Group Inc,5017295,Morgan Stanley Capital Group Inc,25000,Details
+EU496884,10-0,2019-03-15 12:04:06.912,Completed,United Kingdom,100,Culdrose,5007908,Ministry of Defence,United Kingdom,100,RAF Brize Norton,5008334,Ministry of Defence,580,Details
+EU497003,10-0,2019-03-15 12:04:05.113,Completed,Norway,100,A/S Norske Shell Ormen Lange,5027143,A/S Norske Shell,Germany,100,Shell Trading International Limited,5027588,Shell Trading International Limited,22652,Details
+EU496822,10-0,2019-03-15 12:03:57.42,Completed,Germany,100,UST Handelskonto,5013741,Uniper Energy Storage GmbH,Germany,100,Speicherverdichterstation Bierwang - Verdichterant.,5015356,Uniper Energy Storage GmbH,5257,Details
+EU496880,10-0,2019-03-15 12:03:42.557,Completed,United Kingdom,100,HMS Collingwood,5007945,Ministry of Defence,United Kingdom,100,,5024760,,3525,Details
+EU496825,10-0,2019-03-15 12:03:34.887,Completed,Germany,100,UST Handelskonto,5013741,Uniper Energy Storage GmbH,Germany,100,Speicherverdichterstation Eschenfelden,5015413,Uniper Energy Storage GmbH,768,Details
+EU496824,10-0,2019-03-15 12:03:17.623,Completed,Germany,100,UST Handelskonto,5013741,Uniper Energy Storage GmbH,Germany,100,Speicherverdichterstation Breitbrunn,5015400,Uniper Energy Storage GmbH,23921,Details

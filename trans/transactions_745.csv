@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU504840,10-0,2019-04-03 17:58:33.081,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Netherlands,100,Steenindustrie Strating B.V.,5011093,Steenindustrie Strating B.V.,3810,Details
+EU503542,10-2,2019-04-03 17:57:52.386,Completed,France,100,SLV-Ta-EDS2,5005453,SOLVAY FRANCE,European Commission,100,EU Allowance deletion,5016380,European Commission,294145,Details
+EU504837,10-0,2019-04-03 17:56:12.782,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,France,100,DESHYOUEST,5021444,DESHYOUEST,581,Details
+EU504816,10-0,2019-04-03 17:49:12.209,Completed,Poland,100,Enea Wytwarzanie Sp. z o.o.,5002559,ENEA WYTWARZANIE SP. Z O.O.,Poland,100,ELEKTROWNIA KOZIENICE,5003265,ENEA WYTWARZANIE SP. Z O.O.,13455531,Details
+SE32854,3-0,2019-04-03 17:46:10.893,Completed,Sweden,100,Internationella klimatinsatser,5017396,Statens energimyndighet,Switzerland,100,,1106,,8291,Details
+EU503911,10-2,2019-04-03 17:36:50.584,Completed,Spain,100,"Andaluza de Cales, S.A.",5009553,"Andaluza de Cales, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,196469,Details
+EU504801,10-0,2019-04-03 17:31:27.457,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Netherlands,100,Agristo B.V.,5021020,Agristo B.V.,57,Details
+EU504798,10-0,2019-04-03 17:30:29.175,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Belgium,100,432 Agristo Wielsbeke,5027917,Agristo,16321,Details
+EU505730,10-2,2019-04-03 17:28:02.602,Completed,Italy,100,Conto Torrette Ancona,5016684,SIRAM SPA,European Commission,100,EU Allowance deletion,5016380,European Commission,8829,Details
+EU504796,10-0,2019-04-03 17:27:40.284,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Belgium,100,431 Agristo Harelbeke,5027915,Agristo,11289,Details
+EU504281,10-0,2019-04-03 17:27:27.528,Completed,Germany,100,189 - Anlagenkonto,5014401,Märker Kalk GmbH,Germany,100,174 - Anlagenkonto,5014275,Märker Kalk GmbH,200000,Details
+EU505746,10-2,2019-04-03 17:24:12.47,Completed,Italy,100,CT TLR Chivasso,5025639,SIRAM SPA,European Commission,100,EU Allowance deletion,5016380,European Commission,1812,Details
+EU505724,10-2,2019-04-03 17:22:57.612,Completed,Italy,100,Ospedale di Cittadella,5024381,SIRAM SPA,European Commission,100,EU Allowance deletion,5016380,European Commission,4647,Details
+EU498923,10-2,2019-04-03 17:22:14.32,Completed,Italy,100,SRB S.P.A.,5013203,SRB S.P.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,5422,Details
+EU504795,10-0,2019-04-03 17:22:10.015,Completed,Italy,100,577_Cordenons,5012510,GRUPPO CORDENONS SPA,Italy,100,217_Scurelle,5012507,GRUPPO CORDENONS SPA,5000,Details
+EU505293,10-2,2019-04-03 17:21:30.972,Completed,Spain,100,"Neo SC El Grado, S.L.U.",5009573,"Neo SC El Grado, S.L.U.",European Commission,100,EU Allowance deletion,5016380,European Commission,95154,Details
+EU505718,10-2,2019-04-03 17:20:57.546,Completed,Italy,100,1698_S.Anna in Cona,5016779,SIRAM SPA,European Commission,100,EU Allowance deletion,5016380,European Commission,5644,Details
+EU504790,10-0,2019-04-03 17:19:46.156,Completed,Germany,100,820 - Anlagenkonto,5015593,Philip Morris Manufacturing GmbH,Germany,100,Emissionshändler.com GEMB mbH,5019435,GEMB Gesellschaft für Emissionsmanagement und Beratung mbH,2650,Details
+EU504885,10-2,2019-04-03 17:18:24.601,Completed,Germany,100,1118 - Anlagenkonto,5014358,AUDI Aktiengesellschaft,European Commission,100,EU Allowance deletion,5016380,European Commission,41312,Details
+EU504893,10-2,2019-04-03 17:17:10.378,Completed,Germany,100,1406 - Anlagenkonto,5014757,AUDI Aktiengesellschaft,European Commission,100,EU Allowance deletion,5016380,European Commission,36397,Details

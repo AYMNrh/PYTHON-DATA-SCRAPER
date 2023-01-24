@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU493375,10-0,2019-03-05 15:13:17.373,Completed,Sweden,100,Biovärmeverket,5001833,Kraftringen Energi AB,Sweden,100,Örtoftaverket,5021322,Kraftringen Energi AB,5050,Details
+EU494542,10-2,2019-03-05 15:11:12.051,Completed,United Kingdom,100,Portals Overton Mill,5007838,Portals De La Rue Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,32933,Details
+EU494493,10-0,2019-03-05 15:10:09.819,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,2000,Details
+EU493370,10-0,2019-03-05 15:09:35.126,Completed,Sweden,100,Biovärmeverket,5001833,Kraftringen Energi AB,Sweden,100,Dalby,5027782,Kraftringen Energi AB,65,Details
+EU494524,10-0,2019-03-05 15:08:17.271,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,199000,Details
+EU494502,10-2,2019-03-05 15:08:15.02,Completed,United Kingdom,100,Arconic Manufacturing (GB) Limited,5020449,Arconic Manufacturing (GB) Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,32942,Details
+EU493049,10-0,2019-03-05 15:06:10.195,Completed,Belgium,100,316 Norbord,5004329,Norbord,United Kingdom,100,Operator Account,5008149,Norbord Europe Limited,17700,Details
+EU493366,10-0,2019-03-05 15:05:59.928,Completed,Sweden,100,Biovärmeverket,5001833,Kraftringen Energi AB,Sweden,100,HVC Kv. Laxen,5002116,Kraftringen Energi AB,59,Details
+EU494526,10-0,2019-03-05 15:05:49.684,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,United Kingdom,100,ED&F Man Capital Markets Ltd,5023256,E D & F MAN CAPITAL MARKETS LIMITED,133000,Details
+EU494525,10-0,2019-03-05 15:04:40.702,Completed,Germany,100,Statkraft Markets GmbH,5017011,Statkraft Markets GmbH,Bulgaria,100,ContourGlobal Maritsa East 3 AD,5016120,ContourGlobal Maritsa East 3 AD,250000,Details
+EU494527,10-0,2019-03-05 15:04:40.389,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,63000,Details
+EU490931,10-2,2019-03-05 15:04:24.892,Completed,United Kingdom,100,Operator Account,5008389,Enviroenergy Ltd,European Commission,100,EU Allowance deletion,5016380,European Commission,1698,Details
+EU494530,10-0,2019-03-05 15:03:35.635,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,30000,Details
+EU493364,10-0,2019-03-05 15:03:18.661,Completed,Sweden,100,Biovärmeverket,5001833,Kraftringen Energi AB,Sweden,100,HVC Kv. Betan,5002114,Kraftringen Energi AB,659,Details
+EU494532,10-0,2019-03-05 15:02:35.564,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,15000,Details
+EU493359,10-0,2019-03-05 14:59:25.184,Completed,Sweden,100,LHVC,5001466,Kraftringen Energi AB,Sweden,100,Örtoftaverket,5021322,Kraftringen Energi AB,11762,Details
+EU493357,10-0,2019-03-05 14:57:09.004,Completed,Sweden,100,LHVC,5001466,Kraftringen Energi AB,Sweden,100,Alnarps PC,5001703,Kraftringen Energi AB,197,Details
+EU493353,10-0,2019-03-05 14:51:52.632,Completed,Sweden,100,Återbruket,5001766,Kraftringen Energi AB,Sweden,100,Örtoftaverket,5021322,Kraftringen Energi AB,10074,Details
+EU494517,10-0,2019-03-05 14:49:58.388,Completed,United Kingdom,100,SSE Energy Supply Limited,5023336,SSE Energy Supply Limited,United Kingdom,100,Medway Power Station,5008589,Medway Power Limited,619337,Details
+EU494516,10-2,2019-03-05 14:44:37.174,Completed,Denmark,100,Smørum Kraftv,5006435,Smørum Kraftvarme A.m.b.A,European Commission,100,EU Allowance deletion,5016380,European Commission,8140,Details

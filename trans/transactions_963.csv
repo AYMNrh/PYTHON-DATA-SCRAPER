@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU500636,10-36,2019-03-26 01:30:29.703,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Condo di DETA Distilleria,5017802,DISTILLERIA D.E.T.A. SRL,9365,Details
+EU500649,10-36,2019-03-26 01:30:29.687,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Caldaie Polioli,5012679,Alcoplast Srl,21754,Details
+EU500646,10-36,2019-03-26 01:30:29.673,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Sanac S.p.A - Assemini,5013618,SANAC S.p.A. in Amministrazione Straordinaria,6768,Details
+EU500638,10-36,2019-03-26 01:30:29.596,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Sanac S.p.A. - Massa C.,5013613,SANAC S.p.A. in Amministrazione Straordinaria,7309,Details
+EU500648,10-36,2019-03-26 01:30:29.566,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Operator Account,5012763,ITALCEMENTI S.P.A.,357954,Details
+EU500637,10-36,2019-03-26 01:30:29.536,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Operator Account,5012795,ITALCEMENTI S.P.A.,415238,Details
+EU500639,10-36,2019-03-26 01:30:29.503,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Operator Account,5012716,ITALCEMENTI S.P.A.,814017,Details
+EU500650,10-36,2019-03-26 01:30:29.473,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Operator Account,5012724,ITALCEMENTI S.P.A.,749899,Details
+EU500652,10-36,2019-03-26 01:30:29.447,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Operator Account,5012546,TECNOPARCO VALBASENTO,4849,Details
+EU500641,10-36,2019-03-26 01:30:29.416,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Sanac S.p.A - Gattinara,5013614,SANAC S.p.A. in Amministrazione Straordinaria,4079,Details
+EU500651,10-36,2019-03-26 01:30:29.39,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Operator Account,5012807,ITALCEMENTI S.P.A.,364978,Details
+EU500640,10-36,2019-03-26 01:30:29.367,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,78 - Anlagenkonto,5015713,ArcelorMittal Bremen GmbH,3529337,Details
+EU500654,10-36,2019-03-26 01:30:29.339,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Cartiera Capostrada,5013223,Cartiera Capostrada,2595,Details
+EU500643,10-36,2019-03-26 01:30:29.304,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,cartiera san lorenzo,5012880,cartiera san lorenzo,5978,Details
+EU500653,10-36,2019-03-26 01:30:29.291,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Operator Account,5012820,ITALCEMENTI S.P.A.,409279,Details
+EU500634,10-36,2019-03-26 01:30:29.264,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,78 - Anlagenkonto,5015713,ArcelorMittal Bremen GmbH,23617,Details
+EU500642,10-36,2019-03-26 01:30:29.264,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,SICHENIA GRUPPO CERAMICHE,5018804,SICHENIA GRUPPO CERAMICHE,18730,Details
+EU500633,10-36,2019-03-26 01:30:29.253,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,78 - Anlagenkonto,5015713,ArcelorMittal Bremen GmbH,24073,Details
+EU500635,10-36,2019-03-26 01:30:29.253,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,78 - Anlagenkonto,5015713,ArcelorMittal Bremen GmbH,23156,Details
+GB72763,4-0,2019-03-25 21:49:05.025,Completed,United Kingdom,121,Natural Capital Partners,1276,Natural Capital Partners Europe Limited,United Kingdom,230,Voluntary Cancellation Account - Commitment period 2,5018326,"Department for Business, Energy & Industrial Strategy",726,Details

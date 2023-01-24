@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU492618,10-2,2019-02-28 13:35:12.626,Completed,United Kingdom,100,Sean,5007187,ONE-Dyas UK Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,58444,Details
+EU490735,10-0,2019-02-28 13:34:45.798,Completed,United Kingdom,100,SYNTHITE LIMITED,5021255,SYNTHITE LIMITED,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,8948,Details
+EU492630,10-2,2019-02-28 13:34:09.915,Completed,United Kingdom,100,Broomfleet Work,5022055,Wienerberger Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,23893,Details
+EU492625,10-0,2019-02-28 13:32:34.894,Completed,Estonia,100,Baltic Energy Partners OÜ,5016905,Baltic Energy Partners OÜ,Estonia,100,Operator Account:EE37,5016342,AS Utilitas Tallinn,8500,Details
+EU492629,10-0,2019-02-28 13:31:39.882,Completed,Estonia,100,Baltic Energy Partners OÜ,5016905,Baltic Energy Partners OÜ,Estonia,100,Eesti Energia Trading Account,5016951,Eesti Energia AS,20000,Details
+EU492622,10-0,2019-02-28 13:30:38.809,Completed,United Kingdom,100,Macquarie Bank Limited (EUA),5017114,Macquarie Bank Limited,United Kingdom,100,Armada Kraken,5026251,EnQuest Heather Limited,77734,Details
+EU492616,10-0,2019-02-28 13:29:36.99,Completed,Bulgaria,100,Zagora Finacorp Jsc.,5027231,Zagora Finacorp Jsc.,Czech Republic,100,kotelna Cukrovar Litovel,5007074,"Litovelská cukrovarna, a.s.",3000,Details
+EU492617,10-2,2019-02-28 13:29:01.465,Completed,Ireland,100,Operator Account,5012026,Minch Malt Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,11325,Details
+EU490734,10-0,2019-02-28 13:28:57.035,Completed,Spain,100,"Sistema Europeo de Negociación de Co2, S.L.",5020183,"SISTEMA EUROPEO DE NEGOCIACIÓN DE CO2, S.L.",Spain,100,Papelera Ecker S.A.,5009447,"PAPELERA ECKER, S.A.",3000,Details
+EU490728,10-0,2019-02-28 13:23:45.225,Completed,Spain,100,"Sistema Europeo de Negociación de Co2, S.L.",5020183,"SISTEMA EUROPEO DE NEGOCIACIÓN DE CO2, S.L.",Italy,100,Operator Account,5013167,Lucchini Industries S.r.l.,2000,Details
+EU490720,10-0,2019-02-28 13:20:46.625,Completed,Portugal,100,TRADE2C,5026779,"TRADE2C, UNIPESSOAL, LDA.",Spain,100,"Hijos de Francisco Gaya Forés, S.L.- Factoria 2",5018056,"Hijos de Francisco Gaya Forés, S.L.",1000,Details
+EU492620,10-0,2019-02-28 13:20:40.591,Completed,Czech Republic,100,EOP obchodni,5017330,"EOP Distribuce, a.s.",Czech Republic,100,EOP Distribuce - Chrudim,5006967,"EOP Distribuce, a.s.",50,Details
+EU492619,10-0,2019-02-28 13:20:30.068,Completed,Germany,100,GASCADE Gesellschaftskonto,5016977,GASCADE Gastransport GmbH,Germany,100,BASF Group - Hub,5016965,BASF SE,269,Details
+EU490730,10-0,2019-02-28 13:19:30.432,Completed,United Kingdom,100,VPI Immingham LLP,5007212,VPI Immingham LLP,France,100,VITOL SA,5017265,VITOL SA,27627,Details
+EU490649,10-0,2019-02-28 13:19:22.446,Completed,France,100,SAINT LOUIS SUCRE,5004983,SAINT LOUIS SUCRE SA,France,100,SUCRERIE DE CAGNY,5004715,SAINT LOUIS SUCRE SA,33399,Details
+EU490653,10-0,2019-02-28 13:18:26.698,Completed,France,100,SAINT LOUIS SUCRE,5004983,SAINT LOUIS SUCRE SA,France,100,SUCRERIE D'ETREPAGNY,5005542,SAINT LOUIS SUCRE SA,38694,Details
+EU492615,10-0,2019-02-28 13:17:36.241,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,United Kingdom,100,Girvan Distillery,5008535,William Grant & Sons Distillers Limited,16500,Details
+EU490654,10-0,2019-02-28 13:17:20.115,Completed,France,100,SAINT LOUIS SUCRE,5004983,SAINT LOUIS SUCRE SA,France,100,SUCRERIE D'EPPEVILLE,5005448,SAINT LOUIS SUCRE SA,17819,Details
+EU490655,10-0,2019-02-28 13:14:41.555,Completed,France,100,SAINT LOUIS SUCRE,5004983,SAINT LOUIS SUCRE SA,France,100,SUCRERIE DE ROYE,5005336,SAINT LOUIS SUCRE SA,34084,Details
+EU490641,10-0,2019-02-28 13:13:51.446,Completed,Germany,100,Verdichterstation Olbernhau,5015371,GASCADE Gastransport GmbH,Germany,100,GASCADE Gesellschaftskonto,5016977,GASCADE Gastransport GmbH,125,Details

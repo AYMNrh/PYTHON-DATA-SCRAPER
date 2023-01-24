@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU506380,10-0,2019-04-08 10:08:42.328,Completed,Germany,100,Uniper Global Commodities SE,5016943,Uniper Global Commodities SE,Germany,100,Verdichterstation Radeland,5013851,OPAL Gastransport GmbH & Co. KG,30186,Details
+EU507766,10-0,2019-04-08 10:08:29.806,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Netherlands,100,Wintershall Noordzee B.V. F16-A,5020312,Wintershall Noordzee B.V.,11284,Details
+EU507883,10-0,2019-04-08 10:08:13.914,Completed,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,Germany,100,74 - Anlagenkonto,5015668,Aktien-Gesellschaft der Dillinger Hüttenwerke,12442,Details
+EU507636,10-0,2019-04-08 10:08:02.346,Completed,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,United Kingdom,100,ED&F Man Capital Markets Ltd,5023256,E D & F MAN CAPITAL MARKETS LIMITED,190000,Details
+EU507894,10-2,2019-04-08 10:07:59.93,Completed,Sweden,100,ER1,5019367,Adven Energilösningar AB,European Commission,100,EU Allowance deletion,5016380,European Commission,163,Details
+EU507872,10-0,2019-04-08 10:07:43.761,Completed,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,Germany,100,Constantia Pirk GmbH & Co. KG,5021040,Constantia Pirk GmbH & Co. KG,4000,Details
+EU507787,10-0,2019-04-08 10:06:50.366,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Germany,100,TPU - Syntheseanlage,5027366,BASF Polyurethanes GmbH,254,Details
+EU506392,10-0,2019-04-08 10:06:44.334,Completed,Germany,100,Uniper Global Commodities SE,5016943,Uniper Global Commodities SE,Germany,100,Anlandestation Greifswald,5013861,OPAL Gastransport GmbH & Co. KG,7810,Details
+EU507825,10-0,2019-04-08 10:06:40.959,Completed,Germany,100,Statkraft Markets GmbH,5017011,Statkraft Markets GmbH,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,612000,Details
+EU507775,10-0,2019-04-08 10:06:07.588,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Netherlands,100,Wintershall Noordzee B.V. P6-A,5020311,Wintershall Noordzee B.V.,5425,Details
+EU507761,10-0,2019-04-08 10:05:57.387,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Norway,100,OKEA ASA Brage,5012280,OKEA ASA,109549,Details
+EU507797,10-0,2019-04-08 10:05:48.686,Completed,Finland,100,NKCO2OY,5019548,Nordkalk Oy Ab,Sweden,100,Nordkalk AB Köping,5001562,Nordkalk AB,75224,Details
+EU495080,10-2,2019-04-08 10:05:38.902,Completed,Ireland,100,Operator Account,5012027,Baxter Healthcare SA,European Commission,100,EU Allowance deletion,5016380,European Commission,20916,Details
+EU507885,10-0,2019-04-08 10:05:28.112,Completed,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,Germany,100,Constantia Pirk GmbH & Co. KG,5021040,Constantia Pirk GmbH & Co. KG,1025,Details
+EU507748,10-0,2019-04-08 10:05:06.179,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Germany,100,959 - Anlagenkonto,5014068,DSM Nutritional Products GmbH,3520,Details
+EU507749,10-2,2019-04-08 10:04:41.721,Completed,Czech Republic,100,ČEZ - Elektrárna Ledvice,5006998,"ČEZ, a. s.",European Commission,100,EU Allowance deletion,5016380,European Commission,515274,Details
+EU507720,10-0,2019-04-08 10:04:20.34,Completed,Germany,100,Gesellschaftskonto BASF Personal Care,5020423,BASF Personal Care and Nutrition GmbH,Germany,100,BASF Group - Hub,5016965,BASF SE,7707,Details
+EU507642,10-0,2019-04-08 10:04:03.38,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Ireland,100,Operator Account,5011980,Breedon Cement Ireland Limited,36000,Details
+EU507877,10-0,2019-04-08 10:03:44.263,Completed,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,Germany,100,FutureCamp Climate GmbH Personenkonto,5016067,FutureCamp Climate GmbH,4000,Details
+EU507789,10-0,2019-04-08 10:03:24.106,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Germany,100,961 - GuD BSW,5014071,BASF Schwarzheide GmbH,118058,Details

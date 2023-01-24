@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU504502,10-0,2019-04-02 12:02:17.361,Completed,Netherlands,100,JPM VEC Trading Account,5027817,J.P. Morgan Ventures Energy Corporation,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,250000,Details
+EU503403,10-0,2019-04-02 12:02:12.611,Completed,Netherlands,100,NAM B.V. gaszuiveringsinstallatie (GZI) Emmen,5011335,Nederlandse Aardolie Maatschappij B.V.,Germany,100,Shell Trading International Limited,5027588,Shell Trading International Limited,9802,Details
+EU504499,10-0,2019-04-02 12:01:59.624,Completed,Finland,100,Kaupankäyntitili,5018165,Pori Energia Oy,Finland,100,CO2_Aittaluoto:FI343,5010399,Pori Energia Oy,5000,Details
+EU503319,10-0,2019-04-02 12:01:57.281,Completed,Germany,100,Köln-Wahn,5015287,"Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr",Germany,100,Bergen-Hohne,5013794,"Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr",420,Details
+EU503137,10-0,2019-04-02 12:01:49.229,Completed,Italy,100,Ospedale UDINE,5012399,SIRAM SPA,Italy,100,Operator Account,5012383,SIRAM SPA,580,Details
+EU503227,10-0,2019-04-02 12:01:41.337,Completed,United Kingdom,100,,5017823,,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,18002,Details
+EU503145,10-0,2019-04-02 12:01:23.771,Completed,Netherlands,100,Dow Europe GmbH trading account,5011182,Dow Europe GmbH,Netherlands,100,Dow Benelux B.V. BKG 3,5021276,DOW Benelux B.V.,45593,Details
+EU503159,10-0,2019-04-02 12:01:10.972,Completed,Italy,100,Ospedale UDINE,5012399,SIRAM SPA,Italy,100,1698_S.Anna in Cona,5016779,SIRAM SPA,254,Details
+EU504472,10-0,2019-04-02 12:01:08.318,Completed,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,Czech Republic,100,LAMA,5020068,LAMA energy a.s.,20000,Details
+EU503143,10-0,2019-04-02 12:01:02.829,Completed,Italy,100,Ospedale UDINE,5012399,SIRAM SPA,Italy,100,1698_S.Anna in Cona,5016779,SIRAM SPA,2738,Details
+EU503147,10-0,2019-04-02 12:00:57.203,Completed,Italy,100,Ospedale UDINE,5012399,SIRAM SPA,Italy,100,Ospedale di Cittadella,5024381,SIRAM SPA,3775,Details
+EU503373,10-0,2019-04-02 12:00:53.931,Completed,Denmark,100,Sædding Varmev,5006182,DIN Forsyning Varme A/S,Denmark,100,Esbjergværket,5006338,Ørsted Bioenergy & Thermal Power A/S,85155,Details
+EU503149,10-0,2019-04-02 12:00:31.07,Completed,Italy,100,Ospedale UDINE,5012399,SIRAM SPA,Italy,100,Ospedale Maggiore Bologna,5013020,SIRAM SPA,3824,Details
+EU503140,10-0,2019-04-02 12:00:29.288,Completed,Italy,100,Ospedale UDINE,5012399,SIRAM SPA,Italy,100,Operator Account,5012385,SIRAM SPA,3673,Details
+EU504500,10-0,2019-04-02 12:00:28.905,Completed,Finland,100,Kaupankäyntitili,5018165,Pori Energia Oy,Finland,100,PPV_2_CO2:FI765,5010738,Porin Prosessivoima Oy,4000,Details
+EU503419,10-0,2019-04-02 12:00:16.566,Completed,Netherlands,100,NAM B.V. Norg UGS,5022513,Nederlandse Aardolie Maatschappij B.V.,Germany,100,Shell Trading International Limited,5027588,Shell Trading International Limited,1474,Details
+EU504436,10-2,2019-04-02 11:44:17.884,Completed,Sweden,100,Nyby PC,5002194,Setra Trävaror AB,European Commission,100,EU Allowance deletion,5016380,European Commission,2,Details
+EU500925,10-2,2019-04-02 11:40:31.267,Completed,Lithuania,100,UAB Hoegh LNG Klaipeda,5024025,UAB Hoegh LNG Klaipeda,European Commission,100,EU Allowance deletion,5016380,European Commission,46107,Details
+EU504424,10-2,2019-04-02 11:39:52.159,Completed,Netherlands,100,FUJIFILM Manufacturing Europe B.V.,5011378,FUJIFILM Manufacturing Europe B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,34635,Details
+EU504477,10-0,2019-04-02 11:36:09.383,Completed,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,Italy,100,Carbon Trading 1,5016906,Banca Finnat S.p.A.,151000,Details

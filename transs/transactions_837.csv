@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU502469,10-0,2019-04-01 12:05:49.004,Completed,Italy,100,Operator Account,5013451,ENEL PRODUZIONE S.p.A.,Italy,100,Operator Account,5013454,ENEL PRODUZIONE S.p.A.,592752,Details
+EU502401,10-0,2019-04-01 12:05:43.329,Completed,France,100,ARCELORMITTAL TREASURY Détention,5026253,ARCELORMITTAL TREASURY,France,100,ARCELORMITTAL MEDITERRANEE,5005430,ARCELORMITTAL MEDITERRANEE,1339920,Details
+EU502390,10-0,2019-04-01 12:05:39.802,Completed,Italy,100,Operator Account,5013451,ENEL PRODUZIONE S.p.A.,Italy,100,Operator Account,5013429,ENEL PRODUZIONE S.p.A.,5276,Details
+EU502410,10-0,2019-04-01 12:05:29.204,Completed,Italy,100,Operator Account,5013451,ENEL PRODUZIONE S.p.A.,Italy,100,Operator Account,5013431,ENEL PRODUZIONE S.p.A.,396248,Details
+EU502668,10-0,2019-04-01 12:05:20.492,Completed,Finland,100,Kevätniemen voimalaitos:FI480,5010536,Nevel Oy,Finland,100,Päästö Rantakylä:FI483,5010539,Nevel Oy,203,Details
+EU502493,10-0,2019-04-01 12:05:20.449,Completed,Italy,100,Operator Account,5013451,ENEL PRODUZIONE S.p.A.,Italy,100,Operator Account,5013462,ENEL PRODUZIONE S.p.A.,5076,Details
+EU502679,10-0,2019-04-01 12:05:13.442,Completed,Italy,100,Operator Account,5012643,Burgo Group S.p.A.,Italy,100,Burgo Group S.p.A.,5026880,Burgo Group S.p.A.,83481,Details
+EU502733,10-0,2019-04-01 12:04:57.144,Completed,Denmark,100,VC Billedskærer,5006264,FJERNVARME FYN DISTRIBUTION A/S,Denmark,100,Fjernvarme Fyn Affaldsenergi A/S,5018847,Fjernvarme Fyn Affaldsenergi A/S,38819,Details
+EU502541,10-0,2019-04-01 12:04:57.139,Completed,Italy,100,IMPIANTO DI BOLZANO,5012466,Acciaierie Valbruna S.p.A.,Italy,100,IMPIANTO DI VICENZA,5012469,Acciaierie Valbruna S.p.A.,19646,Details
+EU502604,10-0,2019-04-01 12:04:55.711,Completed,Italy,100,Operator Account,5012638,MOSAICO SpA,Italy,100,Operator Account,5012637,MOSAICO SpA,12130,Details
+EU502496,10-0,2019-04-01 12:04:39.348,Completed,Italy,100,Operator Account,5013451,ENEL PRODUZIONE S.p.A.,Italy,100,Operator Account,5013466,ENEL PRODUZIONE S.p.A.,1001390,Details
+EU502559,10-0,2019-04-01 12:04:24.556,Completed,Germany,100,EU-Konto Papiererzeugung,5013980,Sappi Stockstadt GmbH,Germany,100,EU-Konto Zellstofferzeugung,5014870,Sappi Stockstadt GmbH,10393,Details
+EU503612,10-0,2019-04-01 12:03:50.786,Completed,Germany,100,RWE Vertrieb AG Retail - Trading,5017190,innogy SE,Germany,100,Meyer-Holsen WH,5019530,Dachkeramik Meyer-Holsen GmbH,2200,Details
+EU502480,10-0,2019-04-01 12:03:41.967,Completed,Italy,100,Operator Account,5013451,ENEL PRODUZIONE S.p.A.,Italy,100,Operator Account,5013457,ENEL PRODUZIONE S.p.A.,75731,Details
+EU502566,10-0,2019-04-01 12:03:38.26,Completed,Italy,100,CD PORTOGRUARO,5019133,CEREAL DOCKS SPA,Italy,100,Cereal Docks Marghera,5027732,CEREAL DOCKS MARGHERA S.R.L.,1989,Details
+EU502441,10-0,2019-04-01 12:03:21.308,Completed,Italy,100,Operator Account,5013451,ENEL PRODUZIONE S.p.A.,Italy,100,Operator Account,5013438,ENEL PRODUZIONE S.p.A.,1185,Details
+EU502553,10-0,2019-04-01 12:03:17.292,Completed,Malta,100,Corendon Airlines Europe,5027268,Corendon Airlines Europe,Netherlands,100,Corendon Airlines,5019221,Turistik Hava Tasimacilik Anonim Sirketi,2100,Details
+EU502667,10-0,2019-04-01 12:03:14.865,Completed,Germany,100,ECC AG Auction Delivery Account EU,5016991,European Commodity Clearing AG,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,2495000,Details
+EU502661,10-0,2019-04-01 12:02:44.743,Completed,Germany,100,165 - Anlagenkonto,5014226,Rheinkalk GmbH,Germany,100,"Werk Flandersbach, Anlage zum Brechen, Mahlen und Klassieren von Kalkstein",5018798,Rheinkalk GmbH,15786,Details
+EU502488,10-0,2019-04-01 12:02:39.287,Completed,Italy,100,Operator Account,5013451,ENEL PRODUZIONE S.p.A.,Italy,100,Operator Account,5013460,ENEL PRODUZIONE S.p.A.,489535,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU505698,10-0,2019-04-05 17:31:15.439,Completed,Italy,100,Operator Account,5012526,Stogit S.p.A.,Italy,100,Operator Account,5012514,Stogit S.p.A.,21291,Details
+EU505777,10-71,2019-04-05 17:30:55.935,Completed,Italy,100,Conto ETS Coem S.p.A.,5017914,COEM SPA,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,1157,Details
+EU507649,10-72,2019-04-05 17:28:51.749,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Belgium,100,348 Electrabel - Knippegroen,5004361,Electrabel,189000,Details
+EU505703,10-0,2019-04-05 17:28:35.831,Completed,Italy,100,Operator Account,5012420,Snam Rete Gas S.p.A.,Italy,100,Operator Account,5012439,Snam Rete Gas S.p.A.,15776,Details
+EU505779,10-71,2019-04-05 17:27:58.942,Completed,Belgium,100,348 Electrabel - Knippegroen,5004361,Electrabel,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,189000,Details
+EU505720,10-0,2019-04-05 17:27:19.661,Completed,Italy,100,Operator Account,5012420,Snam Rete Gas S.p.A.,Italy,100,Operator Account,5012416,Snam Rete Gas S.p.A.,472,Details
+EU505725,10-0,2019-04-05 17:25:51.909,Completed,Italy,100,Operator Account,5012420,Snam Rete Gas S.p.A.,Italy,100,Operator Account,5012418,Snam Rete Gas S.p.A.,192,Details
+EU505729,10-0,2019-04-05 17:24:31.098,Completed,Italy,100,Operator Account,5012423,Snam Rete Gas S.p.A.,Italy,100,Operator Account,5012418,Snam Rete Gas S.p.A.,11158,Details
+EU504892,10-2,2019-04-05 17:22:30.611,Completed,France,100,COLT TECHNOLOGY SERVICES SAS,5027494,COLT TECHNOLOGY SERVICES SAS,European Commission,100,EU Allowance deletion,5016380,European Commission,24,Details
+EU505738,10-0,2019-04-05 17:21:30.776,Completed,Italy,100,Operator Account,5012427,Snam Rete Gas S.p.A.,Italy,100,Operator Account,5012418,Snam Rete Gas S.p.A.,11895,Details
+EU505742,10-0,2019-04-05 17:19:41.583,Completed,Italy,100,Operator Account,5012427,Snam Rete Gas S.p.A.,Italy,100,MINERBIO SPINTA,5027534,Snam Rete Gas S.p.A.,7359,Details
+EU505748,10-0,2019-04-05 17:18:14.805,Completed,Italy,100,Operator Account,5012434,Snam Rete Gas S.p.A.,Italy,100,Operator Account,5012418,Snam Rete Gas S.p.A.,4686,Details
+EU505750,10-0,2019-04-05 17:16:57.935,Completed,Italy,100,Operator Account,5012434,Snam Rete Gas S.p.A.,Italy,100,SERGNANO SPINTA,5027533,Snam Rete Gas S.p.A.,12112,Details
+EU505753,10-0,2019-04-05 17:15:33.385,Completed,Italy,100,Operator Account,5012443,Snam Rete Gas S.p.A.,Italy,100,Poggio Renatico,5012454,Snam Rete Gas S.p.A.,15638,Details
+EU507641,10-2,2019-04-05 17:15:26.704,Completed,Italy,100,SICHENIA GRUPPO CERAMICHE,5018804,SICHENIA GRUPPO CERAMICHE,European Commission,100,EU Allowance deletion,5016380,European Commission,22571,Details
+EU505758,10-0,2019-04-05 17:14:06.912,Completed,Italy,100,Operator Account,5012452,Snam Rete Gas S.p.A.,Italy,100,Poggio Renatico,5012454,Snam Rete Gas S.p.A.,6519,Details
+EU505759,10-0,2019-04-05 17:12:51.144,Completed,Italy,100,Operator Account,5012452,Snam Rete Gas S.p.A.,Italy,100,Operator Account,5012418,Snam Rete Gas S.p.A.,1144,Details
+EU507634,10-2,2019-04-05 17:11:55.364,Completed,Spain,100,"TUBOS REUNIDOS GROUP, SLU-PRODUCTOS",5008828,"TUBOS REUNIDOS GROUP, SLU",European Commission,100,EU Allowance deletion,5016380,European Commission,17839,Details
+EU505760,10-0,2019-04-05 17:08:30.013,Completed,Italy,100,Operator Account,5012452,Snam Rete Gas S.p.A.,Italy,100,Operator Account,5012431,Snam Rete Gas S.p.A.,2451,Details
+EU506634,10-0,2019-04-05 17:07:28.209,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,France,100,FEDERAL EXPRESS CORPORATION,5000325,FEDERAL EXPRESS CORPORATION,1919,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU489815,10-71,2019-02-26 09:18:07.535,Completed,Germany,100,Styrol-Fabrik,5017964,BASF SE,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,1517,Details
+EU489874,10-72,2019-02-26 09:17:10.472,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,Wasserstoff-Anlage,5017956,BASF SE,9016,Details
+EU489813,10-71,2019-02-26 09:16:07.735,Completed,Germany,100,Wasserstoff-Anlage,5017956,BASF SE,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,9016,Details
+EU489870,10-72,2019-02-26 09:14:45.508,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,Synthesegasanlage-ab_2013,5017955,BASF SE,8677,Details
+EU489811,10-71,2019-02-26 09:13:44.364,Completed,Germany,100,Synthesegasanlage-ab_2013,5017955,BASF SE,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,8677,Details
+EU489867,10-72,2019-02-26 09:12:55.301,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,Phthalsäureanhydrid-Fabrik,5017969,BASF SE,2156,Details
+EU489809,10-71,2019-02-26 09:11:53.428,Completed,Germany,100,Phthalsäureanhydrid-Fabrik,5017969,BASF SE,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,2156,Details
+EU489863,10-72,2019-02-26 09:11:21.352,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,Acrylmonomere Nord,5018016,BASF SE,4333,Details
+EU489807,10-71,2019-02-26 09:10:04.722,Completed,Germany,100,Acrylmonomere Nord,5018016,BASF SE,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,4333,Details
+EU489860,10-72,2019-02-26 09:09:08.825,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,Acrylsäure-Fabrik II,5017970,BASF SE,3220,Details
+EU489805,10-71,2019-02-26 09:08:08.027,Completed,Germany,100,Acrylsäure-Fabrik II,5017970,BASF SE,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,3220,Details
+EU489854,10-72,2019-02-26 09:06:56.537,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,Natriumcarboxylat/Soda-Anlage,5018026,BASF SE,3509,Details
+EU488329,10-71,2019-02-26 09:06:08.146,Completed,Germany,100,Natriumcarboxylat/Soda-Anlage,5018026,BASF SE,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,3509,Details
+EU489851,10-72,2019-02-26 09:04:00.95,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,Anolon-Fabrik,5017971,BASF SE,511,Details
+EU488313,10-71,2019-02-26 09:03:12.57,Completed,Germany,100,Anolon-Fabrik,5017971,BASF SE,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,511,Details
+EU489846,10-72,2019-02-26 09:01:11.078,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,Ammoniak-Fabrik 4,5017961,BASF SE,40410,Details
+EU488303,10-71,2019-02-26 09:00:22.177,Completed,Germany,100,Ammoniak-Fabrik 4,5017961,BASF SE,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,40410,Details
+EU489841,10-72,2019-02-26 08:58:58.924,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,Spaltschwefelsäure-Fabrik,5017953,BASF SE,2446,Details
+EU488293,10-71,2019-02-26 08:57:56.136,Completed,Germany,100,Spaltschwefelsäure-Fabrik,5017953,BASF SE,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,2446,Details
+EU489836,10-72,2019-02-26 08:55:15.07,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,Formaldehyd-Fabrik,5017968,BASF SE,3458,Details

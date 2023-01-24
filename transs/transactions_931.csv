@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU501342,10-2,2019-03-27 10:02:21.337,Completed,Netherlands,100,AVEBE U.A. locatie Foxhol,5011292,Coöperatie Koninklijke Avebe U.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,1602,Details
+EU501202,10-0,2019-03-27 10:01:59.096,Completed,Greece,100,MOTOKOR,5016949,ΜΟΤΟΡ ΟΙΛ - Δ. ΚΟΡΙΝΘΟΥ,Greece,100,MOTOKOR,5002463,ΜΟΤΟΡ ΟΙΛ - Δ. ΚΟΡΙΝΘΟΥ,607824,Details
+EU501162,10-0,2019-03-27 10:01:38.639,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Cyprus,100,TUS Airways Ltd,5027281,Tus Airways Ltd,3500,Details
+EU501283,10-0,2019-03-27 10:01:30.248,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Italy,100,FISSPA,5024785,F.I.S. - FABBRICA ITALIANA SINTETICI S.P.A.,2258,Details
+EU501255,10-0,2019-03-27 10:01:28.954,Completed,Denmark,100,Trading Account nr 1,5019121,ØRSTED Salg & Service A/S,Denmark,100,De Danske Gærfabrikker A/S,5027536,De Danske Gærfabrikker A/S,10000,Details
+EU501174,10-0,2019-03-27 10:01:00.41,Completed,United Kingdom,100,A2A S.p.A.,5026060,A2A S.P.A.,Italy,100,A2A S.p.A. Conto Scambio '19,5027765,A2A SPA,5000,Details
+EU501309,10-0,2019-03-27 10:00:55.035,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,France,100,Production et distribution de chaleur,5005529,TARANIS DU ROUVRAY,3000,Details
+EU501344,10-2,2019-03-27 10:00:39.86,Completed,Netherlands,100,AVEBE U.A. locatie Ter Apelkanaal,5011293,Coöperatie Koninklijke Avebe U.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,114262,Details
+EU501211,10-0,2019-03-27 10:00:13.206,Completed,United Kingdom,100,SEB FUTURES,5017323,S E B,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,1623000,Details
+EU501157,10-0,2019-03-27 10:00:13.13,Completed,Germany,100,envia Mitteldeutsche Energie AG,5017416,envia Mitteldeutsche Energie AG,Germany,100,innogy SE,5017191,innogy SE,9362,Details
+EU501330,10-2,2019-03-27 09:52:02.574,Completed,Germany,100,819 - Anlagenkonto,5015586,Evonik Operations GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,4164,Details
+EU501312,10-2,2019-03-27 09:49:54.429,Completed,Germany,100,924 - Anlagenkonto,5013983,Evonik Operations GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,11687,Details
+EU501357,10-2,2019-03-27 09:48:06.437,Completed,Germany,100,TOKAI ERFTCARBON GmbH,5020556,TOKAI ERFTCARBON GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,3781,Details
+EU501189,10-2,2019-03-27 09:47:49.851,Completed,Germany,100,Handelskonto Kerateam,5019077,Kerateam Produktion GmbH & Co.KG,European Commission,100,EU Allowance deletion,5016380,European Commission,30889,Details
+EU501095,10-2,2019-03-27 09:43:04.799,Completed,Germany,100,535 - Anlagenkonto,5015495,german paper solutions GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,2626,Details
+EU498815,10-2,2019-03-27 09:33:42.395,Completed,Denmark,100,Hvidovre Hospi,5006492,Region Hovedstaden,European Commission,100,EU Allowance deletion,5016380,European Commission,2748,Details
+EU501221,10-2,2019-03-27 09:32:15.85,Completed,United Kingdom,100,Bristow Helicopters,5019383,Bristow Helicopters Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,4016,Details
+EU500137,10-2,2019-03-27 09:31:42.843,Completed,Netherlands,100,Asfalt Centrale Nijkerk (ACN) B.V.,5020309,Asfaltcentrale Hazeleger-van Gelder,European Commission,100,EU Allowance deletion,5016380,European Commission,2922,Details
+EU501228,10-2,2019-03-27 09:30:35.885,Completed,Sweden,100,Haparanda Värmeverk - Ahlmarksvägen,5020165,Haparanda Värmeverk AB,European Commission,100,EU Allowance deletion,5016380,European Commission,5915,Details
+EU501336,10-2,2019-03-27 09:30:05.045,Completed,Finland,100,Martinlaakso:FI477,5010533,Vantaan Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,457972,Details

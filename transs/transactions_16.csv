@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU520441,10-36,2019-04-30 01:30:28.188,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Operator Account,5013228,Marangoni S.p.A.,5061,Details
+EU520440,10-36,2019-04-30 01:30:28.186,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Operator Account,5012371,Kineo Energy & Facility srl,2808,Details
+EU516472,10-2,2019-04-29 21:51:03.437,Completed,Greece,100,CORINTH PIPEWORKS S.A.,5019386,CORINTH PIPEWORKS S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,1388,Details
+EU517649,10-2,2019-04-29 21:50:07.278,Completed,Greece,100,SIDENOR,5002470,ΣΙΔΕΝΟΡ ΒΙΟΜ ΚΑΤ ΣΙΔΗΡΟΥ ΑΕ,European Commission,100,EU Allowance deletion,5016380,European Commission,28814,Details
+EU517664,10-2,2019-04-29 21:45:42.408,Completed,Greece,100,SOBEL,5002478,SOVEL  AE,European Commission,100,EU Allowance deletion,5016380,European Commission,55799,Details
+EU520436,10-2,2019-04-29 20:35:05.938,Completed,Portugal,100,"143-Prélis Cerâmica, Lda",5002702,"Prélis Cerâmica, Lda",European Commission,100,EU Allowance deletion,5016380,European Commission,1304,Details
+EU520438,10-72,2019-04-29 20:30:26.487,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,France,100,NAVAL GROUP,5023286,NAVAL GROUP,2242,Details
+EU516939,10-71,2019-04-29 20:29:36.247,Completed,France,100,NAVAL GROUP,5023286,NAVAL GROUP,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,2242,Details
+EU516935,10-2,2019-04-29 20:27:57.875,Completed,France,100,NAVAL GROUP,5023286,NAVAL GROUP,European Commission,100,EU Allowance deletion,5016380,European Commission,2614,Details
+EU520434,10-2,2019-04-29 18:55:46.68,Completed,Portugal,100,"Papeleira Coreboard, S.A.",5002994,"Papeleira Coreboard, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,10432,Details
+EU520300,10-2,2019-04-29 18:51:54.785,Completed,Germany,100,"Omni Air International, Inc.",5017309,"Omni Air International, LLC",European Commission,100,EU Allowance deletion,5016380,European Commission,4429,Details
+EU519784,10-2,2019-04-29 18:44:29.849,Completed,France,100,HAUCONCOURT ENROBES,5027304,HAUCONCOURT ENROBES SAS,European Commission,100,EU Allowance deletion,5016380,European Commission,14516,Details
+EU520425,10-2,2019-04-29 18:40:08.696,Completed,Greece,100,MAXI A.B.E.E.,5022092,MAXI A.B.E.E.,European Commission,100,EU Allowance deletion,5016380,European Commission,9622,Details
+EU520375,10-2,2019-04-29 18:34:03.177,Completed,Poland,100,Ciepłownia Kłodzko,5002581,Calor Energetyka Cieplna,European Commission,100,EU Allowance deletion,5016380,European Commission,13764,Details
+EU520433,10-2,2019-04-29 18:31:10.338,Completed,Portugal,100,"Ria Stone, Fábrica de Louça de Mesa em Grés, SA",5027968,"Ria Stone, Fábrica de Louça de Mesa em Grés, SA",European Commission,100,EU Allowance deletion,5016380,European Commission,314,Details
+EU518406,10-2,2019-04-29 18:27:10.428,Completed,Iceland,100,Loðnuvinnslan hf,5021200,Loðnuvinnslan hf,European Commission,100,EU Allowance deletion,5016380,European Commission,2447,Details
+EU520423,10-2,2019-04-29 18:25:50.163,Completed,Germany,100,Air X Charter GmbH & Co. KG,5027787,Air X Charter (Germany) GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,7208,Details
+EU520432,10-2,2019-04-29 18:23:56.552,Completed,Iceland,100,Verne Global hf,5024516,Verne Global hf,European Commission,100,EU Allowance deletion,5016380,European Commission,36,Details
+EU519719,10-2,2019-04-29 18:22:02.797,Completed,Portugal,100,127-RAR-Cogeração Unipessoal Lda,5002656,RAR-Cogeração Unipessoal Lda,European Commission,100,EU Allowance deletion,5016380,European Commission,36539,Details
+EU520430,10-2,2019-04-29 18:19:30.589,Completed,Italy,100,CONTO QUOTE CO2,5022423,B Tech S.r.l.,European Commission,100,EU Allowance deletion,5016380,European Commission,1730,Details

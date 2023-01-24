@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU482206,10-72,2019-01-31 11:46:39.456,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,France,100,SITEK INSULATION,5023720,SITEK INSULATION,2387,Details
+EU482204,10-0,2019-01-31 11:45:49.583,Completed,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,Germany,100,1110 - Anlagenkonto,5014346,Stadtwerke Gotha GmbH,2100,Details
+EU482198,10-71,2019-01-31 11:45:35.497,Completed,France,100,SITEK INSULATION,5023720,SITEK INSULATION,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,2387,Details
+EU482202,10-0,2019-01-31 11:36:49.564,Completed,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,Germany,100,FutureCamp Climate GmbH Personenkonto,5016067,FutureCamp Climate GmbH,1000,Details
+DE123647,4-0,2019-01-31 11:34:25.753,Completed,Germany,121,UNFCCC secretariat,3306,UNFCCC secretariat,Germany,230,Nationalkonto - Löschung 2013-2020,5018222,Deutschland,47061,Details
+DE123648,4-0,2019-01-31 11:33:06.619,Completed,Germany,121,UNFCCC secretariat,3306,UNFCCC secretariat,Germany,230,Nationalkonto - Löschung 2013-2020,5018222,Deutschland,27990,Details
+DE123649,4-0,2019-01-31 11:31:54.477,Completed,Germany,121,UNFCCC secretariat,3306,UNFCCC secretariat,Germany,230,Nationalkonto - Löschung 2013-2020,5018222,Deutschland,14544,Details
+DE123650,4-0,2019-01-31 11:30:51.084,Completed,Germany,121,UNFCCC secretariat,3306,UNFCCC secretariat,Germany,230,Nationalkonto - Löschung 2013-2020,5018222,Deutschland,4079,Details
+EU482195,10-0,2019-01-31 11:30:44.249,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Poland,100,Ciepłownia Centralna,5002524,Przedsiębiorstwo Energetyki Cieplnej w Ciechanowie Sp. z o.o.,2000,Details
+EU482193,10-0,2019-01-31 11:29:48.228,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Poland,100,MEGATEM EC-LUBLIN Sp. z o.o.,5003538,MEGATEM EC-LUBLIN Sp. z o.o.,5000,Details
+DE123651,4-0,2019-01-31 11:29:31.094,Completed,Germany,121,UNFCCC secretariat,3306,UNFCCC secretariat,Germany,230,Nationalkonto - Löschung 2013-2020,5018222,Deutschland,1888,Details
+EU482192,10-0,2019-01-31 11:28:56.669,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Poland,100,KGHM Polska Miedź S.A. Blok Gazowo-Parowy,5022816,KGHM Polska Miedź S.A.,10000,Details
+DE123652,4-0,2019-01-31 11:28:31.167,Completed,Germany,121,UNFCCC secretariat,3306,UNFCCC secretariat,Germany,230,Nationalkonto - Löschung 2013-2020,5018222,Deutschland,1207,Details
+EU482191,10-0,2019-01-31 11:28:09.926,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Poland,100,ENERGA Elektrownie Ostrołęa SA,5003353,ENERGA Elektrownie Ostrołęka S.A.,10000,Details
+DE123653,4-0,2019-01-31 11:27:37.062,Completed,Germany,121,UNFCCC secretariat,3306,UNFCCC secretariat,Germany,230,Nationalkonto - Löschung 2013-2020,5018222,Deutschland,3136,Details
+EU482140,10-0,2019-01-31 11:27:34.91,Completed,United Kingdom,100,Morgan Stanley Capital Group Inc,5017295,Morgan Stanley Capital Group Inc,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,10000,Details
+DE123654,4-0,2019-01-31 11:26:15.399,Completed,Germany,121,UNFCCC secretariat,3306,UNFCCC secretariat,Germany,230,Nationalkonto - Löschung 2013-2020,5018222,Deutschland,4459,Details
+DE123656,4-0,2019-01-31 11:24:53.412,Completed,Germany,121,UNFCCC secretariat,3306,UNFCCC secretariat,Germany,230,Nationalkonto - Löschung 2013-2020,5018222,Deutschland,69196,Details
+DE123657,4-0,2019-01-31 11:22:47.964,Completed,Germany,121,UNFCCC secretariat,3306,UNFCCC secretariat,Germany,230,Nationalkonto - Löschung 2013-2020,5018222,Deutschland,4764,Details
+DE123658,4-0,2019-01-31 11:21:51.118,Completed,Germany,121,UNFCCC secretariat,3306,UNFCCC secretariat,Germany,230,Nationalkonto - Löschung 2013-2020,5018222,Deutschland,17682,Details

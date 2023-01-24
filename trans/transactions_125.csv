@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU478505,10-0,2018-12-20 10:24:50.217,Completed,Germany,100,Shell Trading International Limited,5027588,Shell Trading International Limited,Denmark,100,Syd arne Feltet,5006308,INEOS E&P A/S,50000,Details
+EU478470,10-0,2018-12-20 10:22:00.904,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,France,100,MERCURIA ENERGY TRADING SA,5016876,MERCURIA ENERGY TRADING SA,11160,Details
+EU478497,10-0,2018-12-20 10:21:15.643,Completed,Germany,100,Shell Trading International Limited,5027588,Shell Trading International Limited,Germany,100,Shell Deutschland Oil GmbH-PCK,5013819,Shell Deutschland GmbH,124294,Details
+EU478492,10-0,2018-12-20 10:16:22.454,Completed,Germany,100,Shell Trading International Limited,5027588,Shell Trading International Limited,Ireland,100,ESB Moneypoint Generating Station Operator Account,5011985,Electricity Supply Board,1047557,Details
+EU478473,10-0,2018-12-20 10:16:19.638,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Czech Republic,100,"ČEZ, a.s. - obchodní účet",5016960,"ČEZ, a. s.",51840,Details
+EU478488,10-0,2018-12-20 10:15:25.162,Completed,Germany,100,Shell Trading International Limited,5027588,Shell Trading International Limited,Denmark,100,Crossbridge Fredericia,5006389,Crossbridge Energy A/S,12352,Details
+EU478465,10-0,2018-12-20 10:11:21.868,Completed,Germany,100,EnBW Trading Account,5022149,EnBW Energie Baden-Württemberg AG,Germany,100,Bayern LB,5016942,Bayerische Landesbank,15000000,Details
+EU478479,10-0,2018-12-20 10:11:18.698,Completed,Germany,100,Shell Trading International Limited,5027588,Shell Trading International Limited,Belgium,100,00908.BRUSSELS AIRLINES,5017037,BRUSSELS AIRLINES,20000,Details
+EU478472,10-0,2018-12-20 10:11:14.801,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,United Kingdom,100,The LYCRA Company,5007153,The Lycra Company UK Limited,9000,Details
+EU478456,10-0,2018-12-20 10:10:46.258,Completed,Spain,100,EG TRADING ACCOUNT,5016853,"Endesa Generación, S.A.",Italy,100,ENEL TRADE ITALIA,5016899,Enel Global Trading S.p.A.,172000,Details
+EU477801,10-0,2018-12-20 10:10:46.129,Completed,United Kingdom,100,ENI ETS UK 1,5016886,Eni Trading and Shipping SpA,Italy,100,Centrale di Torrente Tona,5013166,ENI S.P.A.,110000,Details
+EU477648,10-0,2018-12-20 10:10:44.654,Completed,United Kingdom,100,ENI ETS UK 1,5016886,Eni Trading and Shipping SpA,Italy,100,Firenze FPSO,5013525,ENI S.P.A.,65000,Details
+EU478224,10-0,2018-12-20 10:09:39.468,Completed,United Kingdom,100,ENI ETS UK 1,5016886,Eni Trading and Shipping SpA,Italy,100,Raffineria di Taranto - CTE,5013494,ENI S.P.A.,335153,Details
+EU478354,10-0,2018-12-20 10:09:37.079,Completed,France,100,SOLVAY ENERGY SERVICES,5017277,SOLVAY ENERGY SERVICES,France,100,AXENS Usine de Salindres,5020823,AXENS,1000,Details
+EU477675,10-0,2018-12-20 10:09:09.835,Completed,United Kingdom,100,ENI ETS UK 1,5016886,Eni Trading and Shipping SpA,Italy,100,Centrale gas di Crotone,5013164,ENI S.P.A.,4608,Details
+EU478324,10-0,2018-12-20 10:09:08.742,Completed,France,100,SOLVAY ENERGY SERVICES,5017277,SOLVAY ENERGY SERVICES,Italy,100,CONTO QUOTE CO2 SPINETTA MARENGO,5018743,SOLVAY SPECIALTY POLYMERS ITALY SPA,65000,Details
+EU478454,10-0,2018-12-20 10:08:57.847,Completed,Bulgaria,100,Zagora Finacorp Jsc.,5027231,Zagora Finacorp Jsc.,United Kingdom,100,ED&F Man Capital Markets Ltd,5023256,E D & F MAN CAPITAL MARKETS LIMITED,3000,Details
+EU477685,10-0,2018-12-20 10:08:33.01,Completed,United Kingdom,100,ENI ETS UK 1,5016886,Eni Trading and Shipping SpA,Italy,100,Nuovo Centro Olio Gela,5013529,ENI MEDITERRANEA IDROCARBURI SPA,14703,Details
+EU478340,10-0,2018-12-20 10:08:27.688,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Poland,100,mBank S.A.,5023148,mBank S.A.,10000,Details
+EU478336,10-0,2018-12-20 10:08:16.858,Completed,France,100,SOLVAY ENERGY SERVICES,5017277,SOLVAY ENERGY SERVICES,France,100,CPTE GIE CHIMIE SALINDRES,5005695,GIE CHIMIE SALINDRES,12000,Details

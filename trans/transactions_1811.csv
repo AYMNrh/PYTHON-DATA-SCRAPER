@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU482661,10-0,2019-02-05 12:20:35.472,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,69000,Details
+EU482660,10-0,2019-02-05 12:18:41.109,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,50000,Details
+EU482682,10-0,2019-02-05 12:17:56.649,Completed,Spain,100,FUTURA CARBONO S.L.,5024181,FUTURA CARBONO S.L.,Spain,100,"Neo SC El Grado, S.L.U.",5009573,"Neo SC El Grado, S.L.U.",20000,Details
+EU482638,10-0,2019-02-05 12:17:05.291,Completed,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,Germany,100,Purchasing Account,5015606,Südzucker AG,200000,Details
+EU482680,10-0,2019-02-05 12:16:58.04,Completed,Spain,100,FUTURA CARBONO S.L.,5024181,FUTURA CARBONO S.L.,Portugal,100,"Enerlousado, Recursos Energéticos Unipessoal, Lda",5003147,"Enerlousado, Recursos Energéticos Lda",3000,Details
+EU482657,10-0,2019-02-05 12:16:43.898,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Netherlands,100,"Gunvor International B.V., Amsterdam, Geneva Branch",5024828,Gunvor International B.V.,20000,Details
+EU482656,10-0,2019-02-05 12:14:47.925,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Poland,100,TAURON Polska Energia S.A.,5019474,TAURON Polska Energia S.A.,15000,Details
+EU482639,10-0,2019-02-05 12:14:40.539,Completed,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,United Kingdom,100,BP Gas Marketing Limited (2),5017286,BP Gas Marketing Limited,700000,Details
+EU482640,10-0,2019-02-05 12:12:09.444,Completed,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,Poland,100,mBank S.A.,5023148,mBank S.A.,10000,Details
+EU482654,10-0,2019-02-05 12:12:04.282,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Italy,100,CONTO SCAMBIO IEN,5024606,Iren Energia S.p.A.,11000,Details
+EU482641,10-0,2019-02-05 12:10:48.629,Completed,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,Poland,100,mBank S.A.,5023148,mBank S.A.,1700,Details
+EU482450,10-0,2019-02-05 12:08:28.273,Completed,Germany,100,1882 - EnBW Trading GmbH Personenkonto,5015443,EnBW Energie Baden-Württemberg AG,Germany,100,643 - Anlagenkonto,5014017,Fernwärme Ulm GmbH,2500,Details
+GB72699,3-0,2019-02-05 12:07:37.37,Completed,United Kingdom,121,ACT Commodities BV,5024448,ACT Commodities BV,Switzerland,100,,2142,,1,Details
+EU482437,10-0,2019-02-05 12:06:29.413,Completed,Italy,100,Operator Account,5012884,CEMENTERIE ALDO BARBETTI SPA,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,200000,Details
+EU482444,10-0,2019-02-05 12:05:51.011,Completed,Romania,100,Operator Account,5010111,SC CHIMCOMPLEX SA BORZESTI - Sucursala Ramnicu Valcea,Romania,100,Fast Trading OMV Petrom,5017799,OMV PETROM SA,176304,Details
+EU482489,10-0,2019-02-05 12:05:09.537,Completed,Germany,100,Deutsche Lufthansa Aktiengesellschaft,5013721,Deutsche Lufthansa Aktiengesellschaft,Germany,100,Deutsche Lufthansa AG,5000022,Deutsche Lufthansa Aktiengesellschaft,15000,Details
+EU482436,10-0,2019-02-05 12:04:56.18,Completed,Italy,100,Operator Account,5012884,CEMENTERIE ALDO BARBETTI SPA,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,100000,Details
+EU482486,10-0,2019-02-05 12:04:50.659,Completed,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,Italy,100,Operator Account,5013221,SONOCO ALCORE DEMOLLI srl,8000,Details
+GB72698,3-0,2019-02-05 12:04:47.921,Completed,United Kingdom,121,ACT Commodities BV,5024448,ACT Commodities BV,Netherlands,121,ACT Carbon,778,ACT Financial Solutions B.V.,1,Details
+EU482435,10-0,2019-02-05 12:03:51.869,Completed,Italy,100,Piacenza,5012624,Industria Cementi Giovanni Rossi SpA,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,300000,Details

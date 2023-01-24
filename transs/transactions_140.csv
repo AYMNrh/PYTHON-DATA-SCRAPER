@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU517867,10-2,2019-04-24 13:49:35.738,Completed,Netherlands,100,Cargill B.V. Multiseed Amsterdam,5011448,Cargill B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,32883,Details
+EU517829,10-2,2019-04-24 13:49:05.407,Completed,Belgium,100,074 Electrabel - Centrale Rodenhuize,5004473,Electrabel,European Commission,100,EU Allowance deletion,5016380,European Commission,382817,Details
+EU517832,10-2,2019-04-24 13:48:08.667,Completed,Belgium,100,078 Electrabel - Turbojet Aalter,5004477,Electrabel,European Commission,100,EU Allowance deletion,5016380,European Commission,350,Details
+EU517835,10-2,2019-04-24 13:47:15.452,Completed,Belgium,100,079 Electrabel - Turbojet Beerse,5004478,Electrabel,European Commission,100,EU Allowance deletion,5016380,European Commission,1348,Details
+EU517841,10-2,2019-04-24 13:46:28.018,Completed,Belgium,100,080 Electrabel - Turbojet Noordschote,5004479,Electrabel,European Commission,100,EU Allowance deletion,5016380,European Commission,786,Details
+EU518116,10-72,2019-04-24 13:45:55.441,Completed,European Commission,100,EU Credit Exchange Account - Aviation,5022592,EUROPEAN COMMISSION,Greece,100,ELLINAIR S.A.,5022838,ELLINAIR S.A.,1999,Details
+EU517846,10-2,2019-04-24 13:45:00.831,Completed,Belgium,100,081 Electrabel - Turbojet Zedelgem,5004480,Electrabel,European Commission,100,EU Allowance deletion,5016380,European Commission,353,Details
+EU518079,10-71,2019-04-24 13:44:56.127,Completed,Greece,100,ELLINAIR S.A.,5022838,ELLINAIR S.A.,European Commission,100,EU International Credit Account - Aviation,5022591,EUROPEAN COMMISSION,1999,Details
+EU516958,10-0,2019-04-24 13:44:26.475,Completed,Spain,100,IBERIA LAE SA OPERADORA SU,5016794,IBERIA LAE SA OPERADORA SU,Spain,100,"Iberia Express, S.A.",5018737,"Iberia Express, S.A.",4944,Details
+EU517848,10-2,2019-04-24 13:44:04.71,Completed,Belgium,100,082 Electrabel - Turbojet Zeebrugge,5004481,Electrabel,European Commission,100,EU Allowance deletion,5016380,European Commission,285,Details
+EU516956,10-0,2019-04-24 13:44:04.373,Completed,Spain,100,"Bestile, S.L.",5020255,"Bestile, S.L.",Spain,100,"Cerámicas L'Alcalaten, S.A.",5019431,"Cerámicas L'Alcalaten, S.A.",2291,Details
+EU517851,10-2,2019-04-24 13:43:08.073,Completed,Belgium,100,083 Electrabel - Turbojet Zelzate,5004482,Electrabel,European Commission,100,EU Allowance deletion,5016380,European Commission,391,Details
+EU518109,10-2,2019-04-24 13:43:01.556,Completed,Germany,100,HKM KMT-Anlage,5020202,Hüttenwerke Krupp Mannesmann GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,73294,Details
+EU517857,10-2,2019-04-24 13:42:13.798,Completed,Belgium,100,084 Electrabel Amercoeur-Roux,5004483,Electrabel,European Commission,100,EU Allowance deletion,5016380,European Commission,844772,Details
+EU514836,10-0,2019-04-24 13:41:35.573,Completed,Sweden,100,Allöverket,5002196,C4 Energi AB,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,5000,Details
+EU518064,10-2,2019-04-24 13:40:53.032,Completed,Germany,100,Heizwerk Essen-Schederhof,5014553,STEAG Fernwärme GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,2406,Details
+EU517859,10-2,2019-04-24 13:40:39.169,Completed,Belgium,100,085 Electrabel Baudour,5004484,Electrabel,European Commission,100,EU Allowance deletion,5016380,European Commission,550472,Details
+EU516918,10-0,2019-04-24 13:40:18.702,Completed,Denmark,100,Danske Commodities A/S,5017234,Danske Commodities A/S,Denmark,100,Måbjergværket A/S:DK329,5006357,Maabjerg Energy Center - BioHeat&Power A/S,3998,Details
+EU518067,10-2,2019-04-24 13:39:49.941,Completed,Germany,100,Heizwerk Essen-Innenstadt,5014574,STEAG Fernwärme GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,13215,Details
+EU518089,10-2,2019-04-24 13:39:32.59,Completed,Greece,100,ELLINAIR S.A.,5022838,ELLINAIR S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,3000,Details

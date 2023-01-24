@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU498583,10-0,2019-03-21 15:00:05.279,Completed,Sweden,100,Uddetorp,5001924,Skara Energi AB,Sweden,100,HK Scan AB,5024789,HKScan Sweden AB,494,Details
+EU499026,10-0,2019-03-21 14:59:36.953,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,15000,Details
+EU499028,10-0,2019-03-21 14:58:34.482,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,United Kingdom,100,J.P. Morgan Securities Plc,5017695,J.P. Morgan Securities Plc,2000000,Details
+EU499029,10-0,2019-03-21 14:57:20.727,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,18000,Details
+EU499030,10-0,2019-03-21 14:55:13.727,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,United Kingdom,100,Morgan Stanley Capital Group Inc,5017295,Morgan Stanley Capital Group Inc,2635000,Details
+EU498567,10-0,2019-03-21 14:52:28.736,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,France,100,Tata Steel Maubeuge,5022758,TATA STEEL MAUBEUGE SAS,17890,Details
+EU498850,10-0,2019-03-21 14:52:11.791,Completed,Sweden,100,Handelskonto,5017189,Mälarenergi AB,Sweden,100,PC Nybygget,5001754,Mälarenergi AB,9,Details
+EU498853,10-0,2019-03-21 14:51:10.608,Completed,Sweden,100,Handelskonto,5017189,Mälarenergi AB,Sweden,100,Hallstahammars fjärrvärme,5002045,Mälarenergi AB,77,Details
+EU498856,10-0,2019-03-21 14:49:51.133,Completed,Sweden,100,Handelskonto,5017189,Mälarenergi AB,Sweden,100,HVG,5002050,Mälarenergi AB,43,Details
+EU499024,10-0,2019-03-21 14:43:23.966,Completed,Norway,100,Statkraft Energi AS,5016874,Statkraft Energi AS,Norway,100,"Eramet Norway AS, Porsgrunn",5018840,Eramet Norway AS,5000,Details
+EU499012,10-2,2019-03-21 14:34:01.386,Completed,Germany,100,900 - HKW Barmen,5013854,WSW Energie & Wasser AG,European Commission,100,EU Allowance deletion,5016380,European Commission,28343,Details
+EU499015,10-0,2019-03-21 14:33:18.008,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Cyprus,100,Operator Account:CY8,5012192,Electricity Authority of Cyprus,61000,Details
+EU499013,10-2,2019-03-21 14:32:59.107,Completed,Germany,100,901 - HKW Elberfeld,5013862,WSW Energie & Wasser AG,European Commission,100,EU Allowance deletion,5016380,European Commission,182301,Details
+EU499014,10-2,2019-03-21 14:31:55.002,Completed,Germany,100,881 - HW Viehhof,5016035,WSW Energie & Wasser AG,European Commission,100,EU Allowance deletion,5016380,European Commission,67,Details
+EU495489,10-0,2019-03-21 14:30:04.192,Completed,Finland,100,PBE_Tolkkinen:FI353,5010409,Porvoon Energia Oy-Borgå Energi Ab,Finland,100,PBE_Kirjaltajantie:FI351,5010407,Porvoon Energia Oy-Borgå Energi Ab,3500,Details
+EU498552,10-0,2019-03-21 14:24:26.991,Completed,Sweden,100,FP och OP,5001745,Oskarshamn Energi AB,Sweden,100,Modity Energy Trading AB,5017168,Modity Energy Trading AB,19500,Details
+EU498547,10-0,2019-03-21 14:21:54.446,Completed,United Kingdom,100,St Fergus North Sea Gas Terminal,5007426,National Grid Gas Plc,United Kingdom,100,National Grid Gas Plc,5027036,National Grid Gas Plc,69652,Details
+EU498984,10-0,2019-03-21 14:21:46.848,Completed,Romania,100,Fast Trading OMV Petrom,5017799,OMV PETROM SA,Romania,100,Petrobrazi,5009975,OMV PETROM SA,176304,Details
+EU499002,10-2,2019-03-21 14:21:06.865,Completed,Germany,100,1173 - Anlagenkonto,5014431,Energieversorgung Nordhausen GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,23965,Details
+EU499006,10-2,2019-03-21 14:19:21.337,Completed,Latvia,100,Operator Account:LV50,5012117,A/S „Valmieras piens”,European Commission,100,EU Allowance deletion,5016380,European Commission,7039,Details

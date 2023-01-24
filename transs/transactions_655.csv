@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU507566,10-71,2019-04-05 18:30:39.156,Completed,Belgium,100,26784.Southern Air Inc,5019765,Southern Air Inc,European Commission,100,EU International Credit Account - Aviation,5022591,EUROPEAN COMMISSION,65,Details
+EU507661,10-2,2019-04-05 18:24:02.083,Completed,Italy,100,Parmalat Collecchio,5013418,PARMALAT SPA,European Commission,100,EU Allowance deletion,5016380,European Commission,38101,Details
+EU506601,10-2,2019-04-05 18:03:25.2,Completed,France,100,BUNGE FRANCE BREST,5004757,BUNGE FRANCE SAS,European Commission,100,EU Allowance deletion,5016380,European Commission,24347,Details
+EU502907,10-2,2019-04-05 18:00:32.72,Completed,France,100,CENTRE HOSPITALIER DE ROANNE,5023441,CENTRE HOSPITALIER DE ROANNE,European Commission,100,EU Allowance deletion,5016380,European Commission,6769,Details
+EU506809,10-0,2019-04-05 17:57:54.515,Completed,Italy,100,RADEN01,5012424,Geoenergie S.p.A.,Italy,100,Operator Account,5013084,RADICI YARN SPA,10000,Details
+EU507657,10-2,2019-04-05 17:53:58.669,Completed,Italy,100,Conto ETS Coem S.p.A.,5017914,COEM SPA,European Commission,100,EU Allowance deletion,5016380,European Commission,25708,Details
+EU506688,10-0,2019-04-05 17:50:40.704,Completed,Germany,100,Repower AG CO2 Handelskonto,5015554,Repower AG,Italy,100,Rezia,5012867,Repower Italia S.p.A.,851,Details
+EU506790,10-0,2019-04-05 17:47:42.572,Completed,United Kingdom,100,British Ceramic Tile,5021121,British Ceramic Tile Limited (In Administration),Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,14212,Details
+EU506784,10-0,2019-04-05 17:41:48.979,Completed,Netherlands,100,VPR Energy B.V.,5011353,VPR Energy B.V.,Netherlands,100,Vopak Terminal Europoort B.V.,5011129,Vopak Terminal Europoort B.V.,16103,Details
+EU505658,10-0,2019-04-05 17:41:24.528,Completed,Italy,100,CENTRALE DI BORDOLANO,5024502,Stogit S.p.A.,Italy,100,Operator Account,5012520,Stogit S.p.A.,931,Details
+EU506754,10-0,2019-04-05 17:40:32.694,Completed,Germany,100,Fettalkoholherstellung,5018033,BASF Personal Care and Nutrition GmbH,Germany,100,239 - Wasserglasfabrik,5014883,BASF Personal Care and Nutrition GmbH,13320,Details
+EU505668,10-0,2019-04-05 17:39:48.319,Completed,Italy,100,CENTRALE DI BORDOLANO,5024502,Stogit S.p.A.,Italy,100,Operator Account,5012522,Stogit S.p.A.,5366,Details
+EU506735,10-0,2019-04-05 17:39:31.694,Completed,Sweden,100,Scandem Handelskonto,5019942,Scandem AB,Sweden,100,IKEA Industry Älmhult AB,5020192,IKEA Industry Älmhult AB,140,Details
+EU506759,10-0,2019-04-05 17:37:35.671,Completed,Germany,100,Fettalkoholherstellung,5018033,BASF Personal Care and Nutrition GmbH,Germany,100,Gesellschaftskonto BASF Personal Care,5020423,BASF Personal Care and Nutrition GmbH,7707,Details
+EU505679,10-0,2019-04-05 17:37:04.935,Completed,Italy,100,Operator Account,5012526,Stogit S.p.A.,Italy,100,Operator Account,5012522,Stogit S.p.A.,31557,Details
+EU505683,10-0,2019-04-05 17:35:42.281,Completed,Italy,100,Operator Account,5012526,Stogit S.p.A.,Italy,100,Operator Account,5012515,Stogit S.p.A.,10518,Details
+EU506771,10-0,2019-04-05 17:35:14.384,Completed,Germany,100,VESTOLIT GmbH,5019558,VESTOLIT GmbH,Germany,100,VESTOLIT GmbH,5027868,VESTOLIT GmbH,10000,Details
+EU505688,10-0,2019-04-05 17:34:30.088,Completed,Italy,100,Operator Account,5012526,Stogit S.p.A.,Italy,100,Operator Account,5012524,Stogit S.p.A.,4881,Details
+EU505690,10-0,2019-04-05 17:33:01.117,Completed,Italy,100,Operator Account,5012526,Stogit S.p.A.,Italy,100,Operator Account,5012518,Stogit S.p.A.,15190,Details
+EU507652,10-72,2019-04-05 17:31:54.002,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Italy,100,Conto ETS Coem S.p.A.,5017914,COEM SPA,1157,Details

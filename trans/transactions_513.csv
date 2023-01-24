@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU510717,10-2,2019-04-10 17:08:29.961,Completed,Spain,100,Gres de Andorra S.L.,5009244,"GRES DE ANDORRA, S.L.",European Commission,100,EU Allowance deletion,5016380,European Commission,5325,Details
+EU510723,10-2,2019-04-10 17:06:46.683,Completed,Spain,100,Exagres S.A.,5009454,Exagres S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,5618,Details
+EU510489,10-2,2019-04-10 17:06:30.892,Completed,Italy,100,Operator Account,5012785,Buzzi Unicem S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,305647,Details
+EU498431,10-2,2019-04-10 17:06:01.561,Completed,Netherlands,100,"Ministerie van Defensie, Nieuwe Haven Terrein",5011063,Ministerie van Defensie,European Commission,100,EU Allowance deletion,5016380,European Commission,10374,Details
+EU508378,10-2,2019-04-10 17:05:30.768,Completed,Germany,100,66 - Anlagenkonto,5015620,BGH Edelstahl Siegen GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,14564,Details
+EU508384,10-2,2019-04-10 17:04:22.128,Completed,Germany,100,75 - Anlagenkonto,5015673,BGH Edelstahl Freital GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,15879,Details
+EU510494,10-2,2019-04-10 17:03:26.606,Completed,Italy,100,Stabilimento Fanna,5012918,Buzzi Unicem S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,416354,Details
+EU508386,10-2,2019-04-10 17:02:28.385,Completed,Germany,100,Schmiedebetrieb Siegen Eintracht,5018978,BGH Edelstahl Siegen GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,15774,Details
+EU509484,10-0,2019-04-10 17:02:12.879,Completed,Denmark,100,I/S Amager Ressourcecenter,5018309,I/S Amager ressourcecenter,Denmark,100,CTR I/S 2,5006283,CTR I/S,27143,Details
+EU507176,10-2,2019-04-10 17:01:59.14,Completed,Italy,100,Operator Account,5013062,Cogne Acciai Speciali S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,107236,Details
+EU508838,10-2,2019-04-10 17:01:45.213,Completed,Germany,100,1499 - Anlagenkonto,5014887,RWE Generation SE,European Commission,100,EU Allowance deletion,5016380,European Commission,14640,Details
+EU510616,10-2,2019-04-10 17:01:41.188,Completed,Netherlands,100,Enecogen,5011233,Enecogen V.O.F.,European Commission,100,EU Allowance deletion,5016380,European Commission,1509842,Details
+EU510140,10-2,2019-04-10 17:01:06.646,Completed,Spain,100,"Verallia Spain, S.A. - Instalación de Azuqueca de Henares",5009223,"VERALLIA SPAIN, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,76942,Details
+EU510500,10-2,2019-04-10 17:00:48.299,Completed,Italy,100,Operator Account,5012784,Buzzi Unicem S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,483165,Details
+EU508391,10-2,2019-04-10 17:00:39.979,Completed,Germany,100,Walzwerk/ Block/ Grobstrasse,5018981,BGH Edelstahl Freital GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,16742,Details
+EU508839,10-2,2019-04-10 17:00:34.936,Completed,Germany,100,1497 - Anlagenkonto,5014884,RWE Generation SE,European Commission,100,EU Allowance deletion,5016380,European Commission,1184094,Details
+EU509450,10-0,2019-04-10 16:59:48.497,Completed,Italy,100,Operator Account,5012816,CALCIDRATA SPA,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,10000,Details
+EU509381,10-0,2019-04-10 16:59:26.397,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,Malta,100,CFP Trading Limited,5027818,CFP Trading Limited,529610,Details
+EU508843,10-2,2019-04-10 16:58:38.602,Completed,Germany,100,1501 - Anlagenkonto,5014889,RWE Generation SE,European Commission,100,EU Allowance deletion,5016380,European Commission,46141,Details
+EU510506,10-2,2019-04-10 16:58:26.453,Completed,Italy,100,Operator Account,5012876,Buzzi Unicem S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,434548,Details

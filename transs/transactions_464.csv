@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU511662,10-71,2019-04-11 19:01:20.234,Completed,Belgium,100,30011.TUI AIRLINES BELGIUM,5017391,TUI AIRLINES BELGIUM,European Commission,100,EU International Credit Account - Aviation,5022591,EUROPEAN COMMISSION,4400,Details
+EU505702,10-2,2019-04-11 19:00:20.788,Completed,France,100,LUZEAL- Site de SAINT REMY,5022195,LUZEAL,European Commission,100,EU Allowance deletion,5016380,European Commission,8024,Details
+EU505705,10-2,2019-04-11 18:58:44.539,Completed,France,100,LUZEAL- Site de SEPT SAULX,5022196,LUZEAL,European Commission,100,EU Allowance deletion,5016380,European Commission,8022,Details
+EU505709,10-2,2019-04-11 18:56:54.453,Completed,France,100,LUZEAL- Site de PONTFAVERGER,5022197,LUZEAL,European Commission,100,EU Allowance deletion,5016380,European Commission,17377,Details
+EU511738,10-72,2019-04-11 18:34:00.468,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,France,100,GUSTAVE MULLER VOLGELSHEIM,5023500,GUSTAVE MULLER SAS,25,Details
+EU511724,10-71,2019-04-11 18:33:02.912,Completed,France,100,GUSTAVE MULLER VOLGELSHEIM,5023500,GUSTAVE MULLER SAS,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,25,Details
+EU511736,10-72,2019-04-11 18:32:53.467,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,France,100,GUSTAVE MULLER OTTMARSHEIM,5023502,GUSTAVE MULLER SAS,61,Details
+EU511726,10-71,2019-04-11 18:31:55.92,Completed,France,100,GUSTAVE MULLER OTTMARSHEIM,5023502,GUSTAVE MULLER SAS,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,61,Details
+EU511734,10-72,2019-04-11 18:31:17.906,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,France,100,GUSTAVE MULLER,5026244,GUSTAVE MULLER SAS,21,Details
+EU511727,10-71,2019-04-11 18:30:28.805,Completed,France,100,GUSTAVE MULLER,5026244,GUSTAVE MULLER SAS,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,21,Details
+EU509095,10-2,2019-04-11 18:19:21.096,Completed,Portugal,100,"82-Nestlé Portugal, S.A.",5004027,"Nestlé Portugal, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,1506,Details
+EU511189,10-2,2019-04-11 18:16:43.844,Completed,Sweden,100,Fjärrvärmeverket Sollefteå,5001986,Adven Energilösningar AB,European Commission,100,EU Allowance deletion,5016380,European Commission,279,Details
+EU511198,10-2,2019-04-11 18:15:43.52,Completed,Sweden,100,RPC Älmhult,5001867,Adven Energilösningar AB,European Commission,100,EU Allowance deletion,5016380,European Commission,52,Details
+EU511199,10-2,2019-04-11 18:14:42.498,Completed,Sweden,100,Hasselfors PC,5001411,Adven Energilösningar AB,European Commission,100,EU Allowance deletion,5016380,European Commission,522,Details
+EU511219,10-2,2019-04-11 18:13:41.27,Completed,Sweden,100,Ångcentralen Boxholms såg,5001447,Adven Energilösningar AB,European Commission,100,EU Allowance deletion,5016380,European Commission,10,Details
+EU511223,10-2,2019-04-11 18:12:37.729,Completed,Sweden,100,Jabo Värmeverk,5001857,Adven Energilösningar AB,European Commission,100,EU Allowance deletion,5016380,European Commission,5,Details
+EU511226,10-2,2019-04-11 18:11:12.378,Completed,Sweden,100,PC Orsa Gamla,5001938,Adven Energilösningar AB,European Commission,100,EU Allowance deletion,5016380,European Commission,15,Details
+EU511229,10-2,2019-04-11 18:09:30.926,Completed,Sweden,100,Utmeland hetvattencentral,5002198,Adven Energilösningar AB,European Commission,100,EU Allowance deletion,5016380,European Commission,170,Details
+EU511233,10-2,2019-04-11 18:08:05.615,Completed,Sweden,100,Fjärrvärmeverket i Älmhult,5002215,Adven Energilösningar AB,European Commission,100,EU Allowance deletion,5016380,European Commission,77,Details
+EU511236,10-2,2019-04-11 18:06:55.257,Completed,Sweden,100,Kullö panncentral,5022262,Adven Energilösningar AB,European Commission,100,EU Allowance deletion,5016380,European Commission,165,Details

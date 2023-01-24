@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU517118,10-0,2019-04-24 15:24:32.896,Completed,Denmark,100,VC Billedskærer,5006264,FJERNVARME FYN DISTRIBUTION A/S,Denmark,100,Fjernvarme Fyn Produktion A/S Blok 7,5006368,FJERNVARME FYN PRODUKTION A/S,90000,Details
+EU518284,10-72,2019-04-24 15:24:23.696,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,France,100,ALUMINIUM DUNKERQUE,5022366,ALUMINIUM DUNKERQUE,1159,Details
+EU517068,10-0,2019-04-24 15:23:36.584,Completed,Denmark,100,Neas Energy A/S,5020307,Centrica Energy Trading A/S,Denmark,100,SKVV,5006541,Silkeborg Varme A/S,42500,Details
+EU518252,10-2,2019-04-24 15:23:29.959,Completed,Bulgaria,100,EUROPEAN AIR CHARTER EAD,5000206,EUROPEAN AIR CHARTER EAD,European Commission,100,EU Allowance deletion,5016380,European Commission,98539,Details
+EU517350,10-71,2019-04-24 15:23:25.693,Completed,France,100,ALUMINIUM DUNKERQUE,5022366,ALUMINIUM DUNKERQUE,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,1159,Details
+EU518273,10-0,2019-04-24 15:22:41.407,Completed,Spain,100,"Sistema Europeo de Negociación de Co2, S.L.",5020183,"SISTEMA EUROPEO DE NEGOCIACIÓN DE CO2, S.L.",Italy,100,Operator Account,5012585,TOLENTINO SPA,16500,Details
+EU518247,10-2,2019-04-24 15:21:38.288,Completed,Bulgaria,100,Pasabahce Bulgaria EAD,5027783,Pasabahce Bulgaria EAD,European Commission,100,EU Allowance deletion,5016380,European Commission,82008,Details
+EU504213,10-2,2019-04-24 15:20:40.289,Completed,Germany,100,Bobbau Gasturbinen,5015416,ONTRAS Gastransport GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,3785,Details
+EU518243,10-2,2019-04-24 15:20:17.287,Completed,Bulgaria,100,INDUSTRIAL SOLUTIONS BULGARIA Ltd.,5018303,INDUSTRIAL SOLUTIONS BULGARIA Ltd.,European Commission,100,EU Allowance deletion,5016380,European Commission,17436,Details
+EU516936,10-0,2019-04-24 15:18:38.625,Completed,Finland,100,Porvoon Energia EUA:FI557,5010605,Porvoon Energia Oy-Borgå Energi Ab,Sweden,100,Vattenfall AB Handelskonto,5001587,Vattenfall AB,5000,Details
+EU504217,10-2,2019-04-24 15:18:32.764,Completed,Germany,100,Sayda Gasturbinen,5015417,ONTRAS Gastransport GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,596,Details
+EU518235,10-2,2019-04-24 15:18:25.992,Completed,Bulgaria,100,Blagoevgrad BT,5016267,"""Blagoevgrad BT""",European Commission,100,EU Allowance deletion,5016380,European Commission,5499,Details
+EU518269,10-0,2019-04-24 15:18:23.558,Completed,Slovenia,100,Belektron TRD Si,5016820,BELEKTRON d.o.o.,Spain,100,"Sistema Europeo de Negociación de Co2, S.L.",5020183,"SISTEMA EUROPEO DE NEGOCIACIÓN DE CO2, S.L.",20000,Details
+EU518249,10-2,2019-04-24 15:17:15.967,Completed,Belgium,100,404 LES ENROBES DU CENTRE,5022297,LES ENROBES DU CENTRE,European Commission,100,EU Allowance deletion,5016380,European Commission,5264,Details
+EU518206,10-2,2019-04-24 15:17:03.029,Completed,Bulgaria,100,VMZ  EAD Sopot-Sopot,5016237,VMZ  EAD Sopot-Sopot,European Commission,100,EU Allowance deletion,5016380,European Commission,9047,Details
+EU517274,10-2,2019-04-24 15:16:38.521,Completed,France,100,OXYANE MACON,5023199,OXYANE,European Commission,100,EU Allowance deletion,5016380,European Commission,375,Details
+EU510174,10-2,2019-04-24 15:16:23.746,Completed,Belgium,100,429 E.ON - WKK Promat Tisselt,5027131,E.ON Power Plants Belgium,European Commission,100,EU Allowance deletion,5016380,European Commission,13832,Details
+EU518194,10-2,2019-04-24 15:15:33.247,Completed,Bulgaria,100,"""REMOTEX M"" OOD",5016229,"""REMOTEX M"" OOD",European Commission,100,EU Allowance deletion,5016380,European Commission,74,Details
+EU517100,3-0,2019-04-24 15:15:32.44,Completed,Spain,100,"Termesol-50, S.A.U",5009163,"Termesol-50, S.A.U",Spain,120,"Termesol-50, S.A.U",1008801,"Termesol-50, S.A.U",64,Details
+EU517280,10-2,2019-04-24 15:15:03.754,Completed,France,100,OXYANE LA VALBONNE,5023200,OXYANE,European Commission,100,EU Allowance deletion,5016380,European Commission,237,Details

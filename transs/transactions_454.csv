@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU511592,10-2,2019-04-12 09:30:07.737,Completed,France,100,322 DC D02328W SOREV,5004809,SEEV,European Commission,100,EU Allowance deletion,5016380,European Commission,8134,Details
+EU511418,10-2,2019-04-12 09:29:32.335,Completed,Germany,100,Ammoniakanlage 1,5018637,SKW Stickstoffwerke Piesteritz GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,1249030,Details
+EU511597,10-2,2019-04-12 09:29:04.029,Completed,France,100,SCBC,5005706,SOCIETE DE CHAUFFAGE DES BORDS DU CHER,European Commission,100,EU Allowance deletion,5016380,European Commission,8599,Details
+EU511969,10-2,2019-04-12 09:28:44.488,Completed,Germany,100,TG3,5022707,INOVYN Deutschland GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,21939,Details
+EU511599,10-2,2019-04-12 09:28:26.575,Completed,France,100,SECUA - Chaufferie Urbaine Autun,5004851,SECUA,European Commission,100,EU Allowance deletion,5016380,European Commission,2896,Details
+EU511602,10-2,2019-04-12 09:27:40.13,Completed,France,100,COGESTAR - ARKEMA Balan,5005356,COGESTAR,European Commission,100,EU Allowance deletion,5016380,European Commission,24534,Details
+EU511426,10-2,2019-04-12 09:27:35.805,Completed,Germany,100,Ammoniakanlage 2,5018635,SKW Stickstoffwerke Piesteritz GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,1343076,Details
+EU511605,10-2,2019-04-12 09:27:06.202,Completed,France,100,DIJON ENERGIES - Chaufferie ZUP de Quetigny,5004799,DIJON ENERGIES,European Commission,100,EU Allowance deletion,5016380,European Commission,10220,Details
+EU511609,10-2,2019-04-12 09:26:23.896,Completed,France,100,DIJON ENERGIES - Chaufferie des Péjoces,5026174,DIJON ENERGIES,European Commission,100,EU Allowance deletion,5016380,European Commission,4386,Details
+EU511967,10-2,2019-04-12 09:25:50.853,Completed,Italy,100,Operator Account,5013632,SAPI SPA,European Commission,100,EU Allowance deletion,5016380,European Commission,3267,Details
+EU511613,10-2,2019-04-12 09:25:49.517,Completed,France,100,ELM - Chaufferie Lafayette,5005047,ELM OPERATIONS,European Commission,100,EU Allowance deletion,5016380,European Commission,16697,Details
+EU511615,10-2,2019-04-12 09:24:57.273,Completed,France,100,DALKIA - Industelec Sud Est,5005552,DALKIA,European Commission,100,EU Allowance deletion,5016380,European Commission,42060,Details
+EU511624,10-2,2019-04-12 09:24:08.702,Completed,France,100,ELYDE - La Duchère,5005037,ECLYDE,European Commission,100,EU Allowance deletion,5016380,European Commission,5146,Details
+EU506504,10-2,2019-04-12 09:24:07.818,Completed,Hungary,100,Operator Account:HU47,5011686,Dreher Sörgyárak ZRt.,European Commission,100,EU Allowance deletion,5016380,European Commission,6815,Details
+EU511627,10-2,2019-04-12 09:23:27.001,Completed,France,100,VENISSIEUX ENERGIES - MINGUETTES,5005073,VENISSIEUX ENERGIES,European Commission,100,EU Allowance deletion,5016380,European Commission,21914,Details
+EU511652,10-2,2019-04-12 09:22:49.34,Completed,France,100,NIMERGIE,5005725,NIMERGIE,European Commission,100,EU Allowance deletion,5016380,European Commission,13675,Details
+EU510758,10-2,2019-04-12 09:22:36.673,Completed,Germany,100,KKP-Hilfskesselanlage,5015996,EnBW Kernkraft GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,4019,Details
+EU511653,10-2,2019-04-12 09:22:10.567,Completed,France,100,SALON DE PROVENCE ENERGIE VERTE,5005418,SALON DE PROVENCE ENERGIE VERTE,European Commission,100,EU Allowance deletion,5016380,European Commission,13135,Details
+EU508300,10-2,2019-04-12 09:18:00.8,Completed,Finland,100,PKT Heinola:FI408,5010464,Stora Enso Oyj,European Commission,100,EU Allowance deletion,5016380,European Commission,133522,Details
+EU508306,10-2,2019-04-12 09:16:47.336,Completed,Finland,100,PKT Imatran tehtaat:FI409,5010465,Stora Enso Oyj,European Commission,100,EU Allowance deletion,5016380,European Commission,199593,Details

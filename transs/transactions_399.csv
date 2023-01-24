@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU511879,10-2,2019-04-15 11:44:32.964,Completed,Finland,100,Tulolantien päästötili:FI531,5010587,Oy Perhonjoki Ab,European Commission,100,EU Allowance deletion,5016380,European Commission,38013,Details
+EU511117,10-2,2019-04-15 11:44:31.816,Completed,Netherlands,100,"Aviko B.V., vestiging Steenderen",5011459,Aviko B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,63705,Details
+EU512927,10-0,2019-04-15 11:43:57.434,Completed,Germany,100,RWE Supply & Trading GmbH CAO DE,5023243,RWE Supply & Trading GmbH,Germany,100,RWE Power AG - Händlerkonto,5017639,RWE Power Aktiengesellschaft,134478,Details
+EU511001,10-2,2019-04-15 11:43:49.672,Completed,Sweden,100,PC Iggesund,5001783,Värmevärden AB,European Commission,100,EU Allowance deletion,5016380,European Commission,72,Details
+EU502500,10-2,2019-04-15 11:43:48.445,Completed,Netherlands,100,Nobian Chemicals B.V. (Rotterdam),5011357,Nobian Chemicals B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,116110,Details
+EU510147,10-2,2019-04-15 11:43:05.179,Completed,Italy,100,CONTO ETS COOPIMOLA BORGO,5018054,COOPERATIVA CERAMICA D'IMOLA S.C.,European Commission,100,EU Allowance deletion,5016380,European Commission,49141,Details
+EU511002,10-2,2019-04-15 11:42:09.446,Completed,Sweden,100,PC 514,5001677,Värmevärden AB,European Commission,100,EU Allowance deletion,5016380,European Commission,35,Details
+EU512374,10-0,2019-04-15 11:41:21.473,Completed,Denmark,100,Danske Commodities A/S,5017234,Danske Commodities A/S,Denmark,100,Tarco Vej,5006445,Munck Asfalt A/S,700,Details
+EU511003,10-2,2019-04-15 11:40:40.023,Completed,Sweden,100,Hällefors Värme AB P1,5001676,Värmevärden AB,European Commission,100,EU Allowance deletion,5016380,European Commission,39,Details
+EU512376,10-0,2019-04-15 11:40:38.282,Completed,Denmark,100,Danske Commodities A/S,5017234,Danske Commodities A/S,Denmark,100,Tarco vej A/S,5006447,Munck Asfalt A/S,1900,Details
+EU510144,10-2,2019-04-15 11:40:32.978,Completed,Italy,100,CONTO ETS COOPIMOLA CORRECCHIO,5018053,COOPERATIVA CERAMICA D'IMOLA S.C.,European Commission,100,EU Allowance deletion,5016380,European Commission,56609,Details
+EU512377,10-0,2019-04-15 11:39:40.684,Completed,Denmark,100,Danske Commodities A/S,5017234,Danske Commodities A/S,Denmark,100,TarcoVej Nyborg,5006446,Munck Asfalt A/S,1900,Details
+EU511005,10-2,2019-04-15 11:39:28.85,Completed,Sweden,100,PC Sjukhuset 2,5001609,Värmevärden AB,European Commission,100,EU Allowance deletion,5016380,European Commission,3,Details
+EU513081,10-0,2019-04-15 11:39:05.314,Completed,Poland,100,PGE Dom Maklerski S.A.,5023795,PGE Dom Maklerski S.A.,Poland,100,Ciepłownia,5002792,SEC Chojnice Sp. z o.o.,10000,Details
+EU511014,10-2,2019-04-15 11:37:46.501,Completed,Sweden,100,PC Stenstaliden,5001532,Kristinehamns Värme AB,European Commission,100,EU Allowance deletion,5016380,European Commission,279,Details
+EU512247,10-2,2019-04-15 11:36:34.38,Completed,Spain,100,"Aceites del Sur - Coosur, S.A.",5008879,"Aceites del Sur - Coosur, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,5643,Details
+EU513075,10-0,2019-04-15 11:32:50.807,Completed,Netherlands,100,JPM VEC Trading Account,5027817,J.P. Morgan Ventures Energy Corporation,Germany,100,RWEST GmbH IS Trading Account,5016831,RWE Supply & Trading GmbH,13870,Details
+EU513098,10-72,2019-04-15 11:29:59.981,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Croatia,100,Petrokemija d.d. tvornica gnojiva,5020557,Petrokemija d.d. tvornica gnojiva,49583,Details
+EU512161,10-2,2019-04-15 11:29:52.585,Completed,Sweden,100,Vargön Alloys AB,5022192,Vargön Alloys AB,European Commission,100,EU Allowance deletion,5016380,European Commission,165316,Details
+EU513077,10-2,2019-04-15 11:29:16.669,Completed,Sweden,100,Åkers sågverk,5019132,Sandåsa Timber AB,European Commission,100,EU Allowance deletion,5016380,European Commission,6,Details

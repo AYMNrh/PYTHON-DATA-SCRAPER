@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU490234,10-36,2019-02-27 01:33:11.914,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Videbæk KVV,5006143,Videbæk Varme A/S,1589,Details
+EU490244,10-36,2019-02-27 01:33:11.673,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,I/S Aars Varmeværk,5019237,Aars Fjernvarme Amba,9941,Details
+EU490278,10-36,2019-02-27 01:33:11.65,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Gasværksvej V,5006476,Aalborg Varme A/S,1194,Details
+EU490276,10-36,2019-02-27 01:33:11.645,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Pedershvile Teg,5006440,Egernsund Wienerberger A/S,5490,Details
+EU490270,10-36,2019-02-27 01:33:11.642,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Kanalvej 9,5006209,Næstved Fjernvarme A.M.B.A.,197,Details
+EU490249,10-36,2019-02-27 01:33:11.641,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Kjellerup Fjern,5006199,Kjellerup Fjernvarme Amba,3752,Details
+EU490232,10-36,2019-02-27 01:33:11.6,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Svendborg Centr,5006495,Aalborg Varme A/S,463,Details
+EU490231,10-36,2019-02-27 01:33:11.507,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Vamdrup Fjernv,5006326,Vamdrup Fjernvarme A M B A,2063,Details
+EU490272,10-36,2019-02-27 01:33:11.495,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Bogense Forsyn,5006215,Bogense Forsyningsselskab,2936,Details
+EU490238,10-36,2019-02-27 01:33:11.482,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,NLMK DanSteel,5006329,NLMK DanSteel A/S,63178,Details
+EU490236,10-36,2019-02-27 01:33:11.478,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Østre Varme,5006526,HOFOR Fjernvarme P/S,491,Details
+EU490277,10-36,2019-02-27 01:33:11.476,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,"NCC Industry A/S, Ejby",5006553,NCC Industry A/S,942,Details
+EU490275,10-36,2019-02-27 01:33:11.474,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Trekantområdets Affaldsselskab I/S,5020063,Energnist,24469,Details
+EU490237,10-36,2019-02-27 01:33:11.468,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Poland,100,Instalacja do spalania paliw,5002902,Homanit Krosno Odrzańskie Sp. z o.o.,12092,Details
+EU490239,10-36,2019-02-27 01:33:11.467,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Poland,100,CERRAD Sp. z o.o. zakład nr 2,5024821,CERRAD Sp. z o.o.,15425,Details
+EU490271,10-36,2019-02-27 01:33:11.412,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Belgium,100,052 Fluxys compressiestation Winksele,5004415,Fluxys Belgium,2477,Details
+EU490235,10-36,2019-02-27 01:33:11.404,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Lem Varmev,5006442,Lem varmeværk,3391,Details
+EU490264,10-36,2019-02-27 01:33:11.353,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Nordjyllandsværket,5006367,Nordjyllandsværket A/S,97463,Details
+EU490279,10-36,2019-02-27 01:33:11.352,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Nykøbing Sj V,5006124,Nykøbing Sj Varmeværk,3629,Details
+EU490266,10-36,2019-02-27 01:33:11.346,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Skærbækværket,5006341,Ørsted Bioenergy & Thermal Power A/S,84287,Details

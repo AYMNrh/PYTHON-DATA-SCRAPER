@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU505670,10-0,2019-04-03 15:30:01.218,Completed,Finland,100,Gasum Consulting Oy,5018688,Gasum Consulting Oy,Finland,100,Porin - LNG Terminaali,5026243,Gasum LNG Oy,11405,Details
+EU505672,10-0,2019-04-03 15:29:38.965,Completed,France,100,BNP PARIBAS,5027964,BNP PARIBAS,Germany,100,Axpo Solutions AG,5017149,AXPO Solutions AG,5000,Details
+EU505362,10-2,2019-04-03 15:28:20.156,Completed,Italy,100,Operator Account,5012373,SIRAM SPA,European Commission,100,EU Allowance deletion,5016380,European Commission,17142,Details
+EU505623,10-0,2019-04-03 15:28:00.333,Completed,Greece,100,DEI,5016974,ΔΕΗ Α.Ε,Greece,100,DEIPARO,5002304,ΔΕΗ Α.Ε,19140,Details
+EU504286,10-0,2019-04-03 15:27:47.02,Completed,Slovakia,100,Slovnaft CO2,5003297,"SLOVNAFT, a.s.",Slovakia,100,Petrochémia SPC,5003782,"SLOVNAFT, a.s.",251218,Details
+EU505665,10-0,2019-04-03 15:27:38.942,Completed,United Kingdom,100,ABN AMRO Clearing Bank N.V,5017351,"ABN AMRO Clearing Bank N.V, London Branch",Denmark,100,Danske Commodities A/S,5017234,Danske Commodities A/S,7000,Details
+EU505659,10-0,2019-04-03 15:27:20.822,Completed,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,United Kingdom,100,Goldman Sachs International (Commods) - Trading Account,5017378,Goldman Sachs International,592000,Details
+EU505626,10-0,2019-04-03 15:26:16.483,Completed,Greece,100,DEI,5016974,ΔΕΗ Α.Ε,Greece,100,DEIKARP,5002307,ΔΕΗ Α.Ε,25804,Details
+EU505657,10-0,2019-04-03 15:26:06.68,Completed,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,334000,Details
+EU504621,10-0,2019-04-03 15:25:00.984,Completed,Finland,100,Neste Oyj Porvoon päästötili,5010858,Neste Oyj,Finland,100,Kilpilahden voimalaitos,5027473,Kilpilahden Voimalaitos Oy,18,Details
+EU505655,10-2,2019-04-03 15:24:53.756,Completed,Italy,100,1708_AO Moscati Avellino,5017312,MOSCATI ENERGIA SRL,European Commission,100,EU Allowance deletion,5016380,European Commission,11418,Details
+EU505637,10-0,2019-04-03 15:24:50.632,Completed,Greece,100,DEI,5016974,ΔΕΗ Α.Ε,Greece,100,DEISIF,5002396,ΔΕΗ Α.Ε,12728,Details
+EU503463,10-0,2019-04-03 15:24:49.624,Completed,Netherlands,100,ENECOGEN Emissions Account,5011215,Tollhouse B.V.,Netherlands,100,Enecogen,5011233,Enecogen V.O.F.,1067888,Details
+EU504296,10-0,2019-04-03 15:24:21.17,Completed,Slovakia,100,Slovnaft CO2,5003297,"SLOVNAFT, a.s.",Slovakia,100,CMEPSCO2,5003898,"SLOVNAFT, a.s.",138000,Details
+EU505641,10-0,2019-04-03 15:23:53.314,Completed,Greece,100,DEI,5016974,ΔΕΗ Α.Ε,Greece,100,DEIPATM,5002397,ΔΕΗ Α.Ε,10814,Details
+EU505653,10-0,2019-04-03 15:23:30.81,Completed,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,United Kingdom,100,ED&F Man Capital Markets Ltd,5023256,E D & F MAN CAPITAL MARKETS LIMITED,121000,Details
+EU505482,10-0,2019-04-03 15:22:47.476,Completed,Ireland,100,Trading Account,5017808,The Governor and Company of the Bank of Ireland,Ireland,100,Operator Account,5011941,Edenderry Power Limited,432500,Details
+EU505643,10-0,2019-04-03 15:21:54.013,Completed,Greece,100,DEI,5016974,ΔΕΗ Α.Ε,Greece,100,DEIIKAR,5002441,ΔΕΗ Α.Ε,22080,Details
+EU505651,10-0,2019-04-03 15:21:28.341,Completed,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,France,100,BNP PARIBAS,5027964,BNP PARIBAS,37000,Details
+EU505543,10-0,2019-04-03 15:20:55.695,Completed,Greece,100,DEI,5016974,ΔΕΗ Α.Ε,Greece,100,DEIAGDIM,5002479,ΔΕΗ Α.Ε,5205744,Details

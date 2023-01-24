@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU492475,10-0,2019-02-28 10:09:12.121,Completed,Germany,100,Statkraft Markets GmbH,5017011,Statkraft Markets GmbH,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,328000,Details
+EU490938,10-0,2019-02-28 10:08:58.167,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,1750000,Details
+EU492443,10-0,2019-02-28 10:08:49.308,Completed,Norway,100,DNB Markets Trading Account,5017497,DNB Bank ASA,Norway,100,Vår Energi Balder og Ringhorne,5012223,Vår Energi ASA,47000,Details
+EU492493,10-0,2019-02-28 10:08:42.696,Completed,Spain,100,Santander Clientes,5017250,Banco Santander S.A.,Poland,100,PGE Dom Maklerski S.A.,5023795,PGE Dom Maklerski S.A.,5000,Details
+EU490942,10-0,2019-02-28 10:07:40.734,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,United Kingdom,100,Forties Delta,5008543,Apache North Sea Limited,70683,Details
+EU492458,10-0,2019-02-28 10:07:30.775,Completed,Greece,100,ΤΡΑΠΕΖΑ ΠΕΙΡΑΙΩΣ ΑΕ,5020090,ΤΡΑΠΕΖΑ ΠΕΙΡΑΙΩΣ ΑΕ,Greece,100,AEGEAN AIRLINES S.A.,5000689,AEGEAN AIRLINES S.A.,30000,Details
+EU492442,10-0,2019-02-28 10:07:00.316,Completed,Germany,100,Axpo Solutions AG,5017149,AXPO Solutions AG,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,320000,Details
+EU492452,10-0,2019-02-28 10:06:53.643,Completed,Poland,100,Polskie Górnictwo Naftowe i Gazownictwo,5021320,Polskie Górnictwo Naftowe i Gazownictwo S.A.,Poland,100,PGNiG TERMIKA Energetyka Przemysłowa S.A. Zakład Pniówek,5003566,PGNiG TERMIKA Energetyka Przemysłowa S.A.,18000,Details
+EU490636,10-0,2019-02-28 10:06:42.055,Completed,Norway,100,Trading Account Power & Emission,5017663,Equinor ASA,Norway,100,Equinor ASA Raffineri Mongstad,5012302,Equinor ASA,1901000,Details
+EU490924,10-0,2019-02-28 10:06:27.72,Completed,France,100,VITOL SA,5017265,VITOL SA,Romania,100,Operator Account,5010059,ELECTROCENTRALE BUCURESTI S.A,100000,Details
+EU490864,10-0,2019-02-28 10:06:09.57,Completed,Netherlands,100,China Carbon N.V.,5026480,China Carbon N.V.,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,35152,Details
+EU490631,10-0,2019-02-28 10:04:50.511,Completed,Norway,100,Trading Account Power & Emission,5017663,Equinor ASA,United Kingdom,100,Mariner FSU,5025503,Equinor UK Limited,50000,Details
+EU492441,10-0,2019-02-28 10:04:12.419,Completed,Germany,100,Axpo Solutions AG,5017149,AXPO Solutions AG,France,100,QUOTA GES PEL CHAMPBLAIN,5005255,SAICA PAPER FRANCE,3000,Details
+EU490941,10-0,2019-02-28 10:03:59.517,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,United Kingdom,100,Forties Charlie,5008541,Apache North Sea Limited,169689,Details
+EU492462,10-2,2019-02-28 10:03:35.643,Completed,France,100,BELL- Usine de Renescure,5004758,BONDUELLE EUROPE LONG LIFE,European Commission,100,EU Allowance deletion,5016380,European Commission,12265,Details
+EU487857,10-0,2019-02-28 10:03:29.587,Completed,United Kingdom,100,SSE Energy Supply Limited,5023336,SSE Energy Supply Limited,Ireland,100,Operator Account,5012063,Pfizer Ireland Pharmaceuticals,11500,Details
+EU492445,10-0,2019-02-28 10:03:17.854,Completed,Norway,100,DNB Markets Trading Account,5017497,DNB Bank ASA,Norway,100,Vår Energi Jotun,5012224,Vår Energi ASA,44000,Details
+EU490940,10-0,2019-02-28 10:02:51.128,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,United Kingdom,100,Forties Alpha,5008538,Apache North Sea Limited,145983,Details
+EU490644,10-0,2019-02-28 10:02:22.636,Completed,Norway,100,Trading Account Power & Emission,5017663,Equinor ASA,Norway,100,Equinor ASA Gullfaksfeltet,5012296,Equinor ASA,3592000,Details
+EU490715,10-0,2019-02-28 10:02:00.652,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Norway,100,DNB Markets Trading Account,5017497,DNB Bank ASA,114000,Details

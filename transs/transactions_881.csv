@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU501602,10-0,2019-03-28 15:43:30.288,Completed,Spain,100,NIRO CERÁMICA ESPAÑA S.L.U.,5022724,NIRO CERÁMICA ESPAÑA S.L.U.,Portugal,100,TRADE2C,5026779,"TRADE2C, UNIPESSOAL, LDA.",2691,Details
+EU502436,10-0,2019-03-28 15:43:00.563,Completed,Netherlands,100,Electrabel S.A./N.V.,5017550,Electrabel NV/SA,Belgium,100,260 Ineos Phenol,5004671,INEOS Phenol Belgium,13943,Details
+EU501601,10-0,2019-03-28 15:42:49.783,Completed,Sweden,100,Karlsborgs bruk,5001421,BillerudKorsnäs Sweden AB,Sweden,100,BillerudKorsnäs handel,5024275,BillerudKorsnäs Sweden AB,58723,Details
+EU502080,10-0,2019-03-28 15:42:37.371,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Hungary,100,MVM Partner ZRt.,5018650,MVM Partner ZRt.,1000,Details
+EU502446,10-0,2019-03-28 15:41:49.529,Completed,Netherlands,100,Electrabel S.A./N.V.,5017550,Electrabel NV/SA,Belgium,100,307 Zandvliet Power,5004320,Zandvliet Power,38801,Details
+EU502073,10-0,2019-03-28 15:41:02.672,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Italy,100,ENEL TRADE ITALIA,5016899,Enel Global Trading S.p.A.,59000,Details
+EU502474,10-0,2019-03-28 15:40:39.784,Completed,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,Bulgaria,100,Grand Energy Distribution EOOD,5027708,Grand Energy Disribution EOOD,100000,Details
+EU502467,10-2,2019-03-28 15:39:32.28,Completed,Italy,100,Oscar,5018388,Oscar For Porcelain and Ceramic Production S.r.l.,European Commission,100,EU Allowance deletion,5016380,European Commission,7380,Details
+EU502454,10-0,2019-03-28 15:39:32.075,Completed,Netherlands,100,Electrabel S.A./N.V.,5017550,Electrabel NV/SA,Belgium,100,127 TotalEnergies Refinery Antwerp,5004526,TotalEnergies Refinery Antwerp,104044,Details
+EU501593,10-0,2019-03-28 15:39:03.384,Completed,Spain,100,NIRO CERÁMICA ESPAÑA S.L.U.,5022724,NIRO CERÁMICA ESPAÑA S.L.U.,Portugal,100,TRADE2C,5026779,"TRADE2C, UNIPESSOAL, LDA.",103,Details
+EU502473,10-0,2019-03-28 15:38:39.242,Completed,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,Poland,100,Polskie Górnictwo Naftowe i Gazownictwo,5021320,Polskie Górnictwo Naftowe i Gazownictwo S.A.,8000,Details
+EU502459,10-0,2019-03-28 15:35:12.808,Completed,Netherlands,100,Electrabel S.A./N.V.,5017550,Electrabel NV/SA,Belgium,100,289 Monsanto Europe,5004302,Bayer agriculture,17776,Details
+EU502411,10-0,2019-03-28 15:35:05.117,Completed,Italy,100,ENEL TRADE ITALIA,5016899,Enel Global Trading S.p.A.,Spain,100,EG TRADING ACCOUNT,5016853,"Endesa Generación, S.A.",79000,Details
+EU502417,10-0,2019-03-28 15:34:16.993,Completed,Slovenia,100,Belektron TRD Si,5016820,BELEKTRON d.o.o.,Netherlands,100,BELEKTRON TRD NL,5027863,BELEKTRON d.o.o.,1000,Details
+EU502270,10-2,2019-03-28 15:33:05.116,Completed,Belgium,100,360 Kronos Europe,5016787,Kronos Europe,European Commission,100,EU Allowance deletion,5016380,European Commission,133201,Details
+EU502472,10-72,2019-03-28 15:32:30.079,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Belgium,100,360 Kronos Europe,5016787,Kronos Europe,5994,Details
+EU502463,10-0,2019-03-28 15:31:56.747,Completed,Netherlands,100,Electrabel S.A./N.V.,5017550,Electrabel NV/SA,Belgium,100,076 Electrabel - Vilvoorde,5004475,Electrabel,26389,Details
+EU502260,10-71,2019-03-28 15:31:22.975,Completed,Belgium,100,360 Kronos Europe,5016787,Kronos Europe,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,5994,Details
+EU502450,10-2,2019-03-28 15:30:37.287,Completed,Germany,100,508 - Anlagenkonto,5015221,Mercer Rosenthal GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,53521,Details
+EU502435,10-2,2019-03-28 15:29:42.663,Completed,Germany,100,655 - Anlagenkonto,5014089,Rauch Spanplattenwerk Gesellschaft mit beschränkter Haftung,European Commission,100,EU Allowance deletion,5016380,European Commission,2489,Details

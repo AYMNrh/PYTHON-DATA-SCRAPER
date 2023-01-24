@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU509234,10-2,2019-04-10 09:05:48.151,Completed,Finland,100,Isolahden lämpökeskus:FI464,5010520,Vaasan Sähkö Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,44,Details
+EU508814,10-2,2019-04-10 09:05:41.364,Completed,Denmark,100,I/S Amager Ressourcecenter,5018309,I/S Amager ressourcecenter,European Commission,100,EU Allowance deletion,5016380,European Commission,153606,Details
+EU510025,10-2,2019-04-10 09:05:34.006,Completed,Romania,100,Operator Account,5010100,SC Macofil SA,European Commission,100,EU Allowance deletion,5016380,European Commission,9005,Details
+EU510051,10-72,2019-04-10 09:05:23.859,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,HH Walzwerk,5019709,Speira GmbH,78,Details
+EU508794,10-2,2019-04-10 09:04:49.798,Completed,Germany,100,G-Kraftwerk,5015796,Currenta GmbH & Co. OHG,European Commission,100,EU Allowance deletion,5016380,European Commission,731566,Details
+EU507936,10-71,2019-04-10 09:04:34.871,Completed,Germany,100,HH Walzwerk,5019709,Speira GmbH,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,78,Details
+EU510048,10-72,2019-04-10 09:04:05.081,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,HH Walzwerk,5019709,Speira GmbH,712,Details
+EU509238,10-2,2019-04-10 09:03:25.858,Completed,Finland,100,Liisanlehdon lämpökeskus:FI708,5010709,Vaasan Sähkö Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,402,Details
+EU507937,10-71,2019-04-10 09:02:53.606,Completed,Germany,100,HH Walzwerk,5019709,Speira GmbH,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,712,Details
+EU510002,10-2,2019-04-10 09:01:52.89,Completed,Germany,100,1830 - Anlagenkonto,5015377,NAFTA Speicher GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,15711,Details
+EU510036,10-72,2019-04-10 08:58:40.258,Completed,European Commission,100,EU Credit Exchange Account - Aviation,5022592,EUROPEAN COMMISSION,Belgium,100,04369.CAL CARGO AIRLINES,5019028,CAL CARGO AIRLINES,237,Details
+EU510009,10-71,2019-04-10 08:57:41.288,Completed,Belgium,100,04369.CAL CARGO AIRLINES,5019028,CAL CARGO AIRLINES,European Commission,100,EU International Credit Account - Aviation,5022591,EUROPEAN COMMISSION,237,Details
+EU508798,10-2,2019-04-10 08:55:29.504,Completed,Germany,100,X- Kraftwerk,5015835,Currenta GmbH & Co. OHG,European Commission,100,EU Allowance deletion,5016380,European Commission,70356,Details
+EU510005,10-2,2019-04-10 08:53:23.565,Completed,Italy,100,Operator Account,5012831,A.C.P. SPA,European Commission,100,EU Allowance deletion,5016380,European Commission,16392,Details
+EU510022,10-2,2019-04-10 08:52:18.274,Completed,Spain,100,Colorobbía España S.A.,5009928,Colorobbia España S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,71053,Details
+EU509980,10-2,2019-04-10 08:52:10.082,Completed,Poland,100,CIEPŁOWNIA C-02,5002535,ZEC Sp. z o.o. w Starachowicach,European Commission,100,EU Allowance deletion,5016380,European Commission,1049,Details
+EU508801,10-2,2019-04-10 08:51:26.227,Completed,Germany,100,Kraftwerk N 230,5015859,Currenta GmbH & Co. OHG,European Commission,100,EU Allowance deletion,5016380,European Commission,722616,Details
+EU509984,10-2,2019-04-10 08:49:10.007,Completed,Poland,100,CIEPŁOWNIA C-01,5002534,ZEC Sp. z o.o. w Starachowicach,European Commission,100,EU Allowance deletion,5016380,European Commission,41051,Details
+EU510004,10-2,2019-04-10 08:47:48.503,Completed,Poland,100,Kotłownia Pudliszki Sp. z o.o.,5002539,Pudliszki Sp. z o.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,10683,Details
+EU509978,10-2,2019-04-10 08:46:13.065,Completed,Slovenia,100,KOMUNALA TRBOVLJE,5008670,"KOMUNALA TRBOVLJE, D.O.O.",European Commission,100,EU Allowance deletion,5016380,European Commission,14583,Details

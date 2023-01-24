@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU498206,10-0,2019-03-19 14:33:58.027,Completed,Germany,100,Vattenfall Energy Trading GmbH,5017244,Vattenfall Energy Trading GmbH,Germany,100,Handelskonto AOC,5017245,Vattenfall Energy Trading GmbH,20000000,Details
+EU498001,10-0,2019-03-19 14:31:36.925,Completed,Italy,100,Trading Account,5017215,Tirreno Power SpA,Italy,100,Operator Account,5012581,Tirreno Power SpA,983443,Details
+EU498004,10-0,2019-03-19 14:30:02.794,Completed,Italy,100,Trading Account,5017215,Tirreno Power SpA,Italy,100,Operator Account,5012576,Tirreno Power SpA,747707,Details
+EU498006,10-0,2019-03-19 14:28:49.698,Completed,Italy,100,Trading Account,5017215,Tirreno Power SpA,Italy,100,Operator Account,5012578,Tirreno Power SpA,547295,Details
+EU497641,10-0,2019-03-19 14:28:34.559,Completed,Italy,100,Operator Account,5012792,Buzzi Unicem S.p.A.,Germany,100,125 - Anlagenkonto,5014030,Dyckerhoff GmbH,121600,Details
+EU498199,10-0,2019-03-19 14:26:48.448,Completed,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,58000,Details
+EU497643,10-0,2019-03-19 14:25:23.924,Completed,Italy,100,Operator Account,5012792,Buzzi Unicem S.p.A.,Germany,100,134 - Anlagenkonto,5014074,Dyckerhoff GmbH,45400,Details
+EU498147,10-0,2019-03-19 14:24:28.837,Completed,Italy,100,DE TRADING,5026177,DOLOMITI ENERGIA TRADING S.P.A.,Italy,100,Dolomiti Energia Holding,5013189,Dolomiti Energia Holding Spa,3376,Details
+EU498141,10-0,2019-03-19 14:22:31.555,Completed,Italy,100,DE TRADING,5026177,DOLOMITI ENERGIA TRADING S.P.A.,Italy,100,Operator Account,5012614,Novareti S.p.A.,45052,Details
+EU498187,10-2,2019-03-19 14:20:28.852,Completed,Belgium,100,043 SORESIC,5004442,SORESIC,European Commission,100,EU Allowance deletion,5016380,European Commission,5578,Details
+EU497646,10-0,2019-03-19 14:19:46.255,Completed,Italy,100,Operator Account,5012792,Buzzi Unicem S.p.A.,Luxembourg,100,24 - Usine Intermoselle,5013689,Cimalux S.A.,23500,Details
+EU497651,10-0,2019-03-19 14:13:09.602,Completed,Italy,100,Operator Account,5012792,Buzzi Unicem S.p.A.,Czech Republic,100,Cement Hranice - rotační pec,5006913,"Cement Hranice, a. s.",28900,Details
+EU498099,10-0,2019-03-19 14:11:34.12,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,France,100,EDF PEI - ETABLISSEMENT DE BELLEFONTAINE B,5022731,EDF PRODUCTION ELECTRIQUE INSULAIRE SAS,31768,Details
+EU498100,10-0,2019-03-19 14:10:35.437,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,France,100,EDF PEI HAUTE CORSE,5022732,EDF PRODUCTION ELECTRIQUE INSULAIRE SAS,21725,Details
+EU497775,10-0,2019-03-19 14:10:25.161,Completed,United Kingdom,100,Cofely UK Sullom Voe Power Station,5008115,ENGIE FM Limited,United Kingdom,100,Humber Energy Limited Grimsby Power Station,5007290,Industrial Energy Services Limited,1036,Details
+EU498102,10-0,2019-03-19 14:09:41.027,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,France,100,EDF PEI Centrale de production d'électricité de Port Est,5018802,EDF PRODUCTION ELECTRIQUE INSULAIRE SAS,60589,Details
+EU498104,10-0,2019-03-19 14:08:52.399,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,France,100,EDF PEI POINTE JARRY,5023811,EDF PRODUCTION ELECTRIQUE INSULAIRE SAS,45422,Details
+EU497654,10-0,2019-03-19 14:08:16.986,Completed,Italy,100,Operator Account,5012792,Buzzi Unicem S.p.A.,Poland,100,Dyckerhoff Polska Sp. z o.o.,5003228,Dyckerhoff Polska Sp.z o.o.,81700,Details
+EU498106,10-0,2019-03-19 14:07:55.408,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,France,100,EDM-BADAMIERS,5023397,ELECTRICITE DE MAYOTTE,2806,Details
+EU498108,10-0,2019-03-19 14:07:06.209,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,France,100,EDM-LONGONI,5023396,ELECTRICITE DE MAYOTTE,16893,Details

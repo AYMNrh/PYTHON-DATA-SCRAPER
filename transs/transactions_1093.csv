@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU497461,10-0,2019-03-18 10:34:58.129,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Portugal,100,"NAVIGATOR PAPER SETUBAL, S.A.",5003263,"NAVIGATOR PAPER SETUBAL, S.A.",50000,Details
+EU497698,10-2,2019-03-18 10:33:33.879,Completed,Croatia,100,DILJPOGON1,5022621,Dilj d.o.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,7676,Details
+EU497705,10-2,2019-03-18 10:31:25.43,Completed,Croatia,100,DILJSLAVONKA,5022624,Dilj d.o.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,8796,Details
+EU497708,10-2,2019-03-18 10:28:43.28,Completed,Croatia,100,Dilj d.o.o. Pogon Našice,5021699,Dilj d.o.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,9817,Details
+EU497441,10-2,2019-03-18 10:28:09.085,Completed,United Kingdom,100,Smurfit Kappa Townsend Hook,5023932,Smurfit Kappa UK Ltd,European Commission,100,EU Allowance deletion,5016380,European Commission,37717,Details
+EU497694,10-0,2019-03-18 10:18:05.542,Completed,Czech Republic,100,"ČEZ, a.s. - obchodní účet",5016960,"ČEZ, a. s.",United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,4000,Details
+EU497702,10-86,2019-03-18 10:17:56.409,Completed,Estonia,100,Nord Terminals AS,5016377,Nord Terminals AS,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,5146,Details
+EU497697,10-86,2019-03-18 10:15:55.037,Completed,Estonia,100,Nord Terminals AS,5016377,Nord Terminals AS,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,6094,Details
+EU497565,10-2,2019-03-18 10:14:25.906,Completed,Austria,100,Merckens Schwertberg,5004233,Merckens Karton- und Pappenfabrik GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,3747,Details
+EU497689,10-0,2019-03-18 10:12:18.004,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,5000,Details
+EU497686,10-0,2019-03-18 10:10:29.706,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Spain,100,Swiftair SA,5016400,Swiftair SA,5126,Details
+EU497679,10-0,2019-03-18 10:09:27.049,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Poland,100,Ciepłownia Centralna,5003654,Ciepłownia Sierpc Sp.z o.o.,500,Details
+EU497436,10-0,2019-03-18 10:08:42.335,Completed,Belgium,100,9013 INEOS EUROPE AG,5027610,INEOS EUROPE AG,Denmark,100,Siri Feltet,5006366,INEOS E&P A/S,86929,Details
+EU497685,10-0,2019-03-18 10:08:01.235,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Poland,100,Elektrociepłownia PCC Rokita SA,5002783,PCC Rokita SA,1000,Details
+EU497653,10-0,2019-03-18 10:07:39.616,Completed,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,Spain,100,Vueling Airlines SA,5000693,"Vueling Airlines, S.A.",200000,Details
+EU497660,10-0,2019-03-18 10:06:00.991,Completed,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,Spain,100,"Repsol Trading, S.A.",5024180,"Repsol Trading, S.A",1785714,Details
+EU497693,10-0,2019-03-18 10:05:46.793,Completed,Italy,100,conto di scambio fenice,5016921,Fenice spa,Italy,100,Albizzate,5013662,Fenice spa,16,Details
+EU497682,10-0,2019-03-18 10:05:37.276,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Poland,100,Ciepłownia FIBRIS S.A. w Przemyślu,5003113,FIBRIS S.A.,1000,Details
+EU497666,10-0,2019-03-18 10:05:36.891,Completed,Finland,100,Gasum Consulting Oy,5018688,Gasum Consulting Oy,Finland,100,Trading 1,5023516,Fortum Power and Heat Oy,10000,Details
+EU497264,10-0,2019-03-18 10:04:55.233,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Netherlands,100,USG handelsrekening,5011363,Utility Support Group (USG) B.V.,10000,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU487554,10-36,2019-02-22 01:33:38.041,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,"Västra Mälardalens Energi och Miljö AB, värmeverket Vimman",5002133,Västra Mälardalens Energi och Miljö AB,7818,Details
+EU487556,10-36,2019-02-22 01:33:38.035,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Panncentral Huven,5024490,Ronneby Miljö & Teknik AB,850,Details
+EU487497,10-36,2019-02-22 01:33:38.026,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,PC Vägga,5002053,Karlshamn Energi AB,60,Details
+EU487498,10-36,2019-02-22 01:33:38.023,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Värmeverk Väster Udd,5002122,Affärsverken Karlskrona AB,1230,Details
+EU487530,10-36,2019-02-22 01:33:37.996,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Krackeranläggningen,5001437,Borealis AB,499186,Details
+EU487500,10-36,2019-02-22 01:33:37.984,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Slovenia,100,KOLIČEVO KARTON,5008648,MM KOLIČEVO D.O.O.,63217,Details
+EU487566,10-36,2019-02-22 01:33:37.977,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Storegårdens panncentral,5001781,Eksjö Energi AB,44,Details
+EU487567,10-36,2019-02-22 01:33:37.94,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,"Bergsättersverken, Motala",5002145,Vattenfall AB,16128,Details
+EU487565,10-36,2019-02-22 01:33:37.908,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Rönnskärsverken,5001432,Boliden Mineral AB,258673,Details
+EU487561,10-36,2019-02-22 01:33:37.905,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Slovenia,100,TE-TOL,5008625,"ENERGETIKA LJUBLJANA, d.o.o.",107370,Details
+EU487568,10-36,2019-02-22 01:33:37.903,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Riskullaverket,5002057,Mölndal Energi AB,27198,Details
+EU487557,10-36,2019-02-22 01:33:37.854,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,PC Kristineberg,5001748,Oskarshamn Energi AB,64,Details
+EU487564,10-36,2019-02-22 01:33:37.777,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,HVC Hallonvägen,5001982,E.ON MälarKraft Värme AB,255,Details
+EU487562,10-36,2019-02-22 01:33:37.733,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Ångcentralen Boxholms såg,5001447,Adven Energilösningar AB,2992,Details
+EU487560,10-36,2019-02-22 01:33:37.659,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,PC Facetten,5001402,Tekniska Verken i Linköping AB,2258,Details
+EU487553,10-36,2019-02-22 01:33:37.591,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Bäckhammars bruk,5001430,Nordic Paper Bäckhammar AB,42633,Details
+EU487555,10-36,2019-02-22 01:33:37.573,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Ljungsjöverket,5001972,Ljungby Energi AB,13371,Details
+EU487551,10-36,2019-02-22 01:33:37.568,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Rottneros Bruk,5001512,Rottneros Bruk AB,17559,Details
+EU487550,10-36,2019-02-22 01:33:37.558,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Värmeverket Hamnen,5022808,Varberg Energi AB,3357,Details
+EU487544,10-36,2019-02-22 01:33:37.523,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,HVC Bro,5001979,E.ON MälarKraft Värme AB,579,Details

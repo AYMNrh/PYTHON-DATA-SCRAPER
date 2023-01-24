@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU505808,10-0,2019-04-05 12:06:06.463,Completed,Spain,100,"Cemex España Operaciones, S.L.U. - Alcanar",5009908,"Cemex España Operaciones, S.L.U.",Czech Republic,100,"CEMEX Czech Republic, s.r.o.",5006851,"CEMEX Czech Republic, s.r.o.",32914,Details
+EU506138,10-0,2019-04-05 12:05:45.275,Completed,Greece,100,LIGNITIKI MEGALOPOLIS S.A.,5027604,ΛΙΓΝΙΤΙΚΗ ΜΕΓΑΛΟΠΟΛΗΣ Α.Ε,Greece,100,LIGNITIKI MEGALOPOLIS unit III,5002483,ΛΙΓΝΙΤΙΚΗ ΜΕΓΑΛΟΠΟΛΗΣ Α.Ε,1138358,Details
+EU504388,10-0,2019-04-05 12:05:39.663,Completed,Germany,100,757 - Anlagenkonto,5014969,DREWAG - Stadtwerke Dresden GmbH,Germany,100,769 - Anlagenkonto,5015105,DREWAG - Stadtwerke Dresden GmbH,17243,Details
+EU503483,10-0,2019-04-05 12:05:19.189,Completed,France,100,SLV-Ta-SFF,5022333,SOLVAY OPERATIONS FRANCE,France,100,SLV-Ta-EDS2,5005453,SOLVAY FRANCE,17777,Details
+EU506218,10-0,2019-04-05 12:05:17.487,Completed,Denmark,100,Solrød Kedelcentral,5006207,Vestegnens Kraftvarmeselskab I/S,Denmark,100,Brøndbyøster Fjernvarmecentral,5006216,BRØNDBY FJERNVARME A M B A,1400,Details
+EU506068,10-0,2019-04-05 12:05:06.488,Completed,Germany,100,Rhein Papier Hürth,5019202,Rhein Papier GmbH,Germany,100,1914 - RWE Power AG  Personenkonto,5015477,RWE Power AG,9721,Details
+EU505325,10-0,2019-04-05 12:04:51.545,Completed,Spain,100,"Neo SC El Grado, S.L.U.",5009573,"Neo SC El Grado, S.L.U.",Spain,100,"Neoelectra SC Ecoenergía Navarra, S.L.U",5009520,"Neoelectra SC Ecoenergía Navarra, S.L.U",48454,Details
+EU505135,10-0,2019-04-05 12:04:51.358,Completed,Germany,100,1623 - Anlagenkonto,5015063,RWE Power Aktiengesellschaft,Germany,100,4000 - Anlagenkonto,5013947,RWE Power Aktiengesellschaft,3971,Details
+EU502780,10-0,2019-04-05 12:04:32.573,Completed,Germany,100,Dampfkesselanlage,5015223,VYNOVA Wilhelmshaven GmbH,Germany,100,INEOS Vinyls VCM-Anlage,5019470,VYNOVA Wilhelmshaven GmbH,162336,Details
+EU505794,10-0,2019-04-05 12:04:27.775,Completed,Spain,100,"Cerámica Miramar, S.L.",5009696,"Cerámica Miramar, S.L.",Spain,100,"Global Factor Commodity Trading, S.A.U.",5016901,"Global Factor Commodity Trading, S.A.U.",30000,Details
+EU505771,10-0,2019-04-05 12:04:27.772,Completed,United Kingdom,100,Hull,5007856,Croda Europe Ltd,Netherlands,100,Cargill Bioindustrial B.V.,5011375,Cargill Bioindustrial,17150,Details
+EU505733,10-0,2019-04-05 12:04:26.306,Completed,Italy,100,Cassano,5012938,A2A GENCOGAS S.P.A.,Italy,100,A2A S.P.A.,5025361,A2A SPA,24057,Details
+EU505793,10-0,2019-04-05 12:04:23.666,Completed,Italy,100,Operator Account,5013098,RAGUSA CEMENTI S.P.A.,Italy,100,Operator Account,5013081,COLACEM SPA,151906,Details
+EU505766,10-0,2019-04-05 12:04:23.151,Completed,France,100,ARCELORMITTAL TREASURY Détention,5026253,ARCELORMITTAL TREASURY,Poland,100,OBRÓBKA METALI ŻELAZNYCH ARCELORMITTAL ŚWIĘTOCHŁOWICE,5003787,ArcelorMittal Poland S.A.,40280,Details
+EU505790,10-0,2019-04-05 12:03:59.845,Completed,Spain,100,Cementos Alfa S.A. - Instalación de Mataporquera,5009892,"CEMENTOS ALFA, S.A.",Spain,100,"Global Factor Commodity Trading, S.A.U.",5016901,"Global Factor Commodity Trading, S.A.U.",500,Details
+EU505787,10-0,2019-04-05 12:03:57.839,Completed,Italy,100,CT TLR Chivasso,5025639,SIRAM SPA,Italy,100,Ospedale UDINE,5012399,SIRAM SPA,81,Details
+EU503505,10-0,2019-04-05 12:03:52.666,Completed,France,100,SLV-Ta-Specialty Polymers 1,5022334,SOLVAY OPERATIONS FRANCE,France,100,SLV-Ta-EDS2,5005453,SOLVAY FRANCE,16663,Details
+EU506764,10-0,2019-04-05 12:03:38.168,Completed,Italy,100,A2A S.P.A.,5025361,A2A SPA,Italy,100,NUOVO OSPEDALE BERGAMO,5017915,A2A CALORE & SERVIZI Srl,78,Details
+EU505334,10-0,2019-04-05 12:03:38.158,Completed,Spain,100,"Neo SC El Grado, S.L.U.",5009573,"Neo SC El Grado, S.L.U.",Spain,100,"Neoelectra SC Cogeneración, S.L.U.",5009896,"Neoelectra SC Cogeneración, S.L.U.",49610,Details
+EU507383,10-0,2019-04-05 12:03:12.461,Completed,Germany,100,innogy SE,5017191,innogy SE,Germany,100,KWE Handelskonto,5018216,VSE Aktiengesellschaft,11744,Details

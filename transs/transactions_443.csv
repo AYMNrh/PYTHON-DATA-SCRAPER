@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU512072,10-0,2019-04-12 11:35:46.701,Completed,Norway,100,DNB Markets Trading Account,5017497,DNB Bank ASA,Norway,100,Sundt Air,5000318,Sundt Air Management AS,1050,Details
+EU510896,10-71,2019-04-12 11:35:46.322,Completed,Germany,100,Einheitliche Anlage Alunorf,5018534,ALUMINIUM NORF Gesellschaft mit beschränkter Haftung,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,13303,Details
+EU512166,10-2,2019-04-12 11:35:22.976,Completed,Spain,100,"Tecnigres, S.A.",5018651,"Tecnigres, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,3559,Details
+EU512193,10-0,2019-04-12 11:34:43.667,Completed,Germany,100,Shell Trading International Limited,5027588,Shell Trading International Limited,Denmark,100,Syd arne Feltet,5006308,INEOS E&P A/S,26000,Details
+EU512173,10-0,2019-04-12 11:34:40.885,Completed,Italy,100,Intermonte Partners SIM S.p.A.,5021903,Intermonte Partners SIM S.p.A.,Italy,100,ITELYUM REGENERATION SPA,5021908,ITELYUM REGENERATION SPA,43114,Details
+EU512107,4-0,2019-04-12 11:34:36.211,Completed,United Kingdom,100,UPM Trading GB,5022576,UPM Umwelt-Projekt-Management GmbH,European Commission,230,EU Cancellation Account Period 2,5022673,EUROPEAN UNION,35000,Details
+EU512190,10-0,2019-04-12 11:33:52.922,Completed,Norway,100,Norsk Hydro ASA Trading,5017169,Norsk Hydro ASA,Germany,100,Speira GmbH Neuss ELB,5019224,Speira GmbH,1688,Details
+EU512178,10-0,2019-04-12 11:33:22.641,Completed,Italy,100,Intermonte Partners SIM S.p.A.,5021903,Intermonte Partners SIM S.p.A.,Italy,100,Itelyum Regeneration S.p.A. Stabilimento di Ceccano,5021850,ITELYUM REGENERATION SPA,19509,Details
+EU512182,10-0,2019-04-12 11:31:42.593,Completed,Italy,100,Intermonte Partners SIM S.p.A.,5021903,Intermonte Partners SIM S.p.A.,Italy,100,ITELYUM REGENERATION SPA,5021908,ITELYUM REGENERATION SPA,3706,Details
+EU512188,10-0,2019-04-12 11:31:04.444,Completed,Netherlands,100,STIL Dutch Registry TA,5027677,Shell Trading International Limited,Germany,100,Shell Trading International Limited,5027588,Shell Trading International Limited,11196,Details
+EU512185,10-0,2019-04-12 11:27:52.91,Completed,Italy,100,conto di scambio fenice,5016921,Fenice spa,Italy,100,Operator Account,5023102,Fenice spa,2598,Details
+EU508734,10-0,2019-04-12 11:27:36.842,Completed,France,100,COLAS,5023028,COLAS,France,100,COLAS PROJECTS - TSM 25-2,5023137,COLAS FRANCE,1205,Details
+EU508736,10-0,2019-04-12 11:26:41.862,Completed,France,100,COLAS,5023028,COLAS,France,100,COLAS PROJECTS - TSM 25-4,5026719,COLAS PROJECTS,1072,Details
+EU508062,10-2,2019-04-12 11:26:22.669,Completed,Austria,100,AVCON JET AG,5017375,AVCON JET AG,European Commission,100,EU Allowance deletion,5016380,European Commission,10214,Details
+EU511971,10-2,2019-04-12 11:26:02.916,Completed,Norway,100,Equinor ASA Martin Linge,5023841,Equinor ASA,European Commission,100,EU Allowance deletion,5016380,European Commission,28453,Details
+EU512180,10-0,2019-04-12 11:25:55.107,Completed,Italy,100,conto di scambio fenice,5016921,Fenice spa,Italy,100,Albizzate,5013662,Fenice spa,1124,Details
+EU508737,10-0,2019-04-12 11:25:31.513,Completed,France,100,COLAS,5023028,COLAS,France,100,COLAS PROJECTS - TSM 25-3,5023115,COLAS FRANCE,273,Details
+EU512094,10-2,2019-04-12 11:22:52.106,Completed,Poland,100,Instalacja produkcji papieru,5003545,Sofidel Poland Sp. z o.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,40226,Details
+EU509747,10-2,2019-04-12 11:20:56.196,Completed,Germany,100,2054 - Herstellung von Borosilikatglas,5015624,Duran Produktions GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,1933,Details
+EU505085,10-2,2019-04-12 11:20:41.259,Completed,Sweden,100,Luleå Kalkverk,5001560,SMA Mineral AB,European Commission,100,EU Allowance deletion,5016380,European Commission,86928,Details

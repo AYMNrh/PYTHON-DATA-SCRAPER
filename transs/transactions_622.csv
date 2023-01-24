@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU507160,10-0,2019-04-08 14:23:45.321,Completed,Netherlands,100,HBEL,5027810,Holcibel,Belgium,100,242 Holcim Cimenterie Obourg,5004641,Holcim,913235,Details
+EU508375,10-2,2019-04-08 14:21:15.337,Completed,Italy,100,Operator Account,5013157,Wepa Italia S.r.l.,European Commission,100,EU Allowance deletion,5016380,European Commission,33311,Details
+EU507952,4-0,2019-04-08 14:20:40.354,Completed,Germany,100,MVV Trading GmbH,5017307,MVV Trading GmbH,European Commission,230,EU Cancellation Account Period 2,5022673,EUROPEAN UNION,7500,Details
+EU504410,10-2,2019-04-08 14:19:54.195,Completed,Belgium,100,097 Boortmalt Herent,5004496,Boortmalt Herent,European Commission,100,EU Allowance deletion,5016380,European Commission,15426,Details
+EU508377,10-2,2019-04-08 14:19:46.017,Completed,Italy,100,Operator Account,5013162,Wepa Italia S.r.l.,European Commission,100,EU Allowance deletion,5016380,European Commission,32354,Details
+EU508186,10-2,2019-04-08 14:17:12.465,Completed,Finland,100,KyVo CO2:FI226,5011009,Kymin Voima Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,58129,Details
+EU507403,10-0,2019-04-08 14:14:20.137,Completed,Hungary,100,Operator Account:HU48,5011687,Dunacell Dunaújvárosi Cellulózgyár Kft.,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,10000,Details
+EU507768,10-0,2019-04-08 14:14:16.93,Completed,Spain,100,"PENINSULAR COGENERACIÓN, S.A.",5020259,"PENINSULAR COGENERACIÓN, S.A",Spain,100,"International Paper Madrid Mill, S.L.U.",5009660,"International Paper Madrid Mill, S.L.U.",26679,Details
+EU503703,10-2,2019-04-08 14:13:44.578,Completed,Finland,100,Kyläoja:FI289,5010345,Nivalan Kaukolämpö Oy -,European Commission,100,EU Allowance deletion,5016380,European Commission,4,Details
+EU508360,10-2,2019-04-08 14:13:25.969,Completed,Italy,100,Operator Account,5012396,Ferrari SpA,European Commission,100,EU Allowance deletion,5016380,European Commission,74498,Details
+EU507647,10-2,2019-04-08 14:12:33.898,Completed,France,100,EJPIC,5022630,EJ PICARDIE,European Commission,100,EU Allowance deletion,5016380,European Commission,38309,Details
+EU503713,10-2,2019-04-08 14:11:33.12,Completed,Finland,100,Lämpölä:FI290,5010346,Nivalan Kaukolämpö Oy -,European Commission,100,EU Allowance deletion,5016380,European Commission,5222,Details
+EU507369,10-0,2019-04-08 14:10:31.355,Completed,Poland,100,Spółdzielnia Pracy Huta Szkła Sława,5003294,Spółdzielnia Pracy Huta Szkła Sława,Germany,100,2023 - Kroehnert Personenkonto,5015589,Michael Kroehnert,10000,Details
+EU508338,10-2,2019-04-08 14:09:45.638,Completed,Germany,100,KÄMMERER Energie GmbH,5023743,Kämmerer Energie GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,122863,Details
+EU507393,10-0,2019-04-08 14:08:03.469,Completed,France,100,KEM ONE- LAVERA,5021479,KEM ONE,France,100,KEM ONE- St FONS,5021480,KEM ONE,30,Details
+EU508369,10-2,2019-04-08 14:08:02.647,Completed,Spain,100,"Nestlé España, S.A. - Fábrica de la Penilla",5008752,"Nestlé España, SA",European Commission,100,EU Allowance deletion,5016380,European Commission,38022,Details
+EU508368,10-2,2019-04-08 14:06:32.904,Completed,Romania,100,Operator Account,5010102,SC DONALAM SRL,European Commission,100,EU Allowance deletion,5016380,European Commission,53867,Details
+EU508370,10-2,2019-04-08 14:05:19.315,Completed,Spain,100,"Nestlé España, S.A. - Fábrica de Girona",5008998,"Nestlé España, SA",European Commission,100,EU Allowance deletion,5016380,European Commission,102434,Details
+EU507388,10-0,2019-04-08 14:04:17.11,Completed,Germany,100,Deutsche Lufthansa AG,5000022,Deutsche Lufthansa Aktiengesellschaft,Belgium,100,00908.BRUSSELS AIRLINES,5017037,BRUSSELS AIRLINES,701867,Details
+EU508175,10-2,2019-04-08 14:03:56.434,Completed,Czech Republic,100,Devro - plynová kotelna,5007044,Devro s.r.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,20900,Details

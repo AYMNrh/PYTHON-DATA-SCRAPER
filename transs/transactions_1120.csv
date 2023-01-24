@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU497164,10-0,2019-03-14 13:32:00.817,Completed,Netherlands,100,HEP,5019101,Hrvatska elektroprivreda d.d.,Croatia,100,HEPTEPLOMIN2,5020421,HEP-Proizvodnja d.o.o.,1105368,Details
+EU497147,10-2,2019-03-14 13:30:08.985,Completed,United Kingdom,100,Arla Foods Westbury,5025579,Arla Foods Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,23405,Details
+EU495681,10-0,2019-03-14 13:29:03.687,Completed,Denmark,100,ARLA F Protein,5006376,ARLA Foods Energy A/S,Denmark,100,ArlaFoodsArico,5006377,ARLA Foods Energy A/S,9186,Details
+EU496719,10-0,2019-03-14 13:28:50.424,Completed,Sweden,100,Hedensbyn,5002024,Skellefteå Kraft AB,Sweden,100,Lilltjärns PC,5001710,Skellefteå Kraft AB,31,Details
+EU495683,10-0,2019-03-14 13:27:57.869,Completed,Denmark,100,ARLA F Protein,5006376,ARLA Foods Energy A/S,Denmark,100,Arla Foods HOCO,5006378,ARLA Foods Energy A/S,8664,Details
+EU495685,10-0,2019-03-14 13:26:49.679,Completed,Denmark,100,ARLA F Protein,5006376,ARLA Foods Energy A/S,Denmark,100,ArlaFoods Akafa,5006379,ARLA Foods Energy A/S,7190,Details
+EU495692,10-0,2019-03-14 13:23:40.952,Completed,Denmark,100,ARLA F Protein,5006376,ARLA Foods Energy A/S,Denmark,100,ArlaFoods Akafa,5006379,ARLA Foods Energy A/S,11000,Details
+EU497153,10-0,2019-03-14 13:20:46.093,Completed,United Kingdom,100,BP Gas Marketing Limited (2),5017286,BP Gas Marketing Limited,United Kingdom,100,BPEOC Glen Lyon,5025719,BP Exploration Operating Company Limited,14361,Details
+EU497148,10-0,2019-03-14 13:20:33.835,Completed,United Kingdom,100,ED&F Man Capital Markets Ltd,5023256,E D & F MAN CAPITAL MARKETS LIMITED,Spain,100,"Global Factor Commodity Trading, S.A.U.",5016901,"Global Factor Commodity Trading, S.A.U.",1000,Details
+EU496713,10-0,2019-03-14 13:20:33.202,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Malta,100,Hyperion Aviation Ltd,5024782,Hyperion Aviation Ltd,4068,Details
+EU496718,10-0,2019-03-14 13:20:30.784,Completed,Croatia,100,KeramikaModusOrahovica2013,5020879,Keramika Modus d.o.o.,Croatia,100,INTERCAPITAL TRADING ACCOUNT,5021057,Interkapital vrijednosni papiri d.o.o.,6000,Details
+EU496717,10-0,2019-03-14 13:19:33.335,Completed,United Kingdom,100,Operator Account,5007078,BRITISH AIRWAYS PLC,United Kingdom,100,,5000977,,10313,Details
+EU496715,10-0,2019-03-14 13:18:50.511,Completed,Sweden,100,Hedensbyn,5002024,Skellefteå Kraft AB,Sweden,100,Forsbacka HVC,5002065,Skellefteå Kraft AB,1271,Details
+EU496714,10-0,2019-03-14 13:16:52.276,Completed,Sweden,100,Hedensbyn,5002024,Skellefteå Kraft AB,Sweden,100,Reservkraft Hedensbyn,5019363,Skellefteå Kraft AB,360,Details
+EU497139,10-0,2019-03-14 13:16:44.932,Completed,Czech Republic,100,Sev.en Commodities AG,5027240,"Sev.en Commodities AG, odštěpný závod",Czech Republic,100,Elektrárna Chvaletice a.s.,5006995,Elektrárna Chvaletice a.s.,32294,Details
+EU497137,10-2,2019-03-14 13:15:23.193,Completed,Denmark,100,Bjerringbro KV,5006545,Gudenådalens Energiselskab Amba,European Commission,100,EU Allowance deletion,5016380,European Commission,21929,Details
+EU496164,10-2,2019-03-14 13:13:43.558,Completed,United Kingdom,100,Darent Power Limited,5022757,Kent Renewable Energy Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,748,Details
+EU497138,10-2,2019-03-14 13:13:41.172,Completed,Denmark,100,Bjerringbro V.V,5006546,Gudenådalens Energiselskab Amba,European Commission,100,EU Allowance deletion,5016380,European Commission,2282,Details
+EU496651,10-0,2019-03-14 13:10:36.46,Completed,France,100,Roquette Frères SA - Site de Lestrem,5005218,ROQUETTE FRERES SA,Spain,100,Roquette Laisa España,5009924,"Roquette Laisa España, S.A.",85222,Details
+EU497072,10-0,2019-03-14 13:06:28.145,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Italy,100,ENEL TRADE ITALIA,5016899,Enel Global Trading S.p.A.,9000,Details

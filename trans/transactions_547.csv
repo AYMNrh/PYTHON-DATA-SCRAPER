@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU507516,10-2,2019-04-10 10:06:51.113,Completed,France,100,VALLOUREC TUBES FRANCE- Tuberie de Déville,5022612,VALLOUREC TUBES FRANCE,European Commission,100,EU Allowance deletion,5016380,European Commission,8119,Details
+EU509073,10-0,2019-04-10 10:06:45.426,Completed,Italy,100,ETS Trading Account,5027821,Eni Global Energy Markets SpA,Italy,100,Stabilimento di Ravenna,5013489,EniPower S.p.A.,482778,Details
+EU509421,10-0,2019-04-10 10:06:15.659,Completed,Germany,100,Mainova AG Handelskonto,5017285,Mainova AG,Germany,100,1157 - Anlagenkonto,5014409,Mainova Aktiengesellschaft,41333,Details
+EU510029,10-0,2019-04-10 10:06:07.093,Completed,Germany,100,Axpo Solutions AG,5017149,AXPO Solutions AG,Norway,100,"Eramet Norway AS, Porsgrunn",5018840,Eramet Norway AS,5000,Details
+EU509650,10-0,2019-04-10 10:05:56.268,Completed,Germany,100,Handelskonto tk Steel Europe,5027540,ThyssenKrupp Steel Europe AG,Germany,100,83 - Anlagenkonto,5015745,ThyssenKrupp Steel Europe AG,1492621,Details
+EU510157,10-0,2019-04-10 10:05:52.446,Completed,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,Germany,100,GETEC heat & power GmbH,5022360,GETEC heat & power GmbH,4966,Details
+NO29179,4-0,2019-04-10 10:05:08.165,Completed,Norway,121,Avinor AS,174,Avinor AS,Norway,230,Voluntary Cancellation Account CP2 (Type 3),17,Miljødirektoratet,13091,Details
+EU510134,10-2,2019-04-10 10:05:03.879,Completed,Sweden,100,SSAB Oxelösund,5001515,SSAB EMEA AB,European Commission,100,EU Allowance deletion,5016380,European Commission,1462246,Details
+EU510003,10-0,2019-04-10 10:04:53.62,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Spain,100,"Air Europa Líneas Aéreas, S.A.U.",5016952,"Air Europa Líneas Aéreas, S.A.U.",2132,Details
+EU510013,10-0,2019-04-10 10:04:31.116,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Germany,100,Advantag Services GmbH,5022399,Advantag Services GmbH,17,Details
+EU509062,10-0,2019-04-10 10:04:18.038,Completed,Italy,100,ETS Trading Account,5027821,Eni Global Energy Markets SpA,Italy,100,Stabilimento di Brindisi,5013495,EniPower S.p.A.,681888,Details
+EU509634,10-0,2019-04-10 10:04:12.749,Completed,Spain,100,CUENTA NEGOCIACION MERCADOS CO2,5017384,"Naturgy Ciclos Combinados, S.L.U.",Spain,100,"Naturgy Energy Group, S.A.",5017187,"Naturgy Energy Group, S.A.",5400,Details
+EU509422,10-0,2019-04-10 10:04:11.537,Completed,Germany,100,Mainova AG Handelskonto,5017285,Mainova AG,Germany,100,1305 - Anlagenkonto,5014616,Mainova Aktiengesellschaft,350,Details
+EU510143,10-0,2019-04-10 10:04:04.295,Completed,Finland,100,Kaupankäyntitili,5018165,Pori Energia Oy,Finland,100,CO2_Aittaluoto:FI343,5010399,Pori Energia Oy,64000,Details
+EU510020,10-0,2019-04-10 10:03:44.311,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Netherlands,100,USG handelsrekening,5011363,Utility Support Group (USG) B.V.,10000,Details
+EU509083,10-0,2019-04-10 10:03:38.057,Completed,Italy,100,ETS Trading Account,5027821,Eni Global Energy Markets SpA,Italy,100,EniPower Mantova,5013499,EniPower Mantova S.p.A.,438647,Details
+EU510155,10-72,2019-04-10 10:03:26.703,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Netherlands,100,Century Aluminum Vlissingen BV,5022793,Century Aluminum Vlissingen B.V.,8124,Details
+EU510138,10-2,2019-04-10 10:03:23.899,Completed,Sweden,100,SSAB Luleå,5001518,SSAB EMEA AB,European Commission,100,EU Allowance deletion,5016380,European Commission,1058183,Details
+EU509416,10-0,2019-04-10 10:02:55.473,Completed,Germany,100,Mainova AG Handelskonto,5017285,Mainova AG,Germany,100,1685 - Anlagenkonto,5015147,Mainova Aktiengesellschaft,6739,Details
+EU510010,10-0,2019-04-10 10:02:47.075,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Spain,100,"Air Europa Líneas Aéreas, S.A.U.",5016952,"Air Europa Líneas Aéreas, S.A.U.",24000,Details

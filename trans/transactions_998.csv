@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU497060,10-0,2019-03-22 12:14:05.919,Completed,Italy,100,Rezia,5012867,Repower Italia S.p.A.,Italy,100,Centrale Set,5012875,SET Spa,213339,Details
+EU499825,10-0,2019-03-22 12:11:47.472,Completed,Finland,100,Metsä Group Treasury,5023498,Metsä Group Treasury Oy,Sweden,100,Skandinaviska Enskilda Banken AB (publ.),5024639,Skandinaviska Enskilda Banken AB (publ.),45900,Details
+EU499820,10-0,2019-03-22 12:10:18.906,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Germany,100,Advantag Services GmbH,5022399,Advantag Services GmbH,1000,Details
+GB72752,3-0,2019-03-22 12:10:01.467,Completed,United Kingdom,121,Ohana LLP - Trading,2507,Ohana LLP,Australia,100,,2649,,1183523,Details
+GB72753,3-0,2019-03-22 12:09:44.029,Completed,United Kingdom,121,Ohana LLP - Trading,2507,Ohana LLP,Australia,100,,2649,,325332,Details
+GB72749,3-0,2019-03-22 12:09:21.731,Completed,United Kingdom,121,Ohana LLP - Trading,2507,Ohana LLP,Australia,100,,2649,,2404828,Details
+EU499747,10-2,2019-03-22 12:09:08.034,Completed,Italy,100,Operator Account,5012636,INDUSTRIE CARTARIE TRONCHETTI S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,15980,Details
+EU498781,10-0,2019-03-22 12:08:52.764,Completed,Germany,100,Handelskonto der RÜTGERS Novares GmbH,5013734,Rain Carbon Germany GmbH,Germany,100,675 - Anlagenkonto,5014198,Energieversorgung Oberhausen AG,4620,Details
+EU493296,10-0,2019-03-22 12:08:41.283,Completed,Germany,100,527 - Anlagenkonto PM5,5015438,Sofidel Germany GmbH,Germany,100,2109 - Anlagenkonto Delipapier,5015697,Sofidel Germany GmbH,5000,Details
+EU498745,10-0,2019-03-22 12:08:30.224,Completed,United Kingdom,100,British Gypsum - East Leake,5008130,Saint-Gobain Construction Products UK Limited,Germany,100,Werk Bergisch Gladbach,5015051,SAINT-GOBAIN ISOVER G+H Aktiengesellschaft,1000,Details
+EU498643,10-0,2019-03-22 12:08:28.842,Completed,Italy,100,P.A. Engineering S.r.L,5012842,P.A. Engineering S.r.L,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,10000,Details
+EU498753,10-0,2019-03-22 12:08:00.22,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,United Kingdom,100,Operator Account,5008253,Tata Steel UK Limited,54913,Details
+EU498370,10-0,2019-03-22 12:07:47.273,Completed,Italy,100,Hera Trading,5012843,Hera Trading S.r.L.,Italy,100,Tamarete Energia,5013295,TAMARETE ENERGIA S.R.L.,20314,Details
+EU493300,10-0,2019-03-22 12:07:44.807,Completed,Germany,100,2076 - Anlagenkonto PM2,5015661,Sofidel Germany GmbH,Poland,100,Instalacja produkcji papieru,5003545,Sofidel Poland Sp. z o.o.,4000,Details
+GB72746,3-0,2019-03-22 12:07:39.859,Completed,United Kingdom,121,Ohana LLP - Trading,2507,Ohana LLP,Australia,100,,2649,,492880,Details
+EU498644,10-0,2019-03-22 12:07:31.994,Completed,Italy,100,P.A. Engineering S.r.L,5012842,P.A. Engineering S.r.L,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,12000,Details
+EU499750,10-2,2019-03-22 12:07:17.832,Completed,Italy,100,Operator Account,5012640,INDUSTRIE CARTARIE TRONCHETTI S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,30073,Details
+EU498719,10-0,2019-03-22 12:06:44.927,Completed,Germany,100,BAYER AG,5026360,Bayer Aktiengesellschaft,Germany,100,Heizhaus – Pharmaforschungszentrum Wuppertal,5014154,Bayer Aktiengesellschaft,4000,Details
+GB72748,3-0,2019-03-22 12:05:56.694,Completed,United Kingdom,121,Ohana LLP - Trading,2507,Ohana LLP,Australia,100,,2649,,1031286,Details
+EU498752,10-0,2019-03-22 12:05:40.688,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,United Kingdom,100,Operator Account,5008244,Tata Steel UK Limited,46045,Details

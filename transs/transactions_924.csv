@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU501376,10-0,2019-03-27 12:07:44.057,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,100000,Details
+EU500692,10-0,2019-03-27 12:07:34.247,Completed,Sweden,100,Västhamnsverket,5002284,Öresundskraft Kraft & Värme AB,Sweden,100,FVC Israel,5002246,Öresundskraft Kraft & Värme AB,1399,Details
+EU500494,10-0,2019-03-27 12:07:12.321,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Bulgaria,100,ALCOMET AD,5016184,ALCOMET AD,3000,Details
+EU500781,10-0,2019-03-27 12:06:49.003,Completed,Norway,100,Gassco AS Kårstø gassprosesseringsanlegg,5012233,Gassco AS,France,100,Cpte GASSCO AS,5005298,GASSCO SA,3393,Details
+EU501496,10-0,2019-03-27 12:06:24.643,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Netherlands,100,BNP Paribas London Branch,5027681,BNP Paribas London Branch,10000000,Details
+EU501209,10-2,2019-03-27 12:05:38.051,Completed,Netherlands,100,Rockwool B.V.,5011415,Rockwool B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,158865,Details
+EU500706,10-0,2019-03-27 12:05:22.46,Completed,Denmark,100,Imerys Mors plant,5006437,Imerys Industrial Minerals Denmark A/S,Denmark,100,Imerys Fur plant,5006436,Imerys Industrial Minerals Denmark A/S,4442,Details
+EU500629,10-0,2019-03-27 12:05:03.914,Completed,United Kingdom,100,,5000977,,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,363031,Details
+EU501490,10-2,2019-03-27 12:05:03.867,Completed,Portugal,100,"Ucherâmica - Cerâmica da Ucha, Lda.",5021722,"Ucherâmica - Cerâmica da Ucha, Lda.",European Commission,100,EU Allowance deletion,5016380,European Commission,212,Details
+EU501489,10-0,2019-03-27 12:04:43.885,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Netherlands,100,BNP Paribas London Branch,5027681,BNP Paribas London Branch,145526,Details
+EU500580,10-0,2019-03-27 12:04:11.511,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,France,100,MORGAN STANLEY CAPITAL GROUP INC,5027682,MORGAN STANLEY CAPITAL GROUP INC,25000,Details
+EU500693,10-0,2019-03-27 12:04:00.554,Completed,Sweden,100,Västhamnsverket,5002284,Öresundskraft Kraft & Värme AB,Sweden,100,KVV-Åkerslund,5001409,Öresundskraft Kraft & Värme AB,1821,Details
+EU500780,10-0,2019-03-27 12:03:39.964,Completed,Germany,100,Kraftwerk IV,5024278,Evonik Operations GmbH,Germany,100,1765 - Anlagenkonto,5015273,Evonik Operations GmbH,35660,Details
+EU500698,10-0,2019-03-27 12:03:32.46,Completed,Sweden,100,Västhamnsverket,5002284,Öresundskraft Kraft & Värme AB,Sweden,100,Filborna KVV1,5022526,Öresundskraft Kraft & Värme AB,4486,Details
+EU500708,10-0,2019-03-27 12:03:31.489,Completed,France,100,KEM ONE- St FONS,5021480,KEM ONE,France,100,POLYTECHNYL - Belle Etoile Polyamides Intermediates,5021385,POLYTECHNYL,12188,Details
+EU500691,10-0,2019-03-27 12:02:56.981,Completed,Austria,100,Kraftwerk Timelkam II,5004064,Energie AG Oberösterreich Erzeugung GmbH,Austria,100,Energie AG Kraftwerk Riedersbach,5004062,Energie AG Oberösterreich Erzeugung GmbH,3948,Details
+EU500695,10-0,2019-03-27 12:02:54.6,Completed,Sweden,100,Västhamnsverket,5002284,Öresundskraft Kraft & Värme AB,Sweden,100,PC Södra industriområdet,5001412,Öresundskraft Kraft & Värme AB,294,Details
+EU500582,10-0,2019-03-27 12:02:46.841,Completed,Italy,100,Ecotherm,5013179,Alperia Ecoplus S.r.l.,Italy,100,TF Meran/o,5012998,Alperia Ecoplus S.r.l.,17532,Details
+EU500755,10-0,2019-03-27 12:02:45.248,Completed,Luxembourg,100,30 - ArcelorMittal Belval et Differdange-Site Diff,5013695,ArcelorMittal Belval et Differdange,France,100,ARCELORMITTAL TREASURY Détention,5026253,ARCELORMITTAL TREASURY,134800,Details
+EU500532,10-0,2019-03-27 12:01:32.379,Completed,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,Sweden,100,Göteborg Energi DinEl AB,5001873,Göteborg Energi Din El,8500,Details

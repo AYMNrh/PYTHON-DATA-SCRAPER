@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU510548,10-0,2019-04-10 13:46:56.251,Completed,France,100,BNP PARIBAS,5027964,BNP PARIBAS,Germany,100,EWE TRADING GmbH,5016969,EWE TRADING GmbH,6000,Details
+EU509981,10-2,2019-04-10 13:46:44.385,Completed,Denmark,100,Brdr Hartmann,5006362,BRØDRENE HARTMANN A/S,European Commission,100,EU Allowance deletion,5016380,European Commission,48439,Details
+EU509142,10-2,2019-04-10 13:46:42.872,Completed,Poland,100,CIEPŁOWNIA,5003135,ENERGETYKA CIEPLNA OPOLSZCZYZNY S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,7336,Details
+EU510546,10-0,2019-04-10 13:45:03.471,Completed,France,100,BNP PARIBAS,5027964,BNP PARIBAS,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,3000,Details
+EU509144,10-2,2019-04-10 13:44:30.49,Completed,Poland,100,KOTŁOWNIA,5002803,ENERGETYKA CIEPLNA OPOLSZCZYZNY S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,13588,Details
+EU509151,10-0,2019-04-10 13:43:53.088,Completed,Lithuania,100,Operator Account:LT90,5006081,UAB Alytaus silumos tinklai,Lithuania,100,Operator Account:LT89,5006080,UAB Litesko,992,Details
+EU509094,10-2,2019-04-10 13:43:37.361,Completed,Norway,100,Rygene Smith & Thommesen AS,5012273,Rygene-Smith & Thommesen AS,European Commission,100,EU Allowance deletion,5016380,European Commission,411,Details
+EU509141,10-0,2019-04-10 13:43:01.535,Completed,Germany,100,1818 - Anlagenkonto,5015359,Thyssengas GmbH,Germany,100,NETG Elten,5015409,Nordrheinische Erdgastransportleitungsgesellschaft mbH & Co. KG,5646,Details
+EU509150,10-2,2019-04-10 13:42:25.235,Completed,Poland,100,CIEPŁOWNIA PRZEMYSŁOWA,5002791,ENERGETYKA CIEPLNA OPOLSZCZYZNY S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,422,Details
+EU506075,10-2,2019-04-10 13:42:19.788,Completed,Poland,100,Elektrociepłownia Zakład EC-3 Veolia Energia Łódź S.A.,5003619,Veolia Energia Łódź S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,831302,Details
+EU510541,10-2,2019-04-10 13:42:17.25,Completed,Hungary,100,Linde Gáz Magyarország Zrt.,5022428,Linde Gáz Magyarország Zrt.,European Commission,100,EU Allowance deletion,5016380,European Commission,153776,Details
+EU510181,10-2,2019-04-10 13:36:01.685,Completed,Italy,100,Knauf di Knauf Srl Sas,5021947,KNAUF di Knauf S.r.l. s.a.s.,European Commission,100,EU Allowance deletion,5016380,European Commission,27079,Details
+EU509131,10-0,2019-04-10 13:35:32.079,Completed,Portugal,100,TRADE2C,5026779,"TRADE2C, UNIPESSOAL, LDA.",Spain,100,Thesize Surfaces S.L.,5027455,Thesize Surfaces S.L.,4000,Details
+EU510538,10-0,2019-04-10 13:34:02.317,Completed,Germany,100,EWE TRADING GmbH,5016969,EWE TRADING GmbH,France,100,BNP PARIBAS,5027964,BNP PARIBAS,3000,Details
+EU510308,10-2,2019-04-10 13:32:59.7,Completed,Romania,100,SC MODERN CALOR SA,5010155,S.C. Modern Calor S.A. Botosani,European Commission,100,EU Allowance deletion,5016380,European Commission,38865,Details
+EU509137,10-0,2019-04-10 13:32:56.193,Completed,Finland,100,Virasojan biolämpökeskus,5024769,Imatran Lämpö Oy,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,15000,Details
+EU509133,10-0,2019-04-10 13:30:32.758,Completed,Germany,100,MVV Enamic GmbH - Händlerkonto,5013943,MVV Enamic GmbH,Germany,100,MVV Enamic GmbH Fernheizwerk II Tübingen,5014610,MVV Enamic GmbH,4130,Details
+EU498200,10-2,2019-04-10 13:25:46.449,Completed,Norway,100,Statkraft Varme AS avd. Trondheim,5012311,Statkraft Varme AS,European Commission,100,EU Allowance deletion,5016380,European Commission,23661,Details
+EU510518,10-2,2019-04-10 13:24:42.104,Completed,Austria,100,Ölmühle Bunge Bruck a.d. Leitha,5004279,Bunge Austria GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,16641,Details
+EU510403,10-2,2019-04-10 13:23:24.397,Completed,Austria,100,Ziegelwerk Eder Peuerbach Bruck,5004145,Ziegelwerk Eder GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,16095,Details

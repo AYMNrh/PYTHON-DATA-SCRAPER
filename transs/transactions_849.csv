@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU503103,10-2,2019-04-01 08:34:26.558,Completed,Finland,100,Sopenkorpi:FI249,5011032,Lahti Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,2396,Details
+EU503106,10-2,2019-04-01 08:32:29.409,Completed,Finland,100,Soramäki:FI250,5011033,Lahti Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,482,Details
+EU503112,10-2,2019-04-01 08:30:40.701,Completed,Finland,100,Teivaanmäki:FI251,5011034,Lahti Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,1046,Details
+EU503132,10-2,2019-04-01 08:27:56.015,Completed,Finland,100,Laatukatu,5022635,Lahti Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,128,Details
+EU503268,10-2,2019-04-01 08:25:30.085,Completed,Germany,100,1646 - Anlagenkonto,5015095,Stadtwerke Gießen AG,European Commission,100,EU Allowance deletion,5016380,European Commission,2732,Details
+EU503139,10-2,2019-04-01 08:24:26.489,Completed,Finland,100,Keskussairaalan lämpökeskus,5022637,Lahti Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,1046,Details
+EU503269,10-2,2019-04-01 08:24:23.976,Completed,Germany,100,1648 - Anlagenkonto,5015098,Stadtwerke Gießen AG,European Commission,100,EU Allowance deletion,5016380,European Commission,36221,Details
+EU503243,10-2,2019-04-01 08:06:43.598,Completed,Poland,100,Koksownia Częstochowa Nowa Sp.z o.o.,5003160,Koksownia Częstochowa Nowa Sp.z o.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,148634,Details
+EU503231,10-2,2019-04-01 07:16:42.947,Completed,Germany,100,669 - Anlagenkonto,5014166,Mars GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,10773,Details
+EU503226,10-2,2019-04-01 03:26:00.748,Completed,Belgium,100,29980.Hainan Airlines,5023983,Hainan Airlines,European Commission,100,EU Allowance deletion,5016380,European Commission,1104,Details
+EU503205,10-2,2019-03-31 10:40:00.748,Completed,Belgium,100,32432.EgyptAir Cargo,5018304,EgyptAir,European Commission,100,EU Allowance deletion,5016380,European Commission,1230,Details
+EU500102,10-2,2019-03-30 09:02:12.679,Completed,Italy,100,CASTIGLION,5017504,TERREAL ITALIA S.r.l.,European Commission,100,EU Allowance deletion,5016380,European Commission,4292,Details
+EU500105,10-2,2019-03-30 09:00:43.051,Completed,Italy,100,CONTO DEPOSITO PICA,5022084,TERREAL ITALIA S.r.l.,European Commission,100,EU Allowance deletion,5016380,European Commission,7977,Details
+EU502789,10-2,2019-03-29 18:56:47.63,Completed,Italy,100,SCANZOROSCIATE,5013154,Polynt SpA,European Commission,100,EU Allowance deletion,5016380,European Commission,179693,Details
+EU502794,10-2,2019-03-29 18:55:04.614,Completed,Italy,100,SAN GIOVANNII VALDARNO,5013156,Polynt SpA,European Commission,100,EU Allowance deletion,5016380,European Commission,57513,Details
+EU502796,10-2,2019-03-29 18:52:45.26,Completed,Italy,100,RAVENNA PLANT,5022143,Polynt SpA,European Commission,100,EU Allowance deletion,5016380,European Commission,133367,Details
+EU502004,10-2,2019-03-29 18:25:42.996,Completed,Italy,100,SAIB Spa,5023190,SAIB S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,14022,Details
+EU502898,10-2,2019-03-29 17:52:53.418,Completed,Ireland,100,Operator Account,5011967,CRH plc,European Commission,100,EU Allowance deletion,5016380,European Commission,63290,Details
+EU502900,10-2,2019-03-29 17:51:23.14,Completed,Ireland,100,"Clogrennane Lime Ltd., Toonagh Lime Works",5011969,CRH plc,European Commission,100,EU Allowance deletion,5016380,European Commission,71586,Details
+EU502492,10-0,2019-03-29 17:49:18.864,Completed,United Kingdom,100,Operator Account,5007124,Sandwell & West Birmingham Hospitals NHS Trust,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,182,Details

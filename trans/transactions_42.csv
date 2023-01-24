@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU480016,10-0,2019-01-07 13:15:54.023,Completed,United Kingdom,100,Quinn Glass Elton,5007232,Encirc Limited,Spain,100,"Aiala Vidrio, S.A",5009491,"Aiala Vidrio, SA",11000,Details
+EU480123,10-0,2019-01-07 13:14:19.928,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,United Kingdom,100,BNP PARIBAS COMMODITY FUTURES LTD,5017675,BNP Paribas Commodity Futures Limited,3154842,Details
+EU480110,10-0,2019-01-07 12:50:15.479,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,21464,Details
+EU480111,10-0,2019-01-07 12:49:38.66,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,28536,Details
+EU480109,10-0,2019-01-07 12:48:12.949,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,100000,Details
+EU480112,10-2,2019-01-07 12:47:44.479,Completed,Poland,100,KOTŁOWNIA REJONOWA NR 1,5003510,Engie EC Słupsk Sp. z o.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,50000,Details
+EU480108,10-0,2019-01-07 12:47:28.423,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,United Kingdom,100,Environmental Market Services Limited,5027412,Environmental Market Services limited,100,Details
+EU480107,10-0,2019-01-07 12:46:26.798,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Italy,100,Parmalat Collecchio,5013418,PARMALAT SPA,8500,Details
+EU480113,10-2,2019-01-07 12:45:27.421,Completed,Poland,100,KOTŁOWNIA REJONOWA NR 2,5003516,Engie EC Słupsk Sp. z o.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,57,Details
+EU480114,10-0,2019-01-07 12:42:46.161,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,United Kingdom,100,BNP PARIBAS COMMODITY FUTURES LTD,5017675,BNP Paribas Commodity Futures Limited,3158,Details
+EU479994,10-0,2019-01-07 12:22:49.793,Completed,Finland,100,Päästöoikeustili Miilu:FI314,5010370,Okun Energia Oy,Finland,100,Trading 1,5023516,Fortum Power and Heat Oy,10000,Details
+EU480106,10-0,2019-01-07 12:12:43.245,Completed,Italy,100,ALPERIA ENERGY SRL,5027443,ALPERIA ENERGY SRL,Italy,100,TF Meran/o,5012998,Alperia Ecoplus S.r.l.,3000,Details
+EU479956,10-0,2019-01-07 12:09:43.977,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,25000,Details
+EU479973,10-0,2019-01-07 12:07:51.63,Completed,United Kingdom,100,Ineos Europe AG Trading,5008458,Ineos Europe AG,Belgium,100,9013 INEOS EUROPE AG,5027610,INEOS EUROPE AG,5466778,Details
+EU479955,10-0,2019-01-07 12:05:31.281,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,United Kingdom,100,Morgan Stanley Capital Group Inc,5017295,Morgan Stanley Capital Group Inc,50000,Details
+EU479953,10-0,2019-01-07 12:04:45.6,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,50000,Details
+EU479958,10-0,2019-01-07 12:04:23.82,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,United Kingdom,100,Morgan Stanley Capital Group Inc,5017295,Morgan Stanley Capital Group Inc,50000,Details
+EU479952,10-0,2019-01-07 12:04:14.892,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,25000,Details
+EU479957,10-0,2019-01-07 12:01:34.813,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,50000,Details
+EU479954,10-0,2019-01-07 12:01:24.991,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,United Kingdom,100,BP Gas Marketing Limited (2),5017286,BP Gas Marketing Limited,50000,Details

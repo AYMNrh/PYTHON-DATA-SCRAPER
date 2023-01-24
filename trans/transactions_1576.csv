@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU487239,10-36,2019-02-22 01:34:39.579,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Slovenia,100,ENERGETIKA MARIBOR d.o.o.,5008622,JAVNO PODJETJE ENERGETIKA MARIBOR D.O.O.,5677,Details
+EU487244,10-36,2019-02-22 01:34:39.552,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,LHVC,5001466,Kraftringen Energi AB,6048,Details
+EU487270,10-36,2019-02-22 01:34:39.548,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Hässelby,5001991,Stockholm Exergi AB,66041,Details
+EU487271,10-36,2019-02-22 01:34:39.543,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,PC Sjukhuset 2,5001609,Värmevärden AB,2,Details
+EU487272,10-36,2019-02-22 01:34:39.535,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,PC Gästgivaren,5001935,Solör Bioenergi Fjärrvärme AB,14,Details
+EU487243,10-36,2019-02-22 01:34:39.529,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Åbyverket,5002201,E.ON Energiinfrastruktur AB,77047,Details
+EU487275,10-36,2019-02-22 01:34:39.516,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,PC Lasarettet,5002051,Karlshamn Energi AB,4,Details
+EU487234,10-36,2019-02-22 01:34:39.491,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Dåva KVV,5001863,Umeå Energi AB,61811,Details
+EU487237,10-36,2019-02-22 01:34:39.485,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Förrådet 3,5001955,Gotlands Energi AB,333,Details
+EU487231,10-36,2019-02-22 01:34:39.483,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,HVC Sjulhamre,5001977,Ljusdal Energi AB,6165,Details
+EU487235,10-36,2019-02-22 01:34:39.477,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Biovärmeverket,5001833,Kraftringen Energi AB,2631,Details
+EU487238,10-36,2019-02-22 01:34:39.47,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Lugnviksverket KVV,5002094,Jämtkraft AB,39804,Details
+EU487276,10-36,2019-02-22 01:34:39.418,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,EC Nordkap,5001724,Norrtälje Energi AB,52,Details
+EU487263,10-36,2019-02-22 01:34:39.416,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Slovenia,100,TGP VIPAP,5008647,"VIPAP VIDEM KRŠKO, D.D.",65104,Details
+EU487273,10-36,2019-02-22 01:34:39.415,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Finspångs Värmeverk,5002259,Finspångs Tekniska Verk AB,9269,Details
+EU487233,10-36,2019-02-22 01:34:39.412,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Lillesjöverket,5021415,Uddevalla Kraft AB,14397,Details
+EU487274,10-36,2019-02-22 01:34:39.41,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Fiskeby Bruk,5001454,Fiskeby Board AB,35754,Details
+EU487277,10-36,2019-02-22 01:34:39.359,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Vallviks Bruk,5001479,Vallviks Bruk AB,10139,Details
+EU487266,10-36,2019-02-22 01:34:39.358,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Gelita Sweden AB,5001538,Gelita Sweden AB,17383,Details
+EU487262,10-36,2019-02-22 01:34:39.356,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Mölnlycke FVC,5002103,Solör Bioenergi Fjärrvärme AB,3185,Details

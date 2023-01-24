@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU494952,10-0,2019-03-08 12:01:18.316,Completed,Italy,100,Operator Account,5013617,Fenice spa,Italy,100,conto di scambio fenice,5016921,Fenice spa,627,Details
+EU494942,10-0,2019-03-08 12:01:15.392,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,25000,Details
+EU495615,10-2,2019-03-08 12:01:08.464,Completed,United Kingdom,100,Bracknell Power Station (Western Road),5025942,UK Power Reserve Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,8117,Details
+EU494947,10-0,2019-03-08 12:00:42.164,Completed,Sweden,100,PC Gråsparven,5002095,Oskarshamn Energi AB,Sweden,100,FP och OP,5001745,Oskarshamn Energi AB,1755,Details
+EU494991,10-0,2019-03-08 12:00:40.378,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Netherlands,100,"Neptune Energy Netherlands B.V., L10-A platform",5021739,Neptune Energy Netherlands B.V.,14849,Details
+EU494956,10-0,2019-03-08 12:00:38.105,Completed,Italy,100,Operator Account,5013623,Fenice spa,Italy,100,conto di scambio fenice,5016921,Fenice spa,4205,Details
+EU495620,10-0,2019-03-08 12:00:07.457,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,United Kingdom,100,WEPA UK LTD,5007712,Wepa UK Ltd,13433,Details
+EU495596,10-0,2019-03-08 11:59:53.798,Completed,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,97000,Details
+EU495582,10-2,2019-03-08 11:59:16.735,Completed,United Kingdom,100,Cantello Nurseries Bradon Farm,5008192,UK Power Reserve Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,4008,Details
+EU495618,10-0,2019-03-08 11:58:39.119,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,United Kingdom,100,The Francis Crick Institute Limited,5027013,The Francis Crick Institute Limited,11091,Details
+EU495606,10-2,2019-03-08 11:56:10.177,Completed,United Kingdom,100,Nottingham Road Power Station,5027242,UK Power Reserve Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,10351,Details
+EU495533,10-0,2019-03-08 11:55:15.253,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,United Kingdom,100,EACL ETS Account,5000401,easyJet Airline Company Ltd,30000,Details
+EU495609,10-2,2019-03-08 11:54:25.561,Completed,United Kingdom,100,Mollison Avenue Power Station,5027647,UK Power Reserve Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,297,Details
+EU495593,10-0,2019-03-08 11:53:54.377,Completed,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,4793,Details
+EU495531,10-0,2019-03-08 11:53:48.906,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Poland,100,mBank S.A.,5023148,mBank S.A.,30000,Details
+EU495613,10-2,2019-03-08 11:53:11.235,Completed,United Kingdom,100,Thelwall Lane Power Station,5027644,UK Power Reserve Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,1073,Details
+EU495619,10-0,2019-03-08 11:53:02.957,Completed,United Kingdom,100,Citigroup Global Markets Limited,5021318,Citigroup Global Markets Limited,Netherlands,100,Citigroup Global Markets Limited,5027844,Citigroup Global Markets Limited,1,Details
+EU495614,10-2,2019-03-08 11:51:53.515,Completed,United Kingdom,100,Alders Way Power Station,5027648,UK Power Reserve Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,573,Details
+EU495529,10-0,2019-03-08 11:51:32.697,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,United Kingdom,100,EACL ETS Account,5000401,easyJet Airline Company Ltd,91000,Details
+EU495605,10-0,2019-03-08 11:50:13.505,Completed,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,United Kingdom,100,,5000132,,110,Details

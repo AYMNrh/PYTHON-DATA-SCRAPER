@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU497857,10-0,2019-03-18 14:42:11.652,Completed,Spain,100,"Global Factor Commodity Trading, S.A.U.",5016901,"Global Factor Commodity Trading, S.A.U.",Spain,100,"Grupo Empresarial Palacios Alimentación, S.A.",5009065,"Grupo Empresarial Palacios Alimentación, S.A.",2000,Details
+EU497496,10-0,2019-03-18 14:38:54.893,Completed,United Kingdom,100,DSDC Donnington,5007313,MOD Donnington,United Kingdom,100,,5024760,,273,Details
+EU497855,10-0,2019-03-18 14:38:48.215,Completed,Germany,100,RWE Vertrieb AG Retail - Trading,5017190,innogy SE,Germany,100,innogy SE,5017191,innogy SE,10000,Details
+EU497854,10-0,2019-03-18 14:37:45.878,Completed,Croatia,100,INTERCAPITAL TRADING ACCOUNT,5021057,Interkapital vrijednosni papiri d.o.o.,Germany,100,Advantag Services GmbH,5022399,Advantag Services GmbH,3000,Details
+EU497495,10-0,2019-03-18 14:37:45.419,Completed,Germany,100,Papierfabrik Brunnenthal,5018656,Carl Macher GmbH & Co. KG,Germany,100,1300 - Anlagenkonto,5014609,Carl Macher GmbH & Co. KG,37259,Details
+EU496537,10-0,2019-03-18 14:34:09.156,Completed,Denmark,100,Akzo Nobel Salt,5006465,Dansk Salt A/S,Denmark,100,Maricogen,5006466,Maricogen A/S,18500,Details
+EU497853,10-0,2019-03-18 14:33:46.772,Completed,Sweden,100,Bixia AB,5017197,Bixia AB,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,16000,Details
+EU497851,10-86,2019-03-18 14:29:16.582,Completed,Germany,100,Heizkraftwerk Ilmenau,5014670,STEAG New Energies GmbH,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,2030,Details
+EU497839,10-0,2019-03-18 14:24:36.6,Completed,Norway,100,DNB Markets Trading Account,5017497,DNB Bank ASA,Norway,100,Ferroglobe Mangan Norge AS,5020519,Ferroglobe Mangan Norge AS,28600,Details
+EU497492,10-0,2019-03-18 14:24:20.518,Completed,Sweden,100,HVC Sörby,5002035,Mjölby-Svartådalen Energi AB,Sweden,100,Bixia AB,5017197,Bixia AB,16000,Details
+EU497842,10-0,2019-03-18 14:21:44.128,Completed,United Kingdom,100,ED&F Man Capital Markets Ltd,5023256,E D & F MAN CAPITAL MARKETS LIMITED,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,10000,Details
+EU497844,10-0,2019-03-18 14:19:46.756,Completed,United Kingdom,100,National Grid Gas Plc,5027036,National Grid Gas Plc,United Kingdom,100,Kirriemuir Compressor Station,5007420,National Grid Gas Plc,50,Details
+EU497489,10-0,2019-03-18 14:18:17.841,Completed,Germany,100,BMA Anlage,5019149,Röhm GmbH,Germany,100,Ethylenanlage OM4,5015911,Basell Polyolefine GmbH,1897,Details
+EU497807,10-0,2019-03-18 14:10:16.555,Completed,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,65000,Details
+EU497471,10-0,2019-03-18 13:59:04.688,Completed,United Kingdom,100,Solvay Interox Trading,5007798,Solvay Interox Limited,France,100,SOLVAY ENERGY SERVICES,5017277,SOLVAY ENERGY SERVICES,38954,Details
+EU497463,10-0,2019-03-18 13:46:01.431,Completed,Spain,100,Esmalglass S.A.,5009260,"Esmalglass, S.A.",Spain,100,"Sistema Europeo de Negociación de Co2, S.L.",5020183,"SISTEMA EUROPEO DE NEGOCIACIÓN DE CO2, S.L.",35000,Details
+EU497462,10-0,2019-03-18 13:45:40.22,Completed,Sweden,100,Uddetorp,5001924,Skara Energi AB,Sweden,100,Diakonen,5001737,Skara Energi AB,500,Details
+EU497018,10-2,2019-03-18 13:41:52.97,Completed,Netherlands,100,Ten Cate Advanced Textiles B.V.,5011307,Ten Cate Advanced Textiles B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,18376,Details
+EU497802,10-0,2019-03-18 13:40:46.748,Completed,Italy,100,Carbon Trading 1,5016906,Banca Finnat S.p.A.,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,5000,Details
+EU497022,10-2,2019-03-18 13:39:39.122,Completed,Netherlands,100,TenCate Outdoor Fabrics B.V.,5011308,Ten Cate Outdoor Fabrics B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,3530,Details

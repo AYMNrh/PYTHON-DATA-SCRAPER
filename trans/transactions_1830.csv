@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU482284,10-36,2019-02-01 01:30:23.387,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Croatia,100,Vetropack Straža d.d.,5022022,Vetropack Straža tvornica stakla d.d.,69724,Details
+EU482308,10-36,2019-02-01 01:30:22.997,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Croatia,100,Dilj d.o.o. Pogon Našice,5021699,Dilj d.o.o.,5290,Details
+EU482303,10-36,2019-02-01 01:30:22.551,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Croatia,100,HIŠ-pogon Virovitica-2019,5020443,Hrvatska industrija šećera d.d.,42373,Details
+EU482285,10-36,2019-02-01 01:30:22.35,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Croatia,100,Holcim Hrvatska,5022122,Holcim (Hrvatska) d.o.o.,317274,Details
+EU482304,10-36,2019-02-01 01:30:21.936,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Croatia,100,"Wienerberger, Karlovac",5020308,Wienerberger d.o.o.,19679,Details
+EU482307,10-36,2019-02-01 01:30:21.928,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Croatia,100,HEPTETOZAGREB,5020339,HEP-Proizvodnja d.o.o.,86082,Details
+EU482281,10-36,2019-02-01 01:30:21.593,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Croatia,100,HEPTESISAK,5020520,HEP-Proizvodnja d.o.o.,8373,Details
+EU482287,10-36,2019-02-01 01:30:21.519,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Croatia,100,Objekti prerade plina Molve,5021973,INA d.d.,48895,Details
+EU482288,10-36,2019-02-01 01:30:21.516,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Croatia,100,HEPELTOZAGREB,5020340,HEP-Proizvodnja d.o.o.,72571,Details
+EU482306,10-36,2019-02-01 01:30:18.607,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Croatia,100,ETS Podravka IZ Danica,5020350,Podravka d.d.,3173,Details
+EU482305,10-36,2019-02-01 01:30:18.58,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Croatia,100,EKO MEĐIMURJE DD,5020326,Eko Međimurje d.d.,2862,Details
+EU482280,10-36,2019-02-01 01:30:18.574,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Croatia,100,KNAUF INSULATION NOVI MAROF,5023184,KNAUF INSULATION d.o.o.,19060,Details
+EU482311,10-35,2019-02-01 01:30:17.927,Completed,European Commission,100,EU AVIATION ALLOCATION ACCOUNT,5022595,EUROPEAN UNION,Malta,100,VistaJet Ltd,5023987,Vista Jet Ltd,222,Details
+EU482310,10-35,2019-02-01 01:30:17.91,Completed,European Commission,100,EU AVIATION ALLOCATION ACCOUNT,5022595,EUROPEAN UNION,Croatia,100,Croatia Airlines/CO2 Emissions Acc.,5000738,Croatia Airlines hrvatska zrakoplovna tvrtka d.d.,85828,Details
+EU482309,10-35,2019-02-01 01:30:17.877,Completed,European Commission,100,EU AVIATION ALLOCATION ACCOUNT,5022595,EUROPEAN UNION,Malta,100,Air Malta plc,5000282,Air Malta plc,177402,Details
+EU482121,10-0,2019-01-31 17:40:32.449,Completed,Sweden,100,Vattenfall AB Handelskonto,5001587,Vattenfall AB,Sweden,100,Svenska Kraftnät Gasturbiner,5019315,Svenska Kraftnät Gasturbiner AB,2000,Details
+FR210119,4-0,2019-01-31 16:55:41.508,Completed,France,121,EDF DCO,1338,EDF SA,France,230,Cpt d'annulation volontaire,5018999,France,50172,Details
+EU482268,10-0,2019-01-31 16:00:08.268,Completed,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,Germany,100,EnBW Trading Account,5022149,EnBW Energie Baden-Württemberg AG,2000,Details
+EU482266,10-0,2019-01-31 15:58:57.957,Completed,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,Spain,100,"Repsol Trading, S.A.",5024180,"Repsol Trading, S.A",20000,Details
+EU482267,10-0,2019-01-31 15:58:56.962,Completed,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,Denmark,100,Neas Energy A/S,5020307,Centrica Energy Trading A/S,6000,Details

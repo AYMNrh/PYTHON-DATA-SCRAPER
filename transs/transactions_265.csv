@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU499001,10-2,2019-04-18 07:41:03.892,Completed,Germany,100,458 - Anlagenkonto,5014552,Klinkerwerk Neuschoo Olga Müller GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,2947,Details
+EU510330,10-2,2019-04-18 07:05:19.867,Completed,Germany,100,Siberia Airlines,5019577,Siberia Airlines,European Commission,100,EU Allowance deletion,5016380,European Commission,31,Details
+EU515481,10-36,2019-04-18 01:30:17.485,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Greece,100,KYKNOS,5002352,ΚΥΚΝΟΣ  ΑΕ,42159,Details
+EU515480,10-36,2019-04-18 01:30:17.466,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Greece,100,ASBDEVETZ,5002347,ΑΣΒΕΣΤΟΠΟΙΙΑ ΔΕΒΕΤΖΟΓΛΟΥ ΑΒΕΕ,29097,Details
+EU515483,10-36,2019-04-18 01:30:17.431,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Greece,100,SIDENOR,5002470,ΣΙΔΕΝΟΡ ΒΙΟΜ ΚΑΤ ΣΙΔΗΡΟΥ ΑΕ,33606,Details
+EU515482,10-36,2019-04-18 01:30:17.397,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Greece,100,EBZPLAT,5002452,ΕΛΛΗΝΙΚΗ ΒΙΟΜΗΧΑΝΙΑ ΖΑΧΑΡΗΣ ΑΕ,19543,Details
+EU515485,10-36,2019-04-18 01:30:17.369,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Greece,100,DISTRICT HEATING MUNICIPAL COMPANY OF PTOLEMAIDA,5022198,DISTRICT HEATING MUNICIPAL COMPANY OF PTOLEMAIDA,243,Details
+EU515474,10-36,2019-04-18 01:30:17.34,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Greece,100,RETHROIDI,5002361,ΡΕΘΥΜΝΙΩΤΙΚΗ ΤΟΥΒΛΟΠΟΙΙΑ,4476,Details
+EU515484,10-36,2019-04-18 01:30:17.305,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,CO2_Aittaluoto:FI343,5010399,Pori Energia Oy,48007,Details
+EU515487,10-36,2019-04-18 01:30:17.28,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Greece,100,PANAGIOTOP,5002287,ΠΑΝΑΓΙΩΤΟΠΟΥΛΟΣ ΑΒΕΕ,10563,Details
+EU515476,10-36,2019-04-18 01:30:17.25,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Greece,100,TSAROUXA,5002348,ΥΙΟΙ ΤΣΑΡΟΥΧΑ ΚΑΙ ΣΙΑ ΟΕ,21668,Details
+EU515486,10-36,2019-04-18 01:30:17.221,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Greece,100,ASBVELESTI,5002346,ΑΣΒΕΣΤΟΠΟΙΑ ΒΕΛΕΣΤΙΝΟΥ,20497,Details
+EU515475,10-36,2019-04-18 01:30:17.193,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Greece,100,PAKOKORIN,5002303,ΑΝ. ΒΛ. ΚΟΛΙΟΠΟΥΛΟΣ ΠΑΚΟ ΑΕ,849,Details
+EU515478,10-36,2019-04-18 01:30:17.17,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Greece,100,NIKOYSON,5002364,ΥΙΟΙ ΝΙΚΟΥ Α.Ε.Β.Ε.,3654,Details
+EU515488,10-36,2019-04-18 01:30:17.143,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Romania,100,Operator Account,5009995,SC CET HIDROCARBURI SA  ARAD,48747,Details
+EU515477,10-36,2019-04-18 01:30:17.116,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Greece,100,VAVASILIK,5002379,ΧΑΛΚΙΣ ΑΒΕΕ ΒΑΒΟΥΛΙΩΤΗΣ ΓΟΥΝΑΡΗΣ ΜΗΤΑΚΗΣ,2992,Details
+EU515479,10-36,2019-04-18 01:30:17.092,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Greece,100,ASVEKRITI,5002339,ΑΣΒΕΣΤΟΠΟΙΙΑ ΚΡΗΤΗΣ,10823,Details
+EU515470,10-36,2019-04-18 01:30:17.071,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Transtorp,5026226,Nybro Värmecentral AB,5139,Details
+EU515471,10-36,2019-04-18 01:30:17.044,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Romania,100,Operator Account,5010049,Ban Ion,27183,Details
+EU515472,10-36,2019-04-18 01:30:17.037,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Transtorp,5026226,Nybro Värmecentral AB,9102,Details

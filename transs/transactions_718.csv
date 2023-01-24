@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU504469,10-0,2019-04-04 12:26:25.897,Completed,France,100,GLOBAL EDF,5005470,EDF SA,France,100,CPTE EDF Centrale  TAC de Vitry-Arrighi,5005666,EDF SA,4422,Details
+EU506209,10-37,2019-04-04 12:26:19.35,Completed,European Commission,100,EU AUCTION ACCOUNT,5016932,EUROPEAN UNION,Germany,100,ECC AG Auction Delivery Account EU,5016991,European Commodity Clearing AG,2495000,Details
+EU505169,10-0,2019-04-04 12:26:17.249,Completed,United Kingdom,100,,5017823,,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,18002,Details
+EU504479,10-0,2019-04-04 12:25:12.813,Completed,France,100,GLOBAL EDF,5005470,EDF SA,France,100,EDF - CENTRALE LE HAVRE,5005648,EDF SA,64999,Details
+EU506427,10-2,2019-04-04 12:25:01.657,Completed,Italy,100,Operator Account,5012726,AZIENDA PUBBLISERVIZI BRUNICO,European Commission,100,EU Allowance deletion,5016380,European Commission,14852,Details
+EU503558,10-0,2019-04-04 12:23:51.241,Completed,Spain,100,"International Paper Madrid Mill, S.L.U.",5009660,"International Paper Madrid Mill, S.L.U.",Spain,100,"PENINSULAR COGENERACIÓN, S.A.",5020259,"PENINSULAR COGENERACIÓN, S.A",32100,Details
+EU505136,10-0,2019-04-04 12:23:49.053,Completed,Slovenia,100,Belektron TRD Si,5016820,BELEKTRON d.o.o.,Slovenia,100,TAČ,5008694,TAČ d.o.o.,403,Details
+EU506451,10-2,2019-04-04 12:23:35.997,Completed,Italy,100,Operator Account,5012576,Tirreno Power SpA,European Commission,100,EU Allowance deletion,5016380,European Commission,747707,Details
+EU504484,10-0,2019-04-04 12:23:35.182,Completed,France,100,GLOBAL EDF,5005470,EDF SA,France,100,EDF - CENTRALE LE HAVRE,5005648,EDF SA,2161,Details
+EU504486,10-0,2019-04-04 12:22:28.022,Completed,France,100,GLOBAL EDF,5005470,EDF SA,France,100,EDF - CENTRALE LE HAVRE,5005648,EDF SA,224503,Details
+EU506453,10-2,2019-04-04 12:22:19.778,Completed,Italy,100,Operator Account,5012578,Tirreno Power SpA,European Commission,100,EU Allowance deletion,5016380,European Commission,547295,Details
+EU503568,10-0,2019-04-04 12:22:16.524,Completed,Spain,100,"International Paper Madrid Mill, S.L.U.",5009660,"International Paper Madrid Mill, S.L.U.",Spain,100,"PENINSULAR COGENERACIÓN, S.A.",5020259,"PENINSULAR COGENERACIÓN, S.A",3050,Details
+EU506459,10-0,2019-04-04 12:20:55.123,Completed,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,42000,Details
+EU506456,10-2,2019-04-04 12:20:34.879,Completed,Italy,100,Operator Account,5012581,Tirreno Power SpA,European Commission,100,EU Allowance deletion,5016380,European Commission,983443,Details
+EU504489,10-0,2019-04-04 12:20:28.03,Completed,France,100,GLOBAL EDF,5005470,EDF SA,France,100,EDF - CENTRALE LE HAVRE,5005648,EDF SA,180629,Details
+CDM57435,3-0,2019-04-04 12:20:23.394,Completed,CDM,110,,1000,,Norway,121,Nordic Environment Finance Cooperation (NEFCO),5023264,Nordic Environment Finance Cooperation (NEFCO),71904,Details
+EU503575,10-0,2019-04-04 12:20:06.255,Completed,Spain,100,"International Paper Madrid Mill, S.L.U.",5009660,"International Paper Madrid Mill, S.L.U.",Spain,100,"PENINSULAR COGENERACIÓN, S.A.",5020259,"PENINSULAR COGENERACIÓN, S.A",306,Details
+EU506374,10-2,2019-04-04 12:16:38.742,Completed,Spain,100,Torraspapel S.A. - Instalación de Zaragoza,5008921,"Torraspapel, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,139366,Details
+EU506460,10-72,2019-04-04 12:16:16.705,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Slovakia,100,"FORTISCHEM, a.s.",5021758,FORTISCHEM a. s.,12226,Details
+EU506197,10-0,2019-04-04 12:16:15.622,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,85000,Details

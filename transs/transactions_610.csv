@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU507532,10-0,2019-04-08 16:55:58.389,Completed,Sweden,100,SSAB Oxelösund,5001515,SSAB EMEA AB,Sweden,100,SSAB Luleå,5001518,SSAB EMEA AB,202178,Details
+EU507504,10-0,2019-04-08 16:55:56.223,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Belgium,100,202 Farm Frites Belgium,5004601,Farm Frites Belgium,5000,Details
+EU504951,10-71,2019-04-08 16:55:05.498,Completed,Spain,100,"Fertiberia, S.A.- Fábrica de Puertollano",5017820,"Fertiberia, S.A.",European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,18814,Details
+EU508406,10-2,2019-04-08 16:54:43.458,Completed,Italy,100,NUOVO OSPEDALE BERGAMO,5017915,A2A CALORE & SERVIZI Srl,European Commission,100,EU Allowance deletion,5016380,European Commission,94,Details
+EU507475,10-0,2019-04-08 16:53:36.586,Completed,France,100,MONIER LIMOUX MASSIA,5004750,MONIER,Netherlands,100,Monier Tegelen,5021927,Monier B.V.,2724,Details
+EU505765,10-2,2019-04-08 16:53:14.392,Completed,Spain,100,"Fertiberia, S.A-Fábrica de Avilés",5017818,"Fertiberia, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,37606,Details
+EU507526,10-0,2019-04-08 16:52:45.231,Completed,Germany,100,Glasschmelzwanne Wanne C,5016048,LEDVANCE GmbH,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,35000,Details
+EU508644,4-0,2019-04-08 16:51:30.467,Completed,Germany,100,Fokus Zukunft GmbH & Co.KG,5025499,Fokus Zukunft GmbH & Co. KG,European Commission,230,EU Cancellation Account Period 2,5022673,EUROPEAN UNION,21,Details
+EU508628,10-2,2019-04-08 16:49:16.082,Completed,Germany,100,1733 - Anlagenkonto,5015222,FairEnergie GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,25252,Details
+EU508411,10-2,2019-04-08 16:44:15.946,Completed,Italy,100,Leoni,5013146,A2A CALORE & SERVIZI Srl,European Commission,100,EU Allowance deletion,5016380,European Commission,4177,Details
+EU505769,10-2,2019-04-08 16:42:50.074,Completed,Spain,100,"Fertiberia, S.A. Fábrica de Sagunto",5009532,"Fertiberia, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,49036,Details
+EU507511,10-0,2019-04-08 16:41:36.824,Completed,Germany,100,Anlagenkonto - Prozesswärmeanlage,5016077,Avangard Malz AG,Germany,100,FutureCamp Climate GmbH Personenkonto,5016067,FutureCamp Climate GmbH,5000,Details
+EU508414,10-2,2019-04-08 16:40:38.803,Completed,Italy,100,TECNOVALORE SPA TRADING,5013145,A2A CALORE & SERVIZI Srl,European Commission,100,EU Allowance deletion,5016380,European Commission,3403,Details
+EU508586,10-2,2019-04-08 16:39:24.077,Completed,Hungary,100,Operator Account:HU119,5011753,FGSZ Földgázszállító Zrt.,European Commission,100,EU Allowance deletion,5016380,European Commission,87791,Details
+EU508365,10-2,2019-04-08 16:38:13.518,Completed,Italy,100,Operator Account,5012450,Ahlstrom-Munksjo Italia S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,135867,Details
+EU508590,10-2,2019-04-08 16:37:55.535,Completed,Hungary,100,Operator Account:HU120,5011754,FGSZ Földgázszállító Zrt.,European Commission,100,EU Allowance deletion,5016380,European Commission,25938,Details
+EU508510,10-2,2019-04-08 16:37:40.668,Completed,Italy,100,Silla,5013424,A2A AMBIENTE S.P.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,589,Details
+EU504556,10-2,2019-04-08 16:36:43.149,Completed,Lithuania,100,"AB ""Amber Grid""",5023913,"AB ""Amber Grid""",European Commission,100,EU Allowance deletion,5016380,European Commission,4754,Details
+EU508613,10-2,2019-04-08 16:35:55.511,Completed,Italy,100,Conto centrale termica CMDO,5013240,Compagnia Mercantile d'Oltremare S.r.l.,European Commission,100,EU Allowance deletion,5016380,European Commission,1907,Details
+EU508620,10-2,2019-04-08 16:35:33.38,Completed,Italy,100,Total Tempa Rossa,5027788,TOTALENERGIES EP ITALIA S.P.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,10566,Details

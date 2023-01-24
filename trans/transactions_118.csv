@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU477921,10-0,2018-12-20 12:15:03.21,Completed,United Kingdom,100,Drax Power Station,5007174,Drax Power Limited,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,415000,Details
+EU478549,10-0,2018-12-20 12:14:29.985,Completed,Germany,100,Handelskonto der RheinEnergie Trading GmbH,5017175,RheinEnergie Trading GmbH,Germany,100,RE HKW Rostock,5013756,RheinEnergie Heizkraftwerk Rostock GmbH,841198,Details
+EU478524,10-0,2018-12-20 12:14:29.974,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Sweden,100,GE Handelskonto,5017684,Göteborg Energi AB,60000,Details
+EU478666,10-0,2018-12-20 12:14:18.707,Completed,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,Germany,100,1795 - Anlagenkonto,5015322,SWE Energie GmbH,20000,Details
+EU478538,10-0,2018-12-20 12:13:17.291,Completed,Germany,100,Handelskonto der RheinEnergie Trading GmbH,5017175,RheinEnergie Trading GmbH,Germany,100,RE-Vertrieb,5024161,RheinEnergie AG,60000,Details
+EU478514,10-0,2018-12-20 12:12:08.179,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Romania,100,Operator Account,5010041,S Complexul Energetic Oltenia SA,29000,Details
+EU478654,10-0,2018-12-20 12:10:17.241,Completed,United Kingdom,100,BNP PARIBAS COMMODITY FUTURES LTD,5017675,BNP Paribas Commodity Futures Limited,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,10000,Details
+EU477860,10-0,2018-12-20 12:10:09.091,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,United Kingdom,100,BP Gas Marketing Limited (2),5017286,BP Gas Marketing Limited,50000,Details
+EU477846,10-0,2018-12-20 12:10:02.532,Completed,Czech Republic,100,7CommoditiesAG-obchodní,5027643,"Sev.en Commodities AG, odštěpný závod",Czech Republic,100,Sev.en Commodities AG,5027240,"Sev.en Commodities AG, odštěpný závod",1750000,Details
+EU477613,10-0,2018-12-20 12:09:38.821,Completed,France,100,SARIA,5004784,SARIA,France,100,SOCIETE GENERALE,5017623,SOCIETE GENERALE,20000,Details
+EU477381,10-0,2018-12-20 12:09:33.598,Completed,Italy,100,Piattaforma Barbara T1,5013517,ENI S.P.A.,United Kingdom,100,ENI ETS UK 1,5016886,Eni Trading and Shipping SpA,5373,Details
+EU478461,10-0,2018-12-20 12:09:33.277,Completed,Spain,100,Wind to Market SA,5017211,"WIND TO MARKET, S.A.",Poland,100,CRB Energia,5022867,CRB Energia Spółka z ograniczoną odpowiedzialnością,4000,Details
+EU477400,10-0,2018-12-20 12:09:33.236,Completed,Italy,100,Centrale Gas di Fano,5013506,ENI S.P.A.,United Kingdom,100,ENI ETS UK 1,5016886,Eni Trading and Shipping SpA,17397,Details
+EU478519,10-0,2018-12-20 12:09:25.181,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Germany,100,Lausitz Energie Bergbau AG,5023467,Lausitz Energie Bergbau AG,2728000,Details
+EU477618,10-0,2018-12-20 12:09:23.595,Completed,France,100,EMCF NDG,5005722,EXXONMOBIL CHEMICAL FRANCE,France,100,EMCF LPP,5005583,EXXONMOBIL CHEMICAL FRANCE,10000,Details
+EU478660,10-0,2018-12-20 12:09:05.146,Completed,Sweden,100,Svenska Handelsbanken AB,5022059,Svenska Handelsbanken AB,Finland,100,LE_Välitys,5022312,Lahti Energia Oy,40000,Details
+EU477905,10-0,2018-12-20 12:08:46.028,Completed,Germany,100,1882 - EnBW Trading GmbH Personenkonto,5015443,EnBW Energie Baden-Württemberg AG,Germany,100,1095 - Anlagenkonto,5014327,SWP Stadtwerke Pforzheim GmbH & Co.KG,3114,Details
+EU477436,10-0,2018-12-20 12:08:40.776,Completed,Italy,100,Stabilimento di Ferrara - Versalis,5013450,Versalis S.p.A.,United Kingdom,100,ENI ETS UK 1,5016886,Eni Trading and Shipping SpA,34235,Details
+EU477883,10-0,2018-12-20 12:08:20.089,Completed,Spain,100,"Montefibre Hispania, S.A.",5027123,"Montefibre Hispania, S.A.",Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,4329,Details
+EU477862,10-0,2018-12-20 12:08:15.57,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,25000,Details

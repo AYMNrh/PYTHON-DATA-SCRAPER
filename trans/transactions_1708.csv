@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU485352,10-36,2019-02-20 01:32:59.811,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Kaltwalzwerk AM Bremen,5020644,ArcelorMittal Bremen GmbH,13698,Details
+EU485350,10-36,2019-02-20 01:32:59.751,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Kübler & Niethammer Papierfabrik Kriebstein GmbH,5015311,Kübler & Niethammer Papierfabrik Kriebstein GmbH,29690,Details
+EU485342,10-36,2019-02-20 01:32:59.751,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Peiner Träger GmbH,5015572,Peiner Träger GmbH,196840,Details
+EU485351,10-36,2019-02-20 01:32:59.749,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Werk Bad Wurzach,5014876,Verallia Deutschland AG,81557,Details
+EU485338,10-36,2019-02-20 01:32:59.733,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,482 - Anlagenkonto,5014886,Schlagmann Poroton GmbH & Co. KG,14840,Details
+EU485358,10-35,2019-02-20 01:32:58.919,Completed,European Commission,100,EU AVIATION ALLOCATION ACCOUNT,5022595,EUROPEAN UNION,Estonia,100,SmartLynx Airlines Estonia,5020317,SmartLynx Airlines Estonia,19778,Details
+EU484824,10-2,2019-02-19 19:18:14.815,Completed,United Kingdom,100,Superglass Carbon,5007725,Superglass Insulation Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,18833,Details
+EU484518,10-0,2019-02-19 17:58:48.923,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,France,100,SOCIETE LAITIERE DE RETIERS,5004703,SOCIETE LAITIERE DE RETIERS,13750,Details
+EU484516,10-0,2019-02-19 17:58:10.127,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,United Kingdom,100,Portals Overton Mill,5007838,Portals De La Rue Limited,8000,Details
+EU484520,10-0,2019-02-19 17:42:31.897,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Poland,100,Ciepłownia,5003927,Przedsiębiorstwo Energetyki Cieplnej Sp. z o.o.,10000,Details
+EU484702,10-2,2019-02-19 17:24:47.548,Completed,United Kingdom,100,WSDS Engie,5027515,ENGIE FM Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,68,Details
+EU484800,10-2,2019-02-19 16:46:29.061,Completed,United Kingdom,100,,5000115,,European Commission,100,EU Allowance deletion,5016380,European Commission,598,Details
+DE123674,4-0,2019-02-19 16:45:23.872,Completed,Germany,121,1975 - atmosfair gGmbH Personenkonto,1975,atmosfair gGmbH,Germany,230,Nationalkonto - Löschung 2013-2020,5018222,Deutschland,33,Details
+EU484292,10-0,2019-02-19 16:26:38.927,Completed,France,100,Roquette Frères SA - Site de Lestrem,5005218,ROQUETTE FRERES SA,United Kingdom,100,Operator Account,5007333,Roquette UK Limited,67481,Details
+EU484818,10-86,2019-02-19 16:24:39.84,Completed,Germany,100,"Salzwedel (Kesselanlage ""Heizwerk Nord",5019723,Avacon Natur GmbH,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,817,Details
+EU484820,10-72,2019-02-19 16:23:43.9,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Italy,100,Mater-biotech CO2,5024750,Mater-Biotech Spa,1763,Details
+EU459531,10-71,2019-02-19 16:22:50.688,Completed,Italy,100,Mater-biotech CO2,5024750,Mater-Biotech Spa,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,1763,Details
+EU484474,10-0,2019-02-19 16:15:04.449,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Italy,100,Operator Account,5013678,SICEM SAGA SPA,3000,Details
+EU484811,10-0,2019-02-19 16:00:12.457,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Spain,100,"Naturgy Energy Group, S.A.",5017187,"Naturgy Energy Group, S.A.",23000,Details
+EU484809,10-0,2019-02-19 15:59:15.007,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Italy,100,ENEL TRADE ITALIA,5016899,Enel Global Trading S.p.A.,15000,Details

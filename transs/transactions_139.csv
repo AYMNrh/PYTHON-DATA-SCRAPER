@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU518112,10-0,2019-04-24 14:05:34.719,Completed,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,France,100,BNP PARIBAS,5027964,BNP PARIBAS,11000,Details
+EU518113,10-0,2019-04-24 14:04:40.379,Completed,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,Netherlands,100,Citigroup Global Markets Limited,5027844,Citigroup Global Markets Limited,300000,Details
+EU516953,10-0,2019-04-24 14:03:32.917,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Bulgaria,100,ALCOMET AD,5016184,ALCOMET AD,3000,Details
+EU513204,10-2,2019-04-24 14:03:27.28,Completed,Norway,100,INEOS Rafnes AS,5012260,INEOS Rafnes AS,European Commission,100,EU Allowance deletion,5016380,European Commission,446947,Details
+EU518071,10-2,2019-04-24 14:02:11.815,Completed,Norway,100,Vajda-Papir Scandinavia AS,5012274,Vajda-Papir Scandinavia AS,European Commission,100,EU Allowance deletion,5016380,European Commission,3848,Details
+EU516975,10-0,2019-04-24 14:01:31.488,Completed,Netherlands,100,Amercentrale,5011265,RWE Generation NL B.V.,Belgium,100,311 INEOS Oxide Utilities,5004324,INEOS Oxide Utilities,1336,Details
+EU516805,10-2,2019-04-24 14:00:01.038,Completed,Germany,100,Air Serbia,5017678,Air SERBIA a.d. Beograd,European Commission,100,EU Allowance deletion,5016380,European Commission,172,Details
+EU518127,10-0,2019-04-24 13:59:37.083,Completed,Spain,100,"Sistema Europeo de Negociación de Co2, S.L.",5020183,"SISTEMA EUROPEO DE NEGOCIACIÓN DE CO2, S.L.",Italy,100,Operator Account,5012810,CARTIERE VILLA LAGARINA SPA,19500,Details
+EU518121,10-2,2019-04-24 13:58:47.551,Completed,Greece,100,ELLINAIR S.A.,5022838,ELLINAIR S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,1999,Details
+EU518014,10-2,2019-04-24 13:57:59.47,Completed,Austria,100,Kelag Wärme Linz Bindermichl,5004196,Kelag Energie & Wärme GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,184,Details
+EU516970,10-0,2019-04-24 13:56:30.044,Completed,Italy,100,conto gardenia,5020347,Ceramiche Gardenia Orchidea Spa,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,5000,Details
+EU517797,10-2,2019-04-24 13:55:49.413,Completed,Netherlands,100,Rendac Son B.V.,5011295,Rendac Son B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,11781,Details
+EU518122,10-0,2019-04-24 13:55:39.654,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Poland,100,POLSKIE LINIE LOTNICZE LOT SPÓŁKA AKCYJNA,5000447,POLSKIE LINIE LOTNICZE LOT SPÓŁKA AKCYJNA,131214,Details
+EU518090,10-2,2019-04-24 13:52:36.781,Completed,Italy,100,Mistral Air,5016430,Poste Air Cargo Srl,European Commission,100,EU Allowance deletion,5016380,European Commission,9592,Details
+EU517790,10-2,2019-04-24 13:52:29.844,Completed,Belgium,100,349 Electrabel - Lanxess Rubber,5004363,Electrabel,European Commission,100,EU Allowance deletion,5016380,European Commission,210950,Details
+EU517816,10-2,2019-04-24 13:51:33.526,Completed,Belgium,100,066 centrale turbo-jet Volta,5004465,Electrabel,European Commission,100,EU Allowance deletion,5016380,European Commission,497,Details
+EU518060,10-0,2019-04-24 13:50:50.192,Completed,Denmark,100,Neas Energy A/S,5020307,Centrica Energy Trading A/S,Denmark,100,Hjortebjerg CO2 konto I:DK500,5006289,Hjortebjerg A/S,777,Details
+EU517821,10-2,2019-04-24 13:50:41.655,Completed,Belgium,100,069 Electrabel - Centrale Drogenbos,5004468,Electrabel,European Commission,100,EU Allowance deletion,5016380,European Commission,335268,Details
+EU517363,10-2,2019-04-24 13:50:38.23,Completed,Hungary,100,FGSZ Földgázszállító Zrt.,5023980,FGSZ Földgázszállító Zrt.,European Commission,100,EU Allowance deletion,5016380,European Commission,23,Details
+EU517826,10-2,2019-04-24 13:49:45.785,Completed,Belgium,100,070 Electrabel - Centrale Herdersbrug,5004469,Electrabel,European Commission,100,EU Allowance deletion,5016380,European Commission,394751,Details

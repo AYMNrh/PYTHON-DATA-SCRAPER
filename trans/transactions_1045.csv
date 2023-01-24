@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU498711,10-0,2019-03-21 10:05:49.7,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Sweden,100,FVC Bäckelund,5002166,AB Borlänge Energi,5000,Details
+EU498735,10-0,2019-03-21 10:05:43.507,Completed,United Kingdom,100,ENI ETS UK 1,5016886,Eni Trading and Shipping SpA,Italy,100,ETS Trading Account,5027821,Eni Global Energy Markets SpA,27509,Details
+EU497908,10-2,2019-03-21 10:05:17.15,Completed,Netherlands,100,Nedmag B.V.,5020663,NEDMAG Holding B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,92138,Details
+EU498718,10-0,2019-03-21 10:05:10.282,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Italy,100,Trading Account,5017215,Tirreno Power SpA,10000,Details
+EU498772,10-0,2019-03-21 10:05:09.419,Completed,Germany,100,Handelskonto UKW,5017313,Uniper Kraftwerke GmbH,Germany,100,Kraftwerk Ingolstadt,5014836,Uniper Kraftwerke GmbH,16171,Details
+EU498859,10-0,2019-03-21 10:04:58.974,Completed,Netherlands,100,Stichting Emissiebeurs Clearing,5024000,Stichting Emissiebeurs Clearing,Netherlands,100,Asfalt Productie Tiel B.V.,5022245,Asfalt Productie Tiel (APT) B.V.,2350,Details
+EU498851,10-0,2019-03-21 10:04:48.937,Completed,Italy,100,Axpo Italia Trading Account,5023288,Axpo Italia S.p.A.,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,51000,Details
+EU498788,10-0,2019-03-21 10:04:43.95,Completed,United Kingdom,100,BP Gas Marketing Limited (2),5017286,BP Gas Marketing Limited,Netherlands,100,BP Gas Marketing Limited,5027775,BP Gas Marketing Limited,393,Details
+EU498766,10-0,2019-03-21 10:04:38.012,Completed,Germany,100,Handelskonto UKW,5017313,Uniper Kraftwerke GmbH,Germany,100,Kraftwerk Staudinger (Gesamtanlage),5015708,Uniper Kraftwerke GmbH,1559617,Details
+EU498831,10-0,2019-03-21 10:04:27.704,Completed,Germany,100,Axpo Solutions AG,5017149,AXPO Solutions AG,Italy,100,ENI SpA Conto di Scambio,5018913,ENI S.P.A.,551189,Details
+EU498775,10-0,2019-03-21 10:04:26.651,Completed,Germany,100,Handelskonto UKW,5017313,Uniper Kraftwerke GmbH,Germany,100,Kraftwerk Irsching,5014504,Uniper Kraftwerke GmbH,12677,Details
+EU498765,10-0,2019-03-21 10:04:19.523,Completed,Germany,100,Handelskonto UKW,5017313,Uniper Kraftwerke GmbH,Germany,100,Kraftwerk Wilhelmshaven,5014122,Uniper Kraftwerke GmbH,1629287,Details
+EU498769,10-0,2019-03-21 10:03:42.455,Completed,Germany,100,Handelskonto UKW,5017313,Uniper Kraftwerke GmbH,Germany,100,GT Itzehoe,5014510,Uniper Kraftwerke GmbH,3586,Details
+EU498759,10-0,2019-03-21 10:03:42.45,Completed,Germany,100,Handelskonto UKW,5017313,Uniper Kraftwerke GmbH,Germany,100,Heizwerk Westerholt,5014745,Uniper Kraftwerke GmbH,1900,Details
+EU498408,10-0,2019-03-21 10:03:41.351,Completed,Poland,100,TAURON Polska Energia S.A.,5019474,TAURON Polska Energia S.A.,Poland,100,Zakład Wytwarzania Nowa,5003409,TAMEH Polska Sp. z o. o.,5000,Details
+EU498787,10-0,2019-03-21 10:03:26.249,Completed,United Kingdom,100,BP Gas Marketing Limited (2),5017286,BP Gas Marketing Limited,Netherlands,100,BP Gas Marketing Limited,5027775,BP Gas Marketing Limited,35000,Details
+EU498760,10-0,2019-03-21 10:03:09.05,Completed,Germany,100,Handelskonto UKW,5017313,Uniper Kraftwerke GmbH,Germany,100,Dampfwerk Zweckel,5014207,Uniper Kraftwerke GmbH,83784,Details
+EU498717,10-0,2019-03-21 10:02:30.823,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Italy,100,Parmalat Collecchio,5013418,PARMALAT SPA,8500,Details
+EU498771,10-0,2019-03-21 10:02:12.942,Completed,Germany,100,Handelskonto UKW,5017313,Uniper Kraftwerke GmbH,Germany,100,Kraftwerk Franken I,5014835,Uniper Kraftwerke GmbH,119398,Details
+EU498767,10-0,2019-03-21 10:02:06.303,Completed,Germany,100,Handelskonto UKW,5017313,Uniper Kraftwerke GmbH,Germany,100,GT Audorf,5014197,Uniper Kraftwerke GmbH,3490,Details

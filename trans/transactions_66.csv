@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+DE123621,3-0,2018-12-28 12:03:26.935,Completed,Germany,121,Carbonbay,5023157,Carbonbay Beteiligungsgesellschaft mbH,United Kingdom,121,Natural Capital Partners,1276,Natural Capital Partners Europe Limited,20000,Details
+EU479414,10-0,2018-12-28 12:02:51.076,Completed,Italy,100,Operator Account,5013204,SEA Energia spa,Italy,100,LINATE,5013212,SEA Energia spa,70000,Details
+EU479229,10-0,2018-12-28 12:02:15.601,Completed,Slovakia,100,Výroba buničín,5002789,"BUKOCEL, a.s.",Slovakia,100,Výroba energií,5020156,"BUKÓZA ENERGO, a. s.",130000,Details
+EU479408,10-0,2018-12-28 12:02:10.324,Completed,France,100,SYLVAMO FRANCE,5005408,Sylvamo France SA,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,45000,Details
+EU479254,10-0,2018-12-28 12:00:38.943,Completed,Poland,100,Veolia Term S.A.,5003905,Veolia Term S.A.,Poland,100,CIEPŁOWNIA PRZY UL. SOLIDARNOŚCI,5003949,Veolia Szczytno sp. z o.o.,20000,Details
+CDM56278,3-0,2018-12-28 12:00:24.807,Completed,CDM,110,,1000,,Spain,100,Cuenta de haberes de España,1003304,Oficina Española de Cambio Climático,74529,Details
+CDM56279,3-0,2018-12-28 11:59:45.522,Completed,CDM,110,,1000,,Spain,121,"Zeroemissions Carbon Trust, S.A",1002800,"Zeroemissions Carbon Trust, S.A",1963,Details
+CDM56280,3-0,2018-12-28 11:59:05.854,Completed,CDM,110,,1000,,Spain,120,Azuliber I S.L.,550,"AZULIBER 1, S.L.",1096,Details
+EU479619,10-0,2018-12-28 11:58:38.782,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,United Kingdom,100,Arconic Manufacturing (GB) Limited,5020449,Arconic Manufacturing (GB) Limited,1573,Details
+CDM56281,3-0,2018-12-28 11:58:26.69,Completed,CDM,110,,1000,,Spain,120,"Cementos Portland Valderrivas, S.A - Instalación Morata de Tajuña",717,"Cementos Portland Valderrivas, S.A.",1096,Details
+CDM56282,3-0,2018-12-28 11:57:52.979,Completed,CDM,110,,1000,,Spain,121,COMPAÑÍA ESPAÑOLA DE PETRÓLEOS(CEPSA),1006801,"Compañía Española de Petróleos, S.A.",1324,Details
+EU479618,10-0,2018-12-28 11:57:41.254,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Netherlands,100,USG handelsrekening,5011363,Utility Support Group (USG) B.V.,10000,Details
+CDM56283,3-0,2018-12-28 11:56:52.246,Completed,CDM,110,,1000,,Spain,121,"Endesa Generación, S.A.",860,"Endesa Generación, S.A.",3151,Details
+EU479617,10-0,2018-12-28 11:56:24.015,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Czech Republic,100,UNION LESNÍ BRÁNA a.s.,5022609,"UNION LESNÍ BRÁNA, a.s.",1410,Details
+CDM56286,3-0,2018-12-28 11:56:00.129,Completed,CDM,110,,1000,,Spain,121,Repsol Generación Ciclos Combinados S.L.U.,1007101,Repsol Generación Ciclos Combinados S.L.U.,1096,Details
+CDM56287,3-0,2018-12-28 11:54:38.699,Completed,CDM,110,,1000,,Spain,121,"Naturgy Ciclos Combinados, S.L.U.",861,"Naturgy Ciclos Combinados, S.L.U.",4247,Details
+CDM56288,3-0,2018-12-28 11:53:49.716,Completed,CDM,110,,1000,,Spain,121,"EDP España, S.A.",1007400,"EDP España, S.A.",1781,Details
+CDM56289,3-0,2018-12-28 11:53:09.35,Completed,CDM,110,,1000,,Spain,121,"Iberdrola Generación, S.A.U. - Cuenta de persona",859,"Iberdrola Generación Térmica, S.L.",3608,Details
+CDM56290,3-0,2018-12-28 11:50:55.705,Completed,CDM,110,,1000,,Spain,121,"COMERCIAL DE MATERIALES DE CONSTRUCCIÓN, S.L.",1000901,"COMERCIAL DE MATERIALES DE CONSTRUCCIÓN, S.L.",1324,Details
+CDM56291,3-0,2018-12-28 11:50:05.58,Completed,CDM,110,,1000,,Spain,121,"Repsol, S.A.",856,"Repsol, S.A.",1234,Details

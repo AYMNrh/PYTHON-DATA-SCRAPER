@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU504787,10-0,2019-04-03 17:16:50.491,Completed,Germany,100,KÄMMERER Spezialpapiere GmbH,5023742,Kämmerer Spezialpapiere GmbH,Germany,100,KÄMMERER Energie GmbH,5023743,Kämmerer Energie GmbH,9595,Details
+EU504933,10-2,2019-04-03 17:15:13.494,Completed,Germany,100,Anlage Energiezentrale Münchsmünster,5021818,AUDI Aktiengesellschaft,European Commission,100,EU Allowance deletion,5016380,European Commission,3209,Details
+EU504784,10-0,2019-04-03 17:14:16.214,Completed,Germany,100,KÄMMERER Spezialpapiere GmbH,5023742,Kämmerer Spezialpapiere GmbH,Germany,100,KÄMMERER Energie GmbH,5023743,Kämmerer Energie GmbH,37622,Details
+EU504935,10-2,2019-04-03 17:13:32.053,Completed,Germany,100,805 - Anlagenkonto,5015487,AUDI Aktiengesellschaft,European Commission,100,EU Allowance deletion,5016380,European Commission,1298,Details
+EU504780,10-0,2019-04-03 17:12:06.471,Completed,Finland,100,kaupankäyntitili:FI581,5010625,Oulun Energia Oy,Finland,100,Laanilan lämpökeskus,5019325,Oulun Energia Oy,365,Details
+EU504705,10-0,2019-04-03 17:09:45.525,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Italy,100,GCRSPA1,5021721,Gruppo Ceramiche Ricchetti spa,1500,Details
+EU504775,10-0,2019-04-03 17:09:13.885,Completed,Finland,100,kaupankäyntitili:FI581,5010625,Oulun Energia Oy,Finland,100,Pateniemen lämpökeskuksen päästökauppatili:FI707,5010708,Oulun Energia Oy,2448,Details
+EU504734,10-0,2019-04-03 17:07:51.731,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Estonia,100,Eesti Energia Trading Account,5016951,Eesti Energia AS,85000,Details
+EU504770,10-0,2019-04-03 17:06:58.635,Completed,Finland,100,kaupankäyntitili:FI581,5010625,Oulun Energia Oy,Finland,100,Vasaraperän lämpökeskus:FI590,5010630,Oulun Energia Oy,2256,Details
+EU504196,10-2,2019-04-03 17:05:56.114,Completed,Belgium,100,222 TotalEnergies Olefins Antwerp,5004621,TotalEnergies Olefins Antwerp,European Commission,100,EU Allowance deletion,5016380,European Commission,786567,Details
+EU505275,10-2,2019-04-03 17:04:30.395,Completed,Spain,100,CENTRO DE VIGO DE STELLANTIS,5008876,Peugeot Citroen Automóviles España S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,29885,Details
+EU504763,10-0,2019-04-03 17:03:49.849,Completed,Germany,100,KÄMMERER Spezialpapiere GmbH,5023742,Kämmerer Spezialpapiere GmbH,Germany,100,KÄMMERER Paper GmbH,5015381,Kämmerer Paper GmbH,37622,Details
+EU503207,10-2,2019-04-03 17:03:27.89,Completed,France,100,STANVEN SN,5027330,STANVEN SN,European Commission,100,EU Allowance deletion,5016380,European Commission,9201,Details
+EU504498,10-2,2019-04-03 17:02:09.956,Completed,France,100,SECANIM SUD EST,5005939,SECANIM SUD EST,European Commission,100,EU Allowance deletion,5016380,European Commission,11743,Details
+EU500493,10-0,2019-04-03 17:01:21.378,Completed,United Kingdom,100,,5027786,,Hungary,100,WIZZ AIR HUNGARY LTD,5000146,WIZZ AIR HUNGARY LTD,525,Details
+EU504756,10-0,2019-04-03 17:00:11.426,Completed,Finland,100,kaupankäyntitili:FI581,5010625,Oulun Energia Oy,Finland,100,Limingantullin lämpökeskus:FI304,5010360,Oulun Energia Oy,867,Details
+EU504727,10-0,2019-04-03 16:58:43.945,Completed,United Kingdom,100,INEOS FPS Kinneil,5008377,INEOS FPS Limited,Belgium,100,9013 INEOS EUROPE AG,5027610,INEOS EUROPE AG,442,Details
+EU505196,10-2,2019-04-03 16:57:07.161,Completed,Belgium,100,188 Edel Grâce Hollogne,5004587,Edel,European Commission,100,EU Allowance deletion,5016380,European Commission,16626,Details
+EU504749,10-0,2019-04-03 16:56:39.164,Completed,Finland,100,kaupankäyntitili:FI581,5010625,Oulun Energia Oy,Finland,100,Toppila:FI307,5010363,Oulun Energia Oy,229938,Details
+EU504835,10-2,2019-04-03 16:55:43.559,Completed,Italy,100,COGENIO - PILKINGTON,5012920,COGENIO SRL,European Commission,100,EU Allowance deletion,5016380,European Commission,100013,Details

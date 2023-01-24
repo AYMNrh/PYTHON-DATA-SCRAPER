@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU494282,10-0,2019-03-05 10:02:33.213,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Portugal,100,GREENPLAC TECNOLOGIA INDUSTRIAL LTDA,5027390,Greenplac Tecnologia Industrial Ltda,163,Details
+EU494297,10-0,2019-03-05 10:02:31.499,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,United Kingdom,100,Nissan Motor Manufacturing (UK) Limited,5020465,Nissan Motor Manufacturing (UK) Limited,24035,Details
+EU493217,10-0,2019-03-05 10:02:09.384,Completed,Spain,100,Wind to Market SA,5017211,"WIND TO MARKET, S.A.",Spain,100,"Mateos, S.L.",5009516,"Mateos, S.L.",1500,Details
+EU494276,10-0,2019-03-05 10:01:46.222,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,France,100,HALLIBURTON,5020166,HALLIBURTON,7,Details
+EU494281,10-0,2019-03-05 10:01:36.232,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,France,100,The Coca Cola Company,5018819,The Coca Cola Company,133,Details
+EU494277,10-0,2019-03-05 10:01:35.106,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,France,100,The Coca Cola Company,5018819,The Coca Cola Company,26,Details
+EU494261,10-0,2019-03-05 10:01:17.395,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,France,100,ROUSSELOT ANGOULEME SAS,5005927,ROUSSELOT ANGOULEME SAS,10000,Details
+EU493440,10-0,2019-03-05 10:01:13.668,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Italy,100,PRIMOTECS S.P.A.,5022812,PRIMOTECS S.P.A.,1200,Details
+EU493503,10-0,2019-03-05 10:00:59.386,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,United Kingdom,100,Princes Wisbech,5008472,Princes Limited,1431,Details
+EU494251,10-0,2019-03-05 10:00:25.335,Completed,Germany,100,Axpo Solutions AG,5017149,AXPO Solutions AG,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,30000,Details
+EU494269,10-2,2019-03-05 09:12:40.395,Completed,United Kingdom,100,,5000316,,European Commission,100,EU Allowance deletion,5016380,European Commission,9157,Details
+EU493538,10-2,2019-03-05 08:52:44.105,Completed,Northern Ireland,100,ContourGlobal Solutions NI,5008173,ContourGlobal Solutions Northern Ireland Ltd,European Commission,100,EU Allowance deletion,5016380,European Commission,12811,Details
+EU493522,10-2,2019-03-05 06:20:28.724,Completed,United Kingdom,100,,5018082,,European Commission,100,EU Allowance deletion,5016380,European Commission,422,Details
+EU494000,10-36,2019-03-05 01:36:46.809,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Toppetti 2 S.r.l. - Stabilimento di Todi (PG),5022078,T2D  S.P.A.,81010,Details
+EU494196,10-36,2019-03-05 01:36:45.874,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,FER-PAR S.R.L.,5025559,FER-PAR S.R.L.,5577,Details
+EU494021,10-36,2019-03-05 01:36:45.526,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,FRUTTAGEL_ALFONSINE,5023749,FRUTTAGEL SCPA,5036,Details
+EU494046,10-36,2019-03-05 01:36:45.52,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Operator Account,5013116,LEDOGA SRL,24848,Details
+EU494187,10-36,2019-03-05 01:36:45.476,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Operator Account,5012638,MOSAICO SpA,61158,Details
+EU494154,10-36,2019-03-05 01:36:45.265,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,1708_AO Moscati Avellino,5017312,MOSCATI ENERGIA SRL,2466,Details
+EU494045,10-36,2019-03-05 01:36:45.265,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Operator Account,5012606,Indena SpA,9021,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU481970,10-0,2019-01-30 17:59:12.544,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Netherlands,100,BioMethanol Chemie Nederland B.V.,5021497,BioMethanol Chemie Nederland B.V.,12416,Details
+EU481971,10-0,2019-01-30 17:58:17.097,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Netherlands,100,BioMethanol Chemie Nederland B.V.,5021497,BioMethanol Chemie Nederland B.V.,451,Details
+EU481965,10-0,2019-01-30 17:57:34.603,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Netherlands,100,BioMethanol Chemie Nederland B.V.,5021497,BioMethanol Chemie Nederland B.V.,9644,Details
+EU481925,10-0,2019-01-30 17:04:25.027,Completed,United Kingdom,100,RWE npower CAM,5007269,RWE Generation UK Plc,United Kingdom,100,HYTHE CHP,5007214,RWE Generation UK Plc,24500,Details
+EU481928,10-0,2019-01-30 17:02:34.378,Completed,United Kingdom,100,RWE npower CAM,5007269,RWE Generation UK Plc,United Kingdom,100,RWE Npower Renewables (Markinch) Limited,5008408,RWE Markinch Limited,7600,Details
+EU481952,10-0,2019-01-30 16:46:10.24,Completed,Germany,100,25 - Anlagenkonto,5015213,BAYERNOIL Raffineriegesellschaft mbH,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,86000,Details
+FR210118,4-0,2019-01-30 16:20:16.084,Completed,France,120,CHAMTOR,252,CHAMTOR SAS,France,230,Cpt d'annulation volontaire,17,France,2475,Details
+EU481765,10-0,2019-01-30 15:53:35.22,Completed,Greece,100,HERON2,5002426,ΘΕΡΜΟΗΛΕΚΤΡΙΚΟΣ ΣΤΑΘΜΟΣ ΒΟΙΩΤΙΑΣ  ΗΡΩΝ II,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,7116,Details
+EU482118,10-0,2019-01-30 15:44:22.315,Completed,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,Spain,100,"Repsol Trading, S.A.",5024180,"Repsol Trading, S.A",5444000,Details
+EU482117,10-0,2019-01-30 15:33:35.104,Completed,United Kingdom,100,Trading EUA/EUAA,5017039,ICE Clear Europe Ltd,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,4925000,Details
+EU482112,10-0,2019-01-30 15:30:29.31,Completed,United Kingdom,100,UBS TRADING ACCOUNT,5018280,UBS Limited,Germany,100,Bayern LB,5016942,Bayerische Landesbank,500000,Details
+EU481935,10-0,2019-01-30 15:29:15.921,Completed,Netherlands,100,BNP Paribas London Branch,5027681,BNP Paribas London Branch,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,500000,Details
+EU481933,10-0,2019-01-30 15:25:56.092,Completed,Netherlands,100,BNP Paribas London Branch,5027681,BNP Paribas London Branch,United Kingdom,100,Trading EUA/EUAA,5017039,ICE Clear Europe Ltd,4925000,Details
+EU482113,10-0,2019-01-30 15:25:33.602,Completed,United Kingdom,100,UBS TRADING ACCOUNT,5018280,UBS Limited,Germany,100,Alpiq AG,5021597,Alpiq AG,6000,Details
+EU482116,10-72,2019-01-30 15:10:48.213,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Italy,100,Operator Account,5012759,Berco. S.p.A.,13668,Details
+EU482114,10-71,2019-01-30 15:09:57.602,Completed,Italy,100,Operator Account,5012759,Berco. S.p.A.,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,13668,Details
+EU481918,10-0,2019-01-30 15:02:24.067,Completed,Germany,100,DS Smith Paper Witzenhausen - PM,5019616,DS Smith Paper Deutschland GmbH,Germany,100,DS Smith Paper Aschaffenburg - GuD,5022159,DS Smith Paper Deutschland GmbH,10000,Details
+EU481889,10-0,2019-01-30 15:02:06.66,Completed,Denmark,100,Energnist,5020286,Energnist,Denmark,100,Sædding Varmev,5006182,DIN Forsyning Varme A/S,55000,Details
+EU482111,10-0,2019-01-30 14:58:05.667,Completed,United Kingdom,100,BNP PARIBAS COMMODITY FUTURES LTD,5017675,BNP Paribas Commodity Futures Limited,Germany,100,Axpo Solutions AG,5017149,AXPO Solutions AG,10000,Details
+EU482109,10-0,2019-01-30 14:57:45.119,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,United Kingdom,100,Operator Account,5008618,SembCorp Utilities (UK) Limited,25000,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU515777,10-0,2019-04-19 15:52:50.373,Completed,Romania,100,SC KRONOSPAN TRADING SRL,5010095,SC KRONOSPAN TRADING SRL,Romania,100,S.C. KRONOCHEM SEBES S.R.L.,5027395,S.C. KRONOCHEM SEBES S.R.L.,2059,Details
+EU516437,10-0,2019-04-19 15:50:29.932,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Malta,100,Corendon Airlines Europe,5027268,Corendon Airlines Europe,9000,Details
+EU516433,10-0,2019-04-19 15:48:58.2,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Ireland,100,Operator Account,5011938,Arrabawn Cooperative Society Limited,8169,Details
+EU516010,10-0,2019-04-19 15:47:27.629,Completed,France,100,TRF Compte de dépôt,5005166,TOTALENERGIES RAFFINAGE FRANCE,France,100,SOBEGI LACQ,5005002,SOBEGI,101000,Details
+EU516434,10-2,2019-04-19 15:36:23.996,Completed,France,100,Régie du Chauffage Urbain de Fontenay,5004823,LA REGIE DU CHAUFFAGE URBAIN,European Commission,100,EU Allowance deletion,5016380,European Commission,35428,Details
+EU515431,10-2,2019-04-19 15:35:24.138,Completed,France,100,Raffinerie de Feyzin (FZN),5005066,TOTALENERGIES RAFFINAGE FRANCE,European Commission,100,EU Allowance deletion,5016380,European Commission,1124040,Details
+EU516409,10-2,2019-04-19 15:35:17.154,Completed,Italy,100,Operator Account,5013338,Lumina S.r.l.,European Commission,100,EU Allowance deletion,5016380,European Commission,17753,Details
+EU516442,10-72,2019-04-19 15:34:12.838,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Italy,100,Marcegaglia Gazoldo Inox S.p.A.,5020250,Marcegaglia Gazoldo Inox S.p.A.,4842,Details
+EU515436,10-2,2019-04-19 15:33:58.601,Completed,France,100,Raffinerie de Grandpuits (GPS),5005350,TOTALENERGIES RAFFINAGE FRANCE,European Commission,100,EU Allowance deletion,5016380,European Commission,647880,Details
+EU516411,10-2,2019-04-19 15:33:36.242,Completed,Italy,100,Cervinia,5026708,Energie de la Vallée Srl,European Commission,100,EU Allowance deletion,5016380,European Commission,2678,Details
+EU516390,10-71,2019-04-19 15:33:14.9,Completed,Italy,100,Marcegaglia Gazoldo Inox S.p.A.,5020250,Marcegaglia Gazoldo Inox S.p.A.,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,4842,Details
+EU516440,10-72,2019-04-19 15:33:04.788,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Italy,100,Marcegaglia Plates SpA,5020251,Marcegaglia PLATES SpA,3256,Details
+EU516100,10-0,2019-04-19 15:32:55.436,Completed,France,100,SOCIETE AIR FRANCE,5016955,Verspick,France,100,HOP!,5022826,HOP!,6567,Details
+EU515437,10-2,2019-04-19 15:32:15.559,Completed,France,100,Raffinerie de Provence (RP),5005423,TOTALENERGIES RAFFINAGE FRANCE,European Commission,100,EU Allowance deletion,5016380,European Commission,24444,Details
+EU516394,10-71,2019-04-19 15:32:06.179,Completed,Italy,100,Marcegaglia Plates SpA,5020251,Marcegaglia PLATES SpA,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,3256,Details
+EU516108,10-0,2019-04-19 15:31:54.803,Completed,France,100,SOCIETE AIR FRANCE,5016955,Verspick,France,100,TRANSAVIA FRANCE,5000424,TRANSAVIA FRANCE,6489,Details
+EU515440,10-2,2019-04-19 15:30:47.441,Completed,France,100,Usine de Gonfreville (UGO),5005696,TOTALENERGIES RAFFINAGE FRANCE,European Commission,100,EU Allowance deletion,5016380,European Commission,1044599,Details
+EU516358,10-0,2019-04-19 15:30:37.477,Completed,France,100,SOCIETE AIR FRANCE,5016955,Verspick,France,100,HOP!,5022826,HOP!,85868,Details
+EU515441,10-2,2019-04-19 15:29:35.866,Completed,France,100,Raffinerie de Donges (DGS),5005772,TOTALENERGIES RAFFINAGE FRANCE,European Commission,100,EU Allowance deletion,5016380,European Commission,1222274,Details
+EU516362,10-0,2019-04-19 15:29:06.27,Completed,France,100,SOCIETE AIR FRANCE,5016955,Verspick,France,100,HOP!,5022826,HOP!,345395,Details

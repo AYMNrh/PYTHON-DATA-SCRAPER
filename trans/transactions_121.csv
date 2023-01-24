@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU477854,10-0,2018-12-20 12:00:21.987,Completed,Spain,100,"Global Factor Commodity Trading, S.A.U.",5016901,"Global Factor Commodity Trading, S.A.U.",Spain,100,DESIMPACTO DE PURINES ERESMA. S.A.,5026739,DESIMPACTO DE PURINES ERESMA. S.A.,18510,Details
+EU478609,10-0,2018-12-20 12:00:20.803,Completed,Germany,100,Trianel GmbH,5016903,Trianel GmbH,Germany,100,Anlagenkonto TKL GmbH & Co. KG,5013872,Trianel Kohlekraftwerk Lünen GmbH & Co. KG,240000,Details
+EU478480,10-0,2018-12-20 11:57:48.891,Completed,Hungary,100,MOL Commodity Trading Kft,5017387,MOL Commodity Trading Kft.,Croatia,100,Rafinerija nafte Rijeka,5021784,INA d.d.,29740,Details
+EU478483,10-0,2018-12-20 11:56:39.975,Completed,Hungary,100,MOL Commodity Trading Kft,5017387,MOL Commodity Trading Kft.,Croatia,100,Rafinerija nafte Sisak,5021823,INA d.d.,12435,Details
+EU478486,10-0,2018-12-20 11:55:39.634,Completed,Hungary,100,MOL Commodity Trading Kft,5017387,MOL Commodity Trading Kft.,Croatia,100,Objekti prerade plina Molve,5021973,INA d.d.,2325,Details
+EU478646,4-0,2018-12-20 11:55:13.903,Completed,Germany,100,First Climate Trading,5016814,First Climate Markets AG,European Commission,230,EU Cancellation Account Period 2,5022673,EUROPEAN UNION,69,Details
+EU478649,10-0,2018-12-20 11:55:05.761,Completed,Czech Republic,100,"ČEZ, a.s. - obchodní účet",5016960,"ČEZ, a. s.",Czech Republic,100,ČEZ - Elektrárna Prunéřov 1,5007007,"ČEZ, a. s.",1950000,Details
+EU478490,10-0,2018-12-20 11:54:30.557,Completed,Hungary,100,MOL Commodity Trading Kft,5017387,MOL Commodity Trading Kft.,Croatia,100,Objekti frakcionacije Ivanić Grad,5021972,INA d.d.,1980,Details
+EU478650,10-0,2018-12-20 11:53:41.956,Completed,Czech Republic,100,"ČEZ, a.s. - obchodní účet",5016960,"ČEZ, a. s.",Czech Republic,100,ČEZ - Elektrárna Prunéřov 2,5007008,"ČEZ, a. s.",1555915,Details
+EU478648,4-0,2018-12-20 11:52:25.113,Completed,Germany,100,First Climate Trading,5016814,First Climate Markets AG,European Commission,230,EU Cancellation Account Period 2,5022673,EUROPEAN UNION,262,Details
+EU478502,10-0,2018-12-20 11:51:21.43,Completed,Hungary,100,MOL Commodity Trading Kft,5017387,MOL Commodity Trading Kft.,Croatia,100,Rafinerija nafte Rijeka,5021784,INA d.d.,4600,Details
+EU478508,10-0,2018-12-20 11:50:19.231,Completed,Hungary,100,MOL Commodity Trading Kft,5017387,MOL Commodity Trading Kft.,Croatia,100,Rafinerija nafte Sisak,5021823,INA d.d.,1412,Details
+EU478632,10-0,2018-12-20 11:48:58.472,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Greece,100,ALOUMIN,5017344,MYTILINEOS HOLDINGS S.A.,20000,Details
+EU478583,10-0,2018-12-20 11:47:04.909,Completed,Czech Republic,100,"ČEZ, a.s. - obchodní účet",5016960,"ČEZ, a. s.",Czech Republic,100,ČEZ - Elektrárna Ledvice,5006998,"ČEZ, a. s.",300000,Details
+EU478634,10-0,2018-12-20 11:46:27.647,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Greece,100,PROTERGIA S.A.,5022760,MYTILINEOS HOLDINGS S.A.,40000,Details
+EU478602,10-0,2018-12-20 11:46:02.044,Completed,Czech Republic,100,"ČEZ, a.s. - obchodní účet",5016960,"ČEZ, a. s.",Czech Republic,100,ČEZ - Teplárna Trmice,5007057,"ČEZ, a. s.",330000,Details
+EU478612,10-0,2018-12-20 11:44:33.312,Completed,Czech Republic,100,"ČEZ, a.s. - obchodní účet",5016960,"ČEZ, a. s.",Czech Republic,100,ČEZ - Teplárna Dvůr Králové nad Labem,5007016,"ČEZ, a. s.",20000,Details
+EU478608,10-0,2018-12-20 11:44:30.243,Completed,United Kingdom,100,ABN AMRO Clearing Bank N.V,5017351,"ABN AMRO Clearing Bank N.V, London Branch",United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,102000,Details
+EU478592,10-0,2018-12-20 11:43:11.116,Completed,Czech Republic,100,"ČEZ, a.s. - obchodní účet",5016960,"ČEZ, a. s.",Czech Republic,100,ČEZ - Elektrárna Ledvice 4,5006618,"ČEZ, a. s.",2000000,Details
+EU478623,10-0,2018-12-20 11:43:05.245,Completed,Spain,100,"Repsol Trading, S.A.",5024180,"Repsol Trading, S.A",Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,3500000,Details

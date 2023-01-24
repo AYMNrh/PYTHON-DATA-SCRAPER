@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU501938,10-2,2019-03-28 09:34:14.682,Completed,Sweden,100,HVC Ekobilen,5001909,Falkenberg Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,83,Details
+EU501955,10-2,2019-03-28 09:32:34.734,Completed,Sweden,100,HVC Bacchus,5002247,Falkenberg Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,102,Details
+EU501975,10-2,2019-03-28 09:32:20.951,Completed,Sweden,100,Varaslättens Lagerhus,5022241,Varaslättens Lagerhus Ek För,European Commission,100,EU Allowance deletion,5016380,European Commission,17,Details
+EU501995,10-2,2019-03-28 09:31:45.309,Completed,Croatia,100,ENERGETIKA,5022532,Đuro Đaković Energetika i infrastruktura d.o.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,1842,Details
+EU501959,10-2,2019-03-28 09:31:08.124,Completed,Sweden,100,Hetvattencentral Spettet,5002250,Falkenberg Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,647,Details
+EU501926,4-0,2019-03-28 09:20:07.616,Completed,Germany,100,Fokus Zukunft GmbH & Co.KG,5025499,Fokus Zukunft GmbH & Co. KG,European Commission,230,EU Cancellation Account Period 2,5022673,EUROPEAN UNION,900,Details
+EU501929,4-0,2019-03-28 09:19:19.766,Completed,Germany,100,Fokus Zukunft GmbH & Co.KG,5025499,Fokus Zukunft GmbH & Co. KG,European Commission,230,EU Cancellation Account Period 2,5022673,EUROPEAN UNION,900,Details
+EU499873,10-2,2019-03-28 09:17:58.74,Completed,Germany,100,999 - Anlagenkonto,5014148,Bremerhavener Entsorgungsgesellschaft mbH,European Commission,100,EU Allowance deletion,5016380,European Commission,3096,Details
+EU501969,10-2,2019-03-28 09:17:01.164,Completed,Netherlands,100,Viterra Botlek B.V.,5011133,Viterra Botlek B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,36062,Details
+EU501980,10-2,2019-03-28 09:17:00.279,Completed,Spain,100,"El Barco, S.L.",5018723,"El Barco, S.L.",European Commission,100,EU Allowance deletion,5016380,European Commission,5217,Details
+EU501986,10-72,2019-03-28 09:15:29.969,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Spain,100,"El Barco, S.L.",5018723,"El Barco, S.L.",235,Details
+EU501742,10-2,2019-03-28 09:15:27.721,Completed,France,100,DNP France,5005662,DSM NUTRITIONAL PRODUCTS France,European Commission,100,EU Allowance deletion,5016380,European Commission,17634,Details
+EU501981,10-71,2019-03-28 09:14:32.404,Completed,Spain,100,"El Barco, S.L.",5018723,"El Barco, S.L.",European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,235,Details
+EU501963,10-2,2019-03-28 09:08:01.001,Completed,Poland,100,Ciepłownia Miejska,5003876,"Przedsiębiorstwo Energetyki Cieplnej ""Żyrardów""",European Commission,100,EU Allowance deletion,5016380,European Commission,34649,Details
+EU497975,10-2,2019-03-28 09:06:42.984,Completed,Romania,100,Operator Account,5010188,Michelin Romania SA,European Commission,100,EU Allowance deletion,5016380,European Commission,14769,Details
+EU501941,10-2,2019-03-28 09:03:57.028,Completed,Spain,100,"Ferraes Cerámica, S.A.",5018686,"Ferraes Cerámica, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,7427,Details
+EU500972,10-2,2019-03-28 09:00:04.928,Completed,Sweden,100,Hagfors värmeverk,5001709,Hagfors Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,172,Details
+EU501970,10-72,2019-03-28 08:59:11.156,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,Matthias Heyer OHG,5021787,Matthias Heyer oHG,374,Details
+EU501917,10-2,2019-03-28 08:58:51.821,Completed,Germany,100,Knauf Gips KG Iphofen,5018722,Knauf Gips KG,European Commission,100,EU Allowance deletion,5016380,European Commission,59694,Details
+EU501936,10-2,2019-03-28 08:58:10.617,Completed,Spain,100,"Cerámica Vives, S.A.",5009344,"Cerámica Vives, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,7330,Details

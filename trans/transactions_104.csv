@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU478960,10-0,2018-12-21 10:06:47.634,Completed,Germany,100,ENGIE GLOBAL MARKETS,5016881,ENGIE Global Markets,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,278000,Details
+EU478823,10-0,2018-12-21 10:06:40.021,Completed,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,Germany,100,Handelskonto MIBRAG,5015436,Mitteldeutsche Braunkohlengesellschaft mbH,102140,Details
+EU478832,10-0,2018-12-21 10:06:28.113,Completed,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,Germany,100,Stadtwerke Würzburg AG Händlerkonto,5021804,Stadtwerke Würzburg Aktiengesellschaft,15500,Details
+EU478805,10-0,2018-12-21 10:06:15.418,Completed,Sweden,100,Skandinaviska Enskilda Banken AB (publ.),5024639,Skandinaviska Enskilda Banken AB (publ.),Finland,100,Neste Oyj Porvoon päästötili,5010858,Neste Oyj,10000,Details
+EU478935,10-0,2018-12-21 10:06:14.068,Completed,Germany,100,Alpiq AG,5021597,Alpiq AG,Italy,100,Alpiq_Energia_Italia,5012862,Alpiq Energia Italia S.p.A.,684869,Details
+EU478904,10-0,2018-12-21 10:06:10.342,Completed,Germany,100,Alpiq AG,5021597,Alpiq AG,Spain,100,Alpiq Energía España S.A.U.,5009913,Alpiq Energía España S.A.U,134950,Details
+EU478909,10-0,2018-12-21 10:06:08.657,Completed,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,Portugal,100,Netjets Transportes Aereos SA,5018780,Netjets Transportes Aereos SA,8658,Details
+EU478807,10-0,2018-12-21 10:05:26.755,Completed,Germany,100,ENGIE GLOBAL MARKETS,5016881,ENGIE Global Markets,Netherlands,100,Electrabel S.A./N.V.,5017550,Electrabel NV/SA,12162728,Details
+EU478810,10-0,2018-12-21 10:05:07.097,Completed,Italy,100,Burgo Energia Srl,5017270,Burgo Energia Srl,Italy,100,Operator Account,5012654,Burgo Group S.p.A.,4000,Details
+EU478952,10-0,2018-12-21 10:05:02.838,Completed,Germany,100,Shell Trading International Limited,5027588,Shell Trading International Limited,Germany,100,Shell Deutschland Oil GmbH-PCK,5013819,Shell Deutschland GmbH,612590,Details
+EU478928,10-0,2018-12-21 10:04:58.857,Completed,Germany,100,SWM-Trading,5020188,Stadtwerke München GmbH,Germany,100,HKW Nord Block 2,5014991,SWM Services GmbH,1475000,Details
+EU478813,10-0,2018-12-21 10:04:50.14,Completed,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,Germany,100,1045 - Anlagenkonto,5014239,Infraserv GmbH & Co. Höchst KG,600000,Details
+EU478888,10-0,2018-12-21 10:04:45.041,Completed,Spain,100,"Naturgy Energy Group, S.A.",5017187,"Naturgy Energy Group, S.A.",United Kingdom,100,BNP PARIBAS COMMODITY FUTURES LTD,5017675,BNP Paribas Commodity Futures Limited,166000,Details
+EU478797,10-0,2018-12-21 10:04:43.277,Completed,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,Germany,100,1493 - Anlagenkonto,5014879,Energie und Wasser Potsdam GmbH,76000,Details
+EU478822,10-0,2018-12-21 10:04:33.152,Completed,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,Germany,100,1149 - Anlagenkonto KW Wählitz,5014398,Mitteldeutsche Braunkohlengesellschaft mbH,50000,Details
+EU478806,10-0,2018-12-21 10:04:17.276,Completed,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,Germany,100,1110 - Anlagenkonto,5014346,Stadtwerke Gotha GmbH,44000,Details
+EU478905,10-0,2018-12-21 10:04:12.938,Completed,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,Finland,100,1827,5017609,OP Yrityspankki Oyj,208000,Details
+EU478912,10-0,2018-12-21 10:04:04.509,Completed,Germany,100,STEAG GmbH,5017212,STEAG GmbH,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,20000,Details
+EU478389,10-0,2018-12-21 10:03:39.713,Completed,United Kingdom,100,ENI ETS UK 1,5016886,Eni Trading and Shipping SpA,Italy,100,Stabilimento di Ferrera Erbognone,5013487,EniPower S.p.A.,1973564,Details
+EU478812,3-0,2018-12-21 10:03:35.451,Completed,United Kingdom,100,Numerco Limited,5025480,Numerco Limited,Sweden,121,Atmoz Consulting AB,890,Atmoz Consulting AB,15000,Details

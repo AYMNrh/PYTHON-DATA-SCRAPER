@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU497214,10-2,2019-03-15 13:10:43.358,Completed,Germany,100,554 - Anlagenkonto,5015632,Papierfabrik Louisenthal Gesellschaft mit beschränkter Haftung,European Commission,100,EU Allowance deletion,5016380,European Commission,11170,Details
+EU497380,10-2,2019-03-15 13:04:32.163,Completed,Czech Republic,100,United Energy - Teplárna Komořany,5006975,"United Energy, a.s.",European Commission,100,EU Allowance deletion,5016380,European Commission,983065,Details
+EU497268,10-0,2019-03-15 13:00:00.034,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Italy,100,Sorgenia S.p.A.,5012836,Sorgenia S.p.A.,78000,Details
+EU497014,10-0,2019-03-15 12:57:07.521,Completed,United Kingdom,100,CFP Energy Limited,5008099,CFP Energy Limited,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,70000,Details
+EU497482,10-0,2019-03-15 12:53:59.396,Completed,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,10000,Details
+EU497486,10-0,2019-03-15 12:51:11.018,Completed,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,50000,Details
+EU497051,10-0,2019-03-15 12:50:56.007,Completed,United Kingdom,100,Peak Gen Power 5 Limited,5024565,Peak Gen Power 5 Limited,Malta,100,RAL Warehousing Account,5027655,Louis Redshaw,3751,Details
+EU497500,10-0,2019-03-15 12:50:55.102,Completed,United Kingdom,100,Citigroup Global Markets Limited,5021318,Citigroup Global Markets Limited,United Kingdom,100,Thomas Cook Group Treasury Limited,5008399,Thomas Cook Group Treasury Limited,394883,Details
+EU497465,10-0,2019-03-15 12:49:51.652,Completed,Netherlands,100,BNP Paribas London Branch,5027681,BNP Paribas London Branch,Netherlands,100,JPM VEC Trading Account,5027817,J.P. Morgan Ventures Energy Corporation,375000,Details
+EU497050,10-0,2019-03-15 12:48:49.551,Completed,United Kingdom,100,Peak Gen Power 2 Limited,5022740,Peak Gen Power 2 Limited,Malta,100,RAL Warehousing Account,5027655,Louis Redshaw,12152,Details
+EU497048,10-0,2019-03-15 12:47:16.269,Completed,United Kingdom,100,Peak Gen Power Ltd,5018564,W4B Renewable Energy Limited,Malta,100,RAL Warehousing Account,5027655,Louis Redshaw,4492,Details
+EU497475,10-0,2019-03-15 12:44:28.197,Completed,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,Slovenia,100,Belektron TRD Si,5016820,BELEKTRON d.o.o.,1000,Details
+EU497472,3-0,2019-03-15 12:43:27.355,Completed,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,Switzerland,100,,1090,,10830,Details
+EU497433,10-37,2019-03-15 12:40:49.76,Completed,European Commission,100,EU AUCTION ACCOUNT,5016932,EUROPEAN UNION,Germany,100,ECC AG Auction Delivery Account EU,5016991,European Commodity Clearing AG,2495000,Details
+EU497042,10-0,2019-03-15 12:39:02.783,Completed,United Kingdom,100,,5000977,,United Kingdom,100,,5017352,,20,Details
+EU497481,10-0,2019-03-15 12:38:04.982,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,25000,Details
+EU497484,10-0,2019-03-15 12:36:41.451,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Germany,100,Deutsche Lufthansa AG,5000022,Deutsche Lufthansa Aktiengesellschaft,41500,Details
+EU497485,10-0,2019-03-15 12:35:21.232,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Germany,100,Statkraft Markets GmbH,5017011,Statkraft Markets GmbH,50000,Details
+EU497490,10-0,2019-03-15 12:34:05.664,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,193500,Details
+EU497491,10-0,2019-03-15 12:32:52.652,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,200000,Details

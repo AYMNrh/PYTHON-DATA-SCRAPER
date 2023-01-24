@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU497095,10-72,2019-03-14 12:05:42.274,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Poland,100,Wanny szklarskie,5026247,Irena Holding Group Sp. z o.o.,521,Details
+EU496634,10-0,2019-03-14 12:05:25.368,Completed,Germany,100,Werk 1,5014245,Girnghuber GmbH,Germany,100,Werk 2a,5018925,Girnghuber GmbH,10000,Details
+EU496554,10-0,2019-03-14 12:05:08.019,Completed,United Kingdom,100,Santon Asphalt,5021622,Tarmac Trading Limited,Ireland,100,CRH Finance Limited Trading Account,5012056,CRH Finance Designated Activity Company,61512,Details
+EU496640,10-0,2019-03-14 12:04:56.902,Completed,Germany,100,DS Smith Paper Aschaffenburg - PM,5020079,DS Smith Paper Deutschland GmbH,Germany,100,DS Smith Paper Aschaffenburg - GuD,5022159,DS Smith Paper Deutschland GmbH,187364,Details
+EU496615,10-0,2019-03-14 12:04:45.703,Completed,Austria,100,EVN FHKW Mödling,5004170,EVN Wärme GmbH,Austria,100,EVN FHW Palmers Wr. Neudorf,5004167,EVN Wärme GmbH,3000,Details
+GB72730,3-0,2019-03-14 12:04:44.813,Completed,United Kingdom,121,Numerco Limited,5026108,Numerco Limited,Australia,100,,2617,,57103,Details
+EU497079,10-71,2019-03-14 12:04:33.631,Completed,Poland,100,Wanny szklarskie,5026247,Irena Holding Group Sp. z o.o.,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,521,Details
+EU496668,10-0,2019-03-14 12:04:21.596,Completed,Belgium,100,276 Ineos,5004741,INEOS,Belgium,100,414 Ineos C2T,5022881,Ineos C2T NV,200,Details
+EU496559,10-0,2019-03-14 12:04:08.966,Completed,France,100,ENERSOL,5005251,ENERSOL,France,100,QUOTA GES PEL CHAMPBLAIN,5005255,SAICA PAPER FRANCE,602,Details
+EU496619,10-0,2019-03-14 12:03:36.458,Completed,Denmark,100,Bjerringbro KV,5006545,Gudenådalens Energiselskab Amba,Denmark,100,Bjerringbro V.V,5006546,Gudenådalens Energiselskab Amba,1010,Details
+EU496544,10-0,2019-03-14 12:03:36.348,Completed,United Kingdom,100,Shetland Gas Plant,5024540,Total E&P UK Limited,Belgium,100,9013 INEOS EUROPE AG,5027610,INEOS EUROPE AG,21073,Details
+FR210120,4-0,2019-03-14 12:03:31.183,Completed,France,120,AEROPORT PARIS LE BOURGET,664,JANSSEN,France,230,Cpt d'annulation volontaire,17,France,4160,Details
+EU496538,10-0,2019-03-14 12:03:12.474,Completed,United Kingdom,100,KC Delyn Trading,5007910,Kimberly Clark Limited,Germany,100,1709 - Anlagenkonto,5015184,Kimberly-Clark GmbH,3670,Details
+EU496565,10-0,2019-03-14 12:03:11.341,Completed,Italy,100,Enel Energia S.p.A.,5012863,Enel Energia S.p.A.,Italy,100,ENEL TRADE ITALIA,5016899,Enel Global Trading S.p.A.,40000,Details
+EU496566,10-0,2019-03-14 12:02:58.935,Completed,United Kingdom,100,,5017751,,United Kingdom,100,BP Gas Marketing Limited (2),5017286,BP Gas Marketing Limited,8791,Details
+EU496556,10-0,2019-03-14 12:02:48.974,Completed,United Kingdom,100,Alwyn Installation,5007128,Total E&P UK Limited,United Kingdom,100,Harding,5008331,Taqa Bratani Limited,16494,Details
+EU496560,10-0,2019-03-14 12:02:15.184,Completed,United Kingdom,100,Operator Account,5007121,BP Chemicals Ltd,United Kingdom,100,BP Gas Marketing Limited (2),5017286,BP Gas Marketing Limited,310656,Details
+EU496543,10-0,2019-03-14 12:01:46.362,Completed,United Kingdom,100,Shetland Gas Plant,5024540,Total E&P UK Limited,United Kingdom,100,SSE Energy Supply Limited,5023336,SSE Energy Supply Limited,21073,Details
+EU496614,10-0,2019-03-14 12:01:43.684,Completed,Slovakia,100,"Dolvap, s.r.o.",5002922,"DOLVAP, s.r.o.",Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,5000,Details
+EU496555,10-0,2019-03-14 12:01:38.008,Completed,United Kingdom,100,Shetland Gas Plant,5024540,Total E&P UK Limited,United Kingdom,100,Alwyn Installation,5007128,Total E&P UK Limited,163449,Details

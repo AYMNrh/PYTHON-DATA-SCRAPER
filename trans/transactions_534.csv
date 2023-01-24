@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU508829,10-0,2019-04-10 12:08:37.33,Completed,Poland,100,Zakład Produkcyjny w Inowrocławiu,5020152,CIECH Soda Polska S.A.,Poland,100,ELEKTROCIEPŁOWNIA ZAKŁAD INOWROCŁAW,5003476,CIECH Soda Polska S.A.,274896,Details
+EU505397,10-0,2019-04-10 12:08:29.834,Completed,France,100,AIR CARAIBES,5019320,AIR CARAIBES,France,100,FRENCH BEE,5027361,FRENCH BEE,700,Details
+EU508244,10-0,2019-04-10 12:08:12.824,Completed,Spain,100,"Unión Industrial Papelera, S.A.",5009391,"Union Industrial Papelera, SA",Spain,100,Cogeneración UFIC,5009082,Cogeneración UFIC,25186,Details
+EU508675,10-0,2019-04-10 12:08:10.427,Completed,Germany,100,Roheisen- und Stahlerzeugung,5015788,ArcelorMittal Eisenhüttenstadt GmbH,Germany,100,Kaltwalzwerk,5013805,ArcelorMittal Eisenhüttenstadt GmbH,3102,Details
+EU508688,10-0,2019-04-10 12:08:01.757,Completed,United Kingdom,100,CFP Energy Limited,5008099,CFP Energy Limited,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,30000,Details
+EU508657,10-0,2019-04-10 12:07:56.235,Completed,Finland,100,"LK 254, Järvenpää:FI84",5010867,Vantaan Energia Keski-Uusimaa Oy,Finland,100,Päästöt-Kaupunginkallio:FI17,5010800,Fortum Power and Heat Oy,147,Details
+EU508685,10-0,2019-04-10 12:07:48.425,Completed,Germany,100,Roheisen- und Stahlerzeugung,5015788,ArcelorMittal Eisenhüttenstadt GmbH,Germany,100,2176 - Anlagenkonto Warmwalzwerk,5015770,ArcelorMittal Eisenhüttenstadt GmbH,37735,Details
+EU508714,10-0,2019-04-10 12:07:46.406,Completed,Germany,100,FutureCamp Climate GmbH Personenkonto,5016067,FutureCamp Climate GmbH,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,5000,Details
+EU508583,10-0,2019-04-10 12:07:44.862,Completed,Italy,100,Operator Account,5012512,ACCIAIERIE VENETE S.p.A.,Italy,100,BVS stabilimento Borgo Valsugana,5026881,ACCIAIERIE VENETE S.p.A.,26400,Details
+EU508781,10-0,2019-04-10 12:07:44.255,Completed,Poland,100,KOKSOWNIA PRZYJAŹŃ,5002964,JSW KOKS S.A.,Poland,100,Elektrownia Koksowni Przyjaźń,5024315,JSW KOKS S.A.,234962,Details
+EU508832,10-0,2019-04-10 12:07:43.86,Completed,Poland,100,Zakład Produkcyjny w Inowrocławiu,5020152,CIECH Soda Polska S.A.,Poland,100,Elektrociepłownia Zakład Janikowo,5003481,CIECH Soda Polska S.A.,770381,Details
+EU510218,10-0,2019-04-10 12:07:43.209,Completed,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,Germany,100,Emissionshandelsgesellschaft,5017225,Emissionshandelsgesellschaft Michael Pohlmann GmbH & Co. KG,2200,Details
+EU508671,10-0,2019-04-10 12:07:34.134,Completed,Finland,100,Lk 238:FI713,5010714,Vantaan Energia Keski-Uusimaa Oy,Finland,100,Päästöt-Utra:FI30,5010813,Savon Voima Joensuu Oy,53,Details
+EU508626,10-0,2019-04-10 12:07:29.398,Completed,United Kingdom,100,,5016510,,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,27996,Details
+EU508654,10-0,2019-04-10 12:07:19.06,Completed,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,4512,Details
+EU506445,10-0,2019-04-10 12:07:16.881,Completed,Spain,100,"Unión Industrial Papelera, S.A.",5009391,"Union Industrial Papelera, SA",Spain,100,Cogeneración UFIC,5009082,Cogeneración UFIC,28559,Details
+EU508733,10-0,2019-04-10 12:07:15.949,Completed,United Kingdom,100,British Gypsum - East Leake,5008130,Saint-Gobain Construction Products UK Limited,France,100,ST GOBAIN ISOVER Orange,5005642,SAINT GOBAIN ISOVER,113475,Details
+EU508642,10-0,2019-04-10 12:06:57.915,Completed,Finland,100,Päästöt-Vermo:FI31,5010814,Fortum Power and Heat Oy,Finland,100,Hasanniemen lämpökeskus:FI601,5010641,Savon Voima Joensuu Oy,349,Details
+EU508611,10-0,2019-04-10 12:06:47.81,Completed,France,100,Usine de Carling (CLN),5005842,TOTALENERGIES PETROCHEMICALS FRANCE,France,100,CPTE NAPHTACHIMIE usine de Lavéra,5005455,NAPHTACHIMIE,90614,Details
+EU508664,10-0,2019-04-10 12:06:42.713,Completed,Finland,100,Päästöt-Hukanhauta:FI15,5010798,Savon Voima Joensuu Oy,Finland,100,Päästöt-Kaupunginkallio:FI17,5010800,Fortum Power and Heat Oy,78,Details

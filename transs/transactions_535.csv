@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU506442,10-0,2019-04-10 12:06:38.692,Completed,Spain,100,"Unión Industrial Papelera, S.A.",5009391,"Union Industrial Papelera, SA",Spain,100,Cogeneración UFIC,5009082,Cogeneración UFIC,65003,Details
+EU507071,10-0,2019-04-10 12:06:23.711,Completed,Poland,100,Instalacja do produkcji bieli tytanowej,5018537,Grupa Azoty Zakłady Chemiczne POLICE S.A.,Poland,100,Instalacja do produkcji amoniaku,5018538,Grupa Azoty Zakłady Chemiczne POLICE S.A.,42192,Details
+EU508695,10-0,2019-04-10 12:06:23.693,Completed,Finland,100,Päästöt-Suomenoja:FI27,5010810,Fortum Power and Heat Oy,Finland,100,Päästöt-Rantakylä:FI26,5010809,Savon Voima Joensuu Oy,21777,Details
+EU504443,10-0,2019-04-10 12:06:20.309,Completed,Austria,100,Agrana Leopoldsdorf,5004042,AGRANA Zucker GmbH,Austria,100,Agrana Tulln,5004041,AGRANA Zucker GmbH,5810,Details
+EU508631,10-0,2019-04-10 12:06:13.163,Completed,Finland,100,Päästöt-Käpykangas:FI22,5010805,Savon Voima Joensuu Oy,Finland,100,Päästöt-Pötkä:FI25,5010808,Savon Voima Joensuu Oy,34,Details
+EU508679,10-0,2019-04-10 12:05:55.877,Completed,Germany,100,Roheisen- und Stahlerzeugung,5015788,ArcelorMittal Eisenhüttenstadt GmbH,Germany,100,Kalkbrennmahlanlage,5014537,ArcelorMittal Eisenhüttenstadt GmbH,25328,Details
+EU508690,10-0,2019-04-10 12:05:55.875,Completed,Germany,100,Roheisen- und Stahlerzeugung,5015788,ArcelorMittal Eisenhüttenstadt GmbH,Germany,100,1404 - Anlagenkonto,5014755,Vulkan Energiewirtschaft Oderbrücke GmbH,2051321,Details
+EU508771,10-0,2019-04-10 12:05:55.862,Completed,Sweden,100,Stallbacka värmeverk,5002242,Trollhättan Energi AB,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,20000,Details
+EU508687,10-0,2019-04-10 12:05:55.367,Completed,Finland,100,Lk 251 Tuusula:FI712,5010713,Vantaan Energia Keski-Uusimaa Oy,Finland,100,Päästöt-Rantakylä:FI26,5010809,Savon Voima Joensuu Oy,4572,Details
+EU508807,10-0,2019-04-10 12:05:49.877,Completed,France,100,China Cargo Airlines Co.Ltd.,5024049,China Cargo Airlines Co.Ltd.,France,100,China Eastern Airlines Co.Ltd.,5024092,China Eastern Airlines Co.Ltd.,20,Details
+EU508619,10-0,2019-04-10 12:05:47.461,Completed,France,100,TRF Compte de dépôt,5005166,TOTALENERGIES RAFFINAGE FRANCE,Belgium,100,127 TotalEnergies Refinery Antwerp,5004526,TotalEnergies Refinery Antwerp,91000,Details
+EU508623,10-0,2019-04-10 12:05:42.578,Completed,United Kingdom,100,,5016510,,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,43082,Details
+EU508930,10-0,2019-04-10 12:05:40.424,Completed,Germany,100,HKW Tiefstack,5014085,Hamburger Energiewerke GmbH,Germany,100,HW Eppendorf,5015797,Hamburger Energiewerke GmbH,718,Details
+EU508636,10-0,2019-04-10 12:05:30.781,Completed,Finland,100,Lk288 Ristinumm,5010766,Vantaan Energia Keski-Uusimaa Oy,Finland,100,Päästöt-Kivenlahti:FI19,5010802,Fortum Power and Heat Oy,1082,Details
+EU508615,10-0,2019-04-10 12:05:24.991,Completed,France,100,TRF Compte de dépôt,5005166,TOTALENERGIES RAFFINAGE FRANCE,Germany,100,38 - Anlagenkonto,5015353,TotalEnergies Raffinerie Mitteldeutschland GmbH,104000,Details
+EU508427,10-0,2019-04-10 12:05:13.462,Completed,Denmark,100,Neas Energy A/S,5020307,Centrica Energy Trading A/S,Denmark,100,Renosyd I/S,5020387,Renosyd I/S,3922,Details
+EU508769,10-0,2019-04-10 12:05:02.784,Completed,Sweden,100,Lextorps värmeverk,5002238,Trollhättan Energi AB,Sweden,100,Stallbacka värmeverk,5002242,Trollhättan Energi AB,20000,Details
+EU508487,10-0,2019-04-10 12:04:58.651,Completed,Austria,100,Veitsch-Radex Breitenau,5004110,Veitsch-Radex GmbH & Co OG,Austria,100,Veitsch-Radex Hochfilzen,5004099,Veitsch-Radex GmbH & Co OG,54534,Details
+EU508743,10-0,2019-04-10 12:04:55.522,Completed,Germany,100,Sappi Ehingen GmbH,5015209,Sappi Ehingen GmbH,Belgium,100,9008 Sappi Europe S.A.,5023469,Sappi Europe S.A.,41032,Details
+EU508672,10-0,2019-04-10 12:04:50.284,Completed,Spain,100,"Fertiberia, S.A-Fábrica de Avilés",5017818,"Fertiberia, S.A.",Spain,100,"Fertiberia, S.A. - Fábrica de Palos",5017819,"Fertiberia, S.A.",229950,Details

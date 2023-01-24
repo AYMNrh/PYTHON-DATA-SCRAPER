@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU486657,10-36,2019-02-21 01:43:04.501,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,676 - Anlagenkonto,5014205,Wieland-Werke Aktiengesellschaft,9420,Details
+EU486662,10-36,2019-02-21 01:43:04.29,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Acrolein Anlage,5019148,Evonik Operations GmbH,44790,Details
+EU486816,10-36,2019-02-21 01:43:04.275,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Werk Töging - Real Alloy Germany GmbH,5020762,Real Alloy Germany GmbH,38191,Details
+EU486821,10-36,2019-02-21 01:43:04.143,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,955 - Anlagenkonto,5014060,Hywax GmbH,35654,Details
+EU486654,10-36,2019-02-21 01:43:03.687,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,608 - Anlagenkonto,5016090,LEIPA Georg Leinfelder GmbH,34347,Details
+EU486805,10-36,2019-02-21 01:43:03.532,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Austria,100,EVN FHW Palmers Wr. Neudorf,5004167,EVN Wärme GmbH,2824,Details
+EU486513,10-36,2019-02-21 01:43:03.27,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,VC,5020243,INOVYN Deutschland GmbH,23958,Details
+EU486649,10-36,2019-02-21 01:43:02.817,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1509 - Anlagenkonto,5014902,Bayernwerk Natur GmbH,5573,Details
+EU486807,10-36,2019-02-21 01:43:02.785,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1493 - Anlagenkonto,5014879,Energie und Wasser Potsdam GmbH,43143,Details
+EU486668,10-36,2019-02-21 01:43:02.336,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Feldmuehle GmbH Anlage PM,5015402,Feldmuehle GmbH,84299,Details
+EU486634,10-36,2019-02-21 01:43:02.251,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Austria,100,Papierfabrik Wattens,5004095,Papierfabrik Wattens GmbH & Co KG,24319,Details
+EU486507,10-36,2019-02-21 01:43:02.023,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,MAN Truck & Bus SE,5015714,MAN Truck & Bus SE,539,Details
+EU486503,10-36,2019-02-21 01:43:01.914,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Austria,100,FunderMax Neudörfl,5004216,FunderMax GmbH,7180,Details
+EU486643,10-36,2019-02-21 01:43:01.603,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1680 - Anlagenkonto,5015141,Infraserv GmbH und Co. Wiesbaden KG,106725,Details
+EU486658,10-36,2019-02-21 01:43:01.548,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Anlage zur Herstellung von Ketoncyanhydrinen,5017393,Röhm GmbH,81600,Details
+EU486672,10-36,2019-02-21 01:43:01.545,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,663 - Anlagenkonto,5014130,ZF FRIEDRICHSHAFEN AG,3284,Details
+EU486815,10-36,2019-02-21 01:43:01.503,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Konto Butadien-Anlage,5017868,Evonik Operations GmbH,92,Details
+EU486823,10-36,2019-02-21 01:43:01.468,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Austria,100,Neusiedler Zellstoff Kematen,5004210,Ybbstaler Zellstoff GmbH,9,Details
+EU486504,10-36,2019-02-21 01:43:01.45,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,BHKW Wahlstedt,5015920,HanseWerk Natur GmbH,3790,Details
+EU486799,10-36,2019-02-21 01:43:01.342,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1346 - Anlagenkonto,5014675,OIE AG,4309,Details

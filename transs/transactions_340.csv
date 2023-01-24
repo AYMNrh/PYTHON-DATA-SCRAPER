@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU514176,10-2,2019-04-16 10:58:07.728,Completed,Slovenia,100,TEB,5008623,TEB D.O.O. BRESTANICA,European Commission,100,EU Allowance deletion,5016380,European Commission,10236,Details
+EU514171,10-2,2019-04-16 10:55:18.471,Completed,Romania,100,TERMOFICARE ORADEA S.A.,5027725,TERMOFICARE ORADEA S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,70000,Details
+EU514032,10-2,2019-04-16 10:49:00.471,Completed,Germany,100,Speira GmbH Neuss Elektrolyse,5019223,Speira GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,273938,Details
+EU514043,10-2,2019-04-16 10:47:11.624,Completed,Germany,100,Speira GmbH Neuss ELB,5019224,Speira GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,37513,Details
+EU514054,10-2,2019-04-16 10:45:33.684,Completed,Germany,100,Speira GmbH Neuss Gießerei,5019227,Speira GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,40191,Details
+EU514180,10-0,2019-04-16 10:44:01.007,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,200000,Details
+EU514041,10-2,2019-04-16 10:41:01.628,Completed,Italy,100,Operator Account,5013605,Saint-Gobain Italia S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,9739,Details
+EU514181,10-72,2019-04-16 10:40:49.771,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Denmark,100,Duferco Danish Steel A/S,5006418,DUFERCO DANISH STEEL A/S,5650,Details
+EU514086,10-71,2019-04-16 10:39:51.548,Completed,Denmark,100,Duferco Danish Steel A/S,5006418,DUFERCO DANISH STEEL A/S,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,5650,Details
+EU514101,10-2,2019-04-16 10:39:23.876,Completed,Netherlands,100,Stichting VU,5011413,Stichting VU,European Commission,100,EU Allowance deletion,5016380,European Commission,36032,Details
+EU514161,10-2,2019-04-16 10:38:46.32,Completed,France,100,PAPETERIES PALM SAS,5005769,PAPETERIES PALM SAS,European Commission,100,EU Allowance deletion,5016380,European Commission,7916,Details
+EU512961,10-2,2019-04-16 10:35:36.306,Completed,Germany,100,1265 - Anlagenkonto,5014563,swb Erzeugung AG & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,995,Details
+EU512965,10-2,2019-04-16 10:34:47.276,Completed,Germany,100,1271 - Anlagenkonto,5014571,swb Erzeugung AG & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,670974,Details
+EU514169,10-0,2019-04-16 10:33:53.464,Completed,Malta,100,CFP Trading Limited,5027818,CFP Trading Limited,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,100000,Details
+EU512972,10-2,2019-04-16 10:33:12.86,Completed,Germany,100,1275 - Anlagenkonto,5014576,swb Erzeugung AG & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,7382,Details
+EU512974,10-2,2019-04-16 10:32:03.191,Completed,Germany,100,1850 - Anlagenkonto,5015405,swb Erzeugung AG & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,489,Details
+EU504667,10-2,2019-04-16 10:31:08.578,Completed,Belgium,100,310 Gramybel Mouscron,5004323,Gramybel,European Commission,100,EU Allowance deletion,5016380,European Commission,21604,Details
+EU513026,10-2,2019-04-16 10:30:36.019,Completed,Czech Republic,100,Rýnovická energetická s.r.,5007009,Rýnovická energetická s.r.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,6138,Details
+EU514158,10-2,2019-04-16 10:29:16.67,Completed,Hungary,100,Operator Account:HU36,5011676,Calmit Hungária Kft.,European Commission,100,EU Allowance deletion,5016380,European Commission,120377,Details
+EU514066,10-2,2019-04-16 10:29:10.068,Completed,Germany,100,BMA Anlage,5019149,Röhm GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,44467,Details

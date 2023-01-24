@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU487389,10-36,2019-02-22 01:36:06.782,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Kristineheds Avfallsvärmeverk,5022216,Halmstads Energi & Miljö AB,30827,Details
+EU487390,10-36,2019-02-22 01:36:06.684,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Högsbo KVV,5002021,Göteborg Energi AB,1741,Details
+EU487413,10-36,2019-02-22 01:36:06.652,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,PC Stickan,5002177,Njudung Energi Vetlanda AB,14635,Details
+EU487383,10-36,2019-02-22 01:36:06.434,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Skrubbs P2,5001641,Gotlands Energi AB,7412,Details
+EU487381,10-36,2019-02-22 01:36:06.219,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Polyetenanläggningen,5001438,Borealis AB,104090,Details
+EU487430,10-36,2019-02-22 01:36:05.778,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Bergkvist Siljan Mora AB,5001414,Bergkvist Siljan Mora AB,7230,Details
+EU487397,10-36,2019-02-22 01:36:05.771,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Slovenia,100,ENERGETIKA,5008621,"ENERGETIKA LJUBLJANA, D.O.O.",14547,Details
+EU487414,10-36,2019-02-22 01:36:05.746,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Kemira Kemi AB,5001499,Kemira Kemi AB,83170,Details
+EU487384,10-36,2019-02-22 01:36:05.541,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,SSAB Finspång,5022995,SSAB EMEA AB,5975,Details
+EU487424,10-36,2019-02-22 01:36:05.513,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,HVC Ljungarum,5001758,Jönköping Energi AB,2458,Details
+EU487411,10-36,2019-02-22 01:36:05.451,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,LKAB Kiruna,5001527,LKAB,339959,Details
+EU487249,10-36,2019-02-22 01:36:05.098,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Boländerna,5002163,Vattenfall AB,144836,Details
+EU487324,10-36,2019-02-22 01:36:04.87,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Svanskog Bruk AB,5001446,Svanskog Bruk AB i likvidation,2942,Details
+EU487325,10-36,2019-02-22 01:36:04.848,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Pauliströms bruk,5001501,METSÄ TISSUE AB,6715,Details
+EU487400,10-36,2019-02-22 01:36:04.405,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,KVV Heden,5002139,Karlstads Energi AB,40469,Details
+EU487307,10-36,2019-02-22 01:36:04.272,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Åmotfors Bruk AB,5001483,Nordic Paper Åmotfors AB,2951,Details
+EU487248,10-36,2019-02-22 01:36:04.27,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Nynäshamnsraffinaderiet,5001558,Nynas AB,134478,Details
+EU487288,10-36,2019-02-22 01:36:04.242,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Hörneborgsverket,5001822,Övik Energi AB,65594,Details
+EU487329,10-36,2019-02-22 01:36:04.24,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,OP Västerhaga,5001732,Nässjö Affärsverk AB,144,Details
+EU487315,10-36,2019-02-22 01:36:04.238,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Slovenia,100,UNIOR,5008702,UNIOR D.D.,6671,Details

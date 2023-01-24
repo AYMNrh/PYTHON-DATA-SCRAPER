@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU508574,10-2,2019-04-08 16:08:58.204,Completed,Italy,100,Chivasso,5013346,A2A GENCOGAS S.P.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,867697,Details
+EU508597,10-72,2019-04-08 16:08:33.71,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,France,100,AXENS Usine de Salindres,5020823,AXENS,1000,Details
+EU507477,10-0,2019-04-08 16:07:59.195,Completed,Romania,100,Ciech Soda România SA,5021445,Witold Urbanowski,Romania,100,Operator Account,5010026,SC CET Govora SA,121999,Details
+EU502556,10-71,2019-04-08 16:07:35.184,Completed,France,100,AXENS Usine de Salindres,5020823,AXENS,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,1000,Details
+EU505100,10-2,2019-04-08 16:07:08.271,Completed,Italy,100,VIENNA RHO,5018104,FORGIATURA A. VIENNA S.R.L.,European Commission,100,EU Allowance deletion,5016380,European Commission,27543,Details
+EU502554,10-2,2019-04-08 16:05:54.035,Completed,France,100,AXENS Usine de Salindres,5020823,AXENS,European Commission,100,EU Allowance deletion,5016380,European Commission,25155,Details
+EU505074,10-2,2019-04-08 16:05:49.067,Completed,France,100,AIR CARAIBES,5019320,AIR CARAIBES,European Commission,100,EU Allowance deletion,5016380,European Commission,1002,Details
+EU508502,10-2,2019-04-08 16:04:46.687,Completed,Germany,100,1582 - Lampertheim,5015005,BASF Lampertheim GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,36137,Details
+EU507465,10-0,2019-04-08 16:04:25.995,Completed,Netherlands,100,Eneco Energy Trade BV,5017370,Eneco Energy Trade B.V.,United Kingdom,100,Good Energy,5025319,Good Energy Limited,36644,Details
+EU507480,10-0,2019-04-08 16:04:21.046,Completed,Belgium,100,173 Vynova Belgium VCM Plant,5004572,Vynova Belgium,France,100,VYNOVA MAZINGARBE SAS,5004766,VYNOVA MAZINGARBE SAS,21226,Details
+EU508505,10-2,2019-04-08 16:03:47.838,Completed,Germany,100,1719 - Münster - BASF Coatings,5015199,BASF Coatings GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,12939,Details
+EU508507,10-2,2019-04-08 16:02:52.496,Completed,Germany,100,239 - Wasserglasfabrik,5014883,BASF Personal Care and Nutrition GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,97050,Details
+EU508561,10-2,2019-04-08 16:02:15.756,Completed,Italy,100,DOMUS LINEA,5017976,DOMUS LINEA SRL,European Commission,100,EU Allowance deletion,5016380,European Commission,4191,Details
+EU508512,10-2,2019-04-08 16:01:58.411,Completed,Germany,100,Fettalkoholherstellung,5018033,BASF Personal Care and Nutrition GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,730,Details
+EU508514,10-2,2019-04-08 16:00:49.631,Completed,Germany,100,961 - GuD BSW,5014071,BASF Schwarzheide GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,305677,Details
+EU507437,10-2,2019-04-08 16:00:32.598,Completed,Norway,100,Eviny Fornybar AS,5012210,Eviny Fornybar AS,European Commission,100,EU Allowance deletion,5016380,European Commission,24983,Details
+EU506200,10-2,2019-04-08 16:00:18.438,Completed,Belgium,100,306 Ostend Basic Chemicals,5004319,Ostend Basic Chemicals,European Commission,100,EU Allowance deletion,5016380,European Commission,45872,Details
+EU507458,10-0,2019-04-08 16:00:13.481,Completed,Finland,100,Lk 251 Tuusula:FI712,5010713,Vantaan Energia Keski-Uusimaa Oy,Finland,100,Nepenmäen lämpökeskus,5024572,Savon Voima Joensuu Oy,1552,Details
+EU507469,10-0,2019-04-08 15:59:54.372,Completed,France,100,MONIER LIMOUX MASSIA,5004750,MONIER,Germany,100,Braas GmbH - Werk Obergräfenhain,5018502,BMI Deutschland GmbH,7500,Details
+EU508516,10-2,2019-04-08 15:59:33.894,Completed,Germany,100,Steamreforminganlage,5018031,BASF Schwarzheide GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,38586,Details

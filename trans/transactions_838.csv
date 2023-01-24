@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU502399,10-0,2019-04-01 12:02:36.364,Completed,Germany,100,Schwefelsäurefabrik,5019114,Venator Germany GmbH,Germany,100,Titandioxidfabrik,5019110,Venator Germany GmbH,3141,Details
+EU502643,10-0,2019-04-01 12:02:30.391,Completed,Bulgaria,100,Zagora Finacorp Jsc.,5027231,Zagora Finacorp Jsc.,Bulgaria,100,V&VGD Greenhouse Petrich Ltd,5016307,V&VGD Greenhouse Petrich Ltd,3000,Details
+EU501433,10-0,2019-04-01 12:02:16.01,Completed,Ireland,100,Operator Account,5012011,Glanbia Ireland Designated Activity Company,Ireland,100,Operator Account,5012013,Glanbia Ireland Designated Activity Company,4497,Details
+EU502609,10-0,2019-04-01 12:02:15.493,Completed,Italy,100,Operator Account,5012643,Burgo Group S.p.A.,Italy,100,Operator Account,5012683,Burgo Group S.p.A.,11383,Details
+EU502456,10-0,2019-04-01 12:02:06.457,Completed,Italy,100,Operator Account,5013451,ENEL PRODUZIONE S.p.A.,Italy,100,Operator Account,5013447,ENEL PRODUZIONE S.p.A.,400,Details
+EU502552,10-0,2019-04-01 12:01:59.833,Completed,Germany,100,Steinzeug-Keramo BSB,5019546,Steinzeug-Keramo GmbH,Germany,100,Steinzeug-Keramo Frechen,5019545,Steinzeug-Keramo GmbH,19,Details
+EU502636,10-0,2019-04-01 12:01:54.983,Completed,Italy,100,Operator Account,5012643,Burgo Group S.p.A.,Italy,100,Operator Account,5012667,Smurfit Kappa Cartiera di Verzuolo srl,3359,Details
+EU502341,10-0,2019-04-01 12:01:41.51,Completed,France,100,INDUSTEEL FRANCE - CHATEAUNEUF,5005135,INDUSTEEL FRANCE,France,100,ARCELORMITTAL TREASURY Détention,5026253,ARCELORMITTAL TREASURY,1460,Details
+EU502466,10-0,2019-04-01 12:01:41.421,Completed,Italy,100,Operator Account,5013451,ENEL PRODUZIONE S.p.A.,Italy,100,Operator Account,5013452,ENEL PRODUZIONE S.p.A.,164,Details
+EU502000,10-0,2019-04-01 12:01:27.594,Completed,Lithuania,100,Operator Account:LT27,5006018,AB Lifosa,Lithuania,100,Operator Account:LT5,5005996,AB Akmenes cementas,60000,Details
+EU500487,10-0,2019-04-01 12:01:18.416,Completed,Hungary,100,DUNAFIN Zrt.,5011872,Dunafin Zrt.,Hungary,100,Operator Account:HU65,5011702,ISD POWER Energiatermelo és Szolgáltató Kft.,31719,Details
+EU502377,10-0,2019-04-01 12:01:16.498,Completed,Germany,100,Schwefelsäurefabrik,5019114,Venator Germany GmbH,Germany,100,Zink-/Barium-Anlage,5019112,Venator Germany GmbH,4644,Details
+EU502607,10-0,2019-04-01 12:01:07.338,Completed,Sweden,100,PC Stickan,5002177,Njudung Energi Vetlanda AB,Sweden,100,PC Bäckfåran,5001843,Njudung Energi Vetlanda AB,400,Details
+EU502651,10-0,2019-04-01 12:01:06.665,Completed,Finland,100,Kevätniemen voimalaitos:FI480,5010536,Nevel Oy,Finland,100,Päästö Teollisuuskylä:FI487,5010543,Nevel Oy,128,Details
+EU502352,10-0,2019-04-01 12:01:02.107,Completed,France,100,ARCELORMITTAL TREASURY Détention,5026253,ARCELORMITTAL TREASURY,France,100,INDUSTEEL FRANCE - CREUSOT,5005170,INDUSTEEL FRANCE,6530,Details
+EU502385,10-0,2019-04-01 12:00:56.117,Completed,France,100,ARCELORMITTAL FRANCE- Basse Indre,5005782,ARCELORMITTAL FRANCE,France,100,ARCELORMITTAL TREASURY Détention,5026253,ARCELORMITTAL TREASURY,10663,Details
+EU502591,10-0,2019-04-01 12:00:55.294,Completed,Denmark,100,ON,5006307,GARTNERNES FJERNVARMEFORSYNING I ODENSE NORD ApS,Denmark,100,Fjernvarme Fyn Produktion A/S Blok 7,5006368,FJERNVARME FYN PRODUKTION A/S,13084,Details
+EU502418,10-0,2019-04-01 12:00:40.251,Completed,Italy,100,Operator Account,5013451,ENEL PRODUZIONE S.p.A.,Italy,100,Operator Account,5013434,ENEL PRODUZIONE S.p.A.,46,Details
+EU502673,10-0,2019-04-01 12:00:35.25,Completed,Cyprus,100,Operator Account:CY20,5012204,Varnavas Nicolaou,Bulgaria,100,Zagora Finacorp Jsc.,5027231,Zagora Finacorp Jsc.,2000,Details
+EU502644,10-0,2019-04-01 12:00:33.605,Completed,Italy,100,Operator Account,5012654,Burgo Group S.p.A.,Italy,100,MOSAICO S.p.a.,5012677,MOSAICO SpA,15,Details

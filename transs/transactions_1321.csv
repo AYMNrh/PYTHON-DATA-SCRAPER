@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU492663,10-2,2019-03-01 03:08:34.726,Completed,United Kingdom,100,"Bloomberg Services, LLC",5018264,"Bloomberg Services, LLC",European Commission,100,EU Allowance deletion,5016380,European Commission,72,Details
+EU492430,10-2,2019-03-01 01:43:59.723,Completed,United Kingdom,100,,5016958,,European Commission,100,EU Allowance deletion,5016380,European Commission,10834,Details
+EU492793,10-36,2019-03-01 01:30:57.73,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT16,5006007,UAB Kauno stiklas,7946,Details
+EU492797,10-36,2019-03-01 01:30:57.334,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT48,5006039,AB Vilniaus silumos tinklai,132594,Details
+EU492796,10-36,2019-03-01 01:30:57.185,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Cyprus,100,Operator Account:CY14,5012198,Marios Hadjigavriel,3409,Details
+EU492789,10-36,2019-03-01 01:30:57.15,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Romania,100,Operator Account,5010194,SC YARNEA SRL,3428,Details
+EU492785,10-36,2019-03-01 01:30:56.789,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT22,5006013,AB Achema,1862343,Details
+EU492795,10-36,2019-03-01 01:30:56.789,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account LT109,5006092,UAB Pramones energija,6827,Details
+EU492769,10-36,2019-03-01 01:30:56.721,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT66,5006057,UAB Varenos siluma,3628,Details
+EU492784,10-36,2019-03-01 01:30:56.547,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,AB Panevezio stiklas,5006008,AB Panevezio stiklas,9939,Details
+EU492815,10-36,2019-03-01 01:30:56.545,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT73,5006064,AB Kauno energija,2535,Details
+EU492813,10-36,2019-03-01 01:30:56.521,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,900 - HKW Barmen,5013854,WSW Energie & Wasser AG,17669,Details
+EU492811,10-36,2019-03-01 01:30:56.477,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Cyprus,100,Operator Account:CY17,5012201,Yiannakis Melios,9015,Details
+EU492814,10-36,2019-03-01 01:30:56.429,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT42,5006033,UAB Mazeikiu silumos tinklai,11237,Details
+EU492816,10-36,2019-03-01 01:30:56.407,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT27,5006018,AB Lifosa,152808,Details
+EU492774,10-36,2019-03-01 01:30:56.321,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,UAB Traku energija,5006095,UAB Traku energija,1065,Details
+EU492788,10-36,2019-03-01 01:30:56.301,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT19,5006010,AB Grigeo Klaipeda,22419,Details
+EU492803,10-36,2019-03-01 01:30:56.169,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Panevezio RK-2:LT67,5006058,AB Panevezio energija,15182,Details
+EU492809,10-36,2019-03-01 01:30:56.157,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT39,5006030,UAB Matuizu plytine,4793,Details
+EU492775,10-36,2019-03-01 01:30:56.146,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT90,5006081,UAB Alytaus silumos tinklai,22570,Details

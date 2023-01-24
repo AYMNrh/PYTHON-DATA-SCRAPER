@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU481967,10-0,2019-01-29 15:48:40.724,Completed,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,10000,Details
+CDM56689,3-0,2019-01-29 15:48:36.599,Completed,CDM,110,,1000,,Norway,100,Statens beholdningskonto No2,2,Miljødirektoratet,74144,Details
+CDM56688,3-0,2019-01-29 15:47:59.056,Completed,CDM,110,,1000,,Norway,100,Statens beholdningskonto No2,2,Miljødirektoratet,7371,Details
+EU481963,10-0,2019-01-29 15:47:47.042,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,United Kingdom,100,Specsavers Holding Account,5018135,Specsavers Aviation Limited,99,Details
+EU481962,10-0,2019-01-29 15:46:49.689,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,United Kingdom,100,AMAC Corporate Jet AG,5018036,AMAC Corporate Jet AG,920,Details
+CDM56687,3-0,2019-01-29 15:45:32.63,Completed,CDM,110,,1000,,Norway,100,Statens beholdningskonto No2,2,Miljødirektoratet,104304,Details
+EU481964,10-0,2019-01-29 15:44:35.772,Completed,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,250000,Details
+EU481954,10-2,2019-01-29 15:42:28.177,Completed,United Kingdom,100,,5000145,,European Commission,100,EU Allowance deletion,5016380,European Commission,542,Details
+CDM56686,3-0,2019-01-29 15:40:24.831,Completed,CDM,110,,1000,,Norway,100,Statens beholdningskonto No2,2,Miljødirektoratet,86804,Details
+CDM56685,3-0,2019-01-29 15:39:46.575,Completed,CDM,110,,1000,,Norway,100,Statens beholdningskonto No2,2,Miljødirektoratet,7796,Details
+EU481961,10-0,2019-01-29 15:32:28.973,Completed,United Kingdom,100,UBS TRADING ACCOUNT,5018280,UBS Limited,Germany,100,Alpiq AG,5021597,Alpiq AG,10000,Details
+EU481955,10-2,2019-01-29 15:27:35.072,Completed,United Kingdom,100,Kellogg Company Of Great Britain Ltd - Wrexham,5007685,Kellogg Company of Great Britain Ltd.,European Commission,100,EU Allowance deletion,5016380,European Commission,15710,Details
+EU481953,10-0,2019-01-29 14:45:26.655,Completed,United Kingdom,100,ABN AMRO Clearing Bank N.V,5017351,"ABN AMRO Clearing Bank N.V, London Branch",Germany,100,RWEST GmbH Trading Account,5016830,RWE Supply & Trading GmbH,22000,Details
+EU481941,10-0,2019-01-29 14:28:40.772,Completed,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,Spain,100,"COMPAÑÍA ESPAÑOLA DE PETROLEOS, S.A.U.",5017896,"Compañía Española de Petróleos, S.A.",5000,Details
+EU481942,10-0,2019-01-29 14:24:26.152,Completed,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,Spain,100,"Repsol Trading, S.A.",5024180,"Repsol Trading, S.A",210000,Details
+EU481943,10-0,2019-01-29 14:22:35.711,Completed,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,France,100,SOCIETE GENERALE,5017623,SOCIETE GENERALE,14000,Details
+EU481951,10-2,2019-01-29 14:19:19.768,Completed,Germany,100,1392 - Anlagenkonto,5014739,Universitätsklinikum Magdeburg,European Commission,100,EU Allowance deletion,5016380,European Commission,412,Details
+EU481948,10-0,2019-01-29 14:07:18.35,Completed,United Kingdom,100,ED&F Man Capital Markets Ltd,5023256,E D & F MAN CAPITAL MARKETS LIMITED,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,5000,Details
+EU481950,10-0,2019-01-29 14:06:49.237,Completed,Poland,100,mBank S.A.,5023148,mBank S.A.,Poland,100,CIEPŁOWNIA,5003988,PRZEDSIĘBIORSTWO GOSPODARKI KOMUNALNEJ SP. Z O.O.,3000,Details
+EU481945,10-0,2019-01-29 14:04:39.797,Completed,United Kingdom,100,Citigroup Global Markets LTD - ETD Ops,5017632,Citigroup Global Markets Limited,United Kingdom,100,Litasco trading UK,5017260,LITASCO SA,125000,Details

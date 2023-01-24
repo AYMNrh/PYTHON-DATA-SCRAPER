@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU510273,10-2,2019-04-10 11:33:10.76,Completed,Denmark,100,Helligsø Tegl,5006480,Egernsund Wienerberger Production A/S,European Commission,100,EU Allowance deletion,5016380,European Commission,5933,Details
+EU508860,10-2,2019-04-10 11:33:08.456,Completed,Germany,100,Anlandestation Greifswald,5013861,OPAL Gastransport GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,32146,Details
+EU508457,10-2,2019-04-10 11:31:39.787,Completed,Italy,100,Ideal Standard stabilimento di Trichiana,5022074,Ideal Standard Industriale S.r.l.,European Commission,100,EU Allowance deletion,5016380,European Commission,25267,Details
+EU507418,10-2,2019-04-10 11:31:33.032,Completed,Belgium,100,0051 Brussels Airport Company,5022669,Brussels Airport Company,European Commission,100,EU Allowance deletion,5016380,European Commission,10548,Details
+EU508862,10-2,2019-04-10 11:31:20.141,Completed,Germany,100,Ultramid B-Fabrik II,5027070,BASF SE,European Commission,100,EU Allowance deletion,5016380,European Commission,1459,Details
+EU508863,10-2,2019-04-10 11:28:50.229,Completed,Germany,100,Ultramid B-Fabrik I,5027069,BASF SE,European Commission,100,EU Allowance deletion,5016380,European Commission,2774,Details
+EU508866,10-2,2019-04-10 11:28:00.84,Completed,Germany,100,Ultramid A-Fabrik III,5027068,BASF SE,European Commission,100,EU Allowance deletion,5016380,European Commission,6361,Details
+EU510270,10-0,2019-04-10 11:27:52.502,Completed,France,100,SOCIETE GENERALE,5017623,SOCIETE GENERALE,Czech Republic,100,"Komerční banka, a.s. obchodní účet",5016819,"Komerční banka, a.s.",9500,Details
+EU510214,10-0,2019-04-10 11:27:17.776,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Greece,100,ELLINAIR S.A.,5022838,ELLINAIR S.A.,3000,Details
+EU509977,10-2,2019-04-10 11:26:42.535,Completed,Germany,100,843 - Anlagenkonto,5015804,Stadtwerke Rostock Aktiengesellschaft,European Commission,100,EU Allowance deletion,5016380,European Commission,192173,Details
+EU510017,10-2,2019-04-10 11:26:34.422,Completed,Poland,100,Wydział Blach Transformatorowych Stalprodukt S.A.,5018385,Stalprodukt S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,31128,Details
+EU508868,10-2,2019-04-10 11:26:29.016,Completed,Germany,100,Ultramid A-Fabrik II,5027067,BASF SE,European Commission,100,EU Allowance deletion,5016380,European Commission,9292,Details
+EU508871,10-2,2019-04-10 11:25:39.054,Completed,Germany,100,Styropor-Fabrik,5027065,BASF SE,European Commission,100,EU Allowance deletion,5016380,European Commission,3182,Details
+EU508876,10-2,2019-04-10 11:24:45.87,Completed,Germany,100,2590 - Steamcracker1 - Lu,5015949,BASF SE,European Commission,100,EU Allowance deletion,5016380,European Commission,230936,Details
+EU510209,10-0,2019-04-10 11:24:27.458,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Greece,100,ENERGTHES,5002385,ELPEDISON (ΠΡ ΕΝΕΡΓΕΙΑΚΗ ΘΕΣΣΑΛΟΝΙΚΗΣ Α.Ε.),5000,Details
+EU508881,10-2,2019-04-10 11:23:44.744,Completed,Germany,100,Propylenoxid-Fabrik,5018015,BASF SE,European Commission,100,EU Allowance deletion,5016380,European Commission,29608,Details
+EU510300,10-2,2019-04-10 11:23:26.07,Completed,Austria,100,Ziegelwerk Rhomberg-Dornbirn,5004241,Ziegelei Rhomberg Gesellschaft m.b.H.,European Commission,100,EU Allowance deletion,5016380,European Commission,3854,Details
+EU508895,10-2,2019-04-10 11:22:54.565,Completed,Germany,100,Polystyrol-Fabrik,5027063,BASF SE,European Commission,100,EU Allowance deletion,5016380,European Commission,8466,Details
+EU510038,10-2,2019-04-10 11:22:47.311,Completed,Spain,100,"Xallas Electricidad y Aleaciones, S.A.U. - Fca. de Cee",5018491,"Xallas Electricidad y Aleaciones, S.A.U.",European Commission,100,EU Allowance deletion,5016380,European Commission,144481,Details
+EU510202,10-0,2019-04-10 11:22:35.455,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Greece,100,ELPEDISONTHISVI,5002432,ELPEDISON (ΠΡ ΕΝΕΡΓΕΙΑΚΗ ΘΕΣΣΑΛΟΝΙΚΗΣ Α.Ε.),5000,Details
