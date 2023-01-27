@@ -48,7 +48,8 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=16) as executor:
             file_name = f"{directory}/transactions_{i}.csv"
             finaldf = pd.concat([finaldf,df])
     finaldf.to_csv('finaldest.csv', index=False) 
-  
+	
+
 # Merge all the files into a single CSV file
 # merged_file = f"{directory}/merged_transactions.csv"
 # with open(merged_file, 'w') as outfile:
