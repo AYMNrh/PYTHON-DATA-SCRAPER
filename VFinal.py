@@ -54,7 +54,7 @@ for i in tqdm(range(2,22)):#we have to start at 2 because the first page is labe
 df = pd.concat([pd.DataFrame(i, columns=headers) for i in data], ignore_index=True)
 
 # Save the DataFrame to a CSV file
-df.to_csv('Transactionstetete.csv', index=False)
+df.to_csv('TransactionsFinal100pages.csv', index=False)
 print("I am done scraping the data")
 end_time = time.time()
 # total_time = end_time - start_time

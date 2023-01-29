@@ -38,25 +38,17 @@ start_time = time.time()
 # Create a thread pool with 16 workers
 with concurrent.futures.ThreadPoolExecutor(max_workers=16) as executor:
     # Use the map function to fetch the data for each page number in parallel
-    results = executor.map(fetch_data, range(2,22)) #0-4230-8460-12690-16920-21150-25380-29610-33840-38070-42300-46530-50760-55342
-    # Iterate over the results and save the data to a file
-    #create dataframe
-    finaldf = pd.DataFrame()
+    results = executor.map(fetch_data, range(2,22)) #0-4230-8460-12690-16920-21150-25380-29610-33840-38070-42300-46530-50760-55342 add one to the page number
+    # print results type   
+    print(type(results))
+
+    
     for i, result in enumerate(results):
         if result is not None:
             df = pd.DataFrame(result, columns=headers)
-            file_name = f"{directory}/transactions_{i}.csv"
-            finaldf = pd.concat([finaldf,df])
-    finaldf.to_csv('finaldest.csv', index=False) 
-	
-
-# Merge all the files into a single CSV file
-# merged_file = f"{directory}/merged_transactions.csv"
-# with open(merged_file, 'w') as outfile:
-#     for file_name in os.listdir(directory):
-#         if file_name.startswith("transactions_"):
-#             with open(f"{directory}/{file_name}") as infile:
-#                 outfile.write(infile.read())
+            file_name = f"{directory}/transactions_1.csv"
+            df.to_csv(file_name, index=False)
+            
 
 end_time = time.time()
 # total_time = end_time - start_time
@@ -66,23 +58,3 @@ print("Time taken: {}".format(time_taken_formatted))
 
 
 print("I am done scraping the data and merged it into a single file")
-            
-            
-            
-            
-            
-            
-            
-            
-#             df = pd.DataFrame(result, columns=headers)
-
-#             # Save the data to a file
-#             file_name = f"transactions/transactions_{i+1}.csv"
-#             df.to_csv(file_name, index=False)
-
-# # Merge all the files into a single CSV file
-# merged_file = f"transactions/merged_transactions.csv"
-# df = pd.concat([pd.read_csv(f) for f in os.listdir(directory) if f.endswith('.csv')], ignore_index=True)
-# df.to_csv(merged_file, index=False)
-
-# print("I am done scraping the data and merged the files into a single CSV file")
