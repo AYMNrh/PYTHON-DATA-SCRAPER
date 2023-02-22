@@ -1,0 +1,181 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+RO5556,10-2,2012-04-09 08:22:11.071,Completed,Romania,120,Operator Account,130,SC DE PRODUSE CERAMICE SA,Romania,,,,,1680,Details
+JP4026,3-0,2012-04-09 07:45:33.719,Completed,Japan,100,,33,,United Kingdom,121,Mitsui Bussan Commodities Ltd,1699,Mitsui Bussan Commodities Ltd,7817,Details
+JP4028,3-0,2012-04-09 06:25:32.975,Completed,Japan,100,,67,,Netherlands,121,"Vattenfall Carbon Fund, VCF",760,Vattenfall Energy Trading Netherlands N.V.,22508,Details
+PT1021675,10-2,2012-04-09 01:04:25.243,Completed,Portugal,120,"6208-Unipasta, Pastas Cerâmicas, S.A.",6208,"Unipasta, Pastas Cerâmicas, S.A.",Portugal,100,3-PORTUGAL,3,PORTUGAL,28437,Details
+CH8524,3-0,2012-04-06 23:39:07.055,Completed,Switzerland,100,,1047,,Sweden,121,PCF STEM,920,Statens energimyndighet,20624,Details
+CH8523,3-0,2012-04-06 23:38:47.69,Completed,Switzerland,100,,1047,,Norway,100,Statens beholdningskonto No2,2,Miljødirektoratet,20624,Details
+CH8522,3-0,2012-04-06 23:38:25.872,Completed,Switzerland,100,,1047,,Norway,100,Statens beholdningskonto No2,2,Miljødirektoratet,4053,Details
+CH8521,3-0,2012-04-06 23:38:09.198,Completed,Switzerland,100,,1047,,Sweden,121,PCF STEM,920,Statens energimyndighet,4053,Details
+CH8520,3-0,2012-04-06 23:37:49.063,Completed,Switzerland,100,,1047,,Finland,100,Valtion tili / YM:FI759,759,Energiavirasto,20624,Details
+CH8519,3-0,2012-04-06 23:37:26.599,Completed,Switzerland,100,,1047,,Finland,100,Valtion tili / YM:FI759,759,Energiavirasto,4053,Details
+CH8518,3-0,2012-04-06 23:37:10.435,Completed,Switzerland,100,,1047,,Netherlands,100,"Netherlands JI, AAU Purchase Program",9,Nederlandse Emissieautoriteit,30940,Details
+CH8517,3-0,2012-04-06 23:36:54.179,Completed,Switzerland,100,,1047,,Netherlands,100,"Netherlands JI, AAU Purchase Program",9,Nederlandse Emissieautoriteit,6081,Details
+CH8514,3-0,2012-04-06 23:35:49.343,Completed,Switzerland,100,,1047,,United Kingdom,121,"Deutsche Bank AG, London Branch",1306,Deutsche Bank AG London,10313,Details
+CH8513,3-0,2012-04-06 23:35:28.233,Completed,Switzerland,100,,1047,,United Kingdom,121,"Deutsche Bank AG, London Branch",1306,Deutsche Bank AG London,2028,Details
+CH8502,3-0,2012-04-06 23:31:40.264,Completed,Switzerland,100,,1047,,United Kingdom,121,Electrabel S.A.,1701,Electrabel S.A.,20627,Details
+CH8501,3-0,2012-04-06 23:31:19.723,Completed,Switzerland,100,,1047,,United Kingdom,121,Electrabel S.A.,1701,Electrabel S.A.,4055,Details
+CH8496,3-0,2012-04-06 23:29:29.762,Completed,Switzerland,100,,1047,,United Kingdom,121,BP AEI Ltd,1802,BP Technology Ventures Limited,10313,Details
+CH8495,3-0,2012-04-06 23:29:12.695,Completed,Switzerland,100,,1047,,United Kingdom,121,BP AEI Ltd,1802,BP Technology Ventures Limited,2028,Details
+CH8494,3-0,2012-04-06 23:28:50.685,Completed,Switzerland,100,,1047,,Norway,121,Norsk Hydro ASA Norge,26,Norsk Hydro ASA,10313,Details
+CH8493,3-0,2012-04-06 23:28:29.655,Completed,Switzerland,100,,1047,,Norway,121,Norsk Hydro ASA Norge,26,Norsk Hydro ASA,2028,Details
+IT32340,10-2,2012-04-06 19:03:15.716,Completed,Italy,120,Operator Account,1624,Eni S.p.A. Divisione E&P,Italy,,,,,28432,Details
+IT32339,10-2,2012-04-06 19:02:02.248,Completed,Italy,120,Operator Account,1622,Eni S.p.A. Divisione E&P,Italy,,,,,40566,Details
+IT32338,10-0,2012-04-06 18:58:58.302,Completed,Italy,121,ENI,32,Eni S.p.A.,Italy,,,,,514,Details
+IT32337,10-0,2012-04-06 18:44:13.394,Completed,Italy,121,ENI,32,Eni S.p.A.,Italy,,,,,1383,Details
+IT32336,10-0,2012-04-06 18:44:01.489,Completed,Italy,121,ENI,32,Eni S.p.A.,Italy,,,,,2248,Details
+IT32307,10-0,2012-04-06 17:46:26.685,Completed,Italy,121,ENI,32,Eni S.p.A.,Italy,,,,,3009,Details
+IT32306,10-0,2012-04-06 17:46:14.204,Completed,Italy,121,ENI,32,Eni S.p.A.,Italy,,,,,9206,Details
+IT32305,10-0,2012-04-06 17:46:03.003,Completed,Italy,121,ENI,32,Eni S.p.A.,Italy,,,,,43820,Details
+IT32304,10-0,2012-04-06 17:46:02.637,Completed,Italy,121,ENI,32,Eni S.p.A.,Italy,,,,,3044,Details
+GB62467,3-0,2012-04-06 17:37:38.45,Completed,United Kingdom,120,Hewett 48/29A,29,Eni Hewett Limited,Italy,121,ENI,32,Eni S.p.A.,3998,Details
+GB62466,3-0,2012-04-06 17:35:24.353,Completed,United Kingdom,120,Bacton Gas Terminal,350,Eni Hewett Limited,Italy,121,ENI,32,Eni S.p.A.,81751,Details
+IT32330,10-2,2012-04-06 17:13:44.89,Completed,Italy,120,Operator Account,1408,Cartiera Olona Srl,Italy,,,,,7222,Details
+IT32327,10-2,2012-04-06 16:54:04.122,Completed,Italy,120,Operator Account,1641,Esselunga spa,Italy,,,,,8957,Details
+BE9275,10-2,2012-04-06 16:46:34.989,Completed,Belgium,120,167 AGC Flat Glass Roux,185,AGC GLASS EUROPE,Belgium,100,Cpt Holding Emetteur pour la restitution,3,Belgium,62181,Details
+BE9274,10-2,2012-04-06 16:38:49.301,Completed,Belgium,120,164 BENEO-Orafti,182,BENEO-Orafti,Belgium,100,Cpt Holding Emetteur pour la restitution,3,Belgium,88422,Details
+BE9273,10-2,2012-04-06 16:32:38.109,Completed,Belgium,120,164 BENEO-Orafti,182,BENEO-Orafti,Belgium,100,Cpt Holding Emetteur pour la restitution,3,Belgium,4000,Details
+IT32325,10-2,2012-04-06 16:24:04.283,Completed,Italy,120,Operator Account,1862,MARELLI EUROPE SpA,Italy,,,,,2272,Details
+IT32326,10-2,2012-04-06 16:22:51.925,Completed,Italy,120,arvato,2456,Eurogravure Spa,Italy,,,,,25753,Details
+IT32324,10-2,2012-04-06 16:13:31.857,Completed,Italy,120,Operator Account,2042,C&T SpA,Italy,,,,,4,Details
+IT32323,10-2,2012-04-06 16:13:20.146,Completed,Italy,120,Operator Account,2284,C&T SpA,Italy,,,,,1104,Details
+IT32280,10-2,2012-04-06 14:24:29.61,Completed,Italy,120,Conto impianto Davia S.r.l.,3169,Davia S.r.l.,Italy,,,,,399,Details
+AT21001,3-0,2012-04-06 14:21:37.138,Completed,Austria,100,Hinterlegungskonto für Versteigerungen,324,Bundesministerium für Nachhaltigkeit und Tourismus,Netherlands,121,Rabobank,295,Coöperatieve Rabobank U.A.,300000,Details
+AT20999,10-2,2012-04-06 14:21:12.455,Completed,Austria,120,Technoglas Voitsberg,204,Technoglas Produktions-Gesellschaft m.b.H.,Austria,100,Konto der Vertragspartei,1,Bundesministerium für Nachhaltigkeit und Tourismus,7975,Details
+NL22497,3-0,2012-04-06 13:46:35.762,Completed,Netherlands,120,Wienerberger B.V. Steenfabriek Zennewijnen,453,Wienerberger B.V.,Germany,121,Wienerberger AG,3078,Wienerberger AG,7187,Details
+NL22496,3-0,2012-04-06 13:46:23.777,Completed,Netherlands,120,Wienerberger B.V. Steenfabriek Wolfswaard,452,Wienerberger B.V.,Germany,121,Wienerberger AG,3078,Wienerberger AG,11615,Details
+NL22495,3-0,2012-04-06 13:46:01.604,Completed,Netherlands,120,Wienerberger B.V. Steenfabriek Thorn,450,Wienerberger B.V.,Germany,121,Wienerberger AG,3078,Wienerberger AG,6784,Details
+NL22494,3-0,2012-04-06 13:45:48.781,Completed,Netherlands,120,Wienerberger B.V. Steenfabriek Schipperswaard,449,Wienerberger B.V.,Germany,121,Wienerberger AG,3078,Wienerberger AG,4641,Details
+NL22493,3-0,2012-04-06 13:45:26.888,Completed,Netherlands,120,Wienerberger B.V. Steenfabriek Nuance,447,Wienerberger B.V.,Germany,121,Wienerberger AG,3078,Wienerberger AG,1488,Details
+NL22492,3-0,2012-04-06 13:45:03.744,Completed,Netherlands,120,Wienerberger B.V. Steenfabriek Kijfwaard West,445,Wienerberger B.V.,Germany,121,Wienerberger AG,3078,Wienerberger AG,7371,Details
+NL22491,3-0,2012-04-06 13:44:41.751,Completed,Netherlands,120,Wienerberger B.V. Steenfabriek Kijfwaard Oost,444,Wienerberger B.V.,Germany,121,Wienerberger AG,3078,Wienerberger AG,3684,Details
+NL22489,3-0,2012-04-06 13:44:29.918,Completed,Netherlands,120,Wienerberger B.V. Steenfabriek Haaften,442,Wienerberger B.V.,Germany,121,Wienerberger AG,3078,Wienerberger AG,4900,Details
+NL22487,3-0,2012-04-06 13:44:07.627,Completed,Netherlands,120,Wienerberger B.V. Steenfabriek Doorwerth,439,Wienerberger B.V.,Germany,121,Wienerberger AG,3078,Wienerberger AG,6930,Details
+NL22490,3-0,2012-04-06 13:43:35.68,Completed,Netherlands,120,Wienerberger B.V. Steenfabriek Heteren,443,Wienerberger B.V.,Germany,121,Wienerberger AG,3078,Wienerberger AG,1478,Details
+NL22488,3-0,2012-04-06 13:43:03.08,Completed,Netherlands,120,Wienerberger B.V. Steenfabriek Erlecom,440,Wienerberger B.V.,Germany,121,Wienerberger AG,3078,Wienerberger AG,4629,Details
+NL22486,3-0,2012-04-06 13:42:31.101,Completed,Netherlands,120,Wienerberger B.V. Steenfabriek Bemmel,436,Wienerberger B.V.,Germany,121,Wienerberger AG,3078,Wienerberger AG,2205,Details
+NL22498,10-0,2012-04-06 13:36:53.17,Completed,Netherlands,121,Electrabel S.A.,713,Electrabel NV/SA,Netherlands,,,,,5389,Details
+PL23547,10-2,2012-04-06 13:12:46.779,Completed,Poland,120,KOTŁOWNIA,338,Mars Polska Sp. z o.o.,Poland,100,Krajowy rachunek umorzenia,3,POLSKA,16816,Details
+BE9269,10-2,2012-04-06 13:10:07.54,Completed,Belgium,120,318 - Struik Foods Belgium,437,Struik Foods Belgium,Belgium,100,Cpt Holding Emetteur pour la restitution,3,Belgium,5476,Details
+BE9268,10-2,2012-04-06 13:02:13.254,Completed,Belgium,120,318 - Struik Foods Belgium,437,Struik Foods Belgium,Belgium,100,Cpt Holding Emetteur pour la restitution,3,Belgium,1,Details
+PL23546,10-0,2012-04-06 12:58:07.486,Completed,Poland,120,ELEKTROWNIA PĄTNÓW II,1055,Elektrownia Pątnów II,Poland,121,Vertis Zrt,572,Vertis Zrt.,10000,Details
+PL23545,10-0,2012-04-06 12:57:48.777,Completed,Poland,120,ELEKTROWNIA PĄTNÓW,40,Zespół Elektrowni Pątnów-Adamów-Konin SA,Poland,121,Vertis Zrt,572,Vertis Zrt.,20000,Details
+RO5555,10-2,2012-04-06 12:54:19.088,Completed,Romania,120,Societatea ELECTROCENTRALE CONSTANTA SA,147,ELECTROCENTRALE BUCURESTI S.A,Romania,,,,,367196,Details
+RO5554,10-2,2012-04-06 12:54:08.629,Completed,Romania,120,Operator Account,146,ELECTROCENTRALE BUCURESTI S.A,Romania,,,,,565958,Details
+RO5553,10-2,2012-04-06 12:53:56.85,Completed,Romania,120,Operator Account,145,ELECTROCENTRALE BUCURESTI S.A,Romania,,,,,1036586,Details
+RO5552,10-2,2012-04-06 12:53:55.977,Completed,Romania,120,Operator Account,144,ELECTROCENTRALE BUCURESTI S.A,Romania,,,,,251282,Details
+RO5551,10-2,2012-04-06 12:53:44.798,Completed,Romania,120,Operator Account,143,ELECTROCENTRALE BUCURESTI S.A,Romania,,,,,11878,Details
+RO5542,10-2,2012-04-06 12:53:33.461,Completed,Romania,120,Operator Account,141,ELECTROCENTRALE BUCURESTI S.A,Romania,,,,,558395,Details
+RO5550,10-2,2012-04-06 12:53:32.586,Completed,Romania,120,Operator Account,142,ELECTROCENTRALE BUCURESTI S.A,Romania,,,,,675682,Details
+RO5549,10-0,2012-04-06 12:46:46.885,Completed,Romania,120,Operator Account,141,ELECTROCENTRALE BUCURESTI S.A,Romania,,,,,5447,Details
+RO5548,10-0,2012-04-06 12:46:37.669,Completed,Romania,120,Operator Account,143,ELECTROCENTRALE BUCURESTI S.A,Romania,,,,,27010,Details
+RO5547,10-0,2012-04-06 12:43:54.315,Completed,Romania,120,Operator Account,143,ELECTROCENTRALE BUCURESTI S.A,Romania,,,,,128437,Details
+RO5546,10-0,2012-04-06 12:43:43.038,Completed,Romania,120,Operator Account,141,ELECTROCENTRALE BUCURESTI S.A,Romania,,,,,50090,Details
+RO5545,10-0,2012-04-06 12:43:31.942,Completed,Romania,120,Operator Account,141,ELECTROCENTRALE BUCURESTI S.A,Romania,,,,,11613,Details
+RO5544,10-0,2012-04-06 12:43:00.481,Completed,Romania,120,Operator Account,141,ELECTROCENTRALE BUCURESTI S.A,Romania,,,,,11070,Details
+RO5543,10-0,2012-04-06 12:42:38.886,Completed,Romania,120,Operator Account,141,ELECTROCENTRALE BUCURESTI S.A,Romania,,,,,54305,Details
+IT32317,10-0,2012-04-06 12:07:59.829,Completed,Italy,120,Sanac S.p.A - Gattinara,2018,SANAC S.p.A. in Amministrazione Straordinaria,Italy,,,,,2490,Details
+CZ15811,10-2,2012-04-06 12:05:05.582,Completed,Czech Republic,120,kotelny Mlékárny Hlinsko,370,"Mlékárna Hlinsko, a.s.",Czech Republic,100,Účet pro odevzdání,3,ČESKÁ REPUBLIKA,8123,Details
+GR7628,3-0,2012-04-06 11:55:26.066,Completed,Greece,120,AGETHRAIII,97,ΑΓΕΤ ΗΡΑΚΛΗΣ,France,121,LAFARGE SA,1220,SOLERE,200000,Details
+GR7626,3-0,2012-04-06 11:51:21.847,Completed,Greece,120,AGETHRAII,95,ΑΓΕΤ ΗΡΑΚΛΗΣ,France,121,LAFARGE SA,1220,SOLERE,500000,Details
+BE9267,10-2,2012-04-06 11:46:14.305,Completed,Belgium,120,056 Interconnector Zeebrugge,871,Interconnector Zeebrugge Terminal,Belgium,100,Cpt Holding Emetteur pour la restitution,3,Belgium,14588,Details
+PL23503,10-0,2012-04-05 17:00:48.817,Completed,Poland,121,Południowy Koncern Energetyczny S.A.,923,TAURON WYTWARZANIE S.A.,Poland,121,TAURON POLSKA ENERGIA,987,TAURON Polska Energia S.A.,2556,Details
+PL23502,10-0,2012-04-05 17:00:30.732,Completed,Poland,120,ELEKTROCIEPŁOWNIA,64,Elektrociepłownia Tychy S.A.,Poland,121,TAURON POLSKA ENERGIA,987,TAURON Polska Energia S.A.,17650,Details
+PL23501,10-0,2012-04-05 17:00:11.113,Completed,Poland,120,ELEKTROCIEPŁOWNIA,64,Elektrociepłownia Tychy S.A.,Poland,121,TAURON POLSKA ENERGIA,987,TAURON Polska Energia S.A.,1412,Details
+PL23500,10-0,2012-04-05 16:59:53.27,Completed,Poland,120,TAURON Ciepło S.A.,50,Elektrociepłownia EC Nowa,Poland,121,TAURON POLSKA ENERGIA,987,TAURON Polska Energia S.A.,21200,Details
+PL23499,10-0,2012-04-05 16:59:29.297,Completed,Poland,120,TAURON Ciepło S.A.,739,TAURON Ciepło S.A.,Poland,121,TAURON POLSKA ENERGIA,987,TAURON Polska Energia S.A.,232,Details
+PL23498,10-0,2012-04-05 16:59:09.282,Completed,Poland,120,TAURON Ciepło S.A.,195,TAURON Ciepło S.A.,Poland,121,TAURON POLSKA ENERGIA,987,TAURON Polska Energia S.A.,2900,Details
+PL23497,10-0,2012-04-05 16:59:09.099,Completed,Poland,120,TAURON Ciepło S.A.,739,TAURON Ciepło S.A.,Poland,121,TAURON POLSKA ENERGIA,987,TAURON Polska Energia S.A.,2900,Details
+GB62454,10-0,2012-04-05 16:58:13.961,Completed,United Kingdom,121,Deutsche Bank as Custodian for Various Clients,1325,Deutsche Bank AG London,United Kingdom,,,,,36839,Details
+FR203479,10-0,2012-04-05 16:57:41.386,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,FIVE RINGS CAPITAL LLC,1505,MCCARTHY,10000,Details
+FR203478,10-0,2012-04-05 16:57:34.319,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,FIVE RINGS CAPITAL LLC,1505,MCCARTHY,10000,Details
+IT32129,10-0,2012-04-05 16:55:00.933,Completed,Italy,120,Operator Account,1916,Papiro Sud S.r.l.,Italy,,,,,10000,Details
+IE2899,3-0,2012-04-05 16:54:45.658,Completed,Ireland,121,Smurfit Capital Trading Account,115,Smurfit Kappa Treasury Unlimited Company,Germany,120,557 - Anlagenkonto,557,Smurfit Kappa Zülpich Papier GmbH,60000,Details
+FR203477,10-0,2012-04-05 16:52:39.844,Completed,France,121,ORBEO SAS BLUENEXT,1280,FISCHER,France,121,BlueNext Détention,1351,BlueNext SA,10000,Details
+FR203476,10-0,2012-04-05 16:52:33.512,Completed,France,121,PGE Polska Grupa Energetyczna S.A.,1405,MAZURKIEWICZ,France,121,BlueNext Détention,1351,BlueNext SA,10000,Details
+BE9254,10-2,2012-04-05 16:52:20.647,Completed,Belgium,120,313 Taminco,331,Taminco,Belgium,100,Cpt Holding Emetteur pour la restitution,3,Belgium,8000,Details
+BE9253,10-2,2012-04-05 16:51:37.067,Completed,Belgium,120,313 Taminco,331,Taminco,Belgium,100,Cpt Holding Emetteur pour la restitution,3,Belgium,571,Details
+ES1058708,10-0,2012-04-05 16:50:34.059,Completed,Spain,121,"C.M. CAPITAL MARKETS HOLDING, S.A.",868,"C.M. CAPITAL MARKETS HOLDING, S.A.",Spain,120,Cerámicas Bellido. S.L.,206,CERAMICAS BELLIDO S.L.,234,Details
+ES1058706,10-0,2012-04-05 16:50:33.883,Completed,Spain,121,"C.M. CAPITAL MARKETS HOLDING, S.A.",868,"C.M. CAPITAL MARKETS HOLDING, S.A.",Spain,120,Cerámica del Principado S.L,234,Cerámica del Principado,304,Details
+ES1058707,10-0,2012-04-05 16:50:33.452,Completed,Spain,121,"C.M. CAPITAL MARKETS HOLDING, S.A.",868,"C.M. CAPITAL MARKETS HOLDING, S.A.",Spain,120,Cerámica del Principado S.L,234,Cerámica del Principado,24,Details
+BE9252,10-2,2012-04-05 16:48:02.248,Completed,Belgium,120,276 Ineos,294,INEOS,Belgium,100,Cpt Holding Emetteur pour la restitution,3,Belgium,91701,Details
+NL22452,10-2,2012-04-05 15:17:30.27,Completed,Netherlands,120,Enecal Energy V.O.F.,121,Air Liquide Nederland B.V.,Netherlands,,,,,189806,Details
+PL23492,3-0,2012-04-05 15:17:06.741,Completed,Poland,121,Fern Capital Trading Ltd.,1120,Fern Capital Trading Ltd.,United Kingdom,121,VEF Trading,1603,Vertis Environmental Finance,10000,Details
+FR203465,10-0,2012-04-05 15:16:33.833,Completed,France,121,ORBEO SAS BLUENEXT,1280,FISCHER,France,121,BlueNext Détention,1351,BlueNext SA,10000,Details
+GB62448,10-0,2012-04-05 15:15:14.749,Completed,United Kingdom,121,VEF Trading,1603,Vertis Environmental Finance,United Kingdom,,,,,10000,Details
+SK6633,10-2,2012-04-05 15:09:07.985,Completed,Slovakia,120,"VSH,a.s.",175,"Východoslovenské stavebné hmoty, a.s.",Slovakia,100,Národný účet pre odovzdanie kvót,3,SLOVENSKO,274226,Details
+DE115296,4-0,2012-04-05 15:08:15.4,Completed,Germany,121,Trading Account of DHL International GmbH,3180,DHL International GmbH,Germany,230,17 - Nationalkonto - Löschung 2008-2012,17,Deutschland,45,Details
+SK6632,10-2,2012-04-05 15:08:00.86,Completed,Slovakia,120,"VSH,a.s.",175,"Východoslovenské stavebné hmoty, a.s.",Slovakia,100,Národný účet pre odovzdanie kvót,3,SLOVENSKO,35000,Details
+IT32285,10-2,2012-04-05 15:06:43.586,Completed,Italy,120,Operator Account,1456,CARTITALIA SPA,Italy,,,,,43262,Details
+IT32284,10-0,2012-04-05 15:06:13.875,Completed,Italy,121,i.CA.S.CO. S.r.l.,2755,i.CA.S.CO. S.p.A,Italy,,,,,35000,Details
+DE115295,4-0,2012-04-05 15:05:07.393,Completed,Germany,121,Trading Account of DHL International GmbH,3180,DHL International GmbH,Germany,230,17 - Nationalkonto - Löschung 2008-2012,17,Deutschland,7851,Details
+NL22449,3-0,2012-04-05 15:04:40.188,Completed,Netherlands,121,ACT Carbon,778,ACT Financial Solutions B.V.,United Kingdom,121,Belektron d.o.o.,2427,Belektron d.o.o.,2150,Details
+NL22446,3-0,2012-04-05 15:02:04.745,Completed,Netherlands,121,STX Services B.V.,335,STX Commodities B.V.,Germany,121,Green-Trading,2229,Green Trading Unternehmergesellschaft,120000,Details
+GB62447,3-0,2012-04-05 15:01:57.991,Completed,United Kingdom,121,Citigroup Global Markets Limited,1090,Citigroup Global Markets Limited,Ireland,121,Smurfit Capital Trading Account,115,Smurfit Kappa Treasury Unlimited Company,60000,Details
+DE115294,4-0,2012-04-05 15:01:46.908,Completed,Germany,121,Trading Account of DHL International GmbH,3180,DHL International GmbH,Germany,230,17 - Nationalkonto - Löschung 2008-2012,17,Deutschland,1030,Details
+NL22448,10-0,2012-04-05 15:00:10.121,Completed,Netherlands,121,Electrabel S.A.,713,Electrabel NV/SA,Netherlands,,,,,4126,Details
+IT32258,10-2,2012-04-05 14:57:50.927,Completed,Italy,120,Operator Account,2231,AVI.COOP SOCIETA' COOPERATIVA AGRICOLA,Italy,,,,,23901,Details
+NL22447,3-0,2012-04-05 14:53:08.823,Completed,Netherlands,121,STX Services B.V.,335,STX Commodities B.V.,United Kingdom,121,Edelweiss Energy Trading Ltd,2210,Edelweiss Energy Trading Limited,5000,Details
+FR203464,3-0,2012-04-05 14:48:50.868,Completed,France,121,COMMERZBANK AG,1456,ROETTGER,Germany,121,1957 - Commerzbank Personenkonto,1957,COMMERZBANK Aktiengesellschaft,10000,Details
+FR203463,3-0,2012-04-05 14:48:46.475,Completed,France,121,CGML1,1390,CITIGROUP GLOBAL MARKETS LTD,United Kingdom,121,Citigroup Global Markets Limited,1090,Citigroup Global Markets Limited,21146,Details
+NL22445,10-0,2012-04-05 14:47:18.959,Completed,Netherlands,120,Firma H.G.L. Zwinkels en Zn.,485,J.M.M. Zwinkels Holding B.V.,Netherlands,,,,,2150,Details
+DE115282,3-0,2012-04-05 13:16:18.661,Completed,Germany,121,1957 - Commerzbank Personenkonto,1957,COMMERZBANK Aktiengesellschaft,United Kingdom,120,Kemsley Mill,1337,DS Smith Paper Ltd,46504,Details
+BE9250,10-2,2012-04-05 13:09:57.194,Completed,Belgium,120,210 Chemviron Carbon Feluy,228,Chemviron Carbon,Belgium,100,Cpt Holding Emetteur pour la restitution,3,Belgium,14882,Details
+GB62425,3-0,2012-04-05 13:09:19.596,Completed,United Kingdom,120,Kemsley Mill,1337,DS Smith Paper Ltd,Germany,121,1957 - Commerzbank Personenkonto,1957,COMMERZBANK Aktiengesellschaft,46504,Details
+GB62423,10-0,2012-04-05 13:05:16.609,Completed,United Kingdom,121,DB Energy Commodities Ltd,2681,DB Energy Commodities Ltd,United Kingdom,,,,,4000000,Details
+LT16037,10-0,2012-04-05 13:04:58.917,Completed,Lithuania,120,Operator Account:LT95,95,AB Klaipedos energija,Lithuania,120,Operator Account:LT97,97,AB Klaipedos energija,17,Details
+LT16038,10-0,2012-04-05 13:04:51.601,Completed,Lithuania,120,Operator Account:LT95,95,AB Klaipedos energija,Lithuania,120,Operator Account:LT58,58,AB Klaipedos energija,5000,Details
+LT16040,10-0,2012-04-05 13:04:43.567,Completed,Lithuania,120,Operator Account:LT95,95,AB Klaipedos energija,Lithuania,120,Operator Account:LT96,96,AB Klaipedos energija,9000,Details
+LT16041,10-0,2012-04-05 13:04:35.505,Completed,Lithuania,120,Operator Account:LT95,95,AB Klaipedos energija,Lithuania,120,Operator Account:LT96,96,AB Klaipedos energija,7000,Details
+LT16042,10-0,2012-04-05 13:04:27.025,Completed,Lithuania,120,Operator Account:LT95,95,AB Klaipedos energija,Lithuania,120,Operator Account:LT59,59,AB Klaipedos energija,56808,Details
+IT32282,3-0,2012-04-05 13:04:16.828,Completed,Italy,121,SENDECO2 - La Borsa Italiana del CO2,2460,SISTEMA ELETTRONICO DI NEGOZIAZIONE DI DIRITTI DI EMISSIONE DI OSSIDO DI CARBONIO SRL,Spain,121,"Sistema Europeo de Negociación de Co2, S.L.",852,"SISTEMA EUROPEO DE NEGOCIACIÓN DE CO2, S.L.",2000,Details
+FI77798,10-2,2012-04-05 13:03:53.386,Completed,Finland,120,Ekohakan lämpökeskus:FI709,709,Keskusosuuskunta Oulun Seudun Sähkö,Finland,100,Kansallinen päästöoikeustili:FI2,2,Energiavirasto,19,Details
+GB62424,10-0,2012-04-05 13:02:51.576,Completed,United Kingdom,121,"Deutsche Bank AG, London Branch",1306,Deutsche Bank AG London,United Kingdom,,,,,3500000,Details
+FI77797,10-2,2012-04-05 13:01:53.282,Completed,Finland,120,Honkapäästöt 1:FI308,308,Keskusosuuskunta Oulun Seudun Sähkö,Finland,100,Kansallinen päästöoikeustili:FI2,2,Energiavirasto,4,Details
+CZ15759,10-2,2012-04-05 12:53:38.416,Completed,Czech Republic,120,Fakultní nemocnice v Motole - centrální kotelna,369,Fakultní nemocnice v Motole,Czech Republic,100,Účet pro odevzdání,3,ČESKÁ REPUBLIKA,15303,Details
+DE115281,3-0,2012-04-05 12:50:47.822,Completed,Germany,121,ISG  Investment Synergy Group GmbH,2837,ISG lnvestment Synergy Group GmbH,Slovakia,121,CLEAN ENERGY TRADE s.r.o.,288,CLEAN ENERGY TRADE s.r.o.,50000,Details
+PL23487,10-0,2012-04-05 12:49:55.9,Completed,Poland,121,Fern Capital Trading Ltd.,1120,Fern Capital Trading Ltd.,Poland,121,SAGA COMMODITIES,1160,SAGA COMMODITIES SP. Z O.O.,100000,Details
+PL23486,3-0,2012-04-05 12:47:51.552,Completed,Poland,121,Fern Capital Trading Ltd.,1120,Fern Capital Trading Ltd.,Bulgaria,121,Saga Commodities EAD,296,Saga Commodities EAD,20000,Details
+FR203459,10-0,2012-04-05 12:45:34.137,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,PGE Polska Grupa Energetyczna S.A.,1405,MAZURKIEWICZ,10000,Details
+FI77796,10-0,2012-04-05 12:44:17.69,Completed,Finland,120,TKS/NKL/CO2:FI443,443,Tampereen Sähkölaitos Oy,Finland,121,TKS kaupankäyntitili:FI604,604,Tampereen Sähkölaitos Oy,570,Details
+FI77795,10-0,2012-04-05 12:43:33.195,Completed,Finland,120,TKS/NSL/CO2:FI442,442,Tampereen Sähkölaitos Oy,Finland,121,TKS kaupankäyntitili:FI604,604,Tampereen Sähkölaitos Oy,49191,Details
+GB61485,10-0,2012-03-26 15:47:01.509,Completed,United Kingdom,121,VEF Trading,1603,Vertis Environmental Finance,United Kingdom,,,,,2000,Details
+GB61484,10-2,2012-03-26 15:44:57.441,Completed,United Kingdom,120,Janice Alpha,39,Total E&P North Sea UK Limited,United Kingdom,,,,,99218,Details
+FR202704,3-0,2012-03-26 15:42:36.605,Completed,France,120,"EGGER PANNEAUX ET DECORS, USINE DE RION",108,EGGER PANNEAUX ET DECORS,Netherlands,121,ACT Carbon,778,ACT Financial Solutions B.V.,8500,Details
+FR202703,3-0,2012-03-26 15:39:57.439,Completed,France,121,AUCT ORBEO,1548,FISCHER,Spain,121,"C.M. CAPITAL MARKETS HOLDING, S.A.",868,"C.M. CAPITAL MARKETS HOLDING, S.A.",50000,Details
+GB61483,10-2,2012-03-26 15:38:48.208,Completed,United Kingdom,120,Operator Account,154,Syngenta Limited,United Kingdom,,,,,65556,Details
+GB61482,10-2,2012-03-26 15:34:11.104,Completed,United Kingdom,120,Dumbarton,1102,Total E&P North Sea UK Limited,United Kingdom,,,,,193529,Details
+SK6585,3-0,2012-03-26 15:31:08.674,Completed,Slovakia,120,Slovnaft CO2,139,"SLOVNAFT, a.s.",Hungary,121,MOL Commodity,734,MOL Commodity Trading Kft.,216400,Details
+EE7140,3-0,2012-03-26 15:30:00.795,Completed,Estonia,120,Operator Account:EE15,15,Kiviõli Keemiatööstuse OÜ,Finland,121,Nordea Bank Finland Plc CER,640,Nordea Pankki Suomi Oyj,15598,Details
+DE114510,10-0,2012-03-26 15:27:39.644,Completed,Germany,120,1775 - Anlagenkonto,1775,Odenwald Faserplattenwerk GmbH,Germany,121,1900 - UniCredit Bank AG,1900,UniCredit Bank AG,17826,Details
+DE114509,10-0,2012-03-26 15:27:15.58,Completed,Germany,121,1941 - Technocell Dekor GmbH & Co KG Personenkonto,1941,Schoeller Technocell GmbH & Co. KG,Germany,121,1893 - Syneco Trading GmbH Personenkonto,1893,Syneco Trading GmbH,35800,Details
+BE9128,10-2,2012-03-26 15:26:54.889,Completed,Belgium,120,346  Aurubis Belgium,445,Aurubis Olen,Belgium,100,Cpt Holding Emetteur pour la restitution,3,Belgium,35503,Details
+FR202702,10-0,2012-03-26 15:25:07.052,Completed,France,120,"EGGER PANNEAUX ET DECORS, USINE DE RION",108,EGGER PANNEAUX ET DECORS,France,120,"EGGER PANNEAUX ET DECORS, RAMBERVILLERS",525,EGGER PANNEAUX ET DECORS,102,Details
+NL22283,10-2,2012-03-26 15:21:30.995,Completed,Netherlands,120,Wienerberger B.V. Steenfabriek Kijfwaard Oost,444,Wienerberger B.V.,Netherlands,,,,,12321,Details
+GB61481,3-0,2012-03-26 15:20:35.29,Completed,United Kingdom,121,BNP Paribas,785,BNP Paribas,Germany,121,1968 - Trianel GmbH,1968,Trianel GmbH,14000,Details
+NO1483,3-0,2012-03-26 15:20:14.173,Completed,Norway,121,NASDAQ OMX Oslo,228,Nasdaq Clearing Oslo NUF,Sweden,120,Karskär Energi AB,448,BillerudKorsnäs Skog & Industri AB,1000,Details
+DK588891,10-0,2012-03-26 15:17:55.196,Completed,Denmark,120,Amagerværket:DK299,299,Vattenfall A/S,Denmark,121,CTR I/S 2,487,CTR I/S,18506,Details
+NL22282,10-2,2012-03-26 15:17:34.906,Completed,Netherlands,120,Wienerberger B.V. Steenfabriek Heteren,443,Wienerberger B.V.,Netherlands,,,,,9460,Details
+DK588890,10-0,2012-03-26 15:16:33.533,Completed,Denmark,120,Amagerværket:DK299,299,Vattenfall A/S,Denmark,121,CTR I/S 2,487,CTR I/S,623,Details
+NL22281,10-2,2012-03-26 15:16:01.047,Completed,Netherlands,120,SABIC Innovative Plastics B.V.,175,SABIC Innovative Plastics B.V.,Netherlands,,,,,97878,Details
+NL22280,10-2,2012-03-26 15:15:08.506,Completed,Netherlands,120,Wienerberger B.V. Steenfabriek Haaften,442,Wienerberger B.V.,Netherlands,,,,,14979,Details
+PL23291,10-0,2012-03-26 08:04:26.618,Completed,Poland,121,Południowy Koncern Energetyczny S.A.,923,TAURON WYTWARZANIE S.A.,Poland,121,TAURON POLSKA ENERGIA,987,TAURON Polska Energia S.A.,850000,Details
+DK588877,10-0,2012-03-26 07:22:24.899,Completed,Denmark,120,Svendborg Kraft,140,Svendborg Fjernvarme A.M.B.A.,Denmark,121,DANSKECOM,18869,Danske Commodities A/S,14000,Details
+SE14881,10-2,2012-03-26 06:43:50.147,Completed,Sweden,120,Saint-Gobain Isover AB,528,Saint-Gobain Isover AB,Sweden,,,,,24297,Details
+JP3993,3-0,2012-03-26 04:45:33.721,Completed,Japan,100,,33,,United Kingdom,121,Mitsui Bussan Commodities Ltd,1699,Mitsui Bussan Commodities Ltd,10803,Details
+GB61406,3-0,2012-03-26 03:27:03.596,Completed,United Kingdom,121,WESTPAC TRADING,1775,WESTPAC BANKING CORPORATION,New Zealand,100,,1939,,10000,Details
+JP4003,3-0,2012-03-26 03:00:32.43,Completed,Japan,100,,67,,Netherlands,121,Personal Holding Account Trading,347,RWE Supply & Trading Switzerland S.A.,60663,Details
+DE114451,10-0,2012-03-25 17:37:43.651,Completed,Germany,120,1377 - Anlagenkonto,1377,Grace GmbH,Germany,120,1420 - Anlagenkonto,1420,Grace GmbH,2000,Details
+DE114450,10-0,2012-03-25 17:34:31.265,Completed,Germany,120,1377 - Anlagenkonto,1377,Grace GmbH,Germany,120,1420 - Anlagenkonto,1420,Grace GmbH,8,Details
+DE114449,10-2,2012-03-25 17:29:47.287,Completed,Germany,120,407 - Anlagenkonto,407,Klinkerwerk Muhr GmbH & Co. KG,Germany,100,Nationalkonto - Abgabe,3,Deutschland,6927,Details
+DE114448,10-2,2012-03-25 17:06:33.187,Completed,Germany,120,406 - Anlagenkonto,406,Klinkerwerke Heinrich W. Muhr GmbH & Co KG,Germany,100,Nationalkonto - Abgabe,3,Deutschland,1074,Details
+DE114447,10-2,2012-03-25 17:04:40.416,Completed,Germany,120,406 - Anlagenkonto,406,Klinkerwerke Heinrich W. Muhr GmbH & Co KG,Germany,100,Nationalkonto - Abgabe,3,Deutschland,3024,Details
+GB61405,10-0,2012-03-23 19:44:31.037,Completed,United Kingdom,121,ICECAP Carbon Trading Ltd.,1609,ICECAP Carbon Trading Ltd.,United Kingdom,,,,,777991,Details
+GB61404,10-2,2012-03-23 18:46:09.62,Completed,United Kingdom,120,Operator Account,312,Vitacress Herbs Limited,United Kingdom,,,,,8650,Details
+GB61403,10-2,2012-03-23 18:30:50.383,Completed,United Kingdom,120,Humber Growers (West End),301,Humber Growers Limited,United Kingdom,,,,,5858,Details
+FR202662,10-0,2012-03-23 18:27:14.368,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,ORBEO SAS BLUENEXT,1280,FISCHER,10000,Details
+FR202661,10-0,2012-03-23 18:23:13.884,Completed,France,121,EDFT CO2,1243,EDF TRADING LTD,France,121,BlueNext Détention,1351,BlueNext SA,10000,Details
+GB61402,10-2,2012-03-23 18:19:24.71,Completed,United Kingdom,120,Poolbank CHP,167,Humber Growers Limited,United Kingdom,,,,,1376,Details
+FR202660,10-0,2012-03-23 18:17:14.721,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,COMMERZBANK AG,1456,ROETTGER,10000,Details
+IT31871,3-0,2012-03-23 18:13:56.953,Completed,Italy,121,aitherco2 trading,3159,AitherCO2 SIM SpA,France,121,ENEL TRADE-2,1208,ENEL TRADE SpA,54000,Details
+FR202659,10-0,2012-03-23 18:13:14.939,Completed,France,121,EDFT CO2,1243,EDF TRADING LTD,France,121,BlueNext Détention,1351,BlueNext SA,10000,Details

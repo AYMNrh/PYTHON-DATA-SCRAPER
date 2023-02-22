@@ -51,7 +51,8 @@ start_time = time.time()
 # Create a thread pool with 16 workers
 with concurrent.futures.ThreadPoolExecutor(max_workers=16) as executor:
     # Use the map function to fetch the data for each page number in parallel
-    results = executor.map(fetch_data, range(8461,12691)) #2-4230-8460-12690-16920-21150-25380-29610-33840-38070-42300-46530-50760-55342 add one to the page number
+    # results = executor.map(fetch_data, range(8461,12691)) #2-4230-8460-12690-16920-21150-25380-29610-33840-38070-42300-46530-50760-55342 add one to the page number
+    results = executor.map(fetch_data, range(651,976)) 
     # print results type   
     print(type(results))
 

@@ -11,7 +11,7 @@ headers = ["Transaction ID", "Transaction Type", "Transaction Date", "Transactio
 
 # Read the existing transaction IDs from the previously scraped CSV file
 try:
-    df_existing = pd.read_csv('TransactionsFinal4231.csv')
+    df_existing = pd.read_csv('Transactions55K.csv')
     existing_ids = set(df_existing['Transaction ID'].unique())
     print("Found {} existing transaction IDs".format(len(existing_ids)))
 except FileNotFoundError:
@@ -27,7 +27,7 @@ start_time = time.time()
 temp = 0;
 
 # Loop through the pages
-for i in tqdm(range(2, 4231)):
+for i in tqdm(range(2, 55344)): #2-55342 add one to the page number
     url = 'https://ec.europa.eu/clima/ets/transaction.do?languageCode=fr&startDate=&endDate=&transactionStatus=4&fromCompletionDate=&toCompletionDate=&transactionID=&transactionType=-1&suppTransactionType=-1&originatingRegistry=-1&destinationRegistry=-1&originatingAccountType=-1&destinationAccountType=-1&originatingAccountIdentifier=&destinationAccountIdentifier=&originatingAccountHolder=&destinationAccountHolder=&currentSortSettings=&backList=%3CBack&resultList.currentPageNumber={}'.format(i)
     
     while True:
@@ -75,7 +75,7 @@ for i in tqdm(range(2, 4231)):
 # Create a DataFrame from the rows
 try:
     df = pd.DataFrame(data, columns=headers)
-    file_name = f"TransactionsFinal4231.csv"
+    file_name = f"Transactions55K.csv"
     df.to_csv(file_name, index=False, mode='a', header=not os.path.exists(file_name))
 except ValueError:
     df = pd.DataFrame(columns=headers)
