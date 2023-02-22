@@ -38,7 +38,7 @@ start_time = time.time()
 # Create a thread pool with 16 workers
 with concurrent.futures.ThreadPoolExecutor(max_workers=16) as executor:
     # Use the map function to fetch the data for each page number in parallel
-    results = executor.map(fetch_data, range(2,12)) #0-4230-8460-12690-16920-21150-25380-29610-33840-38070-42300-46530-50760-55342 add one to the page number
+    results = executor.map(fetch_data, range(25381,29611)) #2-4230-8460-12690-16920-21150-25380-29610-33840-38070-42300-46530-50760-55342 add one to the page number
     # print results type   
     print(type(results))
 
@@ -46,8 +46,8 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=16) as executor:
     for i, result in enumerate(results):
         if result is not None:
             df = pd.DataFrame(result, columns=headers)
-            file_name = f"{directory}/transactions_2.csv"
-            # df.to_csv(file_name, index=False)
+            file_name = f"{directory}/transactions_7.csv"
+            df.to_csv(file_name, index=False, mode='a', header=not os.path.exists(file_name))
             
 
 end_time = time.time()
