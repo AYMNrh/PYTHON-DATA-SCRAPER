@@ -23,13 +23,23 @@ except FileNotFoundError:
 data = []
 start_time = time.time()
 
+# A variable that is used to count the number of times the connection was lost.
+temp = 0;
+
 # Loop through the pages
-for i in tqdm(range(2, 5)):
-    # Check if the page has already been scraped by checking if all transaction IDs on the page are in the existing IDs set
+for i in tqdm(range(2, 4231)):
     url = 'https://ec.europa.eu/clima/ets/transaction.do?languageCode=fr&startDate=&endDate=&transactionStatus=4&fromCompletionDate=&toCompletionDate=&transactionID=&transactionType=-1&suppTransactionType=-1&originatingRegistry=-1&destinationRegistry=-1&originatingAccountType=-1&destinationAccountType=-1&originatingAccountIdentifier=&destinationAccountIdentifier=&originatingAccountHolder=&destinationAccountHolder=&currentSortSettings=&backList=%3CBack&resultList.currentPageNumber={}'.format(i)
-    response = requests.get(url)
-    soup = BeautifulSoup(response.content, 'lxml')
-    all_tables = soup.find_all('table', {'class': 'bordertb'})
+    
+    while True:
+        try:
+            response = requests.get(url)
+            soup = BeautifulSoup(response.content, 'lxml')
+            all_tables = soup.find_all('table', {'class': 'bordertb'})
+            break
+        except:
+            print("Connection error, retrying in 10 seconds...")
+            temp += 1
+            time.sleep(10)
 
     # Check if the inner table exists
     if len(all_tables) >= 2:
@@ -61,8 +71,7 @@ for i in tqdm(range(2, 5)):
 #     # Create a DataFrame from the rows
 #     df = pd.DataFrame(data, columns=headers)
 #     # Append the new data to the existing CSV file
-#     df.to_csv('TransactionsFinal100pages.csv', index=False, mode='a', header=not os.path.exists('TransactionsFinal100pages.csv'))
-
+#     df
 # Create a DataFrame from the rows
 try:
     df = pd.DataFrame(data, columns=headers)
@@ -76,3 +85,5 @@ print("I am done scraping the data")
 end_time = time.time()
 time_taken = end_time - start_time
 print("Time taken:", str(datetime.timedelta(seconds=time_taken)))
+# temp is the number of times the connection was lost
+print("Number of times the connection was lost:", temp)

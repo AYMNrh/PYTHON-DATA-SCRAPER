@@ -1,0 +1,121 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+DK423594,10-0,2009-05-04 14:49:52.269,Completed,Denmark,121,Witty Honour Li,7270,Witty Honour Limited,Denmark,121,Excellent,6573,Daniel Fergere,51000,Details
+DE78217,10-0,2009-05-04 14:49:01.434,Completed,Germany,121,1970 - ThyssenKrupp AG Personenkonto,1970,thyssenkrupp AG,Germany,121,1903 - BHF - Bank Aktiengesellschaft Personenkonto,1903,BHF - Bank Aktiengesellschaft,15000,Details
+DK423593,10-0,2009-05-04 14:48:55.107,Completed,Denmark,121,Witty Honour Li,7270,Witty Honour Limited,Denmark,121,Excellent,6573,Daniel Fergere,55000,Details
+DK423592,10-0,2009-05-04 14:47:51.161,Completed,Denmark,121,Glanbert Holdin,5471,Holdings limited Blue Carbon Management Services Ltd.,Denmark,121,Witty Honour Li,7270,Witty Honour Limited,48000,Details
+DE78216,10-0,2009-05-04 14:47:47.722,Completed,Germany,120,87 - Anlagenkonto,87,ThyssenKrupp Steel Europe AG,Germany,121,1970 - ThyssenKrupp AG Personenkonto,1970,thyssenkrupp AG,30000,Details
+DE78215,3-0,2009-05-04 14:47:41.364,Completed,Germany,121,Astra Trading FZE (dubai),1964,Astra Trading FZE,United Kingdom,121,Fourleaf,1888,FourLeaf Enterprises SA,51000,Details
+DK423591,10-0,2009-05-04 14:47:18.352,Completed,Denmark,121,Glanbert Holdin,5471,Holdings limited Blue Carbon Management Services Ltd.,Denmark,121,Witty Honour Li,7270,Witty Honour Limited,52000,Details
+DK423590,10-0,2009-05-04 14:46:45.817,Completed,Denmark,121,Glanbert Holdin,5471,Holdings limited Blue Carbon Management Services Ltd.,Denmark,121,Witty Honour Li,7270,Witty Honour Limited,56000,Details
+FR91045,3-0,2009-05-04 14:45:21.366,Completed,France,121,GREEN PRO INVEST,1455,GREEN PRO INVEST SAL,Denmark,121,Glanbert Holdin,5471,Holdings limited Blue Carbon Management Services Ltd.,86000,Details
+DK423589,3-0,2009-05-04 14:44:18.91,Completed,Denmark,121,COER2 Holding c,5686,Remy Roche,France,121,DUBUS SA BLX,1205,DHERVILLE,35000,Details
+FR91044,3-0,2009-05-04 14:44:04.643,Completed,France,121,GREEN PRO INVEST,1455,GREEN PRO INVEST SAL,Denmark,121,Glanbert Holdin,5471,Holdings limited Blue Carbon Management Services Ltd.,70000,Details
+FR91043,10-0,2009-05-04 14:39:38.944,Completed,France,121,ATLAS CAPITAL BLUENEXT SPOT,1417,IOANNIDOU,France,121,GREEN PRO INVEST,1455,GREEN PRO INVEST SAL,156000,Details
+FR91042,10-0,2009-05-04 14:38:58.789,Completed,France,121,FIRSTRADE ENERGY,1464,FIRSTRADE ENERGY SARL,France,121,CONSUS FR PWX,1291,KLAPUCKI,126000,Details
+FR91041,10-0,2009-05-04 14:38:20.113,Completed,France,121,ELLEASE,1457,ELLEASE,France,121,CONSUS FR PWX,1291,KLAPUCKI,122000,Details
+FR91040,3-0,2009-05-04 14:38:01.359,Completed,France,121,Climate Corporation PWX,1192,WEBER,Germany,121,Astra Trading FZE (dubai),1964,Astra Trading FZE,51000,Details
+DK423588,3-0,2009-05-04 14:35:39.962,Completed,Denmark,121,B. Concept,7093,B Concept,France,121,BLUENEXT-BCONCEPT,1360,BLOCK,50000,Details
+FR91039,10-0,2009-05-04 14:35:12.762,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,ORBEO SAS BLUENEXT,1280,FISCHER,6000,Details
+FR91038,10-0,2009-05-04 14:34:10.399,Completed,France,121,TOUCH FUTURE,1407,TOUCH FUTURE,France,121,CONSUS FR PWX,1291,KLAPUCKI,77000,Details
+FR91037,10-0,2009-05-04 14:34:02.553,Completed,France,121,EDELWEISS-BLUENEXT,1382,CALVI,France,121,BlueNext Détention,1351,BlueNext SA,6000,Details
+DK423587,3-0,2009-05-04 14:34:02.203,Completed,Denmark,121,B. Concept,7093,B Concept,France,121,BLUENEXT-BCONCEPT,1360,BLOCK,45000,Details
+DK423586,3-0,2009-05-04 14:33:37.214,Completed,Denmark,121,5482,5483,gabriel cohen,France,121,ELLEASE,1457,ELLEASE,123000,Details
+DK423585,3-0,2009-05-04 14:32:38.561,Completed,Denmark,121,B. Concept,7093,B Concept,France,121,BLUENEXT-BCONCEPT,1360,BLOCK,50000,Details
+DK423584,3-0,2009-05-04 14:32:00.0,Completed,Denmark,121,5482,5483,gabriel cohen,France,121,FIRSTRADE ENERGY,1464,FIRSTRADE ENERGY SARL,125000,Details
+FR91036,10-2,2009-05-04 14:31:26.146,Completed,France,120,PAPETERIES DE GROMELLE,619,PAPETERIES DE GROMELLE,France,100,Cpt Holding Emetteur pour la restitution,3,France,4480,Details
+DK423583,10-0,2009-05-04 14:30:25.055,Completed,Denmark,121,C.Power,5380,C.Power c.power,Denmark,121,B. Concept,7093,B Concept,49000,Details
+DE78214,3-0,2009-05-04 14:29:57.902,Completed,Germany,121,1969 - APX-ENDEX Holding  B.V. Personenkonto,1969,APX-ENDEX Holding  B.V.,Denmark,121,Isramart,5599,Pascal Barkats,700,Details
+DK423582,10-0,2009-05-04 14:29:18.206,Completed,Denmark,121,C.Power,5380,C.Power c.power,Denmark,121,B. Concept,7093,B Concept,47000,Details
+FR91035,10-0,2009-05-04 14:27:39.475,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,GREENSTREAM NETWORK LTD Détention,1186,ROTO,23000,Details
+FR91034,10-0,2009-05-04 14:27:30.151,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,GREENSTREAM NETWORK LTD Détention,1186,ROTO,20000,Details
+FR91033,10-0,2009-05-04 14:27:23.754,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,GREENSTREAM NETWORK LTD Détention,1186,ROTO,27000,Details
+DK423581,3-0,2009-05-04 14:27:01.164,Completed,Denmark,121,B. Concept,7093,B Concept,France,121,BLUENEXT-BCONCEPT,1360,BLOCK,67000,Details
+FR91032,10-0,2009-05-04 14:26:13.38,Completed,France,121,VOLTALIA,1254,DE CASTRIES,France,121,BlueNext Détention,1351,BlueNext SA,23000,Details
+FR91031,10-0,2009-05-04 14:26:09.96,Completed,France,121,SUSQUEHANNA IRELAND LIMITED,1377,KEOGH,France,121,BlueNext Détention,1351,BlueNext SA,20000,Details
+FR91030,10-0,2009-05-04 14:26:09.949,Completed,France,121,VOLTALIA,1254,DE CASTRIES,France,121,BlueNext Détention,1351,BlueNext SA,27000,Details
+DK423580,10-0,2009-05-04 14:24:01.131,Completed,Denmark,121,CLASSIC MARK IN,7571,CLASSIC MARK INTERNATIONAL,Denmark,121,B. Concept,7093,B Concept,30000,Details
+DK423579,10-0,2009-05-04 14:21:29.273,Completed,Denmark,121,Mostcityltd,5476,dmytro Volodarskyy,Denmark,121,5485,5577,Philippe Kutler,39000,Details
+DK423578,10-0,2009-05-04 14:21:12.577,Completed,Denmark,121,C.Power,5380,C.Power c.power,Denmark,121,B. Concept,7093,B Concept,49000,Details
+DK423577,3-0,2009-05-04 14:20:48.963,Completed,Denmark,121,Mostcityltd,5476,dmytro Volodarskyy,France,121,TOUCH FUTURE,1407,TOUCH FUTURE,40000,Details
+FR91029,10-0,2009-05-04 14:20:39.842,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,ROYAL BANK OF CANADA,1471,COCHRANE,1000,Details
+FR91028,3-0,2009-05-04 14:20:23.731,Completed,France,121,METSA_EUA_FR,1412,MERCURIA ENERGY TRADING SA,Netherlands,121,Adduco Consulting Ltd,671,Adduco Consulting Ltd,30000,Details
+DK423499,3-0,2009-05-04 14:20:14.523,Completed,Denmark,121,Mostcityltd,5476,dmytro Volodarskyy,France,121,TOUCH FUTURE,1407,TOUCH FUTURE,37000,Details
+FR91027,3-0,2009-05-04 14:19:41.427,Completed,France,121,GREENSTREAM NETWORK LTD Détention,1186,ROTO,Denmark,121,5482,5483,gabriel cohen,248000,Details
+DK423498,10-0,2009-05-04 14:19:38.208,Completed,Denmark,121,6666,5584,NLT CONSULTING,Denmark,121,C.Power,5380,C.Power c.power,31000,Details
+FR91026,10-0,2009-05-04 14:19:29.259,Completed,France,121,VOLTALIA,1254,DE CASTRIES,France,121,BlueNext Détention,1351,BlueNext SA,1000,Details
+FR91025,10-0,2009-05-04 14:19:27.693,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,ROYAL BANK OF CANADA,1471,COCHRANE,1000,Details
+DK423497,10-0,2009-05-04 14:18:39.011,Completed,Denmark,121,6666,5584,NLT CONSULTING,Denmark,121,C.Power,5380,C.Power c.power,29000,Details
+FR91024,10-0,2009-05-04 14:18:14.013,Completed,France,121,CONSUS FR PWX,1291,KLAPUCKI,France,121,BlueNext Détention,1351,BlueNext SA,1000,Details
+FR91023,10-0,2009-05-04 14:18:10.179,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,Climate Corporation PWX,1192,WEBER,32000,Details
+FR91022,10-0,2009-05-04 14:18:03.825,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,Climate Corporation PWX,1192,WEBER,19000,Details
+FR91021,10-0,2009-05-04 14:17:57.86,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,ROYAL BANK OF CANADA,1471,COCHRANE,5000,Details
+DK423496,10-0,2009-05-04 14:17:56.362,Completed,Denmark,121,6666,5584,NLT CONSULTING,Denmark,121,C.Power,5380,C.Power c.power,41000,Details
+FR91020,10-0,2009-05-04 14:17:52.956,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,ORBEO SAS BLUENEXT,1280,FISCHER,21000,Details
+FR91019,10-0,2009-05-04 14:16:41.645,Completed,France,121,CONSUS FR PWX,1291,KLAPUCKI,France,121,BlueNext Détention,1351,BlueNext SA,32000,Details
+FR91018,10-0,2009-05-04 14:16:30.745,Completed,France,121,CONSUS FR PWX,1291,KLAPUCKI,France,121,BlueNext Détention,1351,BlueNext SA,19000,Details
+FR91017,10-0,2009-05-04 14:16:26.646,Completed,France,121,CONSUS FR PWX,1291,KLAPUCKI,France,121,BlueNext Détention,1351,BlueNext SA,5000,Details
+FR91016,10-0,2009-05-04 14:16:22.877,Completed,France,121,VOLTALIA,1254,DE CASTRIES,France,121,BlueNext Détention,1351,BlueNext SA,21000,Details
+FR91015,10-0,2009-05-04 14:16:20.669,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,STX SERVICES B.V. Détention,1370,BROERSE,19000,Details
+DK423495,10-0,2009-05-04 14:16:12.561,Completed,Denmark,121,CLASSIC MARK IN,7571,CLASSIC MARK INTERNATIONAL,Denmark,121,B. Concept,7093,B Concept,37000,Details
+FR91014,10-0,2009-05-04 14:15:09.247,Completed,France,121,EDELWEISS-BLUENEXT,1382,CALVI,France,121,BlueNext Détention,1351,BlueNext SA,19000,Details
+DK423494,10-0,2009-05-04 14:14:08.409,Completed,Denmark,121,Energy Dream,3769,Energy Dream SRL,Denmark,121,CLASSIC MARK IN,7571,CLASSIC MARK INTERNATIONAL,27000,Details
+DK423493,10-0,2009-05-04 14:12:29.72,Completed,Denmark,121,swift profit in,7493,swift profit international,Denmark,121,6666,5584,NLT CONSULTING,27000,Details
+DK423492,10-0,2009-05-04 14:11:41.514,Completed,Denmark,121,swift profit in,7493,swift profit international,Denmark,121,Energy Dream,3769,Energy Dream SRL,27000,Details
+FR91013,10-0,2009-05-04 14:11:04.094,Completed,France,121,ARKEMA FRANCE,1226,ARKEMA FRANCE,France,121,NATIXIS (2),1261,NATIXIS,25000,Details
+DK423491,10-0,2009-05-04 14:10:01.202,Completed,Denmark,121,6666,5584,NLT CONSULTING,Denmark,121,C.Power,5380,C.Power c.power,44000,Details
+FR91012,10-0,2009-05-04 14:08:43.493,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,ROYAL BANK OF CANADA,1471,COCHRANE,1000,Details
+FR91011,10-0,2009-05-04 14:08:35.878,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,ROYAL BANK OF CANADA,1471,COCHRANE,1000,Details
+DK423490,10-0,2009-05-04 14:08:09.595,Completed,Denmark,121,6666,5584,NLT CONSULTING,Denmark,121,swift profit in,7493,swift profit international,27000,Details
+FR91010,10-0,2009-05-04 14:07:21.68,Completed,France,121,CONSUS FR PWX,1291,KLAPUCKI,France,121,BlueNext Détention,1351,BlueNext SA,1000,Details
+FR91009,10-0,2009-05-04 14:07:15.947,Completed,France,121,CONSUS FR PWX,1291,KLAPUCKI,France,121,BlueNext Détention,1351,BlueNext SA,1000,Details
+FR91008,10-0,2009-05-04 14:07:10.156,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,ROYAL BANK OF CANADA,1471,COCHRANE,1000,Details
+FR91007,10-0,2009-05-04 14:05:58.099,Completed,France,121,CONSUS FR PWX,1291,KLAPUCKI,France,121,BlueNext Détention,1351,BlueNext SA,1000,Details
+FR91006,10-0,2009-05-04 14:05:56.578,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,METSA_EUA_FR,1412,MERCURIA ENERGY TRADING SA,63000,Details
+FR91005,10-0,2009-05-04 14:04:44.46,Completed,France,121,BLUENEXT-BCONCEPT,1360,BLOCK,France,121,BlueNext Détention,1351,BlueNext SA,63000,Details
+FR91004,10-0,2009-05-04 14:04:40.557,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,Vattenfall Energy Trading Netherlands N.V.,1221,VISSER-DE JONG,25000,Details
+DE78213,3-0,2009-05-04 14:03:56.757,Completed,Germany,121,1969 - APX-ENDEX Holding  B.V. Personenkonto,1969,APX-ENDEX Holding  B.V.,Portugal,121,263-SENDECO2,263,SENDECO2,30000,Details
+DK423489,10-0,2009-05-04 14:03:56.173,Completed,Denmark,121,Energy Dream,3769,Energy Dream SRL,Denmark,121,swift profit in,7493,swift profit international,27000,Details
+FR91003,10-0,2009-05-04 14:03:26.302,Completed,France,121,CONSUS FR PWX,1291,KLAPUCKI,France,121,BlueNext Détention,1351,BlueNext SA,25000,Details
+FR91002,10-0,2009-05-04 14:03:23.248,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,GREENSTREAM NETWORK LTD Détention,1186,ROTO,51000,Details
+FR91001,10-0,2009-05-04 14:03:14.429,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,GREENSTREAM NETWORK LTD Détention,1186,ROTO,13000,Details
+FR91000,10-0,2009-05-04 14:03:08.954,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,GREENSTREAM NETWORK LTD Détention,1186,ROTO,50000,Details
+DE78202,3-0,2009-05-04 11:06:47.297,Completed,Germany,121,1969 - APX-ENDEX Holding  B.V. Personenkonto,1969,APX-ENDEX Holding  B.V.,Portugal,121,263-SENDECO2,263,SENDECO2,20000,Details
+DK423083,10-0,2009-05-04 11:06:29.243,Completed,Denmark,121,6666,5584,NLT CONSULTING,Denmark,121,GT Capital,7191,GT Capital,46000,Details
+DE78201,10-0,2009-05-04 11:06:18.059,Completed,Germany,120,424 - Anlagenkonto,424,Ziegelwerk Nordhausen Dipl. Ing. Sourell GmbH,Germany,121,1932 - EnBW Trading GmbH Personenkonto,1932,EnBW Energie Baden-Württemberg AG,9830,Details
+DK423082,10-0,2009-05-04 11:06:07.045,Completed,Denmark,121,Hydra,4369,Management Hydra,Denmark,121,Terbio Sarl,4371,Terbio Sarl,81000,Details
+DK423081,3-0,2009-05-04 11:06:05.604,Completed,Denmark,121,STX Serrvices,3670,stx STX Services  B. V,France,121,MENTEK,1459,MENTEK,88000,Details
+FR90784,10-0,2009-05-04 11:05:03.889,Completed,France,121,NATIXIS London Branch,1462,SEGUIN,France,121,NATIXIS (2),1261,NATIXIS,100000,Details
+DK423080,3-0,2009-05-04 11:04:18.07,Completed,Denmark,121,5485,5577,Philippe Kutler,France,121,VOLTALIA,1254,DE CASTRIES,42000,Details
+GB22030,10-0,2009-05-04 11:04:02.329,Completed,United Kingdom,121,Newedge Group (UK Branch),950,Newedge Group (UK Branch),United Kingdom,,,,,5000,Details
+GB22029,3-0,2009-05-04 11:03:51.076,Completed,United Kingdom,121,Fourleaf,1888,FourLeaf Enterprises SA,France,121,TRIPLE 8 PTE LTD,1481,TRIPLE 8 PTE LTD,155000,Details
+DK423079,10-0,2009-05-04 11:03:06.764,Completed,Denmark,121,Mostcityltd,5476,dmytro Volodarskyy,Denmark,121,5485,5577,Philippe Kutler,42000,Details
+FR90783,3-0,2009-05-04 11:03:05.576,Completed,France,121,ATLAS CAPITAL BLUENEXT SPOT,1417,IOANNIDOU,Denmark,121,Siddique Trade,5170,Qamar Khan,207000,Details
+DE78200,3-0,2009-05-04 11:00:17.382,Completed,Germany,121,Astra Trading FZE (dubai),1964,Astra Trading FZE,United Kingdom,121,Fourleaf,1888,FourLeaf Enterprises SA,155000,Details
+PT1011612,10-0,2009-05-04 11:00:10.83,Completed,Portugal,100,2-PORTUGAL,2,PORTUGAL,Portugal,100,3-PORTUGAL,3,PORTUGAL,1,Details
+DE78199,3-0,2009-05-04 10:59:15.479,Completed,Germany,121,1969 - APX-ENDEX Holding  B.V. Personenkonto,1969,APX-ENDEX Holding  B.V.,Denmark,121,Fairtrade,4972,Cohen Charli,28000,Details
+FR90782,3-0,2009-05-04 10:58:39.876,Completed,France,121,Climate Corporation PWX,1192,WEBER,Denmark,121,Mostcityltd,5476,dmytro Volodarskyy,42000,Details
+FR90781,3-0,2009-05-04 10:58:01.756,Completed,France,121,CONSUS PWX,1267,KLAPUCKI,Denmark,121,Hydra,4369,Management Hydra,81000,Details
+FR90780,10-0,2009-05-04 10:57:36.057,Completed,France,121,MENTEK,1459,MENTEK,France,121,GLOBAL ENERGIE,1483,GLOBAL ENERGIE,70000,Details
+FR90779,3-0,2009-05-04 10:57:21.363,Completed,France,121,Climate Corporation PWX,1192,WEBER,Germany,121,Astra Trading FZE (dubai),1964,Astra Trading FZE,155000,Details
+DK423078,3-0,2009-05-04 10:55:33.315,Completed,Denmark,121,B. Concept,7093,B Concept,France,121,BLUENEXT-BCONCEPT,1360,BLOCK,57000,Details
+DK423077,10-0,2009-05-04 10:54:44.353,Completed,Denmark,121,Glanbert Holdin,5471,Holdings limited Blue Carbon Management Services Ltd.,Denmark,121,Witty Honour Li,7270,Witty Honour Limited,39000,Details
+DK422999,10-0,2009-05-04 10:53:46.956,Completed,Denmark,121,C.Power,5380,C.Power c.power,Denmark,121,B. Concept,7093,B Concept,57000,Details
+FR90778,10-0,2009-05-04 10:53:41.43,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,ATLAS CAPITAL BLUENEXT SPOT,1417,IOANNIDOU,36000,Details
+FR90777,10-0,2009-05-04 10:53:34.547,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,V&A CORPORATION POWERNEXT,1319,SUAREZ SERRANO,20000,Details
+DK422998,10-0,2009-05-04 10:53:14.546,Completed,Denmark,121,Glanbert Holdin,5471,Holdings limited Blue Carbon Management Services Ltd.,Denmark,121,Witty Honour Li,7270,Witty Honour Limited,40000,Details
+FR90776,10-0,2009-05-04 10:52:24.146,Completed,France,121,SUSQUEHANNA IRELAND LIMITED,1377,KEOGH,France,121,BlueNext Détention,1351,BlueNext SA,36000,Details
+FR90775,10-0,2009-05-04 10:52:20.157,Completed,France,121,ABN AMRO BANK N.V.,1474,TOL,France,121,BlueNext Détention,1351,BlueNext SA,20000,Details
+FR90774,10-0,2009-05-04 10:52:18.646,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,STX SERVICES B.V. Détention,1370,BROERSE,30000,Details
+DK422997,10-0,2009-05-04 10:51:29.627,Completed,Denmark,121,6666,5584,NLT CONSULTING,Denmark,121,C.Power,5380,C.Power c.power,47000,Details
+FR90773,10-0,2009-05-04 10:51:06.414,Completed,France,121,EDELWEISS-BLUENEXT,1382,CALVI,France,121,BlueNext Détention,1351,BlueNext SA,30000,Details
+FR90772,10-0,2009-05-04 10:51:05.83,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,V&A CORPORATION POWERNEXT,1319,SUAREZ SERRANO,15000,Details
+FR90771,10-0,2009-05-04 10:49:53.711,Completed,France,121,RWE Supply & Trading Gmbh,1199,SABROWSKY,France,121,BlueNext Détention,1351,BlueNext SA,15000,Details
+FR90770,10-0,2009-05-04 10:49:46.869,Completed,France,100,Cpt PNAQ,4,France,France,120,001DSD76353E Cent Therm Arjowiggins Pap Aa,1493,SVD 17,126420,Details
+DK422996,3-0,2009-05-04 10:49:42.994,Completed,Denmark,121,6666,5584,NLT CONSULTING,Netherlands,121,Adduco Consulting Ltd,671,Adduco Consulting Ltd,14000,Details
+DK422995,10-0,2009-05-04 10:49:26.668,Completed,Denmark,121,C.Power,5380,C.Power c.power,Denmark,121,6666,5584,NLT CONSULTING,9000,Details
+FR90769,10-0,2009-05-04 10:48:45.151,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,ATLAS CAPITAL BLUENEXT SPOT,1417,IOANNIDOU,20000,Details
+FR90768,10-0,2009-05-04 10:48:37.649,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,ATLAS CAPITAL BLUENEXT SPOT,1417,IOANNIDOU,50000,Details
+FR90767,10-0,2009-05-04 10:48:11.802,Completed,France,100,Cpt PNAQ,4,France,France,120,001DSD76353E Cent Therm Arjowiggins Pap Aa,1493,SVD 17,126420,Details
+AT10428,3-0,2009-05-04 10:47:32.953,Completed,Austria,121,AXPO Trading AG,120,AXPO Solutions AG,Netherlands,121,APX Group,220,APX-ENDEX Holding B.V.,100000,Details
+FR90765,10-0,2009-05-04 10:47:23.863,Completed,France,121,Vattenfall Energy Trading Netherlands N.V.,1221,VISSER-DE JONG,France,121,BlueNext Détention,1351,BlueNext SA,50000,Details
+FR90766,10-0,2009-05-04 10:47:23.744,Completed,France,121,FR-121-1265-0 (EUA),1265,DERRON,France,121,BlueNext Détention,1351,BlueNext SA,20000,Details

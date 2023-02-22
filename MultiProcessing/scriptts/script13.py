@@ -14,13 +14,26 @@ directory = "transactions"
 if not os.path.exists(directory):
     os.makedirs(directory)
 
+temp = 0;
+
 # Define a function to fetch the data from a page
 def fetch_data(page_number):
     url = 'https://ec.europa.eu/clima/ets/transaction.do?languageCode=fr&startDate=&endDate=&transactionStatus=4&fromCompletionDate=&toCompletionDate=&transactionID=&transactionType=-1&suppTransactionType=-1&originatingRegistry=-1&destinationRegistry=-1&originatingAccountType=-1&destinationAccountType=-1&originatingAccountIdentifier=&destinationAccountIdentifier=&originatingAccountHolder=&destinationAccountHolder=&currentSortSettings=&backList=%3CBack&resultList.currentPageNumber={}'.format(page_number)
-    response = requests.get(url)
+    # response = requests.get(url)
     # soup = BeautifulSoup(response.content, 'lxml')
     # soup = BeautifulSoup(response.content.decode('UTF-8'), 'lxml')
-    soup = BeautifulSoup(response.text, 'lxml')
+    # soup = BeautifulSoup(response.text, 'lxml')
+    
+    while True:
+        try:
+            response = requests.get(url)
+            soup = BeautifulSoup(response.content, 'lxml')
+            all_tables = soup.find_all('table', {'class': 'bordertb'})
+            break
+        except:
+            print("Connection error, retrying in 2 seconds...")
+            temp += 1
+            time.sleep(2)
 
     all_tables = soup.find_all('table', {'class': 'bordertb'})
     if len(all_tables) >= 2:
@@ -58,3 +71,4 @@ print("Time taken: {}".format(time_taken_formatted))
 
 
 print("I am done scraping the data and merged it into a single file")
+print("Number of times the connection was lost:", temp)

@@ -1,0 +1,61 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+FR184192,10-0,2011-04-06 15:06:20.097,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,POWEO SA,1270,CHEYLUS,9000,Details
+CZ13573,10-0,2011-04-06 15:06:20.037,Completed,Czech Republic,120,ČEZ - Elektrárna Tušimice 2,147,"ČEZ, a. s.",Czech Republic,120,ČEZ - Elektrárna Prunéřov 1,144,"ČEZ, a. s.",500000,Details
+FR184191,10-0,2011-04-06 15:05:50.401,Completed,France,121,SAGACARBON,1225,THIEBAUT,France,121,BlueNext Détention,1351,BlueNext SA,9000,Details
+NL19153,10-0,2011-04-06 15:05:37.311,Completed,Netherlands,120,WKC Kruiningen,213,DELTA Energy B.V.,Netherlands,,,,,98219,Details
+SK5231,10-2,2011-04-06 15:05:04.438,Completed,Slovakia,120,Kvóty TEKO,163,"MH Teplárenský holding, a.s.",Slovakia,100,Národný účet pre odovzdanie kvót,3,SLOVENSKO,533007,Details
+BE8064,10-2,2011-04-06 14:59:11.346,Completed,Belgium,120,152 Evonik Degussa Antwerpen,170,Evonik Antwerpen,Belgium,100,Cpt Holding Emetteur pour la restitution,3,Belgium,445860,Details
+SI1890,10-0,2011-04-06 14:56:41.674,Completed,Slovenia,121,Trgovalni racun,7,Holding Slovenske elektrarne,Slovenia,,,,,2000,Details
+RO4508,10-0,2011-04-06 14:53:44.777,Completed,Romania,120,Operator Account,280,SC ZAHAR CORABIA SA,Romania,,,,,28786,Details
+BG1377,3-0,2011-04-06 14:50:08.658,Completed,Bulgaria,120,Rubin JSC,47,Rubin Trading EAD,France,121,VERBUND AG,1502,MAYRHOFER,5000,Details
+BG1376,3-0,2011-04-06 14:47:46.854,Completed,Bulgaria,120,Rubin JSC,47,Rubin Trading EAD,Austria,121,VERBUND,122,Verbund AG,5000,Details
+DK581491,10-2,2011-04-06 14:47:39.756,Completed,Denmark,120,Oksbøl Varmev,259,Andelsselskabet Oksbøl Varmeværk,Denmark,100,DK virk.retur.,4070,Energistyrelsen,12240,Details
+GB50411,10-2,2011-04-06 14:47:29.123,Completed,United Kingdom,120,Degussa Seal Sands,1453,Fine Organics Limited,United Kingdom,,,,,17856,Details
+LT14602,10-2,2011-04-06 14:45:56.663,Completed,Lithuania,120,Operator Account:LT5,5,AB Akmenes cementas,Lithuania,100,Nacionaline saskaita:LT1,1,LR Aplinkos ministerija,284096,Details
+LT14601,10-2,2011-04-06 14:44:13.615,Completed,Lithuania,120,Operator Account:LT5,5,AB Akmenes cementas,Lithuania,100,Nacionaline saskaita:LT1,1,LR Aplinkos ministerija,310000,Details
+GB50410,3-0,2011-04-06 14:41:30.17,Completed,United Kingdom,121,Jefferies Bache Limited,1047,Jefferies Bache Limited,France,121,JEFFERIES BACHE LIMITED,1531,DOUGLAS,300000,Details
+FR184190,3-0,2011-04-06 14:38:50.597,Completed,France,121,IBERDROLA GENERACION,1196,LA CASTA MUNOA,Spain,121,"Iberdrola Generación, S.A.U. - Cuenta de persona",859,"Iberdrola Generación Térmica, S.L.",40000,Details
+FR184189,3-0,2011-04-06 14:37:45.791,Completed,France,121,IBERDROLA GENERACION,1196,LA CASTA MUNOA,Spain,121,"Iberdrola Generación, S.A.U. - Cuenta de persona",859,"Iberdrola Generación Térmica, S.L.",30000,Details
+GB50409,4-0,2011-04-06 14:37:09.254,Completed,United Kingdom,121,Pure Leapfrog,1046,PURE LEAPFROG,United Kingdom,230,2008-2012 Voluntary Cancellation Account,753,"Department for Business, Energy & Industrial Strategy",1630,Details
+GB50408,10-2,2011-04-06 14:37:08.379,Completed,United Kingdom,120,BAE SYSTEMS - Woodford,359,BAE Systems Plc,United Kingdom,,,,,7086,Details
+FR184188,3-0,2011-04-06 14:36:33.337,Completed,France,121,IBERDROLA GENERACION,1196,LA CASTA MUNOA,Spain,121,"Iberdrola Generación, S.A.U. - Cuenta de persona",859,"Iberdrola Generación Térmica, S.L.",207000,Details
+BE8058,3-0,2011-04-06 12:17:52.947,Completed,Belgium,121,902 Carmeuse SA,347,Carmeuse,United Kingdom,121,BNP Paribas,785,BNP Paribas,100000,Details
+BE8057,10-2,2011-04-06 12:15:05.151,Completed,Belgium,120,208 Gassco AS - Zeepipe Terminal,768,Gassco AS,Belgium,100,Cpt Holding Emetteur pour la restitution,3,Belgium,6611,Details
+ES1049352,10-2,2011-04-06 12:11:59.197,Completed,Spain,120,Roquette Laisa España,567,"Roquette Laisa España, S.A.",Spain,100,Cuenta de entrega fase 2008-2012,3,Oficina Española de Cambio Climático,90210,Details
+PL18482,10-2,2011-04-06 12:07:55.581,Completed,Poland,120,ELEKTROCIEPŁOWNIA,773,Przed. Termicznej Utylizacji Odpadów RATAR,Poland,100,Krajowy rachunek umorzenia,3,POLSKA,15522,Details
+NO1062,3-0,2011-04-06 12:06:34.02,Completed,Norway,120,A/S Norske Shell Ormen Lange landanlegg,88,A/S Norske Shell,United Kingdom,120,Nelson,61,Shell UK Limited,1011,Details
+NO1061,3-0,2011-04-06 12:06:13.396,Completed,Norway,120,A/S Norske Shell Draugenfeltet,87,A/S Norske Shell,United Kingdom,120,Nelson,61,Shell UK Limited,25,Details
+PL18481,10-2,2011-04-06 12:05:47.508,Completed,Poland,120,ELEKTROCIEPŁOWNIA,773,Przed. Termicznej Utylizacji Odpadów RATAR,Poland,100,Krajowy rachunek umorzenia,3,POLSKA,1873,Details
+FR184155,10-0,2011-04-06 12:03:39.672,Completed,France,121,BlueNext Détention,1351,BlueNext SA,France,121,Deutsche Bank AG London Branch,1499,HURST,100000,Details
+FR184154,10-0,2011-04-06 12:02:31.199,Completed,France,121,MERMBLUENEXT,1479,MAYNARD,France,121,BlueNext Détention,1351,BlueNext SA,100000,Details
+ES1049351,10-0,2011-04-06 12:00:12.179,Completed,Spain,120,"Cerámica los Asperones, S.C.A.",129,Cerámica los Asperones S.C.A.,Spain,121,"C.M. CAPITAL MARKETS HOLDING, S.A.",1008404,"C.M. CAPITAL MARKETS HOLDING, S.A.",2390,Details
+IT26615,3-0,2011-04-06 11:58:34.243,Completed,Italy,120,Operator Account,1763,ALCE S.p.A.,Spain,121,"Sistema Europeo de Negociación de Co2, S.L.",852,"SISTEMA EUROPEO DE NEGOCIACIÓN DE CO2, S.L.",823,Details
+GB50387,10-2,2011-04-06 11:54:37.076,Completed,United Kingdom,120,Operator Account,398,University Hospitals Birmingham NHS foundation Trust,United Kingdom,,,,,7133,Details
+GB50386,10-0,2011-04-06 11:52:50.072,Completed,United Kingdom,121,Shell Trading International Ltd. (STIL),754,Shell Trading International Limited,United Kingdom,,,,,50,Details
+GB50385,10-0,2011-04-06 11:52:37.98,Completed,United Kingdom,121,MACQEFPCAR,2472,Macquarie Bank Limited,United Kingdom,,,,,4250000,Details
+IT26614,3-0,2011-04-06 11:52:25.892,Completed,Italy,120,Operator Account,1846,LEDOGA SRL,Spain,121,"Sistema Europeo de Negociación de Co2, S.L.",852,"SISTEMA EUROPEO DE NEGOCIACIÓN DE CO2, S.L.",13696,Details
+DK581487,10-2,2011-04-06 11:51:31.106,Completed,Denmark,120,Sundholm Varmec,345,HOFOR Fjernvarme P/S,Denmark,100,DK virk.retur.,4070,Energistyrelsen,7037,Details
+DK581486,10-2,2011-04-06 11:50:22.188,Completed,Denmark,120,Østre Varme,344,HOFOR Fjernvarme P/S,Denmark,100,DK virk.retur.,4070,Energistyrelsen,6392,Details
+DK581485,10-2,2011-04-06 11:48:27.396,Completed,Denmark,120,Lygten Varme,343,HOFOR Fjernvarme P/S,Denmark,100,DK virk.retur.,4070,Energistyrelsen,9571,Details
+SE12964,10-0,2011-04-06 11:46:47.189,Completed,Sweden,120,Biostor,830,Skellefteå Kraft AB,Sweden,,,,,1000,Details
+DK581484,10-0,2011-04-06 11:44:27.428,Completed,Denmark,121,KE Varme P/S,488,HOFOR Fjernvarme P/S,Denmark,120,Lygten Varme,343,HOFOR Fjernvarme P/S,6988,Details
+ES1049335,10-2,2011-04-06 08:56:10.249,Completed,Spain,120,"Técnicas de Cogeneración de Silla, S.L.",568,"Técnicas de Cogeneración de Silla,S.L.",Spain,100,Cuenta de entrega fase 2008-2012,3,Oficina Española de Cambio Climático,11128,Details
+DE104104,10-2,2011-04-06 08:55:57.096,Completed,Germany,120,760 - Anlagenkonto,760,AIRBUS HELICOPTERS Deutschland GmbH,Germany,100,Nationalkonto - Abgabe,3,Deutschland,8458,Details
+RO4504,10-2,2011-04-06 08:54:40.041,Completed,Romania,120,lazarsrl,385,SC LAZAR SRL,Romania,,,,,230,Details
+NL19139,10-2,2011-04-06 08:54:09.822,Completed,Netherlands,120,DSM Delft Permit B.V.,78,DSM Delft Permit B.V.,Netherlands,,,,,47171,Details
+NL19138,10-2,2011-04-06 08:49:51.728,Completed,Netherlands,120,Chemelot,76,Chemelot Site Permit B.V.,Netherlands,,,,,3174699,Details
+BG1373,10-0,2011-04-06 08:47:15.829,Completed,Bulgaria,121,FIB AD,238,First Investment bank AD,Bulgaria,,,,,29000,Details
+CZ13560,10-0,2011-04-06 08:32:01.469,Completed,Czech Republic,120,Plzeňská teplárenská - Výtopna Doubravka,81,"Plzeňská teplárenská, a.s.",Czech Republic,120,Plzeňská teplárenská - centrální zdroj tepla Plzeň,83,"Plzeňská teplárenská, a.s.",690,Details
+GB50361,10-0,2011-04-06 08:26:00.15,Completed,United Kingdom,121,CFP Energy Limited,1983,CFP Energy Limited,United Kingdom,,,,,800,Details
+DE104103,10-2,2011-04-06 08:23:44.593,Completed,Germany,120,606 - Anlagenkonto,606,Kimberly-Clark GmbH,Germany,100,Nationalkonto - Abgabe,3,Deutschland,6566,Details
+DE104102,10-2,2011-04-06 08:22:51.491,Completed,Germany,120,370 - Anlagenkonto,370,Westerwälder Blumentopf-Fabrik Spang GmbH & Co. KG,Germany,100,Nationalkonto - Abgabe,3,Deutschland,12107,Details
+CZ13559,10-2,2011-04-06 08:18:56.925,Completed,Czech Republic,120,Plzeňská teplárenská - centrální zdroj tepla Plzeň,83,"Plzeňská teplárenská, a.s.",Czech Republic,100,Účet pro odevzdání,3,ČESKÁ REPUBLIKA,80000,Details
+DE104101,10-0,2011-04-06 08:17:49.303,Completed,Germany,121,1900 - UniCredit Bank AG,1900,UniCredit Bank AG,Germany,121,STEAG GmbH,1953,STEAG GmbH,19500,Details
+CZ13558,10-2,2011-04-06 08:17:14.801,Completed,Czech Republic,120,Plzeňská teplárenská - centrální zdroj tepla Plzeň,83,"Plzeňská teplárenská, a.s.",Czech Republic,100,Účet pro odevzdání,3,ČESKÁ REPUBLIKA,656794,Details
+CZ13557,10-2,2011-04-06 08:13:49.661,Completed,Czech Republic,120,Plzeňská teplárenská - Výtopna Doubravka,81,"Plzeňská teplárenská, a.s.",Czech Republic,100,Účet pro odevzdání,3,ČESKÁ REPUBLIKA,81,Details
+CZ13556,10-2,2011-04-06 07:59:52.986,Completed,Czech Republic,120,Vlastimil Bělák - cihelna,489,Vlastimil Bělák - cihelna Bořinov,Czech Republic,100,Účet pro odevzdání,3,ČESKÁ REPUBLIKA,392,Details
+PL18467,10-2,2011-04-06 07:11:25.59,Completed,Poland,120,Przedsiębiorstwo Ceramiki Budowlanej Ceramika Harasiuki Spółka z o.o.,630,Przedsiębiorstwo Ceramiki Budowlanej Ceramika Harasiuki Spółka z o.o.,Poland,100,Krajowy rachunek umorzenia,3,POLSKA,7,Details
+CDM11233,3-0,2011-04-06 07:06:44.503,Completed,CDM,110,,1000,,Denmark,121,26 hour Account (1 person to do the transfer),560,ØRSTED Salg & Service A/S,59908,Details
+PL18466,10-2,2011-04-06 07:06:43.669,Completed,Poland,120,Przedsiębiorstwo Ceramiki Budowlanej Ceramika Harasiuki Spółka z o.o.,630,Przedsiębiorstwo Ceramiki Budowlanej Ceramika Harasiuki Spółka z o.o.,Poland,100,Krajowy rachunek umorzenia,3,POLSKA,25,Details
+PL18465,10-2,2011-04-06 07:03:10.382,Completed,Poland,120,Przedsiębiorstwo Ceramiki Budowlanej Ceramika Harasiuki Spółka z o.o.,630,Przedsiębiorstwo Ceramiki Budowlanej Ceramika Harasiuki Spółka z o.o.,Poland,100,Krajowy rachunek umorzenia,3,POLSKA,21417,Details
+JP2920,3-0,2011-04-06 06:25:32.364,Completed,Japan,100,,33,,United Kingdom,121,Mitsui Bussan Commodities Ltd,1699,Mitsui Bussan Commodities Ltd,262676,Details
