@@ -11,7 +11,7 @@ headers = ["Transaction ID", "Transaction Type", "Transaction Date", "Transactio
 
 # Read the existing transaction IDs from the previously scraped CSV file
 try:
-	df_existing = pd.read_csv('TransactionsSansVerif.csv')
+	df_existing = pd.read_csv('Transactions.csv')
 	# df_existing = pd.read_csv('Transactions55K.csv')
 	existing_ids = set(df_existing['Transaction ID'].unique())
 	print("Found {} existing transaction IDs".format(len(existing_ids)))
@@ -94,7 +94,7 @@ try:
 	df = pd.DataFrame(data, columns=headers)
 	# remove empty rows
 	df = df.dropna(how='all')
-	file_name = f"TransactionsSansVerif.csv"
+	file_name = f"Transactions.csv"
 	df.to_csv(file_name, index=False, mode='a', header=not os.path.exists(file_name))
 except ValueError:
 	df = pd.DataFrame(columns=headers)
