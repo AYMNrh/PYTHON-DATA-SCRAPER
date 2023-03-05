@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU485219,10-36,2019-02-20 01:34:09.843,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,"SCA Mannheim, Zellstofffabrik",5021195,Essity Operations Mannheim GmbH,8296,Details
+EU485188,10-36,2019-02-20 01:34:09.574,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,320 - Anlagenkonto,5015672,ZIEGELWERK MARKT WALD GMBH,3622,Details
+EU485107,10-36,2019-02-20 01:34:09.36,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Walzwerk Ruhrort,5019170,ArcelorMittal Hochfeld GmbH,43585,Details
+EU485230,10-36,2019-02-20 01:34:09.344,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,4000 - Anlagenkonto,5013947,RWE Power Aktiengesellschaft,267251,Details
+EU485217,10-36,2019-02-20 01:34:09.23,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Greece,100,DEIAMYNT,5002481,ΔΕΗ Α.Ε,2112,Details
+EU485134,10-36,2019-02-20 01:34:08.989,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,FONDIUM Singen GmbH,5019266,FONDIUM Singen GmbH,107982,Details
+EU485091,10-36,2019-02-20 01:34:08.987,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Greece,100,EBZSER,5002453,ΕΛΛΗΝΙΚΗ ΒΙΟΜΗΧΑΝΙΑ ΖΑΧΑΡΗΣ ΑΕ,5368,Details
+EU485126,10-36,2019-02-20 01:34:08.95,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,FONDIUM Mettmann GmbH,5020087,Fondium Mettmann GmbH,98506,Details
+EU485100,10-36,2019-02-20 01:34:08.836,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,256 - Anlagenkonto,5015031,Gerresheimer Essen GmbH,36741,Details
+EU485187,10-36,2019-02-20 01:34:08.8,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,219 - Anlagenkonto,5014706,Ardagh Glass GmbH,11891,Details
+EU485017,10-36,2019-02-20 01:34:08.683,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Schmiedewerke Gröditz GmbH -Stahlwerk-,5015799,Schmiedewerke Gröditz GmbH,7777,Details
+EU485132,10-36,2019-02-20 01:34:08.607,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Braas GmbH - Werk Karstädt,5018505,BMI Deutschland GmbH,11597,Details
+EU485122,10-36,2019-02-20 01:34:08.494,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Werk  Bollstedt,5015964,Wienerberger GmbH,18580,Details
+EU485105,10-36,2019-02-20 01:34:08.262,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,25 - Anlagenkonto,5015213,BAYERNOIL Raffineriegesellschaft mbH,884277,Details
+EU485111,10-36,2019-02-20 01:34:07.889,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,512 - Anlagenkonto,5015269,Hollingsworth & Vose GmbH,1829,Details
+EU485106,10-36,2019-02-20 01:34:07.81,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,121 - Anlagenkonto,5014016,Dyckerhoff GmbH,518906,Details
+EU485131,10-36,2019-02-20 01:34:07.519,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Greece,100,LAKONASB,5002353,ΛΑΚΩΝΙΚΗ ΑΣΒΕΣΤΟΠΟΙΙΑ,6091,Details
+EU485090,10-36,2019-02-20 01:34:07.421,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Stoßofen,5018407,Stahlwerk Thüringen GmbH,54634,Details
+EU485098,10-36,2019-02-20 01:34:07.128,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,370 - Anlagenkonto,5016093,Westerwälder Blumentopf-Fabrik Spang GmbH & Co. KG,9387,Details
+EU484971,10-36,2019-02-20 01:34:07.115,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Grobblechwalzwerk 2 der DH,5013933,Aktien-Gesellschaft der Dillinger Hüttenwerke,206576,Details

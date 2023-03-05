@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU486557,10-36,2019-02-21 01:45:33.217,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Austria,100,Wienerberger Pinkafeld,5004092,Wienerberger Österreich GmbH,11430,Details
+EU486556,10-36,2019-02-21 01:45:04.102,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,655 - Anlagenkonto,5014089,Rauch Spanplattenwerk Gesellschaft mit beschränkter Haftung,16865,Details
+EU486613,10-36,2019-02-21 01:45:04.101,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Methanol-Fabrik,5017973,BASF SE,35339,Details
+EU486559,10-36,2019-02-21 01:45:04.1,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1286 - Anlagenkonto,5014590,CR3-Kaffeeveredelung M. Hermsen GmbH,16765,Details
+EU486422,10-36,2019-02-21 01:45:04.099,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1764 - Anlagenkonto,5015272,Energie SaarLorLux AG,26817,Details
+EU486552,10-36,2019-02-21 01:45:04.098,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,678 - Anlagenkonto,5014218,Stadtwerke Augsburg Energie GmbH,3905,Details
+EU486606,10-36,2019-02-21 01:45:04.097,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1381 - Anlagenkonto,5014724,Südwestdeutsche Salzwerke Aktiengesellschaft,19001,Details
+EU486708,10-36,2019-02-21 01:45:04.079,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1807 - Anlagenkonto,5015344,Stadtwerke Leipzig GmbH,50,Details
+EU486714,10-36,2019-02-21 01:44:48.04,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1175 - Anlagenkonto,5014434,Heizkraftwerk Halle-Trotha GmbH,15284,Details
+EU486605,10-36,2019-02-21 01:44:48.011,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Prüfstand 8,5021642,MTU Maintenance Berlin-Brandenburg GmbH,834,Details
+EU486617,10-36,2019-02-21 01:44:47.977,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,822 - Anlagenkonto,5015605,MEGGLE GmbH & Co. KG,49151,Details
+EU486707,10-36,2019-02-21 01:44:47.968,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,"Hamburger Rieger, PF Trostberg",5015780,Hamburger Rieger GmbH,49276,Details
+EU486412,10-36,2019-02-21 01:44:47.965,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1655 - Anlagenkonto,5015108,Bitburger Braugruppe GmbH,6513,Details
+EU486550,10-36,2019-02-21 01:44:47.955,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1557 - Anlagenkonto,5014970,HELLA GmbH & Co. KGaA,11414,Details
+EU486715,10-36,2019-02-21 01:44:47.625,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,934 - Anlagenkonto,5014015,Zwickauer Energieversorgung GmbH,3537,Details
+EU486555,10-36,2019-02-21 01:44:47.553,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1709 - Anlagenkonto,5015184,Kimberly-Clark GmbH,11843,Details
+EU486416,10-36,2019-02-21 01:44:47.55,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,KME Germany GmbH,5022019,KME Germany GmbH,25199,Details
+EU486705,10-36,2019-02-21 01:44:47.543,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Befesa Zinc Freiberg GmbH,5018453,Befesa Zinc Freiberg GmbH,99917,Details
+EU486702,10-36,2019-02-21 01:44:47.536,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Salpetersäure,5018634,SKW Stickstoffwerke Piesteritz GmbH,30640,Details
+EU486609,10-36,2019-02-21 01:44:47.534,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,HKW Charlottenburg,5014424,Vattenfall Wärme Berlin Aktiengesellschaft,28122,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU502850,10-2,2019-03-29 14:37:05.973,Completed,Latvia,100,Operator Account:LV6,5012073,A/S “Olaines udens un siltums”,European Commission,100,EU Allowance deletion,5016380,European Commission,4562,Details
+EU503035,10-0,2019-03-29 14:37:04.746,Completed,Romania,100,TDR Energy SRL,5024160,TDR Energy SRL,Slovenia,100,Belektron TRD Si,5016820,BELEKTRON d.o.o.,35000,Details
+EU503004,10-71,2019-03-29 14:36:31.064,Completed,Italy,100,Alitalia ETS aviation,5016641,Alitalia Società Aerea Italiana S.p.A.,European Commission,100,EU International Credit Account - Aviation,5022591,EUROPEAN COMMISSION,21887,Details
+EU502708,10-2,2019-03-29 14:30:42.867,Completed,France,100,BRUYERES et Fils,5005822,SEE BRUYERES et Fils,European Commission,100,EU Allowance deletion,5016380,European Commission,17683,Details
+EU500992,10-2,2019-03-29 14:25:48.706,Completed,Denmark,100,"KMC, Kartoffelmelcentralen, AMBA",5022735,"KMC, Kartoffelmelcentralen, AMBA",European Commission,100,EU Allowance deletion,5016380,European Commission,14163,Details
+EU503028,10-0,2019-03-29 14:25:20.973,Completed,Bulgaria,100,Saga Commodities AD,5017097,Saga Commodities EAD,United Kingdom,100,Gazprom Marketing & Trading (TRADING ACCOUNT),5017318,Gazprom Marketing & Trading Limited,1310,Details
+EU503010,10-0,2019-03-29 14:23:47.238,Completed,Netherlands,100,Macquarie Bank Limited,5027924,Macquarie Bank Limited,Netherlands,100,LYB TC,5011220,LYB Trading Company B.V.,200000,Details
+EU502185,10-0,2019-03-29 14:23:10.813,Completed,Italy,100,OSTIGLIA,5013395,EP Produzione S.p.A.,Italy,100,TAVAZZANO,5013398,EP Produzione S.p.A.,1230505,Details
+EU503007,10-0,2019-03-29 14:22:37.881,Completed,Netherlands,100,Macquarie Bank Limited,5027924,Macquarie Bank Limited,Portugal,100,7108-EDP - Energias de portugal S.A.,5003348,EDP - Energias de portugal S.A.,250000,Details
+EU502189,10-0,2019-03-29 14:21:49.766,Completed,Italy,100,OSTIGLIA,5013395,EP Produzione S.p.A.,Italy,100,TRAPANI,5013397,EP Produzione S.p.A.,12727,Details
+SE32853,4-0,2019-03-29 14:20:32.018,Completed,Sweden,121,2050 - CERs,5021934,2050 Consulting AB,Sweden,230,Frivillig annullering 2013-2020,5019008,Sveriges kontoföringsmyndighet,136,Details
+EU502195,10-0,2019-03-29 14:20:30.787,Completed,Italy,100,OSTIGLIA,5013395,EP Produzione S.p.A.,Italy,100,FIUMESANTO,5013401,Fiume Santo S.p.A.,3159654,Details
+EU502220,10-0,2019-03-29 14:19:27.638,Completed,United Kingdom,100,Humbly Grove Energy Limited,5007913,Humbly Grove Energy Limited,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,62900,Details
+EU503003,10-2,2019-03-29 14:17:51.053,Completed,Germany,100,KME Germany GmbH,5022019,KME Germany GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,18092,Details
+EU502198,10-0,2019-03-29 14:17:45.121,Completed,Italy,100,OSTIGLIA,5013395,EP Produzione S.p.A.,Italy,100,Centrale Livorno Ferraris,5012979,EP Produzione Centrale Livorno Ferraris S.p.A.,1049559,Details
+EU503018,10-2,2019-03-29 14:17:22.033,Completed,Denmark,100,Nordic S Nykøb,5006459,Nordic Sugar A/S,European Commission,100,EU Allowance deletion,5016380,European Commission,74769,Details
+EU503017,10-0,2019-03-29 14:14:24.21,Completed,Germany,100,Bayern LB,5016942,Bayerische Landesbank,Germany,100,Stadtwerke Osnabrück AG,5013826,Stadtwerke Osnabrück AG,10000,Details
+EU502993,10-2,2019-03-29 14:14:03.117,Completed,Austria,100,SPARFELL Luftfahrt GmbH,5027798,Sparfell Luftfahrt GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,6645,Details
+EU502015,10-2,2019-03-29 14:08:03.465,Completed,Denmark,100,NordicS Nakskov,5006460,Nordic Sugar A/S,European Commission,100,EU Allowance deletion,5016380,European Commission,82648,Details
+EU502854,10-2,2019-03-29 14:04:32.716,Completed,Romania,100,SC Prefab Construct SRL,5010121,SC Prefab Construct SRL,European Commission,100,EU Allowance deletion,5016380,European Commission,1439,Details

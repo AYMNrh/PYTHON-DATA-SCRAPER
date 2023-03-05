@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU490321,10-36,2019-02-27 01:32:42.843,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,DC Horsens:DK243,5006235,Danish Crown A/S,5210,Details
+EU490302,10-36,2019-02-27 01:32:42.827,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Poland,100,Huta Szkła w Sierakowie,5003795,BA GLASS POLAND SP. Z O.O.,8904,Details
+EU490325,10-36,2019-02-27 01:32:42.722,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Poland,100,Wanny szklarskie,5026247,Irena Holding Group Sp. z o.o.,8199,Details
+EU490309,10-36,2019-02-27 01:32:42.673,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,"Roskilde Varme, Hovedcentralen",5006187,FORS Varme Roskilde A/S,456,Details
+EU490305,10-36,2019-02-27 01:32:42.597,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Rockwool Doense,5006464,ROCKWOOL Danmark A/S,43182,Details
+EU490303,10-36,2019-02-27 01:32:42.44,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Hvide Sande V,5006449,Hvide Sande Fjernvarme A.m.b.a.,3440,Details
+EU490494,10-36,2019-02-27 01:32:42.426,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Hungary,100,Mercedes-BMH,5011911,Mercedes-Benz Manufacturing Hungary Kft.,17990,Details
+EU490452,10-36,2019-02-27 01:32:42.409,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Ireland,100,Operator Account,5011953,Eli Lilly Kinsale Limited,8675,Details
+EU490300,10-36,2019-02-27 01:32:42.398,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Poland,100,Zakład Wytwarzania Bielsko Biała EC1 BC 50,5022038,TAURON Ciepło Sp. z o.o.,24556,Details
+EU490454,10-36,2019-02-27 01:32:42.372,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Hungary,100,Operator Account:HU170,5011797,RATH Hungária Tûzálló Kft,6304,Details
+EU490493,10-36,2019-02-27 01:32:42.358,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Hungary,100,Operator Account:HU231,5011856,Zoltek ZRt.,44188,Details
+EU490495,10-36,2019-02-27 01:32:42.328,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Austria,100,Kelag Wärme Linz Bindermichl,5004196,Kelag Energie & Wärme GmbH,98,Details
+EU490451,10-36,2019-02-27 01:32:42.265,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Tarco Vej,5006445,Munck Asfalt A/S,515,Details
+EU490319,10-36,2019-02-27 01:32:42.235,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Duferco Danish Steel A/S,5006418,DUFERCO DANISH STEEL A/S,9510,Details
+EU490498,10-36,2019-02-27 01:32:42.165,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Vedstaarup Tegl,5006189,Strøjer Tegl A/S,11849,Details
+EU490491,10-36,2019-02-27 01:32:42.119,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Kerteminde Fjv.,5006548,Kerteminde Forsyning - Varme A/S,58,Details
+EU490529,10-36,2019-02-27 01:32:42.101,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Gorm:DK68,5006322,TotalEnergies EP Danmark A/S,287556,Details
+EU490486,10-36,2019-02-27 01:32:41.793,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Helligsø Tegl,5006480,Egernsund Wienerberger Production A/S,4678,Details
+EU490453,10-36,2019-02-27 01:32:41.596,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Hvidovre Hospi,5006492,Region Hovedstaden,880,Details
+EU490459,10-36,2019-02-27 01:32:41.541,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Kgs. Vænge V C,5006407,Hillerød Varme A/S,655,Details

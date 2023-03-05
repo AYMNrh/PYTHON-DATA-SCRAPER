@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU487283,10-36,2019-02-22 01:35:10.928,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,FVC2 Fårbo,5001642,Västerbergslagens Energi AB,67,Details
+EU487406,10-36,2019-02-22 01:35:10.912,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,HVC Frövi,5001692,Linde Energi AB,33,Details
+EU487308,10-36,2019-02-22 01:35:10.903,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Rya Värmecentral,5002039,Göteborg Energi AB,7869,Details
+EU487296,10-36,2019-02-22 01:35:10.85,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Solna värmeverk,5002063,Norrenergi AB,16348,Details
+EU487314,10-36,2019-02-22 01:35:10.801,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,P11,5001887,Övik Energi AB,2472,Details
+EU487177,10-36,2019-02-22 01:35:10.723,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,PC Gråsparven,5002095,Oskarshamn Energi AB,1767,Details
+EU487318,10-36,2019-02-22 01:35:10.703,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Ahlström-Munksjö AB Billingsfors,5001546,Ahlstrom-Munksjö AB,15804,Details
+EU487405,10-36,2019-02-22 01:35:10.676,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Skärblacka bruk,5001426,BillerudKorsnäs Sweden AB,106551,Details
+EU487282,10-36,2019-02-22 01:35:10.628,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Nora PC,5002189,Solör Bioenergi Fjärrvärme AB,2695,Details
+EU487395,10-36,2019-02-22 01:35:10.625,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Oxelö Kalkverk,5001578,SMA Mineral AB,55649,Details
+EU487302,10-36,2019-02-22 01:35:10.565,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Slovenia,100,PAPVEVČE,5008649,PAPIRNICA VEVČE PROIZVODNJA d.o.o.,34050,Details
+EU487286,10-36,2019-02-22 01:35:10.563,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Tornbyverket,5002217,Tekniska Verken i Linköping AB,3020,Details
+EU487326,10-36,2019-02-22 01:35:10.545,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Jokkmokks Värmeverk AB,5001471,Jokkmokks Värmeverk AB,3055,Details
+EU487293,10-36,2019-02-22 01:35:10.526,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Johannes biobränsleanläggning,5002001,Gävle Kraftvärme AB,31055,Details
+EU487252,10-36,2019-02-22 01:35:10.478,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Slitefabriken,5001542,Cementa AB,1183746,Details
+EU487311,10-36,2019-02-22 01:35:10.477,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Hasselfors PC,5001411,Adven Energilösningar AB,4481,Details
+EU487396,10-36,2019-02-22 01:35:10.379,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Jordbro värmeverk,5002206,Vattenfall AB,33969,Details
+EU487285,10-36,2019-02-22 01:35:10.338,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Talja PC,5001561,Solör Bioenergi Öst AB,3907,Details
+EU487391,10-36,2019-02-22 01:35:10.334,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Slovenia,100,"PALOMA, d.d., Sladki Vrh",5008650,PALOMA D.D.,20875,Details
+EU487291,10-36,2019-02-22 01:35:10.285,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Slovenia,100,WIENERBERGER,5008639,"WIENERBERGER, d.o.o.",11219,Details

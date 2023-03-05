@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU492779,10-36,2019-03-01 01:30:53.846,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT5,5005996,AB Akmenes cementas,709102,Details
+EU492820,10-36,2019-03-01 01:30:53.779,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT43,5006034,UAB Raseiniu silumos tinklai,2765,Details
+EU492819,10-36,2019-03-01 01:30:50.271,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Cyprus,100,Operator Account:CY10,5012194,Electricity Authority of Cyprus,266860,Details
+EU492855,10-36,2019-03-01 01:30:50.265,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT37,5006028,AB Klaipedos mediena,13683,Details
+EU492839,10-36,2019-03-01 01:30:50.264,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Belgium,100,294 Knauf Visé,5004307,Knauf,6500,Details
+EU492856,10-36,2019-03-01 01:30:50.264,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT78,5006069,AB Kauno energija,3306,Details
+EU492833,10-36,2019-03-01 01:30:50.264,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,AB Roquette Amilina,5022077,AB Roquette Amilina,26026,Details
+EU492831,10-36,2019-03-01 01:30:50.264,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Panevezio RK-1:LT69,5006060,AB Panevezio energija,17040,Details
+EU492828,10-36,2019-03-01 01:30:50.263,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT62,5006053,UAB Taurages silumos tinklai,4290,Details
+EU492830,10-36,2019-03-01 01:30:50.263,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT80,5006071,UAB Plunges silumos tinklai,4232,Details
+EU492857,10-36,2019-03-01 01:30:50.261,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT34,5006025,UAB Lietuvos cukraus fabrikas,11899,Details
+EU492843,10-36,2019-03-01 01:30:50.261,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT94,5006085,UAB Kretingos silumos tinklai,2725,Details
+EU492818,10-36,2019-03-01 01:30:50.26,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT60,5006051,UAB Radviliskio siluma,4408,Details
+EU492845,10-36,2019-03-01 01:30:50.26,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT18,5006009,AB ORLEN Lietuva,1280122,Details
+EU492823,10-36,2019-03-01 01:30:50.259,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator account (stone wool production):LT127,5006104,UAB Paroc,31585,Details
+EU492817,10-36,2019-03-01 01:30:50.255,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Oprator Account:LT82,5006073,UAB Litesko,9522,Details
+EU492844,10-36,2019-03-01 01:30:50.252,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Cyprus,100,Operator Account:CY15,5012199,Kyriakos Chrysafis,6560,Details
+EU492825,10-36,2019-03-01 01:30:50.251,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Rpkiskio RK:LT68,5006059,AB Panevezio energija,9729,Details
+EU492840,10-36,2019-03-01 01:30:50.25,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT46,5006037,UAB Moletu siluma,1961,Details
+EU492858,10-36,2019-03-01 01:30:50.25,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT81,5006072,UAB Birstono siluma,1588,Details

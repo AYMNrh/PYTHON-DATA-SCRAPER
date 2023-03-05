@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+CH26153,3-0,2019-04-30 16:27:41.59,Completed,Switzerland,100,,546,,Spain,100,"Global Factor Commodity Trading, S.A.U.",5016901,"Global Factor Commodity Trading, S.A.U.",1543,Details
+EU520654,10-2,2019-04-30 16:25:00.385,Completed,France,100,COGESTAR 3 - Mc Cain Matougues,5028069,COGESTAR 3,European Commission,100,EU Allowance deletion,5016380,European Commission,6621,Details
+EU520656,10-2,2019-04-30 16:23:57.972,Completed,France,100,COGESTAR 3 - CEA Saclay,5028083,COGESTAR 3,European Commission,100,EU Allowance deletion,5016380,European Commission,7563,Details
+EU520483,10-2,2019-04-30 16:23:56.391,Completed,France,100,NAVAL GROUP,5023286,NAVAL GROUP,European Commission,100,EU Allowance deletion,5016380,European Commission,2242,Details
+EU520711,10-2,2019-04-30 16:22:24.14,Completed,France,100,LE PANIER PROVENCAL,5005094,LE PANIER PROVENCAL,European Commission,100,EU Allowance deletion,5016380,European Commission,3071,Details
+EU520278,10-0,2019-04-30 16:21:14.436,Completed,Belgium,100,089 Electrabel Turbo Jet back up Cierreux,5004488,Electrabel,Belgium,100,0721 Electrabel - Gasturbines Langerlo,5028084,Electrabel,9895,Details
+EU520712,10-2,2019-04-30 16:10:32.032,Completed,France,100,FORGITAL DEMBIERMONT,5024029,SAS FORGITAL DEMBIERMONT,European Commission,100,EU Allowance deletion,5016380,European Commission,12181,Details
+EU520710,10-2,2019-04-30 16:07:41.04,Completed,France,100,Chaufferie Porte de Bâle,5005643,WEIBLEN IMMEUBLES SARL,European Commission,100,EU Allowance deletion,5016380,European Commission,2371,Details
+EU520707,10-2,2019-04-30 16:05:24.199,Completed,Italy,100,franzese,5013135,Franzese spa,European Commission,100,EU Allowance deletion,5016380,European Commission,561,Details
+EU520706,10-2,2019-04-30 16:04:11.928,Completed,Poland,100,SprintAir S.A.,5027336,SprintAir S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,3600,Details
+EU520709,10-72,2019-04-30 16:02:38.003,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,France,100,FORGITAL DEMBIERMONT,5024029,SAS FORGITAL DEMBIERMONT,991,Details
+EU520698,10-2,2019-04-30 16:02:36.245,Completed,France,100,Chaufferie Porte de Bâle,5005643,WEIBLEN IMMEUBLES SARL,European Commission,100,EU Allowance deletion,5016380,European Commission,2160,Details
+EU520700,10-71,2019-04-30 16:01:30.114,Completed,France,100,FORGITAL DEMBIERMONT,5024029,SAS FORGITAL DEMBIERMONT,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,991,Details
+EU520705,10-72,2019-04-30 15:59:49.07,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Italy,100,franzese,5013135,Franzese spa,561,Details
+EU520691,10-2,2019-04-30 15:58:56.416,Completed,Iceland,100,PCC BakkiSilicon hf.,5027273,PCC BakkiSilicon,European Commission,100,EU Allowance deletion,5016380,European Commission,50402,Details
+EU520689,10-71,2019-04-30 15:58:54.238,Completed,Italy,100,franzese,5013135,Franzese spa,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,561,Details
+EU520694,10-2,2019-04-30 15:57:40.696,Completed,France,100,SOBEGI MOURENX,5022478,SOBEGI,European Commission,100,EU Allowance deletion,5016380,European Commission,12018,Details
+EU520699,10-0,2019-04-30 15:57:18.468,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Netherlands,100,FUTURES CLIENT TRADING ACCOUNT,5027936,Macquarie Bank Limited,30000,Details
+EU520252,10-0,2019-04-30 15:55:49.097,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,France,100,Chaufferie Porte de Bâle,5005643,WEIBLEN IMMEUBLES SARL,2371,Details
+EU514756,10-2,2019-04-30 15:55:48.45,Completed,Portugal,100,FONT SALEM PORTUGAL,5023111,FONT SALEM PORTUGAL,European Commission,100,EU Allowance deletion,5016380,European Commission,6929,Details

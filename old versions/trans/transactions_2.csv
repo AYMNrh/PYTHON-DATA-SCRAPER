@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU480890,10-0,2019-01-16 12:27:35.946,Completed,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,55000,Details
+EU480929,10-0,2019-01-16 12:26:15.105,Completed,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,250000,Details
+EU480893,10-0,2019-01-16 12:23:14.41,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,570000,Details
+DE123623,3-0,2019-01-16 12:22:31.212,Completed,Germany,121,First Climate Markets AG,369,First Climate Markets AG,Germany,100,FutureCamp Climate GmbH Personenkonto,5016067,FutureCamp Climate GmbH,29119,Details
+EU480889,10-0,2019-01-16 12:21:10.536,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,511000,Details
+EU480901,10-0,2019-01-16 12:18:51.671,Completed,Spain,100,Wind to Market SA,5017211,"WIND TO MARKET, S.A.",Poland,100,CRB Energia,5022867,CRB Energia Spółka z ograniczoną odpowiedzialnością,1500,Details
+EU480887,10-0,2019-01-16 12:18:21.569,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,100000,Details
+EU480886,10-0,2019-01-16 12:16:10.963,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,100000,Details
+EU480885,10-0,2019-01-16 12:14:04.515,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,50000,Details
+EU480910,10-0,2019-01-16 12:13:11.505,Completed,France,100,SOCIETE GENERALE,5017623,SOCIETE GENERALE,Italy,100,Hera Trading,5012843,Hera Trading S.r.L.,3000,Details
+EU480902,10-0,2019-01-16 12:11:54.414,Completed,France,100,SOCIETE GENERALE,5017623,SOCIETE GENERALE,Czech Republic,100,"Komerční banka, a.s. obchodní účet",5016819,"Komerční banka, a.s.",13000,Details
+EU480771,10-0,2019-01-16 12:11:29.087,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Netherlands,100,Stichting VU,5011413,Stichting VU,30560,Details
+EU480756,10-0,2019-01-16 12:09:54.977,Completed,Italy,100,RADEN01,5012424,Geoenergie S.p.A.,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,5000,Details
+EU480774,10-0,2019-01-16 12:09:16.904,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Netherlands,100,Stichting VU,5011413,Stichting VU,2362,Details
+EU480749,10-0,2019-01-16 12:08:02.974,Completed,Germany,100,911 - Anlagenkonto,5013931,Energieversorgung Offenbach AG,Germany,100,966 - Anlagenkonto,5014079,Energieversorgung Offenbach AG,50000,Details
+EU480765,10-0,2019-01-16 12:07:29.355,Completed,Germany,100,ECC AG Auction Delivery Account EU,5016991,European Commodity Clearing AG,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,2495000,Details
+EU480744,10-0,2019-01-16 12:07:22.474,Completed,United Kingdom,100,Chevron Products UK Limited,5008411,Chevron Products UK Limited,United Kingdom,100,Alba FSU,5007099,Ithaca Oil and Gas Limited,6690,Details
+EU480764,10-0,2019-01-16 12:06:17.011,Completed,Germany,100,2060 - DB Energie GmbH Personenkonto,5015633,DB Energie GmbH,Germany,100,RWEST GmbH IS Trading Account,5016831,RWE Supply & Trading GmbH,74400,Details
+EU480748,10-0,2019-01-16 12:06:05.321,Completed,United Kingdom,100,Chevron Products UK Limited,5008411,Chevron Products UK Limited,United Kingdom,100,Captain Wellhead,5007103,Ithaca Energy (UK) Limited,64600,Details
+EU480697,10-0,2019-01-16 12:05:00.358,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,25000,Details

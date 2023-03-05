@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU484489,10-0,2019-02-26 13:29:59.251,Completed,Denmark,100,Hillerød Kraftvarmeværk:DK294,5006380,Hillerød Kraftvarme Aps,Denmark,100,Kgs. Vænge V C,5006407,Hillerød Varme A/S,762,Details
+EU488110,10-0,2019-02-26 13:29:38.257,Completed,United Kingdom,100,VYNOVA Runcorn Limited,5026002,VYNOVA Runcorn Limited,Germany,100,INEOS Vinyls VCM-Anlage,5019470,VYNOVA Wilhelmshaven GmbH,15271,Details
+EU489958,10-0,2019-02-26 13:29:12.937,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Belgium,100,390 BASF DOW HPPO Production BVBA,5020608,BASF DOW HPPO Production,3522,Details
+EU490028,10-0,2019-02-26 13:29:12.73,Completed,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,United Kingdom,100,Trading EUA/EUAA,5017039,ICE Clear Europe Ltd,55000,Details
+EU485474,10-0,2019-02-26 13:27:59.895,Completed,Denmark,100,Hillerød Kraftvarmeværk:DK294,5006380,Hillerød Kraftvarme Aps,Denmark,100,Rugmarken Central:DK5,5006139,Farum Fjernvarme A M B A,11942,Details
+EU489960,10-0,2019-02-26 13:27:48.605,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Spain,100,"BASF Sonatrach Propanchem, S.A. Planta PDH",5020158,"BASF Sonatrach Propanchem, S.A. Planta PDH",4215,Details
+EU490033,10-0,2019-02-26 13:27:09.939,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Spain,100,"Sales Monzón, S.A.",5009881,"Sales Monzón, S.A.",4000,Details
+EU490031,10-0,2019-02-26 13:26:22.165,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Spain,100,"Seda Outspan Iberia, S.L.",5009143,"Seda Outspan Iberia, S.L.",12000,Details
+EU490030,10-0,2019-02-26 13:25:32.824,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Hungary,100,Operator Account:HU190,5011816,Szombathelyi Távhõszolgáltató Kft.,1000,Details
+EU490044,10-0,2019-02-26 13:25:02.896,Completed,Romania,100,TDR Energy SRL,5024160,TDR Energy SRL,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,16000,Details
+EU489962,10-0,2019-02-26 13:24:40.051,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Germany,100,GASCADE Gesellschaftskonto,5016977,GASCADE Gastransport GmbH,269,Details
+EU490027,10-0,2019-02-26 13:24:38.466,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,France,100,Production et distribution de chaleur,5005529,TARANIS DU ROUVRAY,5000,Details
+EU490047,10-0,2019-02-26 13:23:51.423,Completed,Poland,100,mBank S.A.,5023148,mBank S.A.,Poland,100,CIEPŁOWNIA,5003642,"""Ciepłownia Łańcut"" Sp. z o.o.",2000,Details
+EU490024,10-0,2019-02-26 13:23:23.599,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Italy,100,Trading Account,5017215,Tirreno Power SpA,15000,Details
+EU490022,10-0,2019-02-26 13:22:32.919,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Poland,100,Zakład Ciepłowniczy Brzeszcze,5003832,WĘGLOKOKS ENERGIA NSE sp. z o.o.,15000,Details
+EU489963,10-0,2019-02-26 13:21:47.979,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Belgium,100,1281 BASF Antwerpen - 127a,5020269,B.A.S.F. Antwerpen,788,Details
+EU488102,10-0,2019-02-26 13:21:39.785,Completed,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,Italy,100,Operator Account,5013678,SICEM SAGA SPA,3000,Details
+EU490019,10-0,2019-02-26 13:21:33.346,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Poland,100,ELEKTROCIEPŁOWNIA MIKOŁAJ,5003588,WĘGLOKOKS ENERGIA ZCP sp. z o.o.,15000,Details
+EU490015,10-0,2019-02-26 13:20:45.66,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Germany,100,508 - Anlagenkonto,5015221,Mercer Rosenthal GmbH,20000,Details
+EU489949,10-0,2019-02-26 13:20:34.448,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Germany,100,Steamreforminganlage,5018031,BASF Schwarzheide GmbH,1652,Details

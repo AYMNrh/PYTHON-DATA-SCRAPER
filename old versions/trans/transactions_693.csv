@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU506839,10-2,2019-04-05 09:30:10.996,Completed,Finland,100,Naantali:FI47,5010830,Fingrid Oyj,European Commission,100,EU Allowance deletion,5016380,European Commission,241,Details
+EU506834,10-2,2019-04-05 09:29:30.028,Completed,Finland,100,Huutokoski:FI43,5010826,Fingrid Oyj,European Commission,100,EU Allowance deletion,5016380,European Commission,1060,Details
+EU506837,10-2,2019-04-05 09:28:29.869,Completed,Finland,100,Kristiina:FI45,5010828,Fingrid Oyj,European Commission,100,EU Allowance deletion,5016380,European Commission,356,Details
+EU506843,10-2,2019-04-05 09:28:08.349,Completed,Finland,100,Tolkkinen:FI49,5010832,Fingrid Oyj,European Commission,100,EU Allowance deletion,5016380,European Commission,472,Details
+EU506842,10-2,2019-04-05 09:26:35.003,Completed,Finland,100,Tahkoluoto:FI48,5010831,Fingrid Oyj,European Commission,100,EU Allowance deletion,5016380,European Commission,329,Details
+EU506844,10-2,2019-04-05 09:26:29.838,Completed,Finland,100,Vanaja:FI50,5010833,Fingrid Oyj,European Commission,100,EU Allowance deletion,5016380,European Commission,325,Details
+EU507017,10-2,2019-04-05 09:24:59.556,Completed,Sweden,100,Lindåsen,5001960,Laxåvärme AB,European Commission,100,EU Allowance deletion,5016380,European Commission,143,Details
+EU506781,10-2,2019-04-05 09:24:37.105,Completed,Spain,100,"Rockwool Peninsular, S.A.U",5022743,"Rockwool Peninsular, S.A.U",European Commission,100,EU Allowance deletion,5016380,European Commission,53717,Details
+EU506847,10-2,2019-04-05 09:24:26.534,Completed,Finland,100,Vaskiluoto:FI51,5010834,Fingrid Oyj,European Commission,100,EU Allowance deletion,5016380,European Commission,174,Details
+EU502505,10-2,2019-04-05 09:23:09.461,Completed,Germany,100,1754 - Anlagenkonto,5015256,Emsland Food GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,65342,Details
+EU507032,10-72,2019-04-05 09:22:31.853,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,Eisengießerei,5020070,Buderus Guss GmbH,4461,Details
+EU506990,10-2,2019-04-05 09:22:31.168,Completed,France,100,IC SAS,5005797,INTERNATIONAL COOKWARE,European Commission,100,EU Allowance deletion,5016380,European Commission,14133,Details
+EU506603,10-2,2019-04-05 09:21:51.869,Completed,France,100,CERDIA FRANCE SAS - Roussillon,5021384,CERDIA FRANCE SAS,European Commission,100,EU Allowance deletion,5016380,European Commission,51918,Details
+EU503884,10-2,2019-04-05 09:21:49.772,Completed,France,100,ETABLISSEMENTS BOCAHUT SA,5004756,BOCAHUT SAS,European Commission,100,EU Allowance deletion,5016380,European Commission,119873,Details
+EU506988,10-71,2019-04-05 09:21:26.795,Completed,Germany,100,Eisengießerei,5020070,Buderus Guss GmbH,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,4461,Details
+EU502509,10-2,2019-04-05 09:21:25.703,Completed,Germany,100,1756 - Anlagenkonto,5015259,Emsland-Stärke Gesellschaft mit beschränkter Haftung,European Commission,100,EU Allowance deletion,5016380,European Commission,16674,Details
+EU506610,10-2,2019-04-05 09:21:16.255,Completed,Poland,100,ELEKTROCIEPŁOWNIA,5002796,Grupa Azoty Zakłady Azotowe Kędzierzyn Spółka Akcyjna,European Commission,100,EU Allowance deletion,5016380,European Commission,470628,Details
+EU507026,10-72,2019-04-05 09:20:06.703,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,AFK-Geothermie GmbH,5026280,AFK-Geothermie GmbH,582,Details
+EU502512,10-2,2019-04-05 09:20:00.756,Completed,Germany,100,1759 - Anlagenkonto,5015263,Emsland-Stärke Gesellschaft mit beschränkter Haftung,European Commission,100,EU Allowance deletion,5016380,European Commission,6708,Details
+EU506633,10-2,2019-04-05 09:19:16.981,Completed,Poland,100,ZAK Spółka Akcyjna,5019444,Grupa Azoty Zakłady Azotowe Kędzierzyn Spółka Akcyjna,European Commission,100,EU Allowance deletion,5016380,European Commission,809542,Details

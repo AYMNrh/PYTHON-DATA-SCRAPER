@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU488036,10-0,2019-02-25 11:02:15.594,Completed,Germany,100,RWEST GmbH Trading Account,5016830,RWE Supply & Trading GmbH,Germany,100,innogy SE,5017191,innogy SE,67000,Details
+EU488003,10-0,2019-02-25 11:01:52.131,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Germany,100,Formaldehyd-Fabrik,5017968,BASF SE,3458,Details
+EU488059,10-0,2019-02-25 11:00:22.118,Completed,Germany,100,RWEST GmbH IS Trading Account,5016831,RWE Supply & Trading GmbH,Germany,100,517 - Anlagenkonto,5015319,Papierfabrik Palm GmbH & Co.KG,50000,Details
+EU488069,10-0,2019-02-25 10:59:45.303,Completed,Hungary,100,MOL Commodity Trading Kft,5017387,MOL Commodity Trading Kft.,Croatia,100,Rafinerija nafte Rijeka,5021784,INA d.d.,15720,Details
+EU488004,10-0,2019-02-25 10:59:43.947,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Germany,100,Salpetersäure-Fabrik,5017958,BASF SE,17650,Details
+EU488005,10-0,2019-02-25 10:58:38.099,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Germany,100,Spaltschwefelsäure-Fabrik,5017953,BASF SE,2446,Details
+EU488007,10-0,2019-02-25 10:57:46.071,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Germany,100,Ammoniak-Fabrik 4,5017961,BASF SE,40410,Details
+EU488008,10-0,2019-02-25 10:56:52.5,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Germany,100,Anolon-Fabrik,5017971,BASF SE,511,Details
+EU488011,10-0,2019-02-25 10:55:54.262,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Germany,100,Natriumcarboxylat/Soda-Anlage,5018026,BASF SE,3509,Details
+EU488071,10-0,2019-02-25 10:54:49.522,Completed,Hungary,100,MOL Commodity Trading Kft,5017387,MOL Commodity Trading Kft.,Croatia,100,Rafinerija nafte Sisak,5021823,INA d.d.,12100,Details
+EU488013,10-0,2019-02-25 10:54:33.329,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Germany,100,Acrylsäure-Fabrik II,5017970,BASF SE,3220,Details
+EU488073,10-0,2019-02-25 10:53:29.065,Completed,Hungary,100,MOL Commodity Trading Kft,5017387,MOL Commodity Trading Kft.,Croatia,100,Objekti prerade plina Molve,5021973,INA d.d.,1288,Details
+EU488014,10-0,2019-02-25 10:53:29.036,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Germany,100,Acrylmonomere Nord,5018016,BASF SE,4333,Details
+EU488074,10-0,2019-02-25 10:52:07.804,Completed,Hungary,100,MOL Commodity Trading Kft,5017387,MOL Commodity Trading Kft.,Croatia,100,Objekti frakcionacije Ivanić Grad,5021972,INA d.d.,1432,Details
+EU488034,10-0,2019-02-25 10:50:28.741,Completed,Germany,100,Vattenfall Energy Trading GmbH,5017244,Vattenfall Energy Trading GmbH,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,115000,Details
+EU488016,10-0,2019-02-25 10:50:23.378,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Germany,100,Phthalsäureanhydrid-Fabrik,5017969,BASF SE,2156,Details
+EU488077,10-0,2019-02-25 10:48:54.312,Completed,Germany,100,Vattenfall Energy Trading GmbH,5017244,Vattenfall Energy Trading GmbH,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,1000000,Details
+EU488018,10-0,2019-02-25 10:48:54.277,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Germany,100,Synthesegasanlage-ab_2013,5017955,BASF SE,8677,Details
+EU488020,10-0,2019-02-25 10:47:39.97,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Germany,100,Wasserstoff-Anlage,5017956,BASF SE,9016,Details
+EU488024,10-0,2019-02-25 10:46:18.282,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Germany,100,Styrol-Fabrik,5017964,BASF SE,1517,Details

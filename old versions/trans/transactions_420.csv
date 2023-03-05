@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU511580,10-2,2019-04-12 15:59:18.353,Completed,France,100,POLYCHIM INDUSTRIE,5023205,POLYCHIM INDUSTRIE,European Commission,100,EU Allowance deletion,5016380,European Commission,1819,Details
+EU512587,10-0,2019-04-12 15:58:59.655,Completed,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,Czech Republic,100,"ČEZ, a.s. - obchodní účet",5016960,"ČEZ, a. s.",500000,Details
+EU512492,10-2,2019-04-12 15:58:48.341,Completed,Italy,100,Operator Account,5012462,ARDAGH GLASS ITALY S.R.L.,European Commission,100,EU Allowance deletion,5016380,European Commission,25735,Details
+EU512589,10-0,2019-04-12 15:57:35.803,Completed,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,Spain,100,"Repsol Trading, S.A.",5024180,"Repsol Trading, S.A",575000,Details
+EU510681,10-2,2019-04-12 15:56:27.085,Completed,Sweden,100,Östrands massafabrik,5001514,SCA Graphic Sundsvall AB,European Commission,100,EU Allowance deletion,5016380,European Commission,77206,Details
+EU512579,10-2,2019-04-12 15:56:21.555,Completed,Sweden,100,Ortvikens pappersbruk,5001516,SCA Graphic Sundsvall AB,European Commission,100,EU Allowance deletion,5016380,European Commission,22477,Details
+CH26068,3-0,2019-04-12 15:56:13.889,Completed,Switzerland,100,,546,,Spain,100,"Global Factor Commodity Trading, S.A.U.",5016901,"Global Factor Commodity Trading, S.A.U.",32000,Details
+EU512592,10-0,2019-04-12 15:54:30.044,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Belgium,100,27011.ASL Airlines Belgium,5000839,ASL Airlines Belgium,1000,Details
+EU511455,10-0,2019-04-12 15:54:01.959,Completed,Sweden,100,SCA Munksund AB,5001522,SCA Munksund AB,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,20000,Details
+EU512540,10-0,2019-04-12 15:53:37.589,Completed,United Kingdom,100,ABN AMRO Clearing Bank N.V,5017351,"ABN AMRO Clearing Bank N.V, London Branch",Denmark,100,Danske Commodities A/S,5017234,Danske Commodities A/S,1000,Details
+EU512598,10-0,2019-04-12 15:53:25.655,Completed,France,100,BNP PARIBAS,5027964,BNP PARIBAS,Germany,100,Vattenfall Energy Trading GmbH,5017244,Vattenfall Energy Trading GmbH,411000,Details
+EU512530,10-0,2019-04-12 15:53:14.007,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Portugal,100,GRES PANARIA PORTUGAL,5021764,GRES PANARIA PORTUGAL,872,Details
+EU512584,10-0,2019-04-12 15:52:20.845,Completed,United Kingdom,100,ABN AMRO Clearing Bank N.V,5017351,"ABN AMRO Clearing Bank N.V, London Branch",Denmark,100,Danske Commodities A/S,5017234,Danske Commodities A/S,4000,Details
+EU512533,10-0,2019-04-12 15:52:10.785,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Portugal,100,"GRES PANARIA, SA - LOVE TILES",5021772,GRES PANARIA PORTUGAL,1360,Details
+EU512593,10-0,2019-04-12 15:52:00.105,Completed,France,100,BNP PARIBAS,5027964,BNP PARIBAS,Italy,100,ENEL TRADE ITALIA,5016899,Enel Global Trading S.p.A.,67000,Details
+EU512568,10-0,2019-04-12 15:51:19.051,Completed,France,100,SOLVAY ENERGY SERVICES,5017277,SOLVAY ENERGY SERVICES,Italy,100,Solvay Massa,5019908,SOLVAY CHIMICA ITALIA SPA,1794,Details
+EU512573,10-0,2019-04-12 15:51:15.037,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Germany,100,Werk Deizisau - Real Alloy Germany GmbH,5020764,Real Alloy Germany GmbH,837,Details
+EU511547,10-0,2019-04-12 15:50:31.306,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Germany,100,Werk Grevenbroich - Real Alloy Germany GmbH,5020706,Real Alloy Germany GmbH,802,Details
+EU511549,10-0,2019-04-12 15:49:44.684,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Germany,100,Werk Töging - Real Alloy Germany GmbH,5020762,Real Alloy Germany GmbH,1876,Details
+EU512583,10-0,2019-04-12 15:49:41.169,Completed,France,100,SOLVAY ENERGY SERVICES,5017277,SOLVAY ENERGY SERVICES,Italy,100,Solvay Energy Services Italia Srl,5012924,SOLVAY CHIMICA ITALIA SPA,2782,Details

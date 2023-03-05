@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU499427,10-36,2019-03-22 01:33:01.077,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,Kerafrit S.A.,5009446,Kerafrit S.A.,9911,Details
+EU499239,10-36,2019-03-22 01:33:00.929,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,SVA6:FI606,5010645,Oy Turku Energia Åbo Energi Ab,13,Details
+EU499404,10-36,2019-03-22 01:33:00.833,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,Compañía Energética de Linares S.L,5008782,Compañía Energética de Linares S.L,28336,Details
+EU499231,10-36,2019-03-22 01:33:00.712,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Zumos Palma, SLU - Fábrica de Palma del Río",5020119,Zumos Palma S.L.U.,1802,Details
+EU499402,10-36,2019-03-22 01:33:00.651,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,CO2 Imatra Steel:FI127,5010910,Ovako Imatra Oy Ab,48706,Details
+EU499195,10-36,2019-03-22 01:33:00.582,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Niirala:FI217,5011000,Kuopion Energia Oy,124,Details
+EU499440,10-36,2019-03-22 01:33:00.529,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,Cerámicas Alonso S.L.- Planta 1,5009932,Cerámicas Alonso S.L.,8712,Details
+EU499196,10-36,2019-03-22 01:33:00.47,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Vuosaaren B-voimalaitos:FI117,5010900,Helen Oy,220820,Details
+EU499423,10-36,2019-03-22 01:33:00.445,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Sahatie:FI636,5010665,Taivalkosken Voima Oy,5836,Details
+EU499230,10-36,2019-03-22 01:33:00.421,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Soramäki:FI250,5011033,Lahti Energia Oy,91,Details
+EU499235,10-36,2019-03-22 01:33:00.293,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Ercros, S.A. - Fabrica de Vilaseca I",5009142,"Ercros, S.A.",10244,Details
+EU499431,10-36,2019-03-22 01:33:00.247,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Spain Ceramics World, S.L.",5021475,"Spain Ceramics World, S.L.",5908,Details
+EU499405,10-36,2019-03-22 01:33:00.204,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Junnikkala:FI653,5010677,Junnikkala Oy,3933,Details
+EU499409,10-36,2019-03-22 01:33:00.198,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Universal Cerámica, S.L.",5018181,"Universal Cerámica, S.L.",5252,Details
+EU499425,10-36,2019-03-22 01:33:00.162,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Olextra, S.A.",5008794,"Olextra, S.A.",25102,Details
+EU499429,10-36,2019-03-22 01:33:00.156,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Taminco Finland Oy,5010968,Taminco Finland Oy,2811,Details
+EU499198,10-36,2019-03-22 01:33:00.144,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,Cales de la Plana S.A,5009006,"Cales de la Plana, S.A.",39143,Details
+EU499236,10-36,2019-03-22 01:33:00.101,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Heineken España, S.A. - Quart de Poblet",5009718,"Heineken España, S.A.",3572,Details
+EU499436,10-36,2019-03-22 01:32:59.963,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"LafargeHolcim España, S.A.U.- Instalación de Villaluenga de la Sagra",5009793,"LafargeHolcim España, S.A.U.",522284,Details
+EU499437,10-36,2019-03-22 01:32:59.859,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Kurpanharjun lämpökeskus (FI-629),5010735,Loimua Oy,3,Details

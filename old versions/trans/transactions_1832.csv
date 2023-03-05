@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU482240,10-0,2019-01-31 14:50:22.477,Completed,Germany,100,ENGIE GLOBAL MARKETS,5016881,ENGIE Global Markets,France,100,ENGIE,5005254,ENGIE,9067,Details
+EU482239,10-0,2019-01-31 14:44:06.685,Completed,Germany,100,ENGIE GLOBAL MARKETS,5016881,ENGIE Global Markets,France,100,ENGIE,5005254,ENGIE,1707,Details
+EU482238,10-0,2019-01-31 14:36:14.419,Completed,France,100,SOLVAY ENERGY SERVICES,5017277,SOLVAY ENERGY SERVICES,Germany,100,Kandelium Barium Strontium GmbH & Co.KG,5018708,Kandelium Barium Strontium GmbH & Co. KG,6500,Details
+EU482225,10-0,2019-01-31 14:31:16.808,Completed,Spain,100,"COMPAÑÍA ESPAÑOLA DE PETROLEOS, S.A.U.",5017896,"Compañía Española de Petróleos, S.A.",United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,38000,Details
+EU482234,10-0,2019-01-31 14:21:07.437,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Poland,100,Elektrociepłownia Starogard,5003115,Elektrociepłownia Starogard Sp. z o.o.,1500,Details
+EU482235,10-0,2019-01-31 14:09:49.618,Completed,Germany,100,SWU Energie GmbH,5020207,SWU Energie GmbH,Germany,100,661 - Anlagenkonto,5014121,SWU Energie GmbH,4000,Details
+EU482228,4-0,2019-01-31 13:57:21.441,Completed,Germany,100,Vattenfall Energy Trading GmbH Account 2,5026064,Vattenfall Energy Trading GmbH,European Commission,230,EU Cancellation Account Period 2,5022673,EUROPEAN UNION,10888,Details
+EU482229,4-0,2019-01-31 13:52:11.66,Completed,Germany,100,Vattenfall Energy Trading GmbH Account 2,5026064,Vattenfall Energy Trading GmbH,European Commission,230,EU Cancellation Account Period 2,5022673,EUROPEAN UNION,18307,Details
+EU482232,10-0,2019-01-31 13:48:17.241,Completed,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,396000,Details
+EU482233,10-0,2019-01-31 13:43:49.562,Completed,Poland,100,mBank S.A.,5023148,mBank S.A.,Poland,100,ELEKTROCIEPŁOWNIA EC II,5002808,Grupa Azoty Zakłady Chemiczne POLICE S.A.,1903,Details
+EU482230,10-0,2019-01-31 13:40:49.566,Completed,Poland,100,mBank S.A.,5023148,mBank S.A.,Poland,100,CIEPŁOWNIA ZATORZE,5003299,Miejskie Przedsiębiorstwo Energetyki Cieplnej Spółka z o.o.,8000,Details
+EU482227,10-0,2019-01-31 13:36:49.608,Completed,Poland,100,mBank S.A.,5023148,mBank S.A.,Poland,100,ELEKTROCIEPŁOWNIA EC II,5002808,Grupa Azoty Zakłady Chemiczne POLICE S.A.,1203,Details
+EU482209,10-0,2019-01-31 13:22:32.706,Completed,France,100,MERCURIA ENERGY TRADING SA,5016876,MERCURIA ENERGY TRADING SA,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,35712,Details
+EU482212,10-0,2019-01-31 13:17:53.653,Completed,Poland,100,TAURON Polska Energia S.A.,5019474,TAURON Polska Energia S.A.,Poland,100,Zakład Wytwarzania Nowa,5003409,TAMEH Polska Sp. z o. o.,30000,Details
+EU482051,10-0,2019-01-31 13:10:45.674,Completed,Netherlands,100,BNP Paribas CIT London,5011501,BNP Paribas,Netherlands,100,BNP Paribas London Branch,5027681,BNP Paribas London Branch,10000000,Details
+EU482210,10-0,2019-01-31 13:04:57.515,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Ireland,100,Operator Account,5011963,Limerick Alumina Refining Limited,21911,Details
+EU482208,10-0,2019-01-31 13:02:30.579,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Ireland,100,Operator Account,5011960,Lakeland Dairies Co-operative Society Limited,8000,Details
+EU482167,10-0,2019-01-31 12:56:53.375,Completed,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,Germany,100,MAN Truck & Bus SE,5015714,MAN Truck & Bus SE,8264,Details
+EU482169,10-0,2019-01-31 12:56:04.062,Completed,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,Poland,100,mBank S.A.,5023148,mBank S.A.,9903,Details
+EU482172,10-0,2019-01-31 12:55:07.131,Completed,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,86000,Details

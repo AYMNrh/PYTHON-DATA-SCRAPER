@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU483863,10-0,2019-02-14 12:07:12.594,Completed,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,972000,Details
+EU483575,10-0,2019-02-14 12:07:03.471,Completed,Greece,100,EBZPLAT,5002452,ΕΛΛΗΝΙΚΗ ΒΙΟΜΗΧΑΝΙΑ ΖΑΧΑΡΗΣ ΑΕ,Greece,100,EBZ,5017000,ΕΛΛΗΝΙΚΗ ΒΙΟΜΗΧΑΝΙΑ ΖΑΧΑΡΗΣ ΑΕ,4000,Details
+EU483873,10-0,2019-02-14 12:06:22.955,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Poland,100,CIEPŁOWNIA,5002582,Zakład Energetyki Cieplnej w Łowiczu Sp. z o.o.,5000,Details
+EU483622,10-0,2019-02-14 12:05:54.456,Completed,Norway,100,Gassco AS Nyhamna prosessanlegg,5012264,Gassco AS,Norway,100,A/S Norske Shell Ormen Lange,5027143,A/S Norske Shell,24650,Details
+EU483566,10-0,2019-02-14 12:05:37.692,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,United Kingdom,100,Morgan Stanley Capital Group Inc,5017295,Morgan Stanley Capital Group Inc,50000,Details
+EU483865,10-0,2019-02-14 12:05:06.988,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,United Kingdom,100,CELTS Ltd,5021477,Caledonian Environmental Levenmouth Treatment Services Limited,2263,Details
+EU483866,10-0,2019-02-14 12:04:13.771,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,United Kingdom,100,Babcock Mission Critical Services Offshore,5016708,Babcock Mission Critical Services Offshore Limited,2829,Details
+EU483867,10-0,2019-02-14 12:03:35.165,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Greece,100,MOTOKOR,5016949,ΜΟΤΟΡ ΟΙΛ - Δ. ΚΟΡΙΝΘΟΥ,5000,Details
+EU483868,10-0,2019-02-14 12:02:19.433,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Portugal,100,"Transportes Aéreos Portugueses, S.A.",5000522,"Transportes Aéreos Portugueses, S.A.",40000,Details
+EU483573,10-0,2019-02-14 12:02:05.121,Completed,Greece,100,EBZORES,5002450,ΕΛΛΗΝΙΚΗ ΒΙΟΜΗΧΑΝΙΑ ΖΑΧΑΡΗΣ ΑΕ,Greece,100,EBZ,5017000,ΕΛΛΗΝΙΚΗ ΒΙΟΜΗΧΑΝΙΑ ΖΑΧΑΡΗΣ ΑΕ,6000,Details
+EU483872,10-0,2019-02-14 12:01:52.389,Completed,Finland,100,Trading 1,5023516,Fortum Power and Heat Oy,Finland,100,Gasum Consulting Oy,5018688,Gasum Consulting Oy,3000,Details
+EU483618,10-0,2019-02-14 12:01:28.675,Completed,Germany,100,ECC AG Auction Delivery Account EU,5016991,European Commodity Clearing AG,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,2495000,Details
+EU483569,10-0,2019-02-14 12:01:21.089,Completed,Sweden,100,Iggesunds bruk,5001478,Iggesund Paperboard AB,Sweden,100,"Holmen AB, Finansavdelning",5018526,Holmen AB,7349,Details
+EU483869,10-0,2019-02-14 12:00:37.419,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Cyprus,100,Operator Account:CY8,5012192,Electricity Authority of Cyprus,56104,Details
+EU483551,10-0,2019-02-14 12:00:33.515,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Ireland,100,Operator Account,5011945,Irving Oil Whitegate Refinery Limited,25000,Details
+EU483870,10-0,2019-02-14 11:56:00.451,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Poland,100,Elektrociepłownia PCC Rokita SA,5002783,PCC Rokita SA,1000,Details
+EU483778,10-2,2019-02-14 11:54:05.255,Completed,United Kingdom,100,VHB Runcton Nursery,5008308,Vitacress Herbs Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,11759,Details
+EU483855,10-0,2019-02-14 11:36:55.626,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,France,100,SUNDESHY- Site de Francheville,5022266,SUNDESHY,30000,Details
+EU483852,10-0,2019-02-14 11:35:31.388,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Spain,100,"Naturgy Energy Group, S.A.",5017187,"Naturgy Energy Group, S.A.",94000,Details
+EU483851,10-0,2019-02-14 11:34:15.663,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Germany,100,Axpo Solutions AG,5017149,AXPO Solutions AG,50000,Details

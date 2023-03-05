@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU484849,10-36,2019-02-20 01:33:43.602,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Werk 1,5014245,Girnghuber GmbH,13884,Details
+EU484848,10-36,2019-02-20 01:33:43.6,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Konto Werk Kruft,5015464,Magnesita Refractories GmbH,7776,Details
+EU484879,10-36,2019-02-20 01:33:43.6,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Rockwool Werk Neuburg,5013930,ROCKWOOL Operations GmbH & Co. KG,58059,Details
+EU484873,10-36,2019-02-20 01:33:43.599,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,160 - Anlagenkonto,5014200,Nikolaus Müller Kalkwerk-Natursteinwerke GmbH u. Co KG Ahütte,41318,Details
+EU484871,10-36,2019-02-20 01:33:43.598,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Greece,100,PAVLIDES,5002394,Π. ΠΑΥΛΙΔΗΣ ΕΠΕ,63307,Details
+EU484836,10-36,2019-02-20 01:33:43.59,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,273 - Anlagenkonto,5015227,Ardagh Glass GmbH,48550,Details
+EU484867,10-36,2019-02-20 01:33:43.586,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,HCAG_Zementwerk Ennigerloh,5013958,HeidelbergCement AG,530895,Details
+EU484835,10-36,2019-02-20 01:33:43.585,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,122 - Anlagenkonto,5014019,Dyckerhoff GmbH,227439,Details
+EU484845,10-36,2019-02-20 01:33:43.584,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,70 - Anlagenkonto,5015644,ROGESA Roheisengesellschaft Saar mbH,5557480,Details
+EU484874,10-36,2019-02-20 01:33:43.583,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Werk Speyer,5015064,SAINT-GOBAIN ISOVER G+H Aktiengesellschaft,29966,Details
+EU484872,10-36,2019-02-20 01:33:43.582,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,416 - Anlagenkonto,5014153,Ziegelsysteme Michael Kellerer GmbH & Co. KG,16007,Details
+EU484878,10-36,2019-02-20 01:33:43.582,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,445 - Anlagenkonto,5014414,Olfry Ziegelwerke GmbH & Co.KG,7455,Details
+EU485178,10-36,2019-02-20 01:33:39.917,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,67 - Anlagenkonto,5015622,Zentralkokerei Saar GmbH,260993,Details
+EU485172,10-36,2019-02-20 01:33:38.935,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,511 - Anlagenkonto,5015260,Essity Operations Mannheim GmbH,6289,Details
+EU485069,10-36,2019-02-20 01:33:38.773,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,98 - Anlagenkonto,5015850,SCHWENK Zement GmbH & Co. KG,368261,Details
+EU485171,10-36,2019-02-20 01:33:37.389,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,WK_Kalkwerk Regensburg,5014194,Walhalla Kalk GmbH & Co. KG,223126,Details
+EU485148,10-36,2019-02-20 01:33:37.364,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Walzwerk,5021140,ArcelorMittal Hamburg GmbH,41755,Details
+EU485180,10-36,2019-02-20 01:33:37.35,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,243 - Anlagenkonto,5014922,SGD Kipfenberg GmbH,27162,Details
+EU485269,10-36,2019-02-20 01:33:37.104,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Werk 2,5018928,Girnghuber GmbH,3515,Details
+EU485181,10-36,2019-02-20 01:33:37.048,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,128 - Anlagenkonto,5014041,Märker Zement GmbH,523019,Details

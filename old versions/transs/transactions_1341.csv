@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU490933,10-0,2019-02-28 10:00:27.355,Completed,United Kingdom,100,UBS AG,5027651,UBS AG,Germany,100,Bayern LB,5016942,Bayerische Landesbank,1000000,Details
+EU492453,10-2,2019-02-28 09:46:17.11,Completed,Germany,100,332 - Anlagenkonto,5015782,Refratechnik Ceramics GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,11808,Details
+EU492464,10-2,2019-02-28 09:43:29.305,Completed,Germany,100,925 - Anlagenkonto,5013986,Industriepark Nienburg GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,19908,Details
+EU483301,10-2,2019-02-28 08:56:13.709,Completed,Croatia,100,Belisce1884,5020318,DS Smith Belišće Croatia d.o.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,90313,Details
+EU492456,10-72,2019-02-28 08:55:04.911,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Croatia,100,Belisce1884,5020318,DS Smith Belišće Croatia d.o.o.,4013,Details
+EU483300,10-71,2019-02-28 08:54:12.024,Completed,Croatia,100,Belisce1884,5020318,DS Smith Belišće Croatia d.o.o.,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,4013,Details
+EU492451,10-72,2019-02-28 08:52:45.711,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Croatia,100,Belisce1884,5020318,DS Smith Belišće Croatia d.o.o.,51,Details
+EU483299,10-71,2019-02-28 08:51:53.07,Completed,Croatia,100,Belisce1884,5020318,DS Smith Belišće Croatia d.o.o.,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,51,Details
+EU492448,10-72,2019-02-28 08:45:11.936,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Estonia,100,KKT Oil OÜ,5023992,KKT Oil OÜ,5869,Details
+EU492432,10-71,2019-02-28 08:44:08.475,Completed,Estonia,100,KKT Oil OÜ,5023992,KKT Oil OÜ,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,5869,Details
+EU490897,10-2,2019-02-28 08:10:06.877,Completed,Czech Republic,100,Dřevozpr.družstvo - Kotelny družstva,5006917,Dřevozpracující družstvo,European Commission,100,EU Allowance deletion,5016380,European Commission,7144,Details
+EU490886,10-90,2019-02-28 07:52:47.88,Completed,Norway,100,Statkraft Energi AS,5016874,Statkraft Energi AS,European Commission,100,EU Allowance deletion,5016380,European Commission,196,Details
+EU490599,10-2,2019-02-28 06:51:48.504,Completed,United Kingdom,100,ANADARKO PETROLEUM CORPORATION,5016599,ANADARKO PETROLEUM CORPORATION,European Commission,100,EU Allowance deletion,5016380,European Commission,76,Details
+CH25949,3-0,2019-02-28 03:37:50.488,Completed,Switzerland,100,,139,,United Kingdom,100,Numerco Limited,5025480,Numerco Limited,4385,Details
+EU492185,10-36,2019-02-28 01:44:32.077,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Czech Republic,100,"Elektrárna Počerady, a.s.",5007003,"Elektrárna Počerady, a.s.",3246,Details
+EU492355,10-36,2019-02-28 01:44:31.584,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,France,100,SOCLI Usine d'Izaourt,5004963,SOCLI,35792,Details
+EU492387,10-36,2019-02-28 01:44:31.012,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Romania,100,Operator Account,5010074,EURO CARAMIDA SA,6098,Details
+EU492305,10-36,2019-02-28 01:44:30.827,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,France,100,SYLVAMO FRANCE,5005408,Sylvamo France SA,80766,Details
+EU492191,10-36,2019-02-28 01:44:30.793,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,France,100,KEM ONE- LAVERA,5021479,KEM ONE,156604,Details
+EU492354,10-36,2019-02-28 01:44:30.544,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,France,100,ALPHAGLASS,5005124,ALPHAGLASS,38598,Details

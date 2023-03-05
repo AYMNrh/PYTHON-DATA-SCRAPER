@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU490680,10-0,2019-02-28 10:15:57.135,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,United Kingdom,100,JPMVEC 3,5016855,J.P. Morgan Ventures Energy Corporation,2000000,Details
+EU492501,10-0,2019-02-28 10:14:45.901,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,United Kingdom,100,Myco 61 Ltd,5027234,Myco 61 Limited,50,Details
+EU492482,10-2,2019-02-28 10:14:20.328,Completed,United Kingdom,100,North British Distillery Co Trading,5007709,The North British Distillery Company Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,28518,Details
+EU492498,10-0,2019-02-28 10:13:57.642,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Spain,100,"Mostos Vinos y Alcoholes, S.A.",5009213,"Mostos Vinos y Alcoholes, S.A.",10000,Details
+EU492494,10-0,2019-02-28 10:13:09.452,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Luxembourg,100,LUXAIR,5017633,LUXAIR,10000,Details
+EU492490,10-0,2019-02-28 10:11:44.803,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Spain,100,"Industrias del Tablero, S.A.",5009940,"Industrias del Tablero, S.A.",6000,Details
+EU490634,10-0,2019-02-28 10:11:10.62,Completed,Germany,100,Bayern LB,5016942,Bayerische Landesbank,Germany,100,1082 - Anlagenkonto,5014308,Kraftwerke Mainz-Wiesbaden AG,4500,Details
+EU492474,10-0,2019-02-28 10:10:34.517,Completed,Germany,100,Statkraft Markets GmbH,5017011,Statkraft Markets GmbH,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,13000,Details
+EU492488,10-0,2019-02-28 10:10:20.157,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,United Kingdom,100,,5018224,,159,Details
+EU490724,10-0,2019-02-28 10:10:05.969,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Hungary,100,MVM Partner ZRt.,5018650,MVM Partner ZRt.,2000,Details
+EU490943,10-0,2019-02-28 10:09:50.314,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,United Kingdom,100,Beryl Alpha,5008593,Apache Beryl I Limited,318617,Details
+EU490944,10-0,2019-02-28 10:09:45.511,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,United Kingdom,100,Beryl Bravo,5008596,Apache Beryl I Limited,91973,Details
+EU492491,10-0,2019-02-28 10:09:43.544,Completed,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,Germany,100,FutureCamp Climate GmbH Personenkonto,5016067,FutureCamp Climate GmbH,3000,Details
+EU492496,10-0,2019-02-28 10:09:43.542,Completed,Sweden,100,GE Handelskonto,5017684,Göteborg Energi AB,Sweden,100,Rya Kraftvärmeverk,5002013,Göteborg Energi AB,1,Details
+EU490718,10-0,2019-02-28 10:09:43.018,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Italy,100,ENEL TRADE ITALIA,5016899,Enel Global Trading S.p.A.,15000,Details
+EU492472,10-0,2019-02-28 10:09:40.262,Completed,Germany,100,Vattenfall Energy Trading GmbH,5017244,Vattenfall Energy Trading GmbH,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,25000,Details
+EU490632,10-0,2019-02-28 10:09:37.546,Completed,Germany,100,Bayern LB,5016942,Bayerische Landesbank,Czech Republic,100,"ČEZ, a.s. - obchodní účet",5016960,"ČEZ, a. s.",600000,Details
+EU490613,10-0,2019-02-28 10:09:36.931,Completed,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,8974,Details
+EU490795,10-0,2019-02-28 10:09:32.939,Completed,Denmark,100,Danske Commodities A/S,5017234,Danske Commodities A/S,Denmark,100,Air Alsie A/S,5019213,Air Alsie A/S,10000,Details
+EU492487,10-0,2019-02-28 10:09:18.995,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,United Kingdom,100,,5001062,,1900,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU490219,10-2,2019-02-27 22:02:23.96,Completed,Portugal,100,"100-M. A. Lopes D'Avó, Lda",5002597,"M. A. Lopes D'Avó, Lda",European Commission,100,EU Allowance deletion,5016380,European Commission,121,Details
+EU490110,10-0,2019-02-27 17:58:44.285,Completed,Belgium,100,390 BASF DOW HPPO Production BVBA,5020608,BASF DOW HPPO Production,Germany,100,BASF Group - Hub,5016965,BASF SE,3522,Details
+EU490112,10-0,2019-02-27 17:57:22.029,Completed,Belgium,100,1281 BASF Antwerpen - 127a,5020269,B.A.S.F. Antwerpen,Germany,100,BASF Group - Hub,5016965,BASF SE,376,Details
+EU490118,10-0,2019-02-27 17:55:32.97,Completed,Belgium,100,1284 BASF Antwerpen - 127e,5020272,B.A.S.F. Antwerpen,Belgium,100,1281 BASF Antwerpen - 127a,5020269,B.A.S.F. Antwerpen,15868,Details
+EU490170,10-0,2019-02-27 17:54:42.028,Completed,United Kingdom,100,First Choice Holidays Finance ltd,5008420,First Choice Holidays Finance ltd,Germany,100,Handelskonto TUIfly GmbH,5000520,TUIfly GmbH,20000,Details
+EU490119,10-0,2019-02-27 17:54:14.331,Completed,Belgium,100,1282 BASF Antwerpen - 127c,5020271,B.A.S.F. Antwerpen,Belgium,100,1281 BASF Antwerpen - 127a,5020269,B.A.S.F. Antwerpen,3392,Details
+EU490120,10-0,2019-02-27 17:53:07.825,Completed,Belgium,100,1283 BASF Antwerpen - 127d,5020277,B.A.S.F. Antwerpen,Belgium,100,1281 BASF Antwerpen - 127a,5020269,B.A.S.F. Antwerpen,220878,Details
+EU490150,10-0,2019-02-27 17:50:19.116,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,United Kingdom,100,Western Isles FPSO Dana Petroleum (E&P) Ltd,5026865,Dana Petroleum (E&P) Limited,32943,Details
+EU490086,10-0,2019-02-27 17:45:48.883,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Poland,100,CIEPŁOWNIA,5003738,MPEC Sp. z o.o. w Olsztynie,5000,Details
+EU490116,10-0,2019-02-27 17:42:47.865,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Poland,100,CIEPŁOWNIA,5002542,Przedsiębiorstwo Energetyki Cieplnej Sp. z o.o.,4000,Details
+EU490096,10-0,2019-02-27 17:40:38.357,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Austria,100,ATMOSA Petrochemie GmbH,5021974,"""ATMOSA"" Petrochemie GmbH",3000,Details
+EU489946,10-0,2019-02-27 17:27:33.907,Completed,United Kingdom,100,Morgan Stanley Capital Group Inc,5017295,Morgan Stanley Capital Group Inc,Netherlands,100,JPM VEC Trading Account,5027817,J.P. Morgan Ventures Energy Corporation,1000000,Details
+EU490128,10-0,2019-02-27 17:25:20.427,Completed,Latvia,100,OHA:LV41,5012108,"SIA „Adven Latvia""",Finland,100,ADVEN Trading,5018009,Adven Oy,15000,Details
+EU490121,10-0,2019-02-27 17:16:04.944,Completed,Denmark,100,Neas Energy A/S,5020307,Centrica Energy Trading A/S,Denmark,100,Horsens Kraftv.,5006358,FJERNVARME HORSENS A/S,11000,Details
+EU490126,10-0,2019-02-27 17:13:12.017,Completed,United Kingdom,100,Toronto Branch - Exchange CER - Trading,5017087,RBC Europe Limited,Netherlands,100,RBC – Toronto Branch,5027869,RBC Europe Limited,1,Details
+CH25948,3-0,2019-02-27 17:03:57.169,Completed,Switzerland,100,,830,,Germany,100,zukunftswerk eG,5016768,Zukunftswerk eG,520,Details
+CH25947,3-0,2019-02-27 17:03:53.596,Completed,Switzerland,100,,993,,Germany,100,zukunftswerk eG,5016768,Zukunftswerk eG,3000,Details
+EU490117,10-0,2019-02-27 16:52:32.646,Completed,Belgium,100,160 PB Gelatins Vilvoorde,5004559,Tessenderlo Group,Belgium,100,327 Tessenderlo Chemie - Ham,5004420,Tessenderlo Group,72000,Details
+EU490105,10-0,2019-02-27 16:50:41.967,Completed,Bulgaria,100,Holcim Bulgaria -Beli Izvor,5016123,Holcim Bulgaria S.A,United Kingdom,100,HBEL - BGR,5024083,Holcibel S.A.,616745,Details
+EU490089,10-0,2019-02-27 16:37:42.421,Completed,Belgium,100,039 Site Balen,5004437,Nyrstar Belgium,United Kingdom,100,Vertis Environmental Finance Ltd / GB Trading Account,5016869,Vertis Environmental Finance,15000,Details

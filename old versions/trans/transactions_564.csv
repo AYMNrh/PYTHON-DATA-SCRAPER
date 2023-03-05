@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU509909,10-36,2019-04-10 01:31:00.829,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Corona,5018641,Ceramiche Marca Corona S.p.A.,27899,Details
+EU509756,10-36,2019-04-10 01:30:57.605,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Operator Account,5013382,ELECTROLUX ITALIA SPA,4620,Details
+EU509755,10-36,2019-04-10 01:30:57.545,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Itelyum Purification,5027135,ITELYUM PURIFICATION S.p.A.,21444,Details
+EU509758,10-36,2019-04-10 01:30:57.489,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,CONTO ETS COOPIMOLA FAENZA,5018057,COOPERATIVA CERAMICA D'IMOLA S.C.,5034,Details
+EU509757,10-36,2019-04-10 01:30:57.424,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Genova Cornigliano,5012604,Acciaierie d'Italia S.p.A.,68404,Details
+EU509752,10-36,2019-04-10 01:30:57.365,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Operator Account,5013338,Lumina S.r.l.,7517,Details
+EU509749,10-36,2019-04-10 01:30:57.355,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Conto Deposito Stabilimento di Biandrate,5025905,Esselunga spa,2145,Details
+EU509751,10-36,2019-04-10 01:30:57.309,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,CONTO ETS COOPIMOLA FAENZA,5018057,COOPERATIVA CERAMICA D'IMOLA S.C.,1715,Details
+EU509754,10-36,2019-04-10 01:30:57.305,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Operator Account,5013644,Whirlpool EMEA SPA,3502,Details
+EU509748,10-36,2019-04-10 01:30:57.246,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Conto Deposito Stabilimento di Biandrate,5025905,Esselunga spa,569,Details
+EU509750,10-36,2019-04-10 01:30:57.24,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Itelyum Purification,5027135,ITELYUM PURIFICATION S.p.A.,21508,Details
+EU509753,10-36,2019-04-10 01:30:57.239,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Conto Deposito Stabilimento di Biandrate,5025905,Esselunga spa,2104,Details
+EU509746,10-2,2019-04-09 23:01:30.332,Completed,Germany,100,Ball Corporation,5019794,Ball Corporation,European Commission,100,EU Allowance deletion,5016380,European Commission,18,Details
+EU503216,10-2,2019-04-09 21:58:00.374,Completed,Germany,100,Ball Corporation,5019794,Ball Corporation,European Commission,100,EU Allowance deletion,5016380,European Commission,6,Details
+EU509577,10-2,2019-04-09 20:36:50.494,Completed,Belgium,100,11102.FedEx Express Corporate Aviation,5016455,Federal Express Corporation,European Commission,100,EU Allowance deletion,5016380,European Commission,91,Details
+EU509731,10-2,2019-04-09 20:12:05.597,Completed,United Kingdom,100,American Express,5016427,American Express Company,European Commission,100,EU Allowance deletion,5016380,European Commission,58,Details
+EU481788,4-0,2019-04-09 19:59:54.753,Completed,Czech Republic,100,"Teplárna Strakonice, a.s.",5006854,"Teplárna Strakonice, a.s.",European Commission,230,EU Cancellation Account Period 1,5016449,European Commission,1,Details
+EU508434,10-2,2019-04-09 19:39:57.795,Completed,Italy,100,ZML_ET,5021909,ZML Industries SpA,European Commission,100,EU Allowance deletion,5016380,European Commission,41206,Details
+EU509644,10-2,2019-04-09 19:20:03.928,Completed,Italy,100,Operator Account,5013305,Gruppo Mauro Saviola S.r.l.,European Commission,100,EU Allowance deletion,5016380,European Commission,4630,Details
+EU506994,10-2,2019-04-09 19:19:55.728,Completed,France,100,FIBRE EXCELLENCE SAINT-GAUDENS,5004887,FIBRE EXCELLENCE SAINT-GAUDENS SAS,European Commission,100,EU Allowance deletion,5016380,European Commission,31516,Details

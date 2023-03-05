@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU483529,10-0,2019-02-12 14:57:29.121,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,United Kingdom,100,ABN AMRO Clearing Bank N.V,5017351,"ABN AMRO Clearing Bank N.V, London Branch",66000,Details
+EU483531,10-0,2019-02-12 14:56:22.705,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,United Kingdom,100,Macquarie Bank Limited (EUA),5017114,Macquarie Bank Limited,50000,Details
+EU483532,10-0,2019-02-12 14:55:35.642,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,30000,Details
+EU483535,10-0,2019-02-12 14:54:49.81,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,France,100,MERCURIA ENERGY TRADING SA,5016876,MERCURIA ENERGY TRADING SA,33000,Details
+EU483536,10-0,2019-02-12 14:54:06.521,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,387000,Details
+DE123673,4-0,2019-02-12 14:53:47.038,Completed,Germany,121,1975 - atmosfair gGmbH Personenkonto,1975,atmosfair gGmbH,Germany,230,Nationalkonto - Löschung 2013-2020,5018222,Deutschland,1756,Details
+EU483537,10-0,2019-02-12 14:53:28.177,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,Spain,100,Santander Clientes,5017250,Banco Santander S.A.,3000,Details
+DE123672,4-0,2019-02-12 14:52:10.342,Completed,Germany,121,1975 - atmosfair gGmbH Personenkonto,1975,atmosfair gGmbH,Germany,230,Nationalkonto - Löschung 2013-2020,5018222,Deutschland,6120,Details
+EU483526,10-0,2019-02-12 14:29:54.943,Completed,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,459000,Details
+EU483516,10-0,2019-02-12 14:27:39.43,Completed,United Kingdom,100,Toronto Branch - Exchange EUA - Trading,5017086,RBC Europe Limited,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,379000,Details
+EU483376,10-0,2019-02-12 14:27:26.495,Completed,Latvia,100,Operator Account:LV34,5012101,SIA „Rigas laku un krasu rupnica”,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,2768,Details
+EU483484,10-0,2019-02-12 14:25:56.38,Completed,France,100,SOCIETE GENERALE,5017623,SOCIETE GENERALE,Czech Republic,100,"Komerční banka, a.s. obchodní účet",5016819,"Komerční banka, a.s.",8000,Details
+EU483525,10-0,2019-02-12 14:25:43.466,Completed,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,Slovenia,100,SILKEM,5008692,SILKEM  D.O.O.,10000,Details
+EU483522,10-0,2019-02-12 14:14:11.823,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Poland,100,Ciepłownia FIBRIS S.A. w Przemyślu,5003113,FIBRIS S.A.,3000,Details
+EU483521,10-0,2019-02-12 14:13:23.678,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Poland,100,ENERGA Elektrownie Ostrołęa SA,5003353,ENERGA Elektrownie Ostrołęka S.A.,10000,Details
+EU483363,10-0,2019-02-12 13:50:45.732,Completed,Italy,100,Operator Account,5012884,CEMENTERIE ALDO BARBETTI SPA,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,50000,Details
+EU483366,10-0,2019-02-12 13:50:24.044,Completed,United Kingdom,100,A2A S.p.A.,5026060,A2A S.P.A.,Italy,100,Mincio,5012945,A2A GENCOGAS S.P.A.,20000,Details
+GB72701,3-0,2019-02-12 13:47:36.475,Completed,United Kingdom,121,Agrinergy Pte Ltd,1935,AGRINERGY PTE LTD,Switzerland,100,,2165,,1171,Details
+EU483514,10-0,2019-02-12 13:47:34.86,Completed,Germany,100,RWEST GmbH Trading Account,5016830,RWE Supply & Trading GmbH,Germany,100,innogy SE,5017191,innogy SE,75000,Details
+EU483497,10-2,2019-02-12 13:30:11.645,Completed,United Kingdom,100,British Gypsum - East Leake,5008130,Saint-Gobain Construction Products UK Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,73779,Details

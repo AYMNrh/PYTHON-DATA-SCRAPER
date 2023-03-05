@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU502087,10-71,2019-03-28 11:15:05.129,Completed,France,100,FERROPEM Usine de Montricher,5021800,FERROPEM,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,6348,Details
+EU502133,10-72,2019-03-28 11:15:00.04,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,France,100,FERROPEM Usine des Clavaux,5021799,FERROPEM,6883,Details
+EU502084,10-71,2019-03-28 11:14:00.775,Completed,France,100,FERROPEM Usine des Clavaux,5021799,FERROPEM,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,6883,Details
+EU502127,10-72,2019-03-28 11:13:40.206,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,France,100,FERROPEM Usine d'Anglefort,5021798,FERROPEM,7779,Details
+EU502124,10-0,2019-03-28 11:13:34.103,Completed,United Kingdom,100,Litasco trading UK,5017260,LITASCO SA,United Kingdom,100,Citigroup Global Markets LTD - ETD Ops,5017632,Citigroup Global Markets Limited,500000,Details
+EU502082,10-71,2019-03-28 11:12:50.912,Completed,France,100,FERROPEM Usine d'Anglefort,5021798,FERROPEM,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,7779,Details
+EU502121,10-72,2019-03-28 11:12:19.772,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,France,100,FERROPEM Usine de Laudun,5021802,FERROPEM,9630,Details
+EU502109,10-0,2019-03-28 11:11:32.461,Completed,United Kingdom,100,ED&F Man Capital Markets Ltd,5023256,E D & F MAN CAPITAL MARKETS LIMITED,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,2000,Details
+EU502078,10-71,2019-03-28 11:11:22.277,Completed,France,100,FERROPEM Usine de Laudun,5021802,FERROPEM,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,9630,Details
+EU500828,10-0,2019-03-28 11:10:39.987,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Netherlands,100,PepsiCo Nederland B.V.,5022544,PepsiCo Nederland B.V.,3277,Details
+EU502110,10-0,2019-03-28 11:10:24.052,Completed,Spain,100,"COMPAÑÍA ESPAÑOLA DE PETROLEOS, S.A.U.",5017896,"Compañía Española de Petróleos, S.A.",Netherlands,100,FUTURES CLIENT TRADING ACCOUNT,5027936,Macquarie Bank Limited,53000,Details
+EU502068,10-2,2019-03-28 11:10:04.464,Completed,France,100,FERROPEM Usine de Laudun,5021802,FERROPEM,European Commission,100,EU Allowance deletion,5016380,European Commission,217512,Details
+EU500826,10-0,2019-03-28 11:09:24.37,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Spain,100,"Pepsico Iberia Manufacturing, S.L. Fábrica de Burgos",5019191,"Pepsico Manufacturing, A.I.E.",4655,Details
+EU502064,10-2,2019-03-28 11:08:58.725,Completed,France,100,FERROPEM Usine de Châteaufeuillet,5021801,FERROPEM,European Commission,100,EU Allowance deletion,5016380,European Commission,224706,Details
+EU502072,10-2,2019-03-28 11:07:58.249,Completed,Hungary,100,Operator Account:HU37,5011677,Carmeuse Hungária Kft.,European Commission,100,EU Allowance deletion,5016380,European Commission,129135,Details
+EU500824,10-0,2019-03-28 11:07:56.85,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Belgium,100,290 Veurne Snack Foods,5004303,Veurne Snack Foods,5309,Details
+EU502063,10-2,2019-03-28 11:07:50.3,Completed,France,100,FERROPEM Usine de Montricher,5021800,FERROPEM,European Commission,100,EU Allowance deletion,5016380,European Commission,142577,Details
+EU502098,10-2,2019-03-28 11:07:10.421,Completed,Sweden,100,Rosenlundsverket,5002029,Göteborg Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,4410,Details
+EU502060,10-2,2019-03-28 11:06:20.158,Completed,France,100,FERROPEM Usine des Clavaux,5021799,FERROPEM,European Commission,100,EU Allowance deletion,5016380,European Commission,166731,Details
+EU502058,10-2,2019-03-28 11:04:06.488,Completed,France,100,FERROPEM Usine d'Anglefort,5021798,FERROPEM,European Commission,100,EU Allowance deletion,5016380,European Commission,172871,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU513427,10-0,2019-04-16 16:25:10.285,Completed,Italy,100,Castelmassa_CO2,5018243,Cargill S.r.l.,Italy,100,Operator Account,5013010,Cargill S.r.l.,100000,Details
+EU506282,10-0,2019-04-16 16:25:08.776,Completed,Poland,100,Instalacja produkcji cukru,5002923,Krajowa Grupa Spożywcza S.A.,Poland,100,Piec wapienny,5003311,Krajowa Grupa Spożywcza S.A.,2250,Details
+EU513335,10-0,2019-04-16 16:24:59.134,Completed,Poland,100,Zakład Wytwarzania Katowice,5003541,TAURON Ciepło Sp. z o.o.,Poland,100,Zakład Wytwarzania Bielsko Biała EC1 BC 50,5022038,TAURON Ciepło Sp. z o.o.,94906,Details
+EU500035,10-2,2019-04-16 16:24:41.203,Completed,Netherlands,100,Steenfabriek Kessel B.V.,5011636,Vandersanden Nederland B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,8677,Details
+EU514403,10-71,2019-04-16 16:24:31.498,Completed,Italy,100,ETforgitalitaly,5018198,Forgital Italy S.p.A.,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,1978,Details
+EU514579,10-2,2019-04-16 16:24:11.543,Completed,France,100,CPTE EDF - Jarry Sud,5005534,EDF SA,European Commission,100,EU Allowance deletion,5016380,European Commission,34707,Details
+EU506285,10-0,2019-04-16 16:24:03.211,Completed,Poland,100,Instalacja produkcji cukru,5002923,Krajowa Grupa Spożywcza S.A.,Poland,100,Instalacja produkcji cukru,5003628,Krajowa Grupa Spożywcza S.A.,6800,Details
+EU513992,10-2,2019-04-16 16:23:00.312,Completed,Netherlands,100,Steenfabriek Beek B.V.,5011518,Steenfabriek Beek B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,8377,Details
+EU513418,10-0,2019-04-16 16:22:59.487,Completed,Italy,100,Operator Account,5013594,Verallia Italia S.p.A.,Italy,100,Operator Account,5013587,Verallia Italia S.p.A.,68878,Details
+EU506313,10-0,2019-04-16 16:22:48.965,Completed,Poland,100,Instalacja produkcji cukru,5002923,Krajowa Grupa Spożywcza S.A.,Poland,100,Instalacja produkcji cukru,5003678,Krajowa Grupa Spożywcza S.A.,35500,Details
+EU514516,10-2,2019-04-16 16:22:39.21,Completed,Italy,100,Ernest,5027837,Ernest SpA,European Commission,100,EU Allowance deletion,5016380,European Commission,484,Details
+EU514586,10-2,2019-04-16 16:22:38.945,Completed,France,100,CPTE EDF - Vazzio,5005907,EDF SA,European Commission,100,EU Allowance deletion,5016380,European Commission,279687,Details
+EU506356,10-0,2019-04-16 16:21:24.779,Completed,Poland,100,Instalacja produkcji cukru,5002923,Krajowa Grupa Spożywcza S.A.,Poland,100,Suszarnia wysłodków,5003854,Krajowa Grupa Spożywcza S.A.,3100,Details
+EU514594,10-2,2019-04-16 16:20:28.769,Completed,France,100,EDF Centrale de Saint-Pierre,5024728,EDF SA,European Commission,100,EU Allowance deletion,5016380,European Commission,30539,Details
+EU514697,10-72,2019-04-16 16:20:23.266,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Italy,100,Solvay Massa,5019908,SOLVAY CHIMICA ITALIA SPA,3419,Details
+EU514129,10-2,2019-04-16 16:19:56.873,Completed,Sweden,100,Site Stenungsund,5001404,Nouryon Functional Chemicals AB,European Commission,100,EU Allowance deletion,5016380,European Commission,86878,Details
+EU514473,10-2,2019-04-16 16:19:55.2,Completed,Hungary,100,Pannonia Bio Zrt.,5017928,Pannonia Bio Zrt.,European Commission,100,EU Allowance deletion,5016380,European Commission,149736,Details
+EU506357,10-0,2019-04-16 16:19:45.861,Completed,Poland,100,Instalacja produkcji cukru,5002923,Krajowa Grupa Spożywcza S.A.,Poland,100,Instalacja do produkcji wapna,5003774,Krajowa Grupa Spożywcza S.A.,4900,Details
+EU514684,10-71,2019-04-16 16:19:34.306,Completed,Italy,100,Solvay Massa,5019908,SOLVAY CHIMICA ITALIA SPA,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,3419,Details
+EU513398,10-0,2019-04-16 16:19:15.836,Completed,Italy,100,Operator Account,5013594,Verallia Italia S.p.A.,Italy,100,Operator Account,5013585,Verallia Italia S.p.A.,21447,Details

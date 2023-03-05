@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU490341,10-36,2019-02-27 01:33:27.474,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Hostrupsgade 45,5006506,Silkeborg Varme A/S,2346,Details
+EU490405,10-36,2019-02-27 01:33:27.331,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Støvring Varme,5006472,Støvring Kraftvarmeværk A.m.b.a.,4817,Details
+EU490410,10-36,2019-02-27 01:33:27.328,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,Nord Terminals AS,5016377,Nord Terminals AS,4231,Details
+EU490398,10-36,2019-02-27 01:33:27.322,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Sindal Varmef,5006198,SINDAL VARMEFORSYNING A M B A,2672,Details
+EU490256,10-36,2019-02-27 01:33:27.315,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Thisted Varmef.,5006528,Thisted Varmeforsyning amba,64,Details
+EU490268,10-36,2019-02-27 01:33:27.315,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Hillerød Kraftvarmeværk:DK294,5006380,Hillerød Kraftvarme Aps,12483,Details
+EU490413,10-36,2019-02-27 01:33:27.308,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Hjørring VF,5006429,HJØRRING VARMEFORSYNING A M B A,9076,Details
+EU490418,10-36,2019-02-27 01:33:27.286,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Vilemoes Teglv,5006457,Villemoes Teglværk A/S,2215,Details
+EU490578,10-36,2019-02-27 01:33:27.283,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Poland,100,Kotłownia zakładowa,5002872,Bunge Polska Sp.z o.o.,20724,Details
+EU490392,10-36,2019-02-27 01:33:27.283,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Ireland,100,Operator Account,5011951,PSE Kinsale Energy Limited,17624,Details
+EU490427,10-36,2019-02-27 01:33:27.281,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Poland,100,WEPA Piechowice Sp. z o.o.,5002870,WEPA Piechowice Sp. z o.o.,7619,Details
+EU490408,10-36,2019-02-27 01:33:27.281,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Ribe Kraftv,5006195,Ribe Fjernvarme AMBA,4578,Details
+EU490388,10-36,2019-02-27 01:33:27.281,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Frederikssund K,5006324,E.ON Produktion Danmark A/S,2926,Details
+EU490428,10-36,2019-02-27 01:33:27.281,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Horsens Kraftv.,5006358,FJERNVARME HORSENS A/S,19880,Details
+EU490384,10-36,2019-02-27 01:33:27.279,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Fiskernes fiske,5006236,FF SKAGEN A/S,42802,Details
+EU490409,10-36,2019-02-27 01:33:27.279,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,VC Bolbro,5006265,FJERNVARME FYN DISTRIBUTION A/S,157,Details
+EU490412,10-36,2019-02-27 01:33:27.278,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Faxe Kalk,5006229,Faxe Kalk A/S,47366,Details
+EU490404,10-36,2019-02-27 01:33:27.278,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Brøndbyvester Fjernvarmecentral,5006217,BRØNDBY FJERNVARME A M B A,97,Details
+EU490400,10-36,2019-02-27 01:33:27.277,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Fjernvarme Fyn Affaldsenergi A/S,5018847,Fjernvarme Fyn Affaldsenergi A/S,41490,Details
+EU490403,10-36,2019-02-27 01:33:27.277,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Poland,100,Instalacja do produkcji wyrobów ceramicznych - Zakład nr 1 CERRAD,5018630,CERRAD Sp. z o.o.,5156,Details

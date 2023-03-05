@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+GB72719,3-0,2019-02-20 17:06:04.182,Completed,United Kingdom,121,Sindicatum Carbon Capital Limited,1627,Sindicatum Carbon Capital Limited,Switzerland,100,,139,,204963,Details
+GB72720,3-0,2019-02-20 17:04:52.425,Completed,United Kingdom,121,Sindicatum Carbon Capital Limited,1627,Sindicatum Carbon Capital Limited,Switzerland,100,,139,,23061,Details
+GB72721,3-0,2019-02-20 17:03:41.907,Completed,United Kingdom,121,Sindicatum Carbon Capital Limited,1627,Sindicatum Carbon Capital Limited,Switzerland,100,,139,,2231,Details
+GB72722,3-0,2019-02-20 17:02:12.721,Completed,United Kingdom,121,Sindicatum Carbon Capital Limited,1627,Sindicatum Carbon Capital Limited,Switzerland,100,,139,,2420,Details
+GB72723,3-0,2019-02-20 17:01:21.931,Completed,United Kingdom,121,Sindicatum Carbon Capital Limited,1627,Sindicatum Carbon Capital Limited,Switzerland,100,,139,,8142,Details
+GB72724,3-0,2019-02-20 17:00:25.874,Completed,United Kingdom,121,Sindicatum Carbon Capital Limited,1627,Sindicatum Carbon Capital Limited,Switzerland,100,,139,,230,Details
+GB72725,3-0,2019-02-20 16:59:31.579,Completed,United Kingdom,121,Sindicatum Carbon Capital Limited,1627,Sindicatum Carbon Capital Limited,Switzerland,100,,139,,355,Details
+EU484760,10-0,2019-02-20 16:41:31.29,Completed,Germany,100,Emissionshändler.com GEMB mbH,5019435,GEMB Gesellschaft für Emissionsmanagement und Beratung mbH,Poland,100,Ciepłownia Miejska,5003692,Energetyka Cieplna Sp.z o.o.,3000,Details
+EU485555,10-2,2019-02-20 16:40:50.597,Completed,United Kingdom,100,Singleton Birch Carbon Account,5007764,Singleton Birch Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,278182,Details
+EU484763,10-0,2019-02-20 16:39:06.43,Completed,Germany,100,Emissionshändler.com GEMB mbH,5019435,GEMB Gesellschaft für Emissionsmanagement und Beratung mbH,Poland,100,KOTŁOWNIA REJONOWA KR 1,5003746,Miejska Energetyka Cieplna Spółka z o.o  w Szczecinku,3000,Details
+EU484771,10-0,2019-02-20 16:36:26.927,Completed,Germany,100,Emissionshändler.com GEMB mbH,5019435,GEMB Gesellschaft für Emissionsmanagement und Beratung mbH,Poland,100,KOTŁOWNIA CENTRALNA,5003785,Miejskie Przedsiębiorstwo Energetyki Cieplnej S.A,14000,Details
+EU484749,10-0,2019-02-20 16:35:39.63,Completed,France,100,SOFIDEL FRANCE Frouard,5004892,SOFIDEL FRANCE,Poland,100,Instalacja produkcji papieru,5003545,Sofidel Poland Sp. z o.o.,3000,Details
+EU484747,10-0,2019-02-20 16:30:59.04,Completed,Czech Republic,100,C-Energy Planá - TTA 2,5006941,C-Energy Planá s.r.o.,Czech Republic,100,C-Energy Planá - TTA 1,5006870,C-Energy Planá s.r.o.,1100,Details
+EU484748,10-0,2019-02-20 16:26:43.59,Completed,France,100,SOFIDEL FRANCE Frouard,5004892,SOFIDEL FRANCE,Italy,100,Soffass Cartiera Via Lazzaresch,5013202,SOFFASS S.P.A.,20000,Details
+EU484764,10-0,2019-02-20 16:25:35.767,Completed,Germany,100,1554 - Anlagenkonto,5014966,Blue Cube Germany Assets GmbH & Co.KG,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,12000,Details
+EU485551,10-2,2019-02-20 16:15:25.522,Completed,United Kingdom,100,Castle Bromwich,5008612,Jaguar Land Rover Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,23782,Details
+EU484751,10-0,2019-02-20 16:13:36.05,Completed,Czech Republic,100,"Teplárna Tábor, a.s. Obchodní účet",5006691,"Teplárna Tábor, a.s.",Czech Republic,100,C-Energy Planá - TTA 1,5006870,C-Energy Planá s.r.o.,23000,Details
+EU485552,10-2,2019-02-20 16:12:20.704,Completed,United Kingdom,100,Halewood,5008614,Jaguar Land Rover Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,36915,Details
+EU485550,10-2,2019-02-20 16:09:47.0,Completed,United Kingdom,100,Solihull,5008412,Jaguar Land Rover Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,70701,Details
+EU484734,10-0,2019-02-20 16:07:34.856,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,United Kingdom,100,Victrex Thornton Cleveleys,5027439,Victrex plc,13954,Details

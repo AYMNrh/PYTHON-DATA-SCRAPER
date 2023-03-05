@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU506355,10-2,2019-04-04 11:16:39.739,Completed,Italy,100,Conto registro Casar S.r.l.,5013284,Casar S.r.l.,European Commission,100,EU Allowance deletion,5016380,European Commission,2977,Details
+EU506308,10-2,2019-04-04 11:16:15.019,Completed,Greece,100,RAIKOS,5002342,Κ. ΡΑΪΚΟΣ Α.Ε.,European Commission,100,EU Allowance deletion,5016380,European Commission,48583,Details
+EU505200,10-0,2019-04-04 11:15:59.19,Completed,Netherlands,100,BNP Paribas London Branch,5027681,BNP Paribas London Branch,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,5000,Details
+EU501488,10-2,2019-04-04 11:15:48.421,Completed,Germany,100,440 - Anlagenkonto,5014355,Gebr. Laumans GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,6401,Details
+EU506365,10-72,2019-04-04 11:15:07.802,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Austria,100,Ziegelwerk Eder Peuerbach Bruck,5004145,Ziegelwerk Eder GmbH,1491,Details
+EU506129,10-2,2019-04-04 11:14:45.956,Completed,Spain,100,"CERANOR, S.A. - Ceranor II",5009098,"CERANOR, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,22067,Details
+EU506240,10-0,2019-04-04 11:14:16.375,Completed,Germany,100,BASF Group - Hedging,5016963,BASF SE,Germany,100,BASF SE - Hub,5016964,BASF SE,360072,Details
+EU505775,10-71,2019-04-04 11:14:10.538,Completed,Austria,100,Ziegelwerk Eder Peuerbach Bruck,5004145,Ziegelwerk Eder GmbH,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,1491,Details
+EU506336,10-0,2019-04-04 11:13:44.528,Completed,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,Italy,100,Operator Account,5013471,Raffineria di Milazzo S.C.p.A.,55000,Details
+EU506148,10-2,2019-04-04 11:13:27.254,Completed,Spain,100,"Ceranor, S.A. - Ceranor I",5009597,"CERANOR, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,62701,Details
+EU506277,10-2,2019-04-04 11:13:13.322,Completed,Germany,100,1213 - Anlagenkonto,5014487,SPIE Energy Solutions Harburg GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,13715,Details
+EU505726,10-2,2019-04-04 11:12:52.445,Completed,Spain,100,"Onduline Materiales de Construcción, S.A.",5008754,"Onduline Materiales de Construcción, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,1769,Details
+EU506318,10-2,2019-04-04 11:12:34.176,Completed,Spain,100,"Cerámica Gómez, S.A.",5018390,"Cerámica Gómez, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,8001,Details
+EU506249,10-2,2019-04-04 11:12:09.669,Completed,France,100,TEREGA - Lussagnet,5005112,TEREGA,European Commission,100,EU Allowance deletion,5016380,European Commission,8840,Details
+EU506343,10-0,2019-04-04 11:11:04.724,Completed,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,Italy,100,Ex TERMICA MILAZZO,5012555,Raffineria di Milazzo S.C.p.A.,25000,Details
+EU506311,10-2,2019-04-04 11:10:56.086,Completed,Poland,100,Instalacja do produkcji materiałów ogniotrwałych za pomocą wypalania,5003487,Zakłady Magnezytowe ROPCZYCE S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,17726,Details
+EU506263,10-2,2019-04-04 11:10:22.708,Completed,France,100,TEREGA - Mont,5005572,TEREGA,European Commission,100,EU Allowance deletion,5016380,European Commission,11054,Details
+EU506307,10-2,2019-04-04 11:10:09.739,Completed,Romania,100,Carpatair SA,5000175,CARPATAIR S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,2460,Details
+EU506188,10-0,2019-04-04 11:08:02.586,Completed,Germany,100,EnBW Trading Account,5022149,EnBW Energie Baden-Württemberg AG,Germany,100,1882 - EnBW Trading GmbH Personenkonto,5015443,EnBW Energie Baden-Württemberg AG,10000000,Details
+EU506221,10-0,2019-04-04 11:07:54.933,Completed,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,Belgium,100,028 CITRIBEL,5004414,CITRIBEL,2000,Details

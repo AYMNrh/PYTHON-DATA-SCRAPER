@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU499891,10-0,2019-03-25 15:23:43.273,Completed,United Kingdom,100,Bury Power Limited,5027029,Bury Power Limited,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,31,Details
+EU500467,10-0,2019-03-25 15:21:44.6,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,4473000,Details
+EU499884,10-0,2019-03-25 15:19:29.074,Completed,United Kingdom,100,Ogmore Power Limited,5026441,Ogmore Power Limited,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,156,Details
+EU499850,10-0,2019-03-25 15:18:12.606,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,United Kingdom,100,SIMEC LOCHABER HYDROPOWER 2 LTD,5021137,Liberty Aluminium Lochaber Limited,44505,Details
+EU499883,10-0,2019-03-25 15:17:09.763,Completed,United Kingdom,100,Clyne Power Limited,5026440,Clyne Power Limited,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,16,Details
+EU500505,10-0,2019-03-25 15:16:33.209,Completed,United Kingdom,100,Macquarie Bank Limited (EUA),5017114,Macquarie Bank Limited,Netherlands,100,Macquarie Bank Limited,5027924,Macquarie Bank Limited,25000,Details
+EU499882,10-0,2019-03-25 15:15:16.001,Completed,United Kingdom,100,Selby Power Limited,5025898,Selby Power Limited,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,77,Details
+EU500510,10-0,2019-03-25 15:14:08.697,Completed,Germany,100,MVV Trading GmbH,5017307,MVV Trading GmbH,Germany,100,1398 - Anlagenkonto,5014747,Großkraftwerk Mannheim Aktiengesellschaft,9000,Details
+EU499848,10-0,2019-03-25 15:13:38.764,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,United Kingdom,100,,5000521,,38000,Details
+EU500512,10-0,2019-03-25 15:12:30.293,Completed,Germany,100,MVV Trading GmbH,5017307,MVV Trading GmbH,Germany,100,1398 - Anlagenkonto,5014747,Großkraftwerk Mannheim Aktiengesellschaft,8000,Details
+EU500516,10-0,2019-03-25 15:10:52.67,Completed,Sweden,100,Handelskonto,5027310,Jämtkraft AB,Sweden,100,Scandem Handelskonto,5019942,Scandem AB,140,Details
+EU500477,10-2,2019-03-25 15:10:00.46,Completed,Sweden,100,Knauf Danogips GmbH,5001871,Knauf Danogips GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,24860,Details
+EU499877,10-0,2019-03-25 15:07:56.537,Completed,Finland,100,TKS kaupankäyntitili:FI604,5010643,Tampereen Sähkölaitos Oy,Finland,100,TKS/OLL/CO2:FI444,5010500,Tampereen Sähkölaitos Oy,1448,Details
+EU500213,10-0,2019-03-25 15:06:57.94,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Hungary,100,MOL Commodity Trading Kft,5017387,MOL Commodity Trading Kft.,32000,Details
+EU499876,10-0,2019-03-25 15:06:44.335,Completed,United Kingdom,100,Redlake Power Limited,5025902,Redlake Power Limited,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,1055,Details
+EU500509,10-0,2019-03-25 15:06:30.695,Completed,United Kingdom,100,Citigroup Global Markets LTD - ETD Ops,5017632,Citigroup Global Markets Limited,Netherlands,100,Citigroup Global Markets Limited,5027844,Citigroup Global Markets Limited,500000,Details
+EU499874,10-0,2019-03-25 15:05:45.761,Completed,Finland,100,TKS kaupankäyntitili:FI604,5010643,Tampereen Sähkölaitos Oy,Finland,100,TKS/MLP/CO2:FI440,5010496,Tampereen Sähkölaitos Oy,22,Details
+EU500212,10-0,2019-03-25 15:05:31.907,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Italy,100,ENEL TRADE ITALIA,5016899,Enel Global Trading S.p.A.,9000,Details
+EU406839,4-0,2019-03-25 15:04:03.061,Completed,Denmark,100,Primera Air Scandinavia A/S,5017208,PAS A/S,European Commission,230,EU Cancellation Account Period 1,5016449,European Commission,2736,Details
+EU499868,10-0,2019-03-25 15:03:12.351,Completed,Finland,100,TKS kaupankäyntitili:FI604,5010643,Tampereen Sähkölaitos Oy,Finland,100,TKS/JLK/CO2:FI566,5010613,Tampereen Sähkölaitos Oy,1,Details

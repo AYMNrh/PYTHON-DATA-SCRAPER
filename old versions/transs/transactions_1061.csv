@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU498496,10-0,2019-03-20 11:47:04.18,Completed,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,5000,Details
+EU498500,10-0,2019-03-20 11:39:40.845,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Italy,100,Operator Account,5012708,Ital Green Energy srl,5000,Details
+EU498498,10-0,2019-03-20 11:38:43.629,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Poland,100,Ciepłownia Centralna,5003654,Ciepłownia Sierpc Sp.z o.o.,500,Details
+EU498494,10-0,2019-03-20 11:36:52.283,Completed,Poland,100,mBank S.A.,5023148,mBank S.A.,Poland,100,Kotłownia Zakładowa FABIOS S.A.,5002862,FABIOS S.A.,3650,Details
+EU498489,10-0,2019-03-20 11:33:55.771,Completed,Italy,100,Carbon Trading 1,5016906,Banca Finnat S.p.A.,Italy,100,Trading Account,5017215,Tirreno Power SpA,15000,Details
+EU498490,10-0,2019-03-20 11:33:55.771,Completed,Poland,100,mBank S.A.,5023148,mBank S.A.,Poland,100,CP Glass S.A.,5003287,CP Glass S.A.,27498,Details
+EU498251,10-0,2019-03-20 11:26:29.75,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Spain,100,"Ecotrade Solutions, S.L.",5022914,"Ecotrade Solutions, S.L.",5000,Details
+EU498478,10-0,2019-03-20 11:21:47.074,Completed,United Kingdom,100,PDHU Trading Account,5024390,CityWest Homes Ltd,United Kingdom,100,Pimlico District Heating Undertaking,5007937,Westminster City Council,17063,Details
+EU498405,10-0,2019-03-20 11:16:39.755,Completed,Poland,100,TAURON Polska Energia S.A.,5019474,TAURON Polska Energia S.A.,Poland,100,Energetyka Cieszyńska Sp. z o.o.,5003522,Energetyka Cieszyńska Sp. z o.o.,8000,Details
+EU498471,10-0,2019-03-20 11:13:41.133,Completed,Germany,100,ENGIE GLOBAL MARKETS,5016881,ENGIE Global Markets,France,100,ENGIE GLOBAL MARKETS,5021621,ENGIE GLOBAL MARKETS,19000,Details
+EU498438,10-0,2019-03-20 11:05:20.969,Completed,Portugal,100,TRADE2C,5026779,"TRADE2C, UNIPESSOAL, LDA.",Portugal,100,"Sanindusa - Indústria de Sanitários, S.A.",5021752,"Sanindusa - Indústria de Sanitários, S.A.",459,Details
+EU498377,10-0,2019-03-20 11:00:07.445,Completed,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,25000,Details
+EU498387,10-0,2019-03-20 10:59:05.188,Completed,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,12000,Details
+EU498447,10-0,2019-03-20 10:57:19.527,Completed,Germany,100,RWEST GmbH Trading Account,5016830,RWE Supply & Trading GmbH,United Kingdom,100,ABN AMRO Clearing Bank N.V,5017351,"ABN AMRO Clearing Bank N.V, London Branch",395000,Details
+EU498458,10-2,2019-03-20 10:54:37.804,Completed,United Kingdom,100,Armada,5007161,Chrysaor North Sea Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,91979,Details
+EU498454,10-0,2019-03-20 10:51:43.543,Completed,Germany,100,ENGIE GLOBAL MARKETS,5016881,ENGIE Global Markets,Netherlands,100,Compagnie Financière Michelin,5026250,Compagnie Financière Michelin SA,9694,Details
+EU498358,10-2,2019-03-20 10:42:43.614,Completed,Denmark,100,Hillerød Kraftvarmeværk:DK294,5006380,Hillerød Kraftvarme Aps,European Commission,100,EU Allowance deletion,5016380,European Commission,61130,Details
+EU498444,10-2,2019-03-20 10:39:56.611,Completed,Sweden,100,Alleima Tube AB,5001435,Alleima Tube AB,European Commission,100,EU Allowance deletion,5016380,European Commission,90948,Details
+EU498441,10-2,2019-03-20 10:39:56.172,Completed,United Kingdom,100,Lomond,5008161,Chrysaor Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,53731,Details
+EU498442,10-2,2019-03-20 10:38:50.996,Completed,United Kingdom,100,North Everest,5008163,Chrysaor Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,90024,Details

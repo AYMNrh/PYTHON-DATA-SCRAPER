@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU500211,10-2,2019-03-25 13:00:15.273,Completed,Germany,100,Wepa Kraftwerk GmbH,5022037,Wepa Kraftwerk GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,57095,Details
+EU499694,10-71,2019-03-25 13:00:11.056,Completed,Denmark,100,Søndermarken,5006364,DIN Forsyning Varme A/S,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,338,Details
+EU500365,10-0,2019-03-25 12:59:40.543,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,87393,Details
+EU500223,10-2,2019-03-25 12:58:22.034,Completed,Germany,100,588 - Anlagenkonto,5015928,Wepa Deutschland GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,6583,Details
+EU500363,10-0,2019-03-25 12:57:29.617,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Germany,100,Bayern LB,5016942,Bayerische Landesbank,35000,Details
+EU500234,10-2,2019-03-25 12:55:14.763,Completed,Germany,100,532 - Anlagenkonto,5015469,Wepa Deutschland GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,24495,Details
+EU500257,10-2,2019-03-25 12:52:59.6,Completed,Germany,100,531 - Anlagenkonto,5015466,Wepa Deutschland GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,24090,Details
+EU499739,10-0,2019-03-25 12:51:23.715,Completed,Italy,100,Operator Account,5012558,LUCART SPA,Italy,100,Operator Account,5012461,LUCART SPA,10492,Details
+EU500388,10-0,2019-03-25 12:51:11.727,Completed,Bulgaria,100,Zagora Finacorp Jsc.,5027231,Zagora Finacorp Jsc.,Bulgaria,100,TPP VARNA EAD,5027636,TPP VARNA EAD,12000,Details
+EU500266,10-2,2019-03-25 12:50:24.892,Completed,Germany,100,533 - Anlagenkonto,5015478,Wepa Deutschland GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,17706,Details
+EU500371,10-2,2019-03-25 12:49:32.696,Completed,Netherlands,100,Rodruza - Steenfabriek Rossum BV,5011553,Rodruza B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,17724,Details
+EU499740,10-0,2019-03-25 12:49:18.57,Completed,Italy,100,Operator Account,5012558,LUCART SPA,Italy,100,Operator Account,5012464,LUCART SPA,828,Details
+EU500361,10-0,2019-03-25 12:49:11.23,Completed,Spain,100,FUTURA CARBONO S.L.,5024181,FUTURA CARBONO S.L.,Spain,100,Sociedad Cooperativa Andaluza Ganadera del Valle de los Pedroches  - COVAP,5009853,Sociedad Cooperativa Andaluza Ganadera del Valle de los Pedroches,1000,Details
+EU500358,10-0,2019-03-25 12:48:14.128,Completed,Spain,100,FUTURA CARBONO S.L.,5024181,FUTURA CARBONO S.L.,Spain,100,"Azulmed, S.L.U.",5024341,"Azulmed, S.L.U.",2000,Details
+EU500354,10-0,2019-03-25 12:47:17.294,Completed,Spain,100,FUTURA CARBONO S.L.,5024181,FUTURA CARBONO S.L.,Spain,100,Cerámica Nulense,5009717,"Cerámica Nulense, S.A.",2000,Details
+EU500273,10-2,2019-03-25 12:46:52.729,Completed,Germany,100,636 - Anlagenkonto,5013987,Wepa Deutschland GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,14459,Details
+EU500386,10-0,2019-03-25 12:46:33.155,Completed,Bulgaria,100,Zagora Finacorp Jsc.,5027231,Zagora Finacorp Jsc.,Bulgaria,100,Toplofikatsia - Razgrad AD,5016137,Toplofikatsia Razgrad AD,2000,Details
+EU500352,10-0,2019-03-25 12:46:15.536,Completed,Spain,100,FUTURA CARBONO S.L.,5024181,FUTURA CARBONO S.L.,Spain,100,"RDM Barcelona Cartonboard, S.A.U.",5009817,"RDM Barcelona Cartonboard, S.A.U.",60000,Details
+EU500160,10-2,2019-03-25 12:46:13.223,Completed,Germany,100,Carbosulf Chemische Werke GmbH,5020867,Carbosulf Chemische Werke GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,28628,Details
+EU500389,10-0,2019-03-25 12:45:36.345,Completed,Spain,100,"Naturgy Energy Group, S.A.",5017187,"Naturgy Energy Group, S.A.",Spain,100,"Global Factor Commodity Trading, S.A.U.",5016901,"Global Factor Commodity Trading, S.A.U.",10000,Details

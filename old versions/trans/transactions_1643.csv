@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU486199,10-36,2019-02-21 01:42:14.409,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Formaldehyd-Fabrik,5017968,BASF SE,170813,Details
+EU486220,10-36,2019-02-21 01:42:14.326,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1808 - Anlagenkonto,5015345,ContiTech Transportbandsysteme GmbH,14058,Details
+EU486204,10-36,2019-02-21 01:42:14.317,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,HKW Mitte,5014486,Vattenfall Wärme Berlin Aktiengesellschaft,146136,Details
+EU486215,10-36,2019-02-21 01:42:14.256,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1059 - Anlagenkonto,5014267,C.& A. Veltins GmbH & Co.KG,3729,Details
+EU486189,10-36,2019-02-21 01:42:13.574,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,BHKW/HW Hohenhorst,5015012,HanseWerk Natur GmbH,3149,Details
+EU486174,10-36,2019-02-21 01:42:11.813,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1236 - Anlagenkonto,5014520,Stadtwerke Kiel Aktiengesellschaft,1049,Details
+EU486311,10-36,2019-02-21 01:42:11.813,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Prüfstand 5,5021640,MTU Maintenance Berlin-Brandenburg GmbH,689,Details
+EU486153,10-36,2019-02-21 01:42:11.808,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Pappenwerk Weisenbach,5015610,Katz GmbH & Co. KG,4162,Details
+EU486318,10-36,2019-02-21 01:42:11.808,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1818 - Anlagenkonto,5015359,Thyssengas GmbH,79,Details
+EU486207,10-36,2019-02-21 01:42:11.807,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Anlagenkonto TKL GmbH & Co. KG,5013872,Trianel Kohlekraftwerk Lünen GmbH & Co. KG,3310,Details
+EU486139,10-36,2019-02-21 01:42:11.806,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,TCO PM 1,5016059,Schoeller Technocell GmbH & Co. KG,45758,Details
+EU486133,10-36,2019-02-21 01:42:11.805,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Austria,100,Agrana Leopoldsdorf,5004042,AGRANA Zucker GmbH,59128,Details
+EU486205,10-36,2019-02-21 01:42:11.804,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,999 - Anlagenkonto,5014148,Bremerhavener Entsorgungsgesellschaft mbH,1444,Details
+EU486131,10-36,2019-02-21 01:42:11.803,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Anlagenkonto Triebwerksprüfstand HAM,5018815,Lufthansa Technik AG,1356,Details
+EU486027,10-36,2019-02-21 01:42:11.802,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Dampfflutanlage Emlichheim,5014362,Wintershall Dea Deutschland GmbH,53038,Details
+EU486156,10-36,2019-02-21 01:42:11.802,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1450 - Anlagenkonto Messe Düsseldorf,5014816,Messe Düsseldorf GmbH,1689,Details
+EU486154,10-36,2019-02-21 01:42:11.802,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Speicherverdichterstation Epe - Feuerungsanlagen,5014344,Uniper Energy Storage GmbH,1216,Details
+EU486134,10-36,2019-02-21 01:42:11.8,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,974 - Anlagenkonto,5014095,Burda Druck GmbH,5800,Details
+EU486175,10-36,2019-02-21 01:42:11.799,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,GV Heiz- und Wärmezentrale,5014826,Speira GmbH,23071,Details
+EU486163,10-36,2019-02-21 01:42:11.799,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Voith Gesamtanlage,5014422,J. M. Voith SE & Co. KG,10482,Details

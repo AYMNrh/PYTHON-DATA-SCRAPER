@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU496171,10-2,2019-03-12 22:15:09.95,Completed,United Kingdom,100,Cynon Power Limited,5024518,Cynon Power Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,6990,Details
+EU496175,10-2,2019-03-12 22:12:55.627,Completed,United Kingdom,100,Culvery Power Limited,5027043,Culvery Power Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,6396,Details
+EU496180,10-2,2019-03-12 22:11:47.074,Completed,United Kingdom,100,Bury Power Limited,5027029,Bury Power Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,9057,Details
+EU496184,10-2,2019-03-12 22:10:23.973,Completed,United Kingdom,100,Wharf Power Limited,5027127,Wharf Power Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,5806,Details
+EU496570,10-2,2019-03-12 22:09:25.809,Completed,United Kingdom,100,Northwich Power Limited,5027606,Northwich Power Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,380,Details
+EU496571,10-2,2019-03-12 22:08:08.031,Completed,United Kingdom,100,Banbury Power Limited,5027653,Banbury Power Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,31,Details
+EU496563,10-2,2019-03-12 19:28:32.507,Completed,United Kingdom,100,Voyageur Spirit,5021063,Premier Oil E&P UK Ltd,European Commission,100,EU Allowance deletion,5016380,European Commission,76859,Details
+EU496236,10-2,2019-03-12 19:04:34.909,Completed,United Kingdom,100,,5017229,,European Commission,100,EU Allowance deletion,5016380,European Commission,1217,Details
+EU496546,10-2,2019-03-12 18:45:31.896,Completed,France,100,AIRBUS OPERATIONS SAS - Site Clément Ader,5004915,AIRBUS OPERATIONS SAS,European Commission,100,EU Allowance deletion,5016380,European Commission,4284,Details
+EU496550,10-2,2019-03-12 18:42:23.839,Completed,France,100,AIRBUS OPERATIONS SAS - Site de Nantes,5005819,AIRBUS OPERATIONS SAS,European Commission,100,EU Allowance deletion,5016380,European Commission,12154,Details
+EU496572,10-2,2019-03-12 18:33:08.112,Completed,France,100,MP HYGIENE,5026399,MP HYGIENE,European Commission,100,EU Allowance deletion,5016380,European Commission,9201,Details
+EU496491,10-2,2019-03-12 18:16:28.417,Completed,United Kingdom,100,,5016807,,European Commission,100,EU Allowance deletion,5016380,European Commission,333,Details
+EU496092,10-0,2019-03-12 17:59:29.16,Completed,United Kingdom,100,HBEL-AIUK,5024072,Holcibel S.A.,Netherlands,100,HBEL,5027810,Holcibel,3924188,Details
+EU496093,10-0,2019-03-12 17:58:07.358,Completed,United Kingdom,100,HBEL-AIUK,5024072,Holcibel S.A.,Netherlands,100,HBEL,5027810,Holcibel,2532914,Details
+EU496483,10-2,2019-03-12 17:56:15.151,Completed,United Kingdom,100,,5024146,,European Commission,100,EU Allowance deletion,5016380,European Commission,75,Details
+EU496148,10-0,2019-03-12 17:55:07.074,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,United Kingdom,100,Banbury Power Limited,5027653,Banbury Power Limited,31,Details
+EU496144,10-0,2019-03-12 17:54:29.681,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,United Kingdom,100,Northwich Power Limited,5027606,Northwich Power Limited,380,Details
+EU496130,10-0,2019-03-12 17:52:56.147,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,United Kingdom,100,Tullos,5026539,RWG (Repairs and Overhauls) Limited,947,Details
+EU496445,10-2,2019-03-12 17:50:42.023,Completed,United Kingdom,100,Chettles Limited,5007589,Sarval Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,28046,Details
+EU496137,10-0,2019-03-12 17:49:36.272,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,United Kingdom,100,Alkane Energy CM Limited,5027671,Alkane Energy CM Limited,269,Details

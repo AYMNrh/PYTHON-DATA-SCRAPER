@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU513849,10-36,2019-04-16 01:30:59.991,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Belgium,100,427 COSUCRA GROUPE WARCOING,5027239,Cosucra Groupe Warcoing,14091,Details
+EU513863,10-36,2019-04-16 01:30:59.972,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Kumla HVC,5002187,E.ON Energiinfrastruktur AB,380,Details
+EU513861,10-36,2019-04-16 01:30:59.884,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Södra Cell Värö,5001465,Södra Skogsägarna ekonomisk förening,6386,Details
+EU513860,10-36,2019-04-16 01:30:59.563,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Belgium,100,040 Umicore site Hoboken,5004439,Umicore,15454,Details
+EU513800,10-36,2019-04-16 01:30:59.508,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Belgium,100,292 ETEX BUILDING PERFORMANCE,5004305,ETEX BUILDING PERFORMANCE,2359,Details
+EU513804,10-36,2019-04-16 01:30:59.497,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Belgium,100,337 BPB Belgium,5004405,Saint Gobain Construction Products Belgium,4228,Details
+EU513840,10-36,2019-04-16 01:30:59.436,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Belgium,100,037 Nelissen Steenfabrieken,5004433,Nelissen Steenfabrieken,2238,Details
+EU513879,10-36,2019-04-16 01:30:59.172,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,HVC Gnistan,5001969,Linde Energi AB,317,Details
+EU513833,10-36,2019-04-16 01:30:59.07,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Tableros Hispanos, S.L.U.",5023961,"Tableros Hispanos, S.L.U.",1965,Details
+EU513866,10-36,2019-04-16 01:30:59.039,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,Conservas Vegetales de Tomates Guadiana Soc.Coop,5009348,Conservas Vegetales de Tomates del Guadiana Soc. Coop.,16410,Details
+EU513871,10-36,2019-04-16 01:30:58.988,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Vilunda,5002086,Stockholm Exergi AB,2261,Details
+EU513846,10-36,2019-04-16 01:30:58.961,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,HVC Hagaberg,5001693,Linde Energi AB,9,Details
+EU513805,10-36,2019-04-16 01:30:58.92,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Romania,100,SC MODERN CALOR SA,5010155,S.C. Modern Calor S.A. Botosani,1271,Details
+EU513873,10-36,2019-04-16 01:30:58.852,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Panncentralen TD,5002193,Göteborg Energi AB,1713,Details
+EU513885,10-36,2019-04-16 01:30:58.821,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Granloholmsverket,5002113,Sundsvall Energi AB,507,Details
+EU513796,10-36,2019-04-16 01:30:58.791,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Montefibre Hispania, S.A.",5027123,"Montefibre Hispania, S.A.",71555,Details
+EU513870,10-36,2019-04-16 01:30:58.734,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,S.A. MINERA CATALANO ARAGONESA,5009720,S.A. MINERA CATALANO ARAGONESA,31698,Details
+EU513823,10-36,2019-04-16 01:30:58.662,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Halcón Cerámicas, S.L.",5022177,"Halcón Cerámicas, S.L.",7375,Details
+EU513836,10-36,2019-04-16 01:30:58.598,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Colorker, SA",5019256,"Colorker, SA",2765,Details
+EU513838,10-36,2019-04-16 01:30:58.585,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Azulmed, S.L.U.",5024341,"Azulmed, S.L.U.",75452,Details

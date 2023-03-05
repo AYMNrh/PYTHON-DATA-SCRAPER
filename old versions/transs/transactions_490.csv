@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU509589,10-0,2019-04-11 12:09:18.605,Completed,Norway,100,CEMAsys Handelskonto,5024788,CEMASYS.COM AS,Norway,100,Mo Fjernvarme AS,5012254,Mo Fjernvarme AS,2725,Details
+EU510166,10-0,2019-04-11 12:09:14.945,Completed,United Kingdom,100,Operator Account,5007097,Innospec Limited,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,16420,Details
+EU509625,10-0,2019-04-11 12:09:07.351,Completed,France,100,Société Valmy Défense 17 - SVD17,5023377,SVD 17,France,100,SEBIO,5004844,SEBIO,2843,Details
+EU510132,10-0,2019-04-11 12:08:46.946,Completed,Germany,100,Furnacerußanlage,5013890,Orion Engineered Carbons GmbH,Italy,100,OECRAVCO2,5013026,Orion Engineered Carbons S.r.l.,67158,Details
+EU511308,10-72,2019-04-11 12:08:42.049,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Belgium,100,386 Deckx algemene ondernemingen nv - Grobbendonk,5022085,Deckx algemene ondernemingen,101,Details
+EU509740,10-0,2019-04-11 12:08:41.003,Completed,Spain,100,Transformaciones Agrícolas de Badajoz S.A,5009536,Transformaciones Agrícolas de Badajoz S.A,Portugal,100,TRADE2C,5026779,"TRADE2C, UNIPESSOAL, LDA.",186446,Details
+EU510057,10-0,2019-04-11 12:08:40.004,Completed,Romania,100,S.C. PETROTEL-LUKOIL S.A.,5010119,PETROTEL-LUKOIL S.A.,Romania,100,SC LUKOIL ENERGY&GAS ROMANIA SRL,5010296,SC LUKOIL ENERGY&GAS ROMANIA SRL,127000,Details
+EU509709,10-0,2019-04-11 12:08:26.198,Completed,United Kingdom,100,Novelis UK Ltd,5018527,Novelis UK Ltd,Germany,100,"Novelis Deutschland GmbH, Werk Göttingen",5019082,Novelis Deutschland GmbH,7924,Details
+EU509578,10-0,2019-04-11 12:08:22.159,Completed,France,100,Chaufferie des Bellevues,5004962,CENERGY,France,100,Chaufferie des Linandes,5018531,CENERGY,695,Details
+EU509612,10-0,2019-04-11 12:08:14.815,Completed,Netherlands,100,Yara Sluiskil B.V. BKG 1,5011379,Yara Sluiskil B.V.,Netherlands,100,Yara Sluiskil B.V. BKG 2,5021286,Yara Sluiskil B.V.,306196,Details
+EU509439,10-0,2019-04-11 12:08:09.376,Completed,France,100,ARKEMA FRANCE Carling Saint Avold,5004701,ARKEMA FRANCE,France,100,ARKEMA FRANCE Lannemezan,5004896,ARKEMA FRANCE,8825,Details
+EU509623,10-0,2019-04-11 12:08:04.954,Completed,France,100,Société Valmy Défense 17 - SVD17,5023377,SVD 17,France,100,Chaufferie des Linandes,5018531,CENERGY,13163,Details
+EU509667,10-0,2019-04-11 12:08:01.583,Completed,Spain,100,"Cerámica De La Estanca, S.A.",5020805,CERAMICA DE LA ESTANCA,Spain,100,"Global Factor Commodity Trading, S.A.U.",5016901,"Global Factor Commodity Trading, S.A.U.",3333,Details
+EU509619,10-0,2019-04-11 12:07:55.29,Completed,Italy,100,Operator Account,5013591,Favini S.r.l.,Italy,100,A2L ENERGY,5024615,A2L ENERGY S.R.L.,15000,Details
+EU511306,10-72,2019-04-11 12:07:54.253,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Belgium,100,387 Deckx algemene ondernemingen nv - Puurs,5022086,Deckx algemene ondernemingen,86,Details
+EU504823,10-0,2019-04-11 12:07:39.817,Completed,France,100,Société Valmy Défense 17 - SVD17,5023377,SVD 17,France,100,CEA Marcoule,5005736,CEA,7889,Details
+EU510163,10-0,2019-04-11 12:07:35.254,Completed,Italy,100,CONTO ETS COOPIMOLA BORGO,5018054,COOPERATIVA CERAMICA D'IMOLA S.C.,Italy,100,CONTO ETS COOPIMOLA FAENZA,5018057,COOPERATIVA CERAMICA D'IMOLA S.C.,2049,Details
+EU511196,10-71,2019-04-11 12:07:33.952,Completed,Belgium,100,386 Deckx algemene ondernemingen nv - Grobbendonk,5022085,Deckx algemene ondernemingen,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,101,Details
+EU509611,10-0,2019-04-11 12:07:28.952,Completed,Sweden,100,Okvista Värmeverk,5001715,E.ON Energiinfrastruktur AB,Sweden,100,MPC Brandstation,5027723,E.ON Energiinfrastruktur AB,200,Details
+EU511265,10-0,2019-04-11 12:07:14.332,Completed,Czech Republic,100,BLACKSTONE GLOBAL VENTURES - Obchodní,5017070,BLACKSTONE GLOBAL VENTURES a.s.,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,10000,Details

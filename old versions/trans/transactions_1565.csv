@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU485556,10-0,2019-02-22 12:01:34.509,Completed,United Kingdom,100,RWE Npower Renewables (Markinch) Limited,5008408,RWE Markinch Limited,United Kingdom,100,RWE npower CAM,5007269,RWE Generation UK Plc,1355,Details
+EU486902,10-0,2019-02-22 12:01:07.496,Completed,Germany,100,1519 - Anlagenkonto,5014915,Mainova Aktiengesellschaft,Germany,100,Mainova AG Handelskonto,5017285,Mainova AG,977,Details
+EU485578,10-0,2019-02-22 12:01:04.324,Completed,Germany,100,Wienerberger AG,5013733,Wienerberger AG,Belgium,100,214 Terca Beerse,5004613,Wienerberger,11492,Details
+EU485561,10-0,2019-02-22 12:00:50.653,Completed,United Kingdom,100,Operator Account,5007271,px (TGPP) limited,United Kingdom,100,Gazprom Marketing & Trading Retail (Trading Account),5017319,Gazprom Marketing & Trading Retail Ltd,5665,Details
+EU485577,10-0,2019-02-22 12:00:37.076,Completed,Croatia,100,HIŠ-pogon Županja-2019,5020351,Hrvatska industrija šećera d.d.,Croatia,100,INTERCAPITAL TRADING ACCOUNT,5021057,Interkapital vrijednosni papiri d.o.o.,20000,Details
+EU487771,10-2,2019-02-22 11:58:32.615,Completed,United Kingdom,100,Drax Power Station,5007174,Drax Power Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,4013723,Details
+EU487775,10-0,2019-02-22 11:57:37.887,Completed,United Kingdom,100,A2A S.p.A.,5026060,A2A S.P.A.,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,26000,Details
+EU487773,10-0,2019-02-22 11:54:00.298,Completed,Poland,100,mBank S.A.,5023148,mBank S.A.,Poland,100,CIEPŁOWNIA,5003642,"""Ciepłownia Łańcut"" Sp. z o.o.",4000,Details
+EU487761,10-0,2019-02-22 11:34:05.656,Completed,Norway,100,DNB Markets Trading Account,5017497,DNB Bank ASA,Norway,100,Widerøe,5000306,Widerøe's Flyveselskap AS,37948,Details
+EU487767,10-0,2019-02-22 11:33:28.003,Completed,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,Italy,100,NeosCO2,5016432,Neos Spa,4000,Details
+CH25945,3-0,2019-02-22 11:32:21.494,Completed,Switzerland,100,,546,,Austria,100,Borealis AG,5020105,Borealis AG,115000,Details
+EU487755,10-0,2019-02-22 11:30:00.545,Completed,United Kingdom,100,Gazprom Marketing & Trading (TRADING ACCOUNT),5017318,Gazprom Marketing & Trading Limited,United Kingdom,100,EP UK INVESTMENTS LTD,5026388,EP UK Investments Ltd,386680,Details
+EU487764,10-0,2019-02-22 11:28:57.41,Completed,France,100,SOCIETE GENERALE,5017623,SOCIETE GENERALE,Czech Republic,100,"Komerční banka, a.s. obchodní účet",5016819,"Komerční banka, a.s.",20000,Details
+EU487743,10-0,2019-02-22 11:24:34.407,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Portugal,100,"Transportes Aéreos Portugueses, S.A.",5000522,"Transportes Aéreos Portugueses, S.A.",30000,Details
+EU487766,10-0,2019-02-22 11:20:09.379,Completed,Netherlands,100,SEE BV Dutch Registry TA,5027676,Shell Energy Europe B.V.,Netherlands,100,STIL Dutch Registry TA,5027677,Shell Trading International Limited,1,Details
+EU487744,10-0,2019-02-22 11:17:52.717,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Bulgaria,100,Zaharni zavodi AD,5016156,Zaharni zavodi AD,2000,Details
+EU487738,10-0,2019-02-22 11:17:45.619,Completed,Sweden,100,"Holmen AB, Finansavdelning",5018526,Holmen AB,United Kingdom,100,Iggesund Paperboard Trading,5007881,Iggesund Paperboard (Workington) Limited,7349,Details
+EU487765,10-0,2019-02-22 11:17:37.586,Completed,Netherlands,100,STIL Dutch Registry TA,5027677,Shell Trading International Limited,Netherlands,100,SEE BV Dutch Registry TA,5027676,Shell Energy Europe B.V.,1,Details
+EU487760,10-0,2019-02-22 11:16:54.944,Completed,United Kingdom,100,Gazprom Marketing & Trading Retail (Trading Account),5017319,Gazprom Marketing & Trading Retail Ltd,United Kingdom,100,Gazprom Marketing & Trading (TRADING ACCOUNT),5017318,Gazprom Marketing & Trading Limited,41165,Details
+EU487747,10-0,2019-02-22 11:14:47.7,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Italy,100,Trading Account,5017215,Tirreno Power SpA,10000,Details

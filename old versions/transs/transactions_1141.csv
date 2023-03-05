@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU495677,10-71,2019-03-13 11:30:26.394,Completed,Denmark,100,ARLA F Protein,5006376,ARLA Foods Energy A/S,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,9046,Details
+EU496533,10-2,2019-03-13 11:27:04.735,Completed,Germany,100,205 - Anlagenkonto,5014562,Schuller GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,1473,Details
+EU496311,10-2,2019-03-13 11:26:58.721,Completed,Denmark,100,Vojens Fjernv,5006260,Vojens Fjernvarme a.m.b.a.,European Commission,100,EU Allowance deletion,5016380,European Commission,770,Details
+EU496711,10-2,2019-03-13 11:13:50.108,Completed,Sweden,100,Öviks sjukhus,5002262,Övik Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,142,Details
+EU496709,10-2,2019-03-13 11:10:26.785,Completed,Sweden,100,P11,5001887,Övik Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,6917,Details
+EU496708,10-0,2019-03-13 11:09:54.885,Completed,Greece,100,IPPC S.A.,5016925,ΕΥΣΤΑΘΙΟΣ ΚΟΥΡΝΙΩΤΗΣ,Netherlands,100,"Gunvor International B.V., Amsterdam, Geneva Branch",5024828,Gunvor International B.V.,12000,Details
+EU496706,10-2,2019-03-13 11:06:09.357,Completed,Sweden,100,Hörneborgsverket,5001822,Övik Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,49002,Details
+EU496702,10-2,2019-03-13 11:02:17.607,Completed,Sweden,100,Treetex,5001537,Övik Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,28,Details
+EU496691,10-0,2019-03-13 10:56:33.434,Completed,Greece,100,MELAE,5016986,ΜΕΛ- ΜΑΚΕΔΟΝΙΚΗ ΕΤΑΙΡΙΑ ΧΑΡΤΟΥ ΑΕ,Greece,100,IPPC S.A.,5016925,ΕΥΣΤΑΘΙΟΣ ΚΟΥΡΝΙΩΤΗΣ,12000,Details
+EU496540,10-2,2019-03-13 10:55:37.711,Completed,United Kingdom,100,Moffat Compressor Station,5007428,National Grid Gas Plc,European Commission,100,EU Allowance deletion,5016380,European Commission,2259,Details
+EU496695,10-0,2019-03-13 10:53:44.167,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Austria,100,AMAG rolling GmbH,5017839,AMAG rolling GmbH,800,Details
+EU496542,10-2,2019-03-13 10:53:12.087,Completed,United Kingdom,100,Warrington Compressor Station,5007414,National Grid Gas Plc,European Commission,100,EU Allowance deletion,5016380,European Commission,799,Details
+EU496694,10-0,2019-03-13 10:52:46.619,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Austria,100,AMAG casting GmbH,5017837,AMAG casting GmbH,3200,Details
+EU496698,10-0,2019-03-13 10:52:45.892,Completed,Sweden,100,Entelios AB handelskonto,5019789,Entelios AB,Sweden,100,Edsbyn,5022420,Solör Bioenergi Fjärrvärme AB,12,Details
+EU496545,10-2,2019-03-13 10:50:43.956,Completed,United Kingdom,100,Wooler Compressor Station,5007408,National Grid Gas Plc,European Commission,100,EU Allowance deletion,5016380,European Commission,2187,Details
+EU496548,10-2,2019-03-13 10:48:41.824,Completed,United Kingdom,100,Wormington Compressor Station,5007411,National Grid Gas Plc,European Commission,100,EU Allowance deletion,5016380,European Commission,209,Details
+EU496684,10-0,2019-03-13 10:48:35.345,Completed,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,Italy,100,Carbon Trading 1,5016906,Banca Finnat S.p.A.,10000,Details
+EU496685,10-0,2019-03-13 10:48:29.574,Completed,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,Spain,100,"Sistema Europeo de Negociación de Co2, S.L.",5020183,"SISTEMA EUROPEO DE NEGOCIACIÓN DE CO2, S.L.",20000,Details
+EU496686,10-0,2019-03-13 10:47:08.968,Completed,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,Poland,100,mBank S.A.,5023148,mBank S.A.,50000,Details
+EU496549,10-2,2019-03-13 10:46:37.728,Completed,United Kingdom,100,Wisbech Compressor Station,5007413,National Grid Gas Plc,European Commission,100,EU Allowance deletion,5016380,European Commission,185,Details

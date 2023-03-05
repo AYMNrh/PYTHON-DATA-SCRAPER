@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU485557,10-0,2019-02-21 10:04:59.924,Completed,Belgium,100,9013 INEOS EUROPE AG,5027610,INEOS EUROPE AG,United Kingdom,100,Operator Account,5008176,Ineos Chemicals Grangemouth Limited,612380,Details
+EU486883,10-0,2019-02-21 10:04:28.221,Completed,Finland,100,ADVEN Trading,5018009,Adven Oy,Finland,100,Gasum Consulting Oy,5018688,Gasum Consulting Oy,5000,Details
+EU485526,10-0,2019-02-21 10:04:24.716,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Malta,100,RAL Warehousing Account,5027655,Louis Redshaw,4163,Details
+EU486901,10-0,2019-02-21 10:04:23.77,Completed,Finland,100,Gasum Consulting Oy,5018688,Gasum Consulting Oy,Finland,100,Atria Yhtymä Oyj:FI11,5010794,Nevel Oy,3000,Details
+EU485559,10-0,2019-02-21 10:04:21.764,Completed,Belgium,100,9013 INEOS EUROPE AG,5027610,INEOS EUROPE AG,United Kingdom,100,Grangemouth GHP Limited,5008113,Grangemouth CHP Limited,514320,Details
+EU485525,10-0,2019-02-21 10:03:34.736,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Malta,100,RAL Warehousing Account,5027655,Louis Redshaw,6597,Details
+EU486878,10-0,2019-02-21 10:03:26.666,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Belgium,100,361 Dumoulin Bricks,5019318,Dumoulin Bricks,7000,Details
+EU485536,10-0,2019-02-21 10:03:23.22,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Italy,100,Intermonte Partners SIM S.p.A.,5021903,Intermonte Partners SIM S.p.A.,2000,Details
+EU485558,10-0,2019-02-21 10:03:17.29,Completed,Belgium,100,9013 INEOS EUROPE AG,5027610,INEOS EUROPE AG,United Kingdom,100,Operator Account,5008171,Ineos Infrastructure (Grangemouth) Limited,419408,Details
+EU485544,10-0,2019-02-21 10:02:10.227,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Spain,100,"Naturgy Energy Group, S.A.",5017187,"Naturgy Energy Group, S.A.",30000,Details
+EU486876,10-0,2019-02-21 10:01:40.485,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Romania,100,SC COLONIA CLUJ-NAPOCA ENERGIE SRL,5010035,MIRON EMIL,4000,Details
+EU485567,10-0,2019-02-21 10:01:11.579,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Austria,100,AMAG casting GmbH,5017837,AMAG casting GmbH,2400,Details
+EU485377,10-2,2019-02-21 10:01:00.612,Completed,United Kingdom,100,DSDC Donnington,5007313,MOD Donnington,European Commission,100,EU Allowance deletion,5016380,European Commission,9694,Details
+EU485563,10-0,2019-02-21 10:00:35.207,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Greece,100,ELPEDISONTHISVI,5002432,ELPEDISON (ΠΡ ΕΝΕΡΓΕΙΑΚΗ ΘΕΣΣΑΛΟΝΙΚΗΣ Α.Ε.),7500,Details
+EU486893,10-0,2019-02-21 10:00:21.526,Completed,Finland,100,Gasum Consulting Oy,5018688,Gasum Consulting Oy,Finland,100,Trading 1,5023516,Fortum Power and Heat Oy,12000,Details
+EU485564,10-0,2019-02-21 10:00:10.524,Completed,Spain,100,FUTURA CARBONO S.L.,5024181,FUTURA CARBONO S.L.,Portugal,100,TRADE2C,5026779,"TRADE2C, UNIPESSOAL, LDA.",173000,Details
+EU486864,10-2,2019-02-21 09:59:26.137,Completed,Germany,100,186 - Anlagenkonto,5014361,Fels-Werke GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,197078,Details
+EU486882,10-2,2019-02-21 09:57:51.638,Completed,United Kingdom,100,Mars Petcare UK Melton,5008066,Mars Petcare UK,European Commission,100,EU Allowance deletion,5016380,European Commission,11988,Details
+EU486865,10-2,2019-02-21 09:54:50.465,Completed,Germany,100,Kalkwerk Kaltes Tal GGR 7,5015773,Fels-Werke GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,108815,Details
+EU485575,10-2,2019-02-21 09:54:28.079,Completed,United Kingdom,100,Portbury,5007688,Etex Building Performance Ltd,European Commission,100,EU Allowance deletion,5016380,European Commission,70543,Details

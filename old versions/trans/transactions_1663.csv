@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU485626,10-36,2019-02-21 01:41:07.5,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,HKW Freimann,5015155,SWM Services GmbH,510,Details
+EU485608,10-36,2019-02-21 01:41:07.35,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,904 - Anlagenkonto,5013884,Veolia Industriepark Deutschland GmbH,18993,Details
+EU485585,10-36,2019-02-21 01:41:07.292,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1761 - Anlagenkonto,5015266,Roche Diagnostics GmbH,16480,Details
+EU485614,10-36,2019-02-21 01:41:06.667,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Austria,100,Lenzing Papier GmbH,5022913,Lenzing Papier GmbH,25650,Details
+EU485617,10-36,2019-02-21 01:41:06.539,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Austria,100,FWZ Voitsberg,5004106,Energie Steiermark Wärme GmbH,5114,Details
+EU485584,10-36,2019-02-21 01:41:05.733,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Austria,100,LS FHKW Mitte  Linz Linie 1a,5004073,LINZ STROM GAS WÄRME GmbH,50595,Details
+EU485589,10-36,2019-02-21 01:41:05.732,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,HKW Wedel,5014086,Hamburger Energiewerke GmbH,101485,Details
+EU485619,10-36,2019-02-21 01:41:05.727,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1244 - Anlagenkonto,5014532,Ferrero OHG mbH,12315,Details
+EU485609,10-36,2019-02-21 01:41:05.725,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Glatfelter Ober-Schmitten GmbH,5019882,Glatfelter Ober-Schmitten GmbH,13786,Details
+EU485583,10-36,2019-02-21 01:41:05.71,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1271 - Anlagenkonto,5014571,swb Erzeugung AG & Co. KG,62836,Details
+EU485613,10-36,2019-02-21 01:41:05.709,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,KRONOS TITAN GmbH - Werk Nordenham,5014945,KRONOS TITAN GmbH,100531,Details
+EU485605,10-36,2019-02-21 01:41:05.709,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1412 - Anlagenkonto,5014765,RWTH Aachen,12351,Details
+EU485582,10-36,2019-02-21 01:41:05.709,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1256 - Anlagenkonto,5014549,swb Erzeugung AG & Co. KG,2805,Details
+EU485612,10-36,2019-02-21 01:41:05.705,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Ammoniak-Fabrik 3,5017963,BASF SE,486938,Details
+EU485599,10-36,2019-02-21 01:41:05.705,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,609 - Anlagenkonto,5016092,LEIPA Georg Leinfelder GmbH,195333,Details
+EU485780,10-36,2019-02-21 01:41:05.703,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1690 - Anlagenkonto,5015156,Stadtwerke Karlsruhe GmbH,23138,Details
+EU485629,10-36,2019-02-21 01:41:05.703,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Austria,100,EVN FHKW Mödling,5004170,EVN Wärme GmbH,8317,Details
+EU485598,10-36,2019-02-21 01:41:05.702,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1567 - Anlagenkonto,5014984,Dow Deutschland Anlagengesellschaft mbH,41182,Details
+EU485602,10-36,2019-02-21 01:41:05.691,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1325 - Anlagenkonto,5014645,Stadtwerke Görlitz Aktiengesellschaft,5645,Details
+EU485630,10-36,2019-02-21 01:41:05.624,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,HKW Reuter West,5014465,Vattenfall Wärme Berlin Aktiengesellschaft,150445,Details

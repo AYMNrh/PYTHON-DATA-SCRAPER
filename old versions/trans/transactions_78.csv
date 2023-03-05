@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU479393,10-0,2018-12-26 12:15:57.006,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,1003,Details
+EU479385,10-0,2018-12-26 12:15:57.005,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,10000,Details
+EU479371,10-0,2018-12-26 12:15:57.004,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,51142,Details
+EU479379,10-0,2018-12-26 12:15:56.995,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,19344,Details
+EU479369,10-0,2018-12-26 12:15:56.995,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,67781,Details
+EU479358,10-0,2018-12-26 12:15:56.992,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,155992,Details
+EU479357,10-0,2018-12-26 12:15:56.991,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,243787,Details
+EU479375,10-0,2018-12-26 12:15:56.988,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,37290,Details
+EU479100,10-0,2018-12-26 12:15:56.826,Completed,Portugal,100,7108-EDP - Energias de portugal S.A.,5003348,EDP - Energias de portugal S.A.,Portugal,100,"118-EDP - Gestão da Produção de Energia, S.A.",5002631,"EDP - Gestão da Produção de Energia, S.A.",10354000,Details
+EU479360,10-0,2018-12-26 12:15:56.759,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,148896,Details
+EU479363,10-0,2018-12-26 12:15:56.535,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,131049,Details
+EU479365,10-0,2018-12-26 12:15:56.52,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,99590,Details
+EU479398,10-0,2018-12-26 12:15:56.041,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,3,Details
+EU479396,10-0,2018-12-26 12:15:56.039,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,517,Details
+EU479394,10-0,2018-12-26 12:15:56.038,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,1000,Details
+EU479380,10-0,2018-12-26 12:15:51.393,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,18787,Details
+EU479389,10-0,2018-12-26 12:15:51.372,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,3765,Details
+EU479355,10-0,2018-12-26 12:15:51.37,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,207984,Details
+EU479382,10-0,2018-12-26 12:15:51.348,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,14249,Details
+EU479383,10-0,2018-12-26 12:15:51.323,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,12458,Details

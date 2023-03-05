@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU502940,10-0,2019-04-01 14:38:38.023,Completed,Germany,100,Werk  Erfurt,5015864,Wienerberger GmbH,Germany,100,Werk  Ansbach,5015848,Schlagmann Poroton GmbH & Co. KG,18123,Details
+EU503846,10-0,2019-04-01 14:37:44.459,Completed,Germany,100,Handelskonto tk Steel Europe,5027540,ThyssenKrupp Steel Europe AG,Germany,100,Feuerbeschichtungsanlage 8 Dortmund,5019334,ThyssenKrupp Steel Europe AG,476,Details
+EU503839,10-0,2019-04-01 14:36:41.434,Completed,Norway,100,DNB Markets Trading Account,5017497,DNB Bank ASA,Sweden,100,MBCEs handelskonto,5001779,SSAB AB,2680,Details
+EU502937,10-0,2019-04-01 14:35:17.806,Completed,Germany,100,Werk  Ansbach,5015848,Schlagmann Poroton GmbH & Co. KG,Germany,100,Werk  Wefensleben,5015976,Wienerberger GmbH,11409,Details
+EU503774,10-2,2019-04-01 14:35:09.603,Completed,Sweden,100,Rönnskärsverken,5001432,Boliden Mineral AB,European Commission,100,EU Allowance deletion,5016380,European Commission,285404,Details
+EU501954,10-2,2019-04-01 14:35:00.415,Completed,Spain,100,"Kao Corporation, S.A. - Olesa de Montserrat",5009526,"KAO CORPORATION, SA",European Commission,100,EU Allowance deletion,5016380,European Commission,26190,Details
+EU503825,10-0,2019-04-01 14:34:40.743,Completed,France,100,SOCIETE GENERALE,5017623,SOCIETE GENERALE,Czech Republic,100,"Komerční banka, a.s. obchodní účet",5016819,"Komerční banka, a.s.",3000,Details
+EU502841,10-2,2019-04-01 14:34:11.541,Completed,France,100,UGITECH SA - Site d'Ugine,5004993,UGITECH SA,European Commission,100,EU Allowance deletion,5016380,European Commission,65599,Details
+EU503844,10-0,2019-04-01 14:34:08.97,Completed,Germany,100,Handelskonto tk Steel Europe,5027540,ThyssenKrupp Steel Europe AG,Germany,100,Feuerbeschichtungsanlage 5 Eichen,5019330,ThyssenKrupp Steel Europe AG,106,Details
+EU503781,10-2,2019-04-01 14:34:05.0,Completed,Sweden,100,Boliden Bergsöe AB,5002102,Boliden Bergsöe AB,European Commission,100,EU Allowance deletion,5016380,European Commission,47210,Details
+EU503805,10-2,2019-04-01 14:33:39.41,Completed,Denmark,100,Brønderslev KV,5006537,Brønderslev Varme A/S,European Commission,100,EU Allowance deletion,5016380,European Commission,11290,Details
+EU502932,10-0,2019-04-01 14:33:01.981,Completed,Germany,100,Werk  Ansbach,5015848,Schlagmann Poroton GmbH & Co. KG,Germany,100,Werk  Kirchkimmen  1,5016043,Wienerberger GmbH,5472,Details
+EU502928,10-0,2019-04-01 14:30:36.24,Completed,Germany,100,Werk  Ansbach,5015848,Schlagmann Poroton GmbH & Co. KG,Germany,100,Werk  Eisenberg/Pf W3  DZ,5018832,Wienerberger GmbH,2725,Details
+EU503837,10-2,2019-04-01 14:29:15.359,Completed,Finland,100,Nurmesrit:FI299,5010355,Nurmeksen Lämpö Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,498,Details
+EU502923,10-0,2019-04-01 14:28:40.421,Completed,Germany,100,Werk  Ansbach,5015848,Schlagmann Poroton GmbH & Co. KG,Germany,100,Werk  Eisenberg/Pf W 5  DZ,5018833,Wienerberger GmbH,1224,Details
+EU503838,10-0,2019-04-01 14:28:08.018,Completed,Croatia,100,INTERCAPITAL TRADING ACCOUNT,5021057,Interkapital vrijednosni papiri d.o.o.,Germany,100,Advantag Services GmbH,5022399,Advantag Services GmbH,38000,Details
+EU503796,10-2,2019-04-01 14:28:01.731,Completed,Finland,100,Boliden Kokkola Oy,5022856,Boliden Kokkola Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,7282,Details
+EU503806,10-2,2019-04-01 14:27:22.116,Completed,Germany,100,1665 - Anlagenkonto,5015120,Oldenburger Fleischmehlfabrik GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,24977,Details
+EU502920,10-0,2019-04-01 14:26:11.291,Completed,Germany,100,Werk  Ansbach,5015848,Schlagmann Poroton GmbH & Co. KG,Germany,100,Werk  Langenzenn DZ,5015957,Wienerberger GmbH,6146,Details
+EU503802,10-2,2019-04-01 14:25:44.475,Completed,Finland,100,Boliden Harjavalta Oy,5022878,Boliden Harjavalta Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,95265,Details

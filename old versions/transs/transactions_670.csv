@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU506252,10-0,2019-04-05 13:11:41.087,Completed,Germany,100,Ammoniak-Fabrik 4,5017961,BASF SE,Germany,100,BASF SE - Hub,5016964,BASF SE,131881,Details
+EU506156,10-0,2019-04-05 13:11:36.407,Completed,Germany,100,1882 - EnBW Trading GmbH Personenkonto,5015443,EnBW Energie Baden-Württemberg AG,Germany,100,Heizkraftwerk Dow Wolff Cellulosics GmbH,5015938,EnBW Contracting GmbH,54372,Details
+EU506510,10-2,2019-04-05 13:11:23.981,Completed,Germany,100,Prüfstand Halle 903,5022397,MAN Energy Solutions SE,European Commission,100,EU Allowance deletion,5016380,European Commission,761,Details
+EU506255,10-0,2019-04-05 13:10:47.929,Completed,Germany,100,Wasserstoff-Anlage,5017956,BASF SE,Germany,100,BASF SE - Hub,5016964,BASF SE,119384,Details
+EU506258,10-0,2019-04-05 13:10:00.609,Completed,Germany,100,Acrylmonomere Nord,5018016,BASF SE,Germany,100,BASF SE - Hub,5016964,BASF SE,97506,Details
+EU507387,10-2,2019-04-05 13:09:43.821,Completed,Czech Republic,100,"VITRABLOK, s.r.o.",5006744,"VITRABLOK, s.r.o.",European Commission,100,EU Allowance deletion,5016380,European Commission,30879,Details
+EU506353,10-0,2019-04-05 13:09:14.651,Completed,Denmark,100,CTR I/S 2,5006283,CTR I/S,Denmark,100,Gladsaxe Spidst,5006516,CTR I/S,20000,Details
+EU506266,10-0,2019-04-05 13:09:05.503,Completed,Germany,100,Butyl-Fabrik,5018014,BASF SE,Germany,100,BASF SE - Hub,5016964,BASF SE,74719,Details
+EU506514,10-2,2019-04-05 13:09:01.895,Completed,Germany,100,Prüfstand Halle 952,5022398,MAN Energy Solutions SE,European Commission,100,EU Allowance deletion,5016380,European Commission,220,Details
+EU506291,10-0,2019-04-05 13:08:40.862,Completed,France,100,TEREGA - Lussagnet,5005112,TEREGA,France,100,TEREGA- SAUVETERRE,5027841,TEREGA,15000,Details
+EU506316,10-0,2019-04-05 13:08:09.453,Completed,Germany,100,Salmiak-Fabrik,5018027,BASF SE,Germany,100,BASF SE - Hub,5016964,BASF SE,22992,Details
+EU506320,10-0,2019-04-05 13:07:11.928,Completed,Germany,100,Methacrylsäure-Fabrik,5017967,BASF SE,Germany,100,BASF SE - Hub,5016964,BASF SE,17711,Details
+EU506172,10-0,2019-04-05 13:07:06.888,Completed,Spain,100,COMPAÑÍA ESPAÑOLA DE PETRÓLEOS(CEPSA),5008888,"Compañía Española de Petróleos, S.A.",Spain,100,"Planta Cogeneración Cepsa Química,S.A-Guadarranque",5009379,"Generación Eléctrica Peninsular, S.A.",1,Details
+EU506346,10-0,2019-04-05 13:06:43.314,Completed,Denmark,100,CTR I/S 2,5006283,CTR I/S,Denmark,100,Høje Gladsaxe V,5006515,CTR I/S,25000,Details
+EU506323,10-0,2019-04-05 13:06:19.858,Completed,Germany,100,Neopentylglykol (NPG)-Anlage,5018023,BASF SE,Germany,100,BASF SE - Hub,5016964,BASF SE,12511,Details
+EU506326,10-0,2019-04-05 13:05:21.55,Completed,Germany,100,NO-Rein-Fabrik,5017959,BASF SE,Germany,100,BASF SE - Hub,5016964,BASF SE,12181,Details
+EU506176,10-0,2019-04-05 13:04:20.63,Completed,Spain,100,COMPAÑÍA ESPAÑOLA DE PETRÓLEOS(CEPSA),5008888,"Compañía Española de Petróleos, S.A.",Spain,100,"Planta Cogeneración Cepsa Química,S.A-Guadarranque",5009379,"Generación Eléctrica Peninsular, S.A.",52693,Details
+EU506330,10-0,2019-04-05 13:03:51.524,Completed,Germany,100,Natriumcarboxylat/Soda-Anlage,5018026,BASF SE,Germany,100,BASF SE - Hub,5016964,BASF SE,8586,Details
+EU506271,10-0,2019-04-05 13:02:45.616,Completed,Germany,100,Schwefelsäure-Fabrik,5017931,BASF SE,Germany,100,BASF SE - Hub,5016964,BASF SE,74637,Details
+EU506181,10-0,2019-04-05 13:02:43.929,Completed,Spain,100,COMPAÑÍA ESPAÑOLA DE PETRÓLEOS(CEPSA),5008888,"Compañía Española de Petróleos, S.A.",Spain,100,Planta de Cogeneración de Cepsa Química -Fab Palos,5009866,"Generación Eléctrica Peninsular, S.A.",65009,Details

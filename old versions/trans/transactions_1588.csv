@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU487519,10-36,2019-02-22 01:33:39.975,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,KVV-Åkerslund,5001409,Öresundskraft Kraft & Värme AB,14943,Details
+EU487494,10-36,2019-02-22 01:33:39.919,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Tallholmen,5001636,Vimmerby Energi & Miljö AB,303,Details
+EU487491,10-36,2019-02-22 01:33:39.845,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,PC Bronsängen,5002220,Landskrona Energi Kraft AB,273,Details
+EU487490,10-36,2019-02-22 01:33:39.766,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Eslövsfabriken,5001523,Orkla Foods AB,5647,Details
+EU487504,10-36,2019-02-22 01:33:39.734,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Hylte Bruk,5001555,Stora Enso Paper AB,122476,Details
+EU487496,10-36,2019-02-22 01:33:39.657,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,FVC3 Gröndal,5002270,Västerbergslagens Energi AB,30,Details
+EU487531,10-36,2019-02-22 01:33:39.624,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Kiruna Kraftvärmeverk,5002203,Kiruna kraft AB,16366,Details
+EU487484,10-36,2019-02-22 01:33:39.452,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Hedensbyn,5002024,Skellefteå Kraft AB,30952,Details
+EU487492,10-36,2019-02-22 01:33:39.437,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Slovenia,100,Talum Aluminij d.o.o.,5016702,Talum d.d. Kidričevo,149990,Details
+EU487517,10-36,2019-02-22 01:33:39.427,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,PC Orsa Nya,5001937,Adven Energilösningar AB,1733,Details
+EU487508,10-36,2019-02-22 01:33:39.322,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Skellefteå lasarett,5001741,Skellefteå Kraft AB,62,Details
+EU487495,10-36,2019-02-22 01:33:39.311,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Krickans PC,5001667,Gällivare Energi AB,9,Details
+EU487499,10-36,2019-02-22 01:33:39.248,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Slovenia,100,Knauf Insulation Škofja Loka,5008697,KNAUFINSULATION d.o.o.,46345,Details
+EU487548,10-36,2019-02-22 01:33:39.18,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Brista,5001954,Stockholm Exergi AB,54815,Details
+EU487509,10-36,2019-02-22 01:33:39.073,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Sävenäs avfallskraftvärmeverk,5019003,Renova AB,97301,Details
+EU487507,10-36,2019-02-22 01:33:38.551,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Nordic Paper Seffle AB,5001507,NORDIC PAPER SEFFLE AB,20676,Details
+EU487503,10-36,2019-02-22 01:33:38.308,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Björneborg Steel AB,5001510,Björneborg Steel AB,13336,Details
+EU487569,10-36,2019-02-22 01:33:38.174,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Perstorp Specialty Chemicals AB,5001517,Perstorp Specialty Chemicals AB,73698,Details
+EU487549,10-36,2019-02-22 01:33:38.077,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Special Coil Nyby,5001834,Outokumpu Stainless AB,11576,Details
+EU487563,10-36,2019-02-22 01:33:38.056,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Rundviks sågverk,5001502,SCA Wood AB,4699,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU496075,10-0,2019-03-13 12:02:22.712,Completed,United Kingdom,100,HBEL-AIUK,5024072,Holcibel S.A.,Netherlands,100,HBEL,5027810,Holcibel,827253,Details
+EU496073,10-0,2019-03-13 12:02:17.939,Completed,United Kingdom,100,HBEL-AIUK,5024072,Holcibel S.A.,Netherlands,100,HBEL,5027810,Holcibel,1003773,Details
+EU496102,10-0,2019-03-13 12:01:19.149,Completed,Germany,100,1421 - Anlagenkonto,5014777,envia THERM GmbH,Germany,100,1094 - Anlagenkonto,5014326,envia THERM GmbH,2478,Details
+EU496070,10-0,2019-03-13 12:01:12.146,Completed,United Kingdom,100,HBEL-AIUK,5024072,Holcibel S.A.,Netherlands,100,HBEL,5027810,Holcibel,1711702,Details
+EU496294,10-0,2019-03-13 12:00:44.619,Completed,Germany,100,Handelskonto AVU,5016073,AVU Aktiengesellschaft für Versorgungs-Unternehmen,Germany,100,RWE Vertrieb AG Retail - Trading,5017190,innogy SE,5548,Details
+EU496181,10-0,2019-03-13 12:00:27.369,Completed,Germany,100,Walzwerk,5021140,ArcelorMittal Hamburg GmbH,France,100,ARCELORMITTAL TREASURY Détention,5026253,ARCELORMITTAL TREASURY,41755,Details
+EU496080,10-0,2019-03-13 12:00:25.545,Completed,United Kingdom,100,HBEL-AIUK,5024072,Holcibel S.A.,Netherlands,100,HBEL,5027810,Holcibel,3303837,Details
+EU496110,10-0,2019-03-13 12:00:25.296,Completed,France,100,NYRSTAR FRANCE,5004696,NYRSTAR FRANCE,Belgium,100,039 Site Balen,5004437,Nyrstar Belgium,28000,Details
+EU496247,10-0,2019-03-13 12:00:24.074,Completed,Ireland,100,Operator Account,5011978,Gas Networks Ireland,United Kingdom,100,Beattock Compressor Station,5008572,GNI (UK) Limited,12830,Details
+EU496661,10-0,2019-03-13 11:58:26.112,Completed,Czech Republic,100,"Komerční banka, a.s. obchodní účet",5016819,"Komerční banka, a.s.",Slovakia,100,"U. S. Steel Košice, s.r.o.-FE",5026051,"U. S. Steel Košice, s.r.o.",9000,Details
+EU496716,10-0,2019-03-13 11:54:57.701,Completed,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,443000,Details
+EU496724,3-0,2019-03-13 11:49:00.248,Completed,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,Switzerland,100,,546,,100000,Details
+EU496712,10-2,2019-03-13 11:45:23.76,Completed,Denmark,100,Toftlund Fjernv,5006485,Toftlund Fjernvarme A.m.b.a,European Commission,100,EU Allowance deletion,5016380,European Commission,4256,Details
+EU496646,10-2,2019-03-13 11:44:09.743,Completed,Germany,100,944 - Anlagenkonto,5014040,MICHELIN REIFENWERKE AG & Co. Kommanditgesellschaft auf Aktien,European Commission,100,EU Allowance deletion,5016380,European Commission,46700,Details
+EU496683,10-2,2019-03-13 11:44:08.628,Completed,Denmark,100,Knud Jepsen A/S,5006136,A/S Knud Jepsen,European Commission,100,EU Allowance deletion,5016380,European Commission,2816,Details
+EU496707,10-0,2019-03-13 11:40:48.555,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Netherlands,100,Compagnie Financière Michelin,5026250,Compagnie Financière Michelin SA,10476,Details
+EU496256,10-2,2019-03-13 11:38:39.871,Completed,France,100,AMIRI FLIGHT,5016426,AMIRI FLIGHT,European Commission,100,EU Allowance deletion,5016380,European Commission,2074,Details
+EU496703,10-0,2019-03-13 11:36:26.016,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Norway,100,DNB Markets Trading Account,5017497,DNB Bank ASA,114000,Details
+EU496701,10-0,2019-03-13 11:34:30.686,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Poland,100,mBank S.A.,5023148,mBank S.A.,97942,Details
+EU496721,10-72,2019-03-13 11:31:30.269,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Denmark,100,ARLA F Protein,5006376,ARLA Foods Energy A/S,9046,Details

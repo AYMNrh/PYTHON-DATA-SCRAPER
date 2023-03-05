@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU515193,10-2,2019-04-17 13:12:57.693,Completed,Spain,100,San Jacinto de Bailén S.L.,5009401,"San Jacinto de Bailén, S.L",European Commission,100,EU Allowance deletion,5016380,European Commission,3708,Details
+CDM57555,3-0,2019-04-17 13:11:49.776,Completed,CDM,110,,1000,,United Kingdom,121,UPM Registry GB,5022206,UPM Umwelt-Projekt-Management GmbH,70000,Details
+EU514394,10-2,2019-04-17 13:11:02.324,Completed,Spain,100,"Birla Carbon Spain, S.L",5009359,"Birla Carbon Spain, S.L",European Commission,100,EU Allowance deletion,5016380,European Commission,118232,Details
+EU515192,10-0,2019-04-17 13:09:48.408,Completed,Portugal,100,TRADE2C,5026779,"TRADE2C, UNIPESSOAL, LDA.",Portugal,100,"PAPER PRIME, S.A.",5027212,"PAPER PRIME, S.A.",5626,Details
+EU515095,10-2,2019-04-17 13:08:12.75,Completed,Sweden,100,PC Grums Fjärrvärme,5002070,Värmevärden AB,European Commission,100,EU Allowance deletion,5016380,European Commission,1214,Details
+EU515096,10-2,2019-04-17 13:07:11.246,Completed,Sweden,100,Lastaren,5001998,Värmevärden AB,European Commission,100,EU Allowance deletion,5016380,European Commission,4764,Details
+EU515100,10-2,2019-04-17 13:06:08.672,Completed,Sweden,100,Källhagsverket,5001604,Värmevärden AB,European Commission,100,EU Allowance deletion,5016380,European Commission,25655,Details
+EU507868,10-2,2019-04-17 13:05:40.98,Completed,Belgium,100,125 Ineos Feluy,5004524,Ineos Feluy,European Commission,100,EU Allowance deletion,5016380,European Commission,119286,Details
+EU515102,10-2,2019-04-17 13:05:10.064,Completed,Sweden,100,A9 Garnisonen,5001593,Kristinehamns Värme AB,European Commission,100,EU Allowance deletion,5016380,European Commission,107,Details
+EU515180,10-2,2019-04-17 13:03:44.759,Completed,Italy,100,Operator Account,5012582,CARTIERA PIERETTI S.R.L.,European Commission,100,EU Allowance deletion,5016380,European Commission,11289,Details
+EU515159,10-0,2019-04-17 13:03:03.896,Completed,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,Spain,100,Santander Clientes,5017250,Banco Santander S.A.,30000,Details
+EU515186,10-0,2019-04-17 13:02:53.302,Completed,Spain,100,"Naturgy Energy Group, S.A.",5017187,"Naturgy Energy Group, S.A.",Spain,100,Alu Ibérica LC S.L..,5018283,Alu Ibérica LC S.L.,8230,Details
+EU515157,10-0,2019-04-17 13:02:03.337,Completed,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,France,100,BNP PARIBAS,5027964,BNP PARIBAS,32000,Details
+EU515184,10-0,2019-04-17 13:01:05.843,Completed,Spain,100,"Naturgy Energy Group, S.A.",5017187,"Naturgy Energy Group, S.A.",Spain,100,Alu Ibérica AVL S.L.,5018278,Alu Ibérica AVL S.L.,6370,Details
+EU515156,10-0,2019-04-17 13:00:46.32,Completed,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,France,100,MORGAN STANLEY CAPITAL GROUP INC,5027682,MORGAN STANLEY CAPITAL GROUP INC,3236000,Details
+EU514463,10-2,2019-04-17 12:59:53.294,Completed,Poland,100,Instalacja elektrostalowni Cognor SA Oddział Ferrostal Łabędy w Gliwicach,5003200,COGNOR SPÓŁKA AKCYJNA,European Commission,100,EU Allowance deletion,5016380,European Commission,34717,Details
+EU515179,10-0,2019-04-17 12:59:47.83,Completed,Spain,100,"Naturgy Energy Group, S.A.",5017187,"Naturgy Energy Group, S.A.",Spain,100,"Alúmina Española, S.A.-Planta de San Ciprián",5018256,"Alúmina Española, S.A.",50800,Details
+EU515151,10-0,2019-04-17 12:59:29.119,Completed,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,280000,Details
+EU514136,10-0,2019-04-17 12:58:53.572,Completed,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,Italy,100,Operator Account,5013426,CRC Tissue S.r.l.,5018,Details
+EU515148,10-0,2019-04-17 12:58:13.679,Completed,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,Germany,100,Goldman Sachs International,5027670,Goldman Sachs International,328000,Details

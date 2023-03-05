@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU481653,10-0,2019-01-28 14:10:25.947,Completed,Spain,100,"Repsol Trading, S.A.",5024180,"Repsol Trading, S.A",Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,13000,Details
+EU481577,10-0,2019-01-28 13:59:52.779,Completed,Netherlands,100,ENGIE Maximacentrale,5011278,ENGIE Energie Nederland N.V.,Netherlands,100,Electrabel S.A./N.V.,5017550,Electrabel NV/SA,1265,Details
+EU481654,10-0,2019-01-28 13:40:42.363,Completed,Spain,100,"Roig Cerámica, S.A.",5018767,"Roig Cerámica, S.A.",Spain,100,"Ecotrade Solutions, S.L.",5022914,"Ecotrade Solutions, S.L.",22000,Details
+EU481779,10-2,2019-01-28 13:35:44.203,Completed,United Kingdom,100,Maltese Falcon LLC,5027776,Maltese Falcon,European Commission,100,EU Allowance deletion,5016380,European Commission,14,Details
+EU481785,10-0,2019-01-28 13:32:55.75,Completed,Spain,100,"Global Factor Commodity Trading, S.A.U.",5016901,"Global Factor Commodity Trading, S.A.U.",Spain,100,"Fertiberia, S.A-Fábrica de Avilés",5017818,"Fertiberia, S.A.",5000,Details
+CDM56670,3-0,2019-01-28 13:31:41.477,Completed,CDM,110,,1000,,Netherlands,121,Electrabel S.A.,713,Electrabel NV/SA,61376,Details
+EU481781,10-0,2019-01-28 13:28:51.404,Completed,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,25000,Details
+EU481782,10-0,2019-01-28 13:27:29.896,Completed,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,56000,Details
+EU481783,10-0,2019-01-28 13:26:24.965,Completed,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,100000,Details
+EU481776,10-0,2019-01-28 13:21:34.834,Completed,United Kingdom,100,Macquarie Bank Limited (EUA),5017114,Macquarie Bank Limited,United Kingdom,100,Magnus,5008341,EnQuest Heather Limited,11352,Details
+EU481777,10-0,2019-01-28 13:20:26.233,Completed,United Kingdom,100,Macquarie Bank Limited (EUA),5017114,Macquarie Bank Limited,United Kingdom,100,Thistle,5008378,EnQuest Heather Limited,30071,Details
+EU481787,10-0,2019-01-28 13:19:31.548,Completed,Poland,100,mBank S.A.,5023148,mBank S.A.,Poland,100,Centralna Ciepłownia,5002787,Miejska Energetyka Cieplna w Kołobrzegu Sp. z o.o.,5000,Details
+EU481778,10-0,2019-01-28 13:19:11.51,Completed,United Kingdom,100,Macquarie Bank Limited (EUA),5017114,Macquarie Bank Limited,United Kingdom,100,Heather,5008379,EnQuest Heather Limited,7086,Details
+EU481786,10-0,2019-01-28 13:14:49.046,Completed,Poland,100,mBank S.A.,5023148,mBank S.A.,Poland,100,CIEPŁOWNIA,5003988,PRZEDSIĘBIORSTWO GOSPODARKI KOMUNALNEJ SP. Z O.O.,4000,Details
+EU481780,10-0,2019-01-28 13:01:51.926,Completed,United Kingdom,100,Macquarie Bank Limited (EUA),5017114,Macquarie Bank Limited,United Kingdom,100,Armada Kraken,5026251,EnQuest Heather Limited,45751,Details
+EU481784,10-0,2019-01-28 12:58:16.773,Completed,United Kingdom,100,Macquarie Bank Limited (EUA),5017114,Macquarie Bank Limited,United Kingdom,100,Enquest Producer,5024162,EnQuest Heather Limited,8599,Details
+EU481769,10-0,2019-01-28 12:55:08.619,Completed,United Kingdom,100,Macquarie Bank Limited (EUA),5017114,Macquarie Bank Limited,United Kingdom,100,Northern Producer,5008246,EnQuest Heather Limited,9441,Details
+EU481771,10-0,2019-01-28 12:51:47.012,Completed,United Kingdom,100,Macquarie Bank Limited (EUA),5017114,Macquarie Bank Limited,United Kingdom,100,Magnus,5008341,EnQuest Heather Limited,6721,Details
+EU481772,10-0,2019-01-28 12:49:47.418,Completed,United Kingdom,100,Macquarie Bank Limited (EUA),5017114,Macquarie Bank Limited,United Kingdom,100,Thistle,5008378,EnQuest Heather Limited,86,Details
+EU481643,10-0,2019-01-28 12:49:09.248,Completed,Belgium,100,154 Oleon Oelegem,5004553,Oleon,Belgium,100,1531 Oleon Ertvelde - Vetzuren,5022066,Oleon,10264,Details

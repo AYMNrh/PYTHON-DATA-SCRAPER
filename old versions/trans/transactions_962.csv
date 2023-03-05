@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU500675,10-2,2019-03-26 08:19:48.476,Completed,Germany,100,PEGASUS HAVA TASIMACILIGI A.S.,5000581,PEGASUS HAVA TASIMACILIGI A.S.,European Commission,100,EU Allowance deletion,5016380,European Commission,922,Details
+EU499766,10-71,2019-03-26 08:19:41.087,Completed,Italy,100,Caesar,5018638,Ceramiche Caesar S.p.A.,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,1890,Details
+EU500674,10-2,2019-03-26 08:19:10.822,Completed,Italy,100,Operator Account,5012655,VETRERIA COOPERATIVA PIEGARESE SOCIETA' COOPERATIVA,European Commission,100,EU Allowance deletion,5016380,European Commission,87660,Details
+EU500684,10-72,2019-03-26 08:16:45.194,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Italy,100,Meta,5018642,Meta S.p.A.,1411,Details
+EU500679,10-2,2019-03-26 08:16:37.988,Completed,Romania,100,S.C. ROMPETROL ENERGY S.A.,5010186,ROMPETROL ENERGY SA,European Commission,100,EU Allowance deletion,5016380,European Commission,136135,Details
+EU499767,10-71,2019-03-26 08:15:48.153,Completed,Italy,100,Meta,5018642,Meta S.p.A.,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,1411,Details
+EU500682,10-72,2019-03-26 08:15:45.96,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Italy,100,Fap,5018639,Ceramiche Caesar S.p.A.,540,Details
+EU500525,10-71,2019-03-26 08:14:45.617,Completed,Italy,100,Fap,5018639,Ceramiche Caesar S.p.A.,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,540,Details
+EU500664,4-0,2019-03-26 08:12:10.898,Completed,Germany,100,Fokus Zukunft GmbH & Co.KG,5025499,Fokus Zukunft GmbH & Co. KG,European Commission,230,EU Cancellation Account Period 2,5022673,EUROPEAN UNION,117,Details
+EU500672,10-72,2019-03-26 08:05:43.524,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,Ford Cologne Vehicle Operations,5017901,Ford-Werke GmbH,762,Details
+EU500584,10-71,2019-03-26 08:04:53.726,Completed,Germany,100,Ford Cologne Vehicle Operations,5017901,Ford-Werke GmbH,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,762,Details
+EU500670,10-72,2019-03-26 08:04:49.443,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,BHKW Fordwerke Saarlouis,5024805,Ford-Werke GmbH,2930,Details
+EU500585,10-71,2019-03-26 08:03:45.564,Completed,Germany,100,BHKW Fordwerke Saarlouis,5024805,Ford-Werke GmbH,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,2930,Details
+EU500666,10-2,2019-03-26 07:54:00.526,Completed,Sweden,100,Nordic Paper Seffle AB,5001507,NORDIC PAPER SEFFLE AB,European Commission,100,EU Allowance deletion,5016380,European Commission,11751,Details
+EU500665,10-2,2019-03-26 07:43:21.539,Completed,Poland,100,Ciepłownia Miejska,5002842,Miejskie Przedsiebiorstwo Energetyki Cieplnej Sp. z o. o. w Ostródzie,European Commission,100,EU Allowance deletion,5016380,European Commission,35693,Details
+EU500422,10-2,2019-03-26 07:42:14.85,Completed,Germany,100,389 - Anlagenkonto,5013965,Leipfinger-Bader GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,14846,Details
+EU500656,10-2,2019-03-26 07:41:13.375,Completed,Norway,100,Gasnor AS,5012230,Gasnor AS,European Commission,100,EU Allowance deletion,5016380,European Commission,4661,Details
+EU500645,10-36,2019-03-26 01:30:29.804,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,cartiera pratolungo,5019010,Cartiera di Pratolungo,6316,Details
+EU500644,10-36,2019-03-26 01:30:29.769,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Operator Account,5013528,S.A.R.P.O.M S.R.L.,766134,Details
+EU500647,10-36,2019-03-26 01:30:29.736,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Operator Account,5013221,SONOCO ALCORE DEMOLLI srl,21402,Details

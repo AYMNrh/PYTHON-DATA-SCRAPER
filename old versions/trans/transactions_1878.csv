@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU481246,10-0,2019-01-22 15:34:50.885,Completed,France,100,SETHELEC - usine SMURFIT LIMOUSIN,5005396,SETHELEC,France,100,SETHELEC - Arles,5005402,SETHELEC,25000,Details
+EU481378,10-0,2019-01-22 15:30:05.328,Completed,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,11000,Details
+EU481385,10-0,2019-01-22 15:29:26.612,Completed,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,Spain,100,"Repsol Trading, S.A.",5024180,"Repsol Trading, S.A",156000,Details
+EU481381,10-0,2019-01-22 15:28:01.894,Completed,United Kingdom,100,BNP PARIBAS COMMODITY FUTURES LTD,5017675,BNP Paribas Commodity Futures Limited,Spain,100,"Naturgy Energy Group, S.A.",5017187,"Naturgy Energy Group, S.A.",40000,Details
+EU481380,10-0,2019-01-22 15:25:30.18,Completed,United Kingdom,100,BNP PARIBAS COMMODITY FUTURES LTD,5017675,BNP Paribas Commodity Futures Limited,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,88000,Details
+EU481382,10-0,2019-01-22 15:15:21.113,Completed,Spain,100,"Global Factor Commodity Trading, S.A.U.",5016901,"Global Factor Commodity Trading, S.A.U.",Spain,100,AIR NOSTRUM,5000428,"AIR NOSTRUM LINEAS AEREAS DEL MEDITERRANEO, S.A.",19024,Details
+EU481260,10-0,2019-01-22 14:59:10.717,Completed,United Kingdom,100,Tata Steel Europe Limited,5016785,Tata Steel Europe Limited,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,500000,Details
+EU481376,10-0,2019-01-22 14:58:53.602,Completed,Belgium,100,9013 INEOS EUROPE AG,5027610,INEOS EUROPE AG,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,280000,Details
+EU481370,10-0,2019-01-22 14:58:00.571,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,United Kingdom,100,BNP PARIBAS COMMODITY FUTURES LTD,5017675,BNP Paribas Commodity Futures Limited,128000,Details
+EU481259,10-0,2019-01-22 14:54:57.182,Completed,Germany,100,141 - Anlagenkonto,5014112,Fels-Werke GmbH,Germany,100,148 - Anlagenkonto,5014143,Fels-Werke GmbH,150000,Details
+EU481258,10-0,2019-01-22 14:53:19.699,Completed,Germany,100,141 - Anlagenkonto,5014112,Fels-Werke GmbH,Germany,100,142 - Anlagenkonto,5014115,Fels-Werke GmbH,100000,Details
+EU481257,10-0,2019-01-22 14:51:27.971,Completed,Germany,100,141 - Anlagenkonto,5014112,Fels-Werke GmbH,Germany,100,143 - Anlagenkonto,5014119,Fels-Werke GmbH,60000,Details
+EU481256,10-0,2019-01-22 14:49:47.638,Completed,Germany,100,141 - Anlagenkonto,5014112,Fels-Werke GmbH,Germany,100,186 - Anlagenkonto,5014361,Fels-Werke GmbH,100000,Details
+EU481372,10-0,2019-01-22 14:49:37.748,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,156000,Details
+EU481374,10-0,2019-01-22 14:48:51.603,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,United Kingdom,100,Macquarie Bank Limited (EUA),5017114,Macquarie Bank Limited,21000,Details
+EU481255,10-0,2019-01-22 14:47:48.001,Completed,Germany,100,141 - Anlagenkonto,5014112,Fels-Werke GmbH,Germany,100,147 - Anlagenkonto,5014138,Fels-Werke GmbH,50000,Details
+EU481375,10-0,2019-01-22 14:47:26.747,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,11000,Details
+EU481254,10-0,2019-01-22 14:45:41.942,Completed,Germany,100,141 - Anlagenkonto,5014112,Fels-Werke GmbH,Germany,100,146 - Anlagenkonto,5014132,Fels-Werke GmbH,20000,Details
+EU481365,10-0,2019-01-22 14:43:39.37,Completed,Greece,100,IPPC S.A.,5016925,ΕΥΣΤΑΘΙΟΣ ΚΟΥΡΝΙΩΤΗΣ,Netherlands,100,"Gunvor International B.V., Amsterdam, Geneva Branch",5024828,Gunvor International B.V.,5000,Details
+EU481253,10-0,2019-01-22 14:42:39.329,Completed,Germany,100,141 - Anlagenkonto,5014112,Fels-Werke GmbH,Germany,100,Kalkwerk Kaltes Tal GGR 7,5015773,Fels-Werke GmbH,50000,Details

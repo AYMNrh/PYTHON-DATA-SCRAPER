@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU498837,10-2,2019-03-25 09:01:03.728,Completed,Netherlands,100,"Koninklijke Mosa B.V., locatie Vloertegel",5020338,Koninklijke Mosa B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,13556,Details
+EU500085,10-2,2019-03-25 09:00:10.41,Completed,Germany,100,Heizhaus – Pharmaforschungszentrum Wuppertal,5014154,Bayer Aktiengesellschaft,European Commission,100,EU Allowance deletion,5016380,European Commission,14294,Details
+EU500083,10-2,2019-03-25 08:41:12.823,Completed,Denmark,100,Knauf A/S,5006230,KNAUF A/S,European Commission,100,EU Allowance deletion,5016380,European Commission,20239,Details
+EU500075,10-2,2019-03-25 08:17:50.869,Completed,Germany,100,1637 - Anlagenkonto,5015082,Airbus Operations GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,10153,Details
+EU500068,10-2,2019-03-25 08:06:04.911,Completed,Sweden,100,"Essity Hygiene and Health AB, Edet bruk",5001519,Essity Hygiene and Health AB,European Commission,100,EU Allowance deletion,5016380,European Commission,10018,Details
+EU499909,10-2,2019-03-25 08:00:50.701,Completed,Finland,100,Pigments Pori,5022877,Venator P&A Finland Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,3751,Details
+EU500072,10-72,2019-03-25 07:57:43.384,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Finland,100,Pigments Pori,5022877,Venator P&A Finland Oy,169,Details
+EU499912,10-71,2019-03-25 07:56:39.837,Completed,Finland,100,Pigments Pori,5022877,Venator P&A Finland Oy,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,169,Details
+EU499944,10-2,2019-03-25 07:39:38.359,Completed,Germany,100,2167 - Anlagenkonto Anlage zum Schmelzen von Glas,5015763,SCHOTT Technical Glass Solutions GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,17782,Details
+EU499687,10-2,2019-03-24 11:19:40.841,Completed,Sweden,100,PC Varberg sjukhus,5001621,Varberg Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,487,Details
+EU499702,10-2,2019-03-24 11:16:43.709,Completed,Sweden,100,Värmeverket Hamnen,5022808,Varberg Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,285,Details
+EU500059,10-2,2019-03-24 06:05:59.026,Completed,United Kingdom,100,,5017201,,European Commission,100,EU Allowance deletion,5016380,European Commission,73,Details
+EU500054,10-36,2019-03-23 01:30:17.255,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Koskisen Oy:n levyteollisuus:FI202,5010985,Koskipower Oy,11389,Details
+EU500056,10-36,2019-03-23 01:30:17.204,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Norway,100,Yara Norge AS Porsgrunn,5012322,Yara Norge AS avd. Porsgrunn,915025,Details
+EU500055,10-36,2019-03-23 01:30:17.153,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Taavetin päästökauppatili:FI132,5010915,Evonik Silica Finland Oy,16137,Details
+EU500057,10-36,2019-03-23 01:30:17.108,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Slovenia,100,GORENJSKA PREDILNICA,5008668,"GORENJSKA PREDILNICA, D.D.",2391,Details
+EU497487,10-2,2019-03-22 21:20:01.774,Completed,United Kingdom,100,,5024760,,European Commission,100,EU Allowance deletion,5016380,European Commission,4720,Details
+EU500049,4-0,2019-03-22 18:46:55.85,Completed,Germany,100,Fokus Zukunft GmbH & Co.KG,5025499,Fokus Zukunft GmbH & Co. KG,European Commission,230,EU Cancellation Account Period 2,5022673,EUROPEAN UNION,12,Details
+EU500032,10-2,2019-03-22 18:06:47.14,Completed,Ireland,100,Operator Account,5011955,Diageo Ireland,European Commission,100,EU Allowance deletion,5016380,European Commission,51514,Details
+EU499084,10-0,2019-03-22 17:56:14.517,Completed,Germany,100,Anlagenkonto HKW Niehl,5014605,RheinEnergie AG,Germany,100,Handelskonto der RheinEnergie Trading GmbH,5017175,RheinEnergie Trading GmbH,3258,Details

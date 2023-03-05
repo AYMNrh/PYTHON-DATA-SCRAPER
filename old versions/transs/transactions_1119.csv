@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU497047,10-0,2019-03-14 14:00:11.75,Completed,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,Portugal,100,Netjets Transportes Aereos SA,5018780,Netjets Transportes Aereos SA,100,Details
+EU496836,10-2,2019-03-14 13:50:40.225,Completed,United Kingdom,100,Queensferry,5007228,Knauf Insulation Ltd,European Commission,100,EU Allowance deletion,5016380,European Commission,35615,Details
+EU497140,10-0,2019-03-14 13:48:45.693,Completed,Netherlands,100,HEP,5019101,Hrvatska elektroprivreda d.d.,Croatia,100,HEPELTOZAGREB,5020340,HEP-Proizvodnja d.o.o.,9368,Details
+EU497141,10-0,2019-03-14 13:47:44.547,Completed,Netherlands,100,HEP,5019101,Hrvatska elektroprivreda d.d.,Croatia,100,HEPTETOZAGREB,5020339,HEP-Proizvodnja d.o.o.,24777,Details
+EU497142,10-0,2019-03-14 13:46:34.434,Completed,Netherlands,100,HEP,5019101,Hrvatska elektroprivreda d.d.,Croatia,100,HEPTETOSIJEK,5021023,HEP-Proizvodnja d.o.o.,3311,Details
+EU496697,10-0,2019-03-14 13:45:51.666,Completed,Netherlands,100,Dow Europe GmbH trading account,5011182,Dow Europe GmbH,Germany,100,1479 - Anlagenkonto,5014857,Dow Olefinverbund GmbH,1171529,Details
+EU497143,10-0,2019-03-14 13:45:24.087,Completed,Netherlands,100,HEP,5019101,Hrvatska elektroprivreda d.d.,Croatia,100,HEPTESISAK,5020520,HEP-Proizvodnja d.o.o.,12773,Details
+EU497145,10-0,2019-03-14 13:44:03.886,Completed,Netherlands,100,HEP,5019101,Hrvatska elektroprivreda d.d.,Croatia,100,HEPKTEJERTOVEC,5021476,HEP-Proizvodnja d.o.o.,45,Details
+EU496536,10-0,2019-03-14 13:43:53.391,Completed,Czech Republic,100,SYNTHOS Kralupy a.s. - provoz Styren,5019024,SYNTHOS Kralupy a.s.,Poland,100,Instalacja Spalania Paliw,5002773,Synthos Dwory 7 spółka z ograniczoną odpowiedzialnością spółka jawna,26029,Details
+EU497149,10-0,2019-03-14 13:42:11.843,Completed,Netherlands,100,HEP,5019101,Hrvatska elektroprivreda d.d.,Croatia,100,HEPTOPLINARSTVOOSIJEK,5020336,HEP-Toplinarstvo d.o.o.,2,Details
+EU497150,10-0,2019-03-14 13:40:40.614,Completed,Netherlands,100,HEP,5019101,Hrvatska elektroprivreda d.d.,Croatia,100,HEPTEPLOMIN2,5020421,HEP-Proizvodnja d.o.o.,52085,Details
+EU497152,10-0,2019-03-14 13:39:35.403,Completed,Netherlands,100,HEP,5019101,Hrvatska elektroprivreda d.d.,Croatia,100,HEPELTOZAGREB,5020340,HEP-Proizvodnja d.o.o.,112928,Details
+EU496725,10-0,2019-03-14 13:39:34.192,Completed,United Kingdom,100,Alkane Energy UK Limited,5022968,Alkane Energy UK Limited,United Kingdom,100,Maltby,5008026,Regent Park Energy Limited,16,Details
+EU497154,10-0,2019-03-14 13:38:11.909,Completed,Netherlands,100,HEP,5019101,Hrvatska elektroprivreda d.d.,Croatia,100,HEPTETOZAGREB,5020339,HEP-Proizvodnja d.o.o.,422833,Details
+EU497156,10-0,2019-03-14 13:37:16.051,Completed,Netherlands,100,HEP,5019101,Hrvatska elektroprivreda d.d.,Croatia,100,HEPTETOSIJEK,5021023,HEP-Proizvodnja d.o.o.,43481,Details
+EU497158,10-0,2019-03-14 13:36:02.152,Completed,Netherlands,100,HEP,5019101,Hrvatska elektroprivreda d.d.,Croatia,100,HEPTESISAK,5020520,HEP-Proizvodnja d.o.o.,261751,Details
+EU497159,10-0,2019-03-14 13:34:45.858,Completed,Netherlands,100,HEP,5019101,Hrvatska elektroprivreda d.d.,Croatia,100,HEPTERIJEKA,5020411,HEP-Proizvodnja d.o.o.,2,Details
+EU497162,10-0,2019-03-14 13:33:40.902,Completed,Netherlands,100,HEP,5019101,Hrvatska elektroprivreda d.d.,Croatia,100,HEPKTEJERTOVEC,5021476,HEP-Proizvodnja d.o.o.,971,Details
+EU496722,10-0,2019-03-14 13:32:09.522,Completed,United Kingdom,100,Mariner FSU,5025503,Equinor UK Limited,Norway,100,Equinor ASA Gullfaksfeltet,5012296,Equinor ASA,13434,Details
+EU497166,10-2,2019-03-14 13:32:07.2,Completed,Ireland,100,Prime Aviation JSC,5016780,Prime Aviation JSC,European Commission,100,EU Allowance deletion,5016380,European Commission,268,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU511495,10-2,2019-04-11 15:11:00.546,Completed,France,100,OI FRANCE SAS - VEAUCHE,5005111,OI FRANCE SAS,European Commission,100,EU Allowance deletion,5016380,European Commission,80017,Details
+EU511564,10-0,2019-04-11 15:10:54.883,Completed,France,100,BNP PARIBAS,5027964,BNP PARIBAS,Italy,100,ENEL TRADE ITALIA,5016899,Enel Global Trading S.p.A.,5000,Details
+EU511499,10-2,2019-04-11 15:09:37.308,Completed,France,100,OI FRANCE SAS - LABEGUDE,5005267,OI FRANCE SAS,European Commission,100,EU Allowance deletion,5016380,European Commission,33405,Details
+EU511558,10-0,2019-04-11 15:08:52.642,Completed,France,100,BNP PARIBAS,5027964,BNP PARIBAS,Italy,100,Axpo Italia Trading Account,5023288,Axpo Italia S.p.A.,103000,Details
+EU511557,10-2,2019-04-11 15:08:51.678,Completed,Netherlands,100,FrieslandCampina Domo locatie Borculo,5011286,FrieslandCampina Nederland B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,41845,Details
+EU510508,10-0,2019-04-11 15:05:13.602,Completed,Netherlands,100,Cargill Bergen op Zoom BKG 1,5011461,Cargill B.V.,Netherlands,100,Cargill Bergen op Zoom BKG 2,5022393,Cargill B.V.,16312,Details
+EU511545,10-2,2019-04-11 15:04:35.481,Completed,Italy,100,Operator Account,5012704,AVI.COOP SOCIETA' COOPERATIVA AGRICOLA,European Commission,100,EU Allowance deletion,5016380,European Commission,36821,Details
+EU510472,10-0,2019-04-11 15:03:41.065,Completed,Spain,100,"Hijos de Francisco Morant, S.L.",5009026,"Hijos de Francisco Morant, S.L.",Spain,100,"Factor Integral Trading Services, S.A.",5009730,"Global Factor Commodity Trading, S.A.U.",10000,Details
+EU510391,10-0,2019-04-11 15:03:33.471,Completed,Norway,100,Equinor ASA Gullfaksfeltet,5012296,Equinor ASA,Norway,100,Equinor ASA Johan Sverdrup,5025766,Equinor ASA,40312,Details
+EU511450,10-2,2019-04-11 15:02:41.468,Completed,Germany,100,KWK Anlage Greifswald,5023999,Industriekraftwerk Greifswald GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,24584,Details
+EU511504,10-2,2019-04-11 15:02:35.346,Completed,France,100,OI FRANCE SAS - WINGLES,5005269,OI FRANCE SAS,European Commission,100,EU Allowance deletion,5016380,European Commission,35959,Details
+EU511554,10-0,2019-04-11 15:01:56.489,Completed,France,100,BNP PARIBAS,5027964,BNP PARIBAS,Netherlands,100,BNP Paribas London Branch,5027681,BNP Paribas London Branch,1000,Details
+EU511543,10-2,2019-04-11 15:00:44.459,Completed,Netherlands,100,FrieslandCampina Beilen,5011285,FrieslandCampina Nederland B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,52554,Details
+EU511553,10-72,2019-04-11 14:59:47.112,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,France,100,SAARSTAHL RAIL,5023177,SAARSTAHL RAIL,8264,Details
+EU511506,10-2,2019-04-11 14:59:21.746,Completed,France,100,OI FRANCE SAS - BEZIERS,5005712,OI FRANCE SAS,European Commission,100,EU Allowance deletion,5016380,European Commission,37204,Details
+EU510441,10-0,2019-04-11 14:58:55.953,Completed,Norway,100,Equinor ASA Tjeldbergodden metanolfabrikk,5012304,Equinor ASA,Norway,100,Equinor ASA Hammerfest LNG,5012294,Equinor ASA,654412,Details
+EU509716,10-71,2019-04-11 14:58:48.508,Completed,France,100,SAARSTAHL RAIL,5023177,SAARSTAHL RAIL,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,8264,Details
+EU511453,10-2,2019-04-11 14:58:35.059,Completed,Germany,100,"STATE ENTERPRISE ""ANTONOV""",5017535,"STATE ENTERPRISE ""ANTONOV""",European Commission,100,EU Allowance deletion,5016380,European Commission,11634,Details
+EU511508,10-2,2019-04-11 14:58:04.691,Completed,France,100,OI FRANCE SAS - VERGEZE,5005714,OI FRANCE SAS,European Commission,100,EU Allowance deletion,5016380,European Commission,43372,Details
+EU502605,10-2,2019-04-11 14:57:20.086,Completed,Germany,100,590 - Anlagenkonto,5015944,Sprick GmbH Bielefelder Papier- und Wellpappenwerke & Co.,European Commission,100,EU Allowance deletion,5016380,European Commission,445,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU493119,10-36,2019-03-02 01:30:35.205,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Latvia,100,Operator Account:LV66,5012133,A/S „Valmieras stikla ðkiedra”,21517,Details
+EU493132,10-36,2019-03-02 01:30:35.176,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Latvia,100,Operator Account:LV59,5012126,"A/S ""Latvijas Finieris"" rupnica ""Lignums""",9488,Details
+EU493131,10-36,2019-03-02 01:30:35.17,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Latvia,100,Operator Account:LV53,5012120,"SIA ""Liepajas energija""",2973,Details
+EU493105,10-36,2019-03-02 01:30:21.12,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Latvia,100,Ceļu būves firma SIA „BINDERS”,5027232,Ceļu būves firma SIA „BINDERS”,630,Details
+EU493108,10-36,2019-03-02 01:30:21.069,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Operator Account,5013077,Laterlite S.p.A.,10714,Details
+EU493162,10-36,2019-03-02 01:30:21.036,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Latvia,100,"SCHWENK Latvija, SIA",5012185,"SCHWENK Latvija, SIA",864143,Details
+EU493109,10-36,2019-03-02 01:30:21.022,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,CONTO DEPOSITO PICA,5022084,TERREAL ITALIA S.r.l.,19480,Details
+EU493163,10-36,2019-03-02 01:30:20.973,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Latvia,100,Operator Account:LV87,5012154,AS „Olaines ķīmiskā rūpnīca BIOLARS”,2084,Details
+EU493106,10-36,2019-03-02 01:30:20.964,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Operator Account,5013612,Fenice spa,86083,Details
+EU493160,10-36,2019-03-02 01:30:20.929,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Latvia,100,OHA:LV41,5012108,"SIA „Adven Latvia""",4279,Details
+EU493107,10-36,2019-03-02 01:30:20.899,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Italy,100,Operator Account,5012460,Soc. Calce Raffinata di Savignano sul Panaro a r.l.,3184,Details
+EU493104,10-36,2019-03-02 01:30:20.846,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Latvia,100,Ceļu būves firma SIA „BINDERS”,5027232,Ceļu būves firma SIA „BINDERS”,553,Details
+EU493164,10-35,2019-03-02 01:30:20.846,Completed,European Commission,100,EU AVIATION ALLOCATION ACCOUNT,5022595,EUROPEAN UNION,Norway,100,Widerøe,5000306,Widerøe's Flyveselskap AS,59879,Details
+EU493161,10-36,2019-03-02 01:30:20.846,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Latvia,100,Operator account:LV119,5012177,"SIA ""Rigens""",826,Details
+EU493085,10-2,2019-03-01 18:15:23.707,Completed,United Kingdom,100,Sandown Brickworks,5007747,Wienerberger Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,17560,Details
+EU493087,10-2,2019-03-01 18:08:10.952,Completed,United Kingdom,100,Todhills Brickworks,5007749,Wienerberger Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,12412,Details
+EU493094,10-2,2019-03-01 18:06:36.886,Completed,United Kingdom,100,Warnham Brickworks,5007750,Wienerberger Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,24506,Details
+EU493095,10-2,2019-03-01 18:05:04.184,Completed,United Kingdom,100,Kingsbury,5007751,Wienerberger Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,18208,Details
+EU493096,10-2,2019-03-01 18:03:28.058,Completed,United Kingdom,100,Waresley,5007752,Wienerberger Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,33329,Details
+EU493097,10-2,2019-03-01 18:01:01.118,Completed,United Kingdom,100,Hartlebury,5007754,Wienerberger Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,22512,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU516468,10-72,2019-04-19 17:09:28.751,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,France,100,QUOTAS CO2 CHUSE HN,5023463,CHU SAINT ETIENNE,1035,Details
+EU516462,10-71,2019-04-19 17:08:39.433,Completed,France,100,QUOTAS CO2 CHUSE HN,5023463,CHU SAINT ETIENNE,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,1035,Details
+EU514679,10-2,2019-04-19 17:07:20.237,Completed,Belgium,100,376 ACRS Asfalt & Recycling,5022315,ACRS Asfalt & Recycling,European Commission,100,EU Allowance deletion,5016380,European Commission,292,Details
+EU516464,10-2,2019-04-19 17:07:05.617,Completed,France,100,QUOTAS CO2 CHUSE HN,5023463,CHU SAINT ETIENNE,European Commission,100,EU Allowance deletion,5016380,European Commission,3626,Details
+EU516421,10-2,2019-04-19 16:48:56.085,Completed,Ireland,100,Operator Account,5011961,College Proteins Unlimited Company,European Commission,100,EU Allowance deletion,5016380,European Commission,14904,Details
+EU516450,4-0,2019-04-19 16:47:36.739,Completed,Germany,100,Fokus Zukunft GmbH & Co.KG,5025499,Fokus Zukunft GmbH & Co. KG,European Commission,230,EU Cancellation Account Period 2,5022673,EUROPEAN UNION,2720,Details
+EU516451,4-0,2019-04-19 16:47:06.726,Completed,Germany,100,Fokus Zukunft GmbH & Co.KG,5025499,Fokus Zukunft GmbH & Co. KG,European Commission,230,EU Cancellation Account Period 2,5022673,EUROPEAN UNION,2720,Details
+EU516459,10-2,2019-04-19 16:46:24.887,Completed,France,100,Yara France Usine de Montoir,5022080,YARA FRANCE,European Commission,100,EU Allowance deletion,5016380,European Commission,15303,Details
+EU516188,10-2,2019-04-19 16:43:11.946,Completed,Romania,100,Operator Account,5010086,SC Holcim (Romania) SA,European Commission,100,EU Allowance deletion,5016380,European Commission,487889,Details
+EU516189,10-2,2019-04-19 16:41:06.061,Completed,Romania,100,Operator Account,5010087,SC Holcim (Romania) SA,European Commission,100,EU Allowance deletion,5016380,European Commission,339643,Details
+EU516041,10-0,2019-04-19 16:36:56.73,Completed,Greece,100,ASBVELESTI,5002346,ΑΣΒΕΣΤΟΠΟΙΑ ΒΕΛΕΣΤΙΝΟΥ,Greece,100,IPPC S.A.,5016925,ΕΥΣΤΑΘΙΟΣ ΚΟΥΡΝΙΩΤΗΣ,3100,Details
+EU516042,10-0,2019-04-19 16:34:45.451,Completed,Greece,100,K PAPADOPOULOS & YIOI EPE,5002402,ΑΣΒΕΣΤΟΠΟΙΪΑ ΒΟΛΟΥ Κ ΠΑΠΑΔΟΠΟΥΛΟΣ & ΥΙΟΙΙ,Greece,100,IPPC S.A.,5016925,ΕΥΣΤΑΘΙΟΣ ΚΟΥΡΝΙΩΤΗΣ,2900,Details
+EU516458,10-2,2019-04-19 16:32:56.217,Completed,France,100,Yara France - Usine d'Ambes,5005630,YARA FRANCE,European Commission,100,EU Allowance deletion,5016380,European Commission,59895,Details
+EU516037,10-0,2019-04-19 16:31:24.359,Completed,Romania,100,Operator Account,5010055,SC ELECTROCARBON SA,Bulgaria,100,Saga Commodities AD,5017097,Saga Commodities EAD,12283,Details
+EU516047,10-0,2019-04-19 16:31:12.207,Completed,Belgium,100,270 Burgo Ardennes Harnoncourt,5004711,Burgo Ardennes,Italy,100,Operator Account,5012643,Burgo Group S.p.A.,25051,Details
+EU516454,10-2,2019-04-19 16:09:19.61,Completed,France,100,SGD SA- SUCY,5005368,SGD SA,European Commission,100,EU Allowance deletion,5016380,European Commission,54970,Details
+EU515635,10-0,2019-04-19 16:02:32.041,Completed,Slovenia,100,METAL RAVNE,5008628,SIJ METAL RAVNE d.o.o.,Slovenia,100,PETROL ENERGETIKA,5008686,"PETROL d.d., Ljubljana",2277,Details
+EU516448,10-0,2019-04-19 15:55:27.101,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Estonia,100,Baltic Energy Partners OÜ,5016905,Baltic Energy Partners OÜ,17000,Details
+EU515760,10-0,2019-04-19 15:54:37.234,Completed,Romania,100,SC KRONOSPAN TRADING SRL,5010095,SC KRONOSPAN TRADING SRL,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,200000,Details
+EU516445,10-0,2019-04-19 15:53:56.687,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Luxembourg,100,Yangtze River Express,5024261,Yangtze River Express,3153,Details

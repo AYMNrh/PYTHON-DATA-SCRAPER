@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU499720,10-0,2019-03-25 12:20:20.597,Completed,United Kingdom,100,Lomond,5008161,Chrysaor Limited,United Kingdom,100,North Everest,5008163,Chrysaor Limited,25717,Details
+EU500060,10-2,2019-03-25 12:17:55.15,Completed,Lithuania,100,Operator Account:LT80,5006071,UAB Plunges silumos tinklai,European Commission,100,EU Allowance deletion,5016380,European Commission,360,Details
+EU500343,10-0,2019-03-25 12:16:41.282,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Germany,100,MVV Trading GmbH,5017307,MVV Trading GmbH,22000,Details
+EU499716,10-0,2019-03-25 12:16:05.041,Completed,Finland,100,Kaukaan Voima Oy:FI775,5010746,Kaukaan Voima Oy,Finland,100,LPRE KauVo,5010764,Kaukaan Voima Oy,44887,Details
+EU500340,10-0,2019-03-25 12:15:29.614,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Belgium,100,295 3B-Fibreglass Battice,5004308,3B-Fibreglass,65000,Details
+EU500132,10-2,2019-03-25 12:15:07.188,Completed,Netherlands,100,Asfalt Productie De Eem (APE) B.V.,5019569,Asfaltproductie De Eem B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,4233,Details
+EU500357,10-72,2019-03-25 12:14:46.753,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Netherlands,100,Asfalt Productie De Eem (APE) B.V.,5019569,Asfaltproductie De Eem B.V.,190,Details
+EU499714,10-0,2019-03-25 12:13:53.21,Completed,United Kingdom,100,North Everest,5008163,Chrysaor Limited,United Kingdom,100,Armada,5007161,Chrysaor North Sea Limited,8155,Details
+EU500130,10-71,2019-03-25 12:13:48.624,Completed,Netherlands,100,Asfalt Productie De Eem (APE) B.V.,5019569,Asfaltproductie De Eem B.V.,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,190,Details
+EU499713,10-0,2019-03-25 12:13:43.198,Completed,Finland,100,Rauman Voima :FI651,5010676,Rauman Biovoima Oy,Finland,100,RaVo REO:FI677,5010697,Rauman Biovoima Oy,30966,Details
+EU500339,10-0,2019-03-25 12:11:38.369,Completed,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,45000,Details
+EU500315,10-0,2019-03-25 12:11:32.863,Completed,Romania,100,Fast Trading OMV Petrom,5017799,OMV PETROM SA,Romania,100,SC LINDE GAZ ROMANIA SRL,5023861,SC LINDE GAZ ROMANIA SRL,3836,Details
+EU500134,10-2,2019-03-25 12:11:14.512,Completed,Netherlands,100,Asfalt Productie Nijmegen,5019570,Asfalt Produktie Nijmegen (A.P.N.) B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,1691,Details
+EU500045,10-37,2019-03-25 12:10:17.045,Completed,European Commission,100,EU AUCTION ACCOUNT,5016932,EUROPEAN UNION,Germany,100,ECC AG Auction Delivery Account PL,5025839,European Commodity Clearing AG,4428500,Details
+EU500341,10-0,2019-03-25 12:10:16.497,Completed,Spain,100,"COMPAÑÍA ESPAÑOLA DE PETROLEOS, S.A.U.",5017896,"Compañía Española de Petróleos, S.A.",United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,227000,Details
+EU498861,10-0,2019-03-25 12:10:08.441,Completed,Romania,100,SC Wienerberger SRL punct de lucru Gura Ocnitei,5010189,SC Wienerberger SRL,Romania,100,SC Wienerberger SRL punct de lucru Satuc,5010094,SC Wienerberger SRL,4459,Details
+EU499123,10-0,2019-03-25 12:10:04.611,Completed,United Kingdom,100,PUKL Trading Greengate,5007822,Pilkington United Kingdom Limited,Italy,100,PORTO MARGHERA,5026875,PILKINGTON ITALIA S.p.A,28702,Details
+GB72757,3-0,2019-03-25 12:10:02.098,Completed,United Kingdom,121,Ohana LLP - Trading,2507,Ohana LLP,Australia,100,,2649,,218781,Details
+EU498091,10-0,2019-03-25 12:09:52.46,Completed,Germany,100,1253 - Anlagenkonto,5014545,Neubrandenburger Stadtwerke GmbH,Germany,100,1269 - Anlagenkonto,5014568,Neubrandenburger Stadtwerke GmbH,1571,Details
+EU499135,10-0,2019-03-25 12:09:46.673,Completed,Italy,100,Operator Account,5013101,COLACEM SPA,Italy,100,Operator Account,5013107,COLACEM SPA,100000,Details

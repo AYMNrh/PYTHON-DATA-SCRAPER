@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU497054,10-0,2019-03-15 14:03:56.089,Completed,Germany,100,772 - Anlagenkonto,5015135,DREWAG - Stadtwerke Dresden GmbH,Germany,100,drewag-handel,5015988,DREWAG - Stadtwerke Dresden GmbH,6598,Details
+EU497092,10-0,2019-03-15 14:03:54.61,Completed,United Kingdom,100,Peak Gen Power 18 Limited,5025500,Peak Gen Power 18 Limited,Malta,100,RAL Warehousing Account,5027655,Louis Redshaw,3302,Details
+EU497091,10-0,2019-03-15 14:02:40.686,Completed,Finland,100,ORK:FI330,5010386,Turun Seudun  Energiantuotanto Oy,Finland,100,Hauninen:FI360,5010416,Oy Turku Energia Åbo Energi Ab,620,Details
+EU497090,10-0,2019-03-15 14:02:33.728,Completed,United Kingdom,100,Peak Gen Power 14 Limited,5025484,Peak Gen Power 14 Limited,Malta,100,RAL Warehousing Account,5027655,Louis Redshaw,3484,Details
+EU497089,10-0,2019-03-15 14:01:06.331,Completed,United Kingdom,100,Peak Gen Power 11 Limited,5025483,Peak Gen Power 11 Limited,Malta,100,RAL Warehousing Account,5027655,Louis Redshaw,3186,Details
+EU497087,10-0,2019-03-15 14:00:14.241,Completed,Finland,100,ORK:FI330,5010386,Turun Seudun  Energiantuotanto Oy,Finland,100,JLS:FI335,5010391,Oy Turku Energia Åbo Energi Ab,4355,Details
+EU497086,10-0,2019-03-15 13:59:33.127,Completed,United Kingdom,100,Peak Gen Power 13 Limited,5024567,Peak Gen Power 13 Limited,Malta,100,RAL Warehousing Account,5027655,Louis Redshaw,3043,Details
+EU497085,10-0,2019-03-15 13:58:46.751,Completed,Finland,100,ORK:FI330,5010386,Turun Seudun  Energiantuotanto Oy,Finland,100,VLK:FI334,5010390,Oy Turku Energia Åbo Energi Ab,6243,Details
+EU497083,10-0,2019-03-15 13:56:59.954,Completed,Finland,100,ORK:FI330,5010386,Turun Seudun  Energiantuotanto Oy,Finland,100,SVA7:FI333,5010389,Oy Turku Energia Åbo Energi Ab,39,Details
+EU497082,10-0,2019-03-15 13:54:33.651,Completed,Finland,100,ORK:FI330,5010386,Turun Seudun  Energiantuotanto Oy,Finland,100,SVA5:FI327,5010383,Oy Turku Energia Åbo Energi Ab,116,Details
+EU497081,10-0,2019-03-15 13:52:55.129,Completed,Finland,100,ORK:FI330,5010386,Turun Seudun  Energiantuotanto Oy,Finland,100,KRN:FI326,5010382,Oy Turku Energia Åbo Energi Ab,3307,Details
+EU497527,10-0,2019-03-15 13:51:33.119,Completed,Croatia,100,INTERCAPITAL TRADING ACCOUNT,5021057,Interkapital vrijednosni papiri d.o.o.,Croatia,100,KeramikaModusOrahovica2013,5020879,Keramika Modus d.o.o.,234,Details
+EU497080,10-0,2019-03-15 13:50:17.508,Completed,Finland,100,ORK:FI330,5010386,Turun Seudun  Energiantuotanto Oy,Finland,100,Myllykiventien lämpökeskus:FI282,5010338,Oy Turku Energia Åbo Energi Ab,238,Details
+EU497074,10-0,2019-03-15 13:46:58.77,Completed,France,100,CPTE TARNAISE DES PANNEAUX,5004924,TARNAISE DES PANNEAUX SAS,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,7200,Details
+EU497520,10-2,2019-03-15 13:46:06.04,Completed,Sweden,100,Lindås,5001583,Emmaboda Energi & Miljö AB,European Commission,100,EU Allowance deletion,5016380,European Commission,33,Details
+EU497077,10-0,2019-03-15 13:43:58.076,Completed,Finland,100,ORK:FI330,5010386,Turun Seudun  Energiantuotanto Oy,Finland,100,Karvetin lämpökeskus:FI281,5010337,Oy Turku Energia Åbo Energi Ab,968,Details
+EU497522,10-2,2019-03-15 13:43:54.786,Completed,Sweden,100,Kajan,5002269,Emmaboda Energi & Miljö AB,European Commission,100,EU Allowance deletion,5016380,European Commission,61,Details
+EU497523,10-0,2019-03-15 13:38:19.866,Completed,Germany,100,Advantag Services GmbH,5022399,Advantag Services GmbH,Croatia,100,INTERCAPITAL TRADING ACCOUNT,5021057,Interkapital vrijednosni papiri d.o.o.,234,Details
+EU497518,10-0,2019-03-15 13:37:57.615,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,22000,Details
+EU497071,10-0,2019-03-15 13:37:46.92,Completed,United Kingdom,100,Peak Gen  Power 6 Limited,5024566,Peak Gen Power 6 Limited,Malta,100,RAL Warehousing Account,5027655,Louis Redshaw,3063,Details

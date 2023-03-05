@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU500572,10-0,2019-03-26 10:08:58.661,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Germany,100,FHW Dinslaken-Innenstadt,5014306,Fernwärmeversorgung Niederrhein GmbH,10700,Details
+EU500527,10-0,2019-03-26 10:08:34.108,Completed,Hungary,100,MOL Commodity Trading Kft,5017387,MOL Commodity Trading Kft.,Croatia,100,Objekti frakcionacije Ivanić Grad,5021972,INA d.d.,1436,Details
+EU500574,10-0,2019-03-26 10:08:20.095,Completed,Spain,100,"Global Factor Commodity Trading, S.A.U.",5016901,"Global Factor Commodity Trading, S.A.U.",Spain,100,Planta de Cogeneración de DDR,5009057,"Depuración, Destilación, Reciclaje, S.L.",5000,Details
+EU500773,10-0,2019-03-26 10:08:09.597,Completed,Spain,100,"COMPAÑÍA ESPAÑOLA DE PETROLEOS, S.A.U.",5017896,"Compañía Española de Petróleos, S.A.",United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,56000,Details
+EU500745,10-0,2019-03-26 10:08:06.791,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Spain,100,"Air Europa Líneas Aéreas, S.A.U.",5016952,"Air Europa Líneas Aéreas, S.A.U.",18000,Details
+EU500579,10-0,2019-03-26 10:08:05.636,Completed,Spain,100,"Global Factor Commodity Trading, S.A.U.",5016901,"Global Factor Commodity Trading, S.A.U.",Spain,100,"Fertiberia, S.A-Fábrica de Avilés",5017818,"Fertiberia, S.A.",5000,Details
+EU500568,10-0,2019-03-26 10:08:04.602,Completed,Netherlands,100,China Carbon N.V.,5026480,China Carbon N.V.,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,1978,Details
+EU500524,10-0,2019-03-26 10:08:02.717,Completed,Hungary,100,MOL Commodity Trading Kft,5017387,MOL Commodity Trading Kft.,Croatia,100,Rafinerija nafte Sisak,5021823,INA d.d.,11340,Details
+EU500079,10-0,2019-03-26 10:07:54.07,Completed,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,15777,Details
+EU498048,10-2,2019-03-26 10:07:36.242,Completed,France,100,ALUMINIUM DUNKERQUE,5022366,ALUMINIUM DUNKERQUE,European Commission,100,EU Allowance deletion,5016380,European Commission,482513,Details
+EU500166,10-0,2019-03-26 10:07:06.365,Completed,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,Poland,100,ENERGA Elektrownie Ostrołęa SA,5003353,ENERGA Elektrownie Ostrołęka S.A.,3000,Details
+EU500777,10-0,2019-03-26 10:06:44.305,Completed,Germany,100,Statkraft Markets GmbH,5017011,Statkraft Markets GmbH,France,100,VITOL SA,5017265,VITOL SA,50000,Details
+EU500770,10-0,2019-03-26 10:06:42.63,Completed,Germany,100,Bayern LB,5016942,Bayerische Landesbank,Czech Republic,100,"ČEZ, a.s. - obchodní účet",5016960,"ČEZ, a. s.",73000,Details
+EU500732,10-0,2019-03-26 10:06:08.241,Completed,Germany,100,Axpo Solutions AG,5017149,AXPO Solutions AG,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,1609000,Details
+EU500655,10-0,2019-03-26 10:05:45.686,Completed,Netherlands,100,Commonwealth Bank,5026245,Commonwealth Bank of Australia,United Kingdom,100,J.P. Morgan Securities Plc,5017695,J.P. Morgan Securities Plc,16393000,Details
+EU500526,10-0,2019-03-26 10:05:44.02,Completed,Hungary,100,MOL Commodity Trading Kft,5017387,MOL Commodity Trading Kft.,Croatia,100,Objekti prerade plina Molve,5021973,INA d.d.,1287,Details
+EU500741,10-0,2019-03-26 10:05:20.536,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Denmark,100,Atlantic Airways,5018629,P/F Atlantic Airways,646,Details
+EU500523,10-0,2019-03-26 10:05:11.753,Completed,Hungary,100,MOL Commodity Trading Kft,5017387,MOL Commodity Trading Kft.,Croatia,100,Rafinerija nafte Rijeka,5021784,INA d.d.,17212,Details
+EU500618,10-0,2019-03-26 10:04:56.516,Completed,Italy,100,Axpo Italia Trading Account,5023288,Axpo Italia S.p.A.,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,187000,Details
+EU498811,3-0,2019-03-26 10:04:05.089,Completed,United Kingdom,100,ALLCOT AG,5023840,ALLCOT AG,Switzerland,100,,1106,,1606,Details

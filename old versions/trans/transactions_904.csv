@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU501942,10-71,2019-03-28 08:57:53.932,Completed,Germany,100,Matthias Heyer OHG,5021787,Matthias Heyer oHG,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,374,Details
+EU500976,10-2,2019-03-28 08:57:46.602,Completed,Sweden,100,Spetslastpanna Järnverket,5001906,Hagfors Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,1833,Details
+EU501920,10-2,2019-03-28 08:57:07.747,Completed,Germany,100,Knauf Gips KG Lauffen,5018729,Knauf Gips KG,European Commission,100,EU Allowance deletion,5016380,European Commission,21634,Details
+EU501922,10-2,2019-03-28 08:55:27.07,Completed,Germany,100,Knauf Deutsche Gipswerke Schwarze Pumpe,5018732,Knauf Deutsche Gipswerke KG,European Commission,100,EU Allowance deletion,5016380,European Commission,34345,Details
+EU501730,10-2,2019-03-28 08:53:34.972,Completed,Romania,100,Operator Account,5009989,ALRO S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,398015,Details
+EU501662,10-2,2019-03-28 08:43:08.2,Completed,Germany,100,1558 - Anlagenkonto,5014971,Stadtwerke Marburg GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,12168,Details
+EU500062,10-2,2019-03-28 08:42:34.821,Completed,Finland,100,Kuusamonevo:FI223,5011006,Kuusamon energia- ja vesiosuuskunta,European Commission,100,EU Allowance deletion,5016380,European Commission,1902,Details
+EU501933,10-2,2019-03-28 08:39:30.684,Completed,Luxembourg,100,JULIEN - CAJOT,5022289,JULIEN-CAJOT,European Commission,100,EU Allowance deletion,5016380,European Commission,7011,Details
+EU497989,10-2,2019-03-28 08:37:58.525,Completed,Sweden,100,Norsaverkets avfallsförbränningsanläggning,5019555,VafabMiljö Kommunalförbund,European Commission,100,EU Allowance deletion,5016380,European Commission,8658,Details
+EU500439,10-2,2019-03-28 08:33:57.394,Completed,Sweden,100,Ångcentralen Stockviksverken,5001406,Nouryon Pulp and Performance Chemicals AB,European Commission,100,EU Allowance deletion,5016380,European Commission,6276,Details
+EU501919,10-2,2019-03-28 08:18:57.07,Completed,Norway,100,MM FollaCell,5023185,MM FollaCell AS,European Commission,100,EU Allowance deletion,5016380,European Commission,4572,Details
+EU501914,10-2,2019-03-28 08:04:45.57,Completed,Germany,100,Krempel GmbH & Co. Pressspanwerk KG,5024061,Krempel GmbH & Co. Pressspanwerk KG,European Commission,100,EU Allowance deletion,5016380,European Commission,2498,Details
+EU501913,10-2,2019-03-28 07:57:45.245,Completed,Sweden,100,Ardagh Glass Limmared AB,5001567,Ardagh Glass Limmared AB,European Commission,100,EU Allowance deletion,5016380,European Commission,63704,Details
+EU501618,10-2,2019-03-28 07:24:12.27,Completed,Romania,100,Operator Account,5010053,S.C. DS SMITH PAPER ZARNESTI S.R.L.,European Commission,100,EU Allowance deletion,5016380,European Commission,49406,Details
+AU12046,3-0,2019-03-28 06:04:50.909,Completed,Australia,100,,2848,,Germany,121,First Climate Markets AG,369,First Climate Markets AG,17000,Details
+EU501903,10-36,2019-03-28 01:30:17.328,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Haapaveden voimalaitos:FI615,5010651,Nevel Oy,10615,Details
+EU501904,10-36,2019-03-28 01:30:17.283,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Björknäs värmecentral: FI32,5010815,Raseborgs Energi Ab,8737,Details
+EU501902,10-36,2019-03-28 01:30:17.281,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,78 - Anlagenkonto,5015713,ArcelorMittal Bremen GmbH,24524,Details
+EU501901,10-36,2019-03-28 01:30:17.281,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,78 - Anlagenkonto,5015713,ArcelorMittal Bremen GmbH,24970,Details
+EU501900,10-36,2019-03-28 01:30:17.28,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,78 - Anlagenkonto,5015713,ArcelorMittal Bremen GmbH,25412,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU497422,10-0,2019-03-15 12:11:39.65,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Germany,100,Vattenfall Energy Trading GmbH,5017244,Vattenfall Energy Trading GmbH,1000000,Details
+EU497478,10-0,2019-03-15 12:10:48.089,Completed,Poland,100,mBank S.A.,5023148,mBank S.A.,Poland,100,ELEKTROCIEPŁOWNIA EC II,5002808,Grupa Azoty Zakłady Chemiczne POLICE S.A.,10581,Details
+EU497460,10-0,2019-03-15 12:10:35.55,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Portugal,100,"NAVIGATOR PAPER SETUBAL, S.A.",5003263,"NAVIGATOR PAPER SETUBAL, S.A.",100000,Details
+EU496976,10-0,2019-03-15 12:10:06.918,Completed,Germany,100,Stadtwerke Unna GmbH,5013845,Stadtwerke Unna GmbH,Germany,100,RWE Vertrieb AG Retail - Trading,5017190,innogy SE,20805,Details
+EU497021,10-0,2019-03-15 12:09:59.626,Completed,Austria,100,Magna Steyr Werk 2 Graz,5004218,MAGNA STEYR Fahrzeugtechnik GmbH & Co KG,Austria,100,FHKW Thondorf,5004053,Energie Steiermark Wärme GmbH,6000,Details
+EU496986,10-0,2019-03-15 12:09:55.166,Completed,Germany,100,ECC AG Auction Delivery Account PL,5025839,European Commodity Clearing AG,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,4428500,Details
+EU496886,10-0,2019-03-15 12:09:47.766,Completed,United Kingdom,100,Operator Account,5008496,BAE Systems Surface Ships Limited,United Kingdom,100,DSDC Donnington,5007313,MOD Donnington,273,Details
+EU497457,10-0,2019-03-15 12:09:03.832,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Norway,100,DNB Markets Trading Account,5017497,DNB Bank ASA,23100,Details
+EU497454,10-0,2019-03-15 12:08:56.292,Completed,France,100,ENGIE GLOBAL MARKETS,5021621,ENGIE GLOBAL MARKETS,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,25753,Details
+EU496887,10-0,2019-03-15 12:08:50.905,Completed,United Kingdom,100,Operator Account,5008567,Babcock Marine (Clyde) Limited,United Kingdom,100,Operator Account,5008562,Babcock Marine (Clyde) Limited,350,Details
+EU496998,10-0,2019-03-15 12:08:50.56,Completed,United Kingdom,100,HBEL-AIUK,5024072,Holcibel S.A.,Netherlands,100,HBEL,5027810,Holcibel,17232,Details
+EU496973,10-0,2019-03-15 12:08:44.07,Completed,Sweden,100,LVC 4 Lyviksverket,5022215,Västerbergslagens Energi AB,Sweden,100,"LVC2 Lasarettets PC, Ludvika",5002266,Västerbergslagens Energi AB,19,Details
+EU496988,10-0,2019-03-15 12:08:40.962,Completed,Germany,100,ECC AG Auction Delivery Account EU,5016991,European Commodity Clearing AG,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,640000,Details
+EU496833,10-0,2019-03-15 12:08:21.168,Completed,Germany,100,UST Handelskonto,5013741,Uniper Energy Storage GmbH,Germany,100,Speicherverdichterstation Epe - Verdichterantriebe,5015412,Uniper Energy Storage GmbH,14364,Details
+EU478571,10-0,2019-03-15 12:08:13.336,Completed,France,100,SARIA,5004784,SARIA,France,100,SOCIETE GENERALE,5017623,SOCIETE GENERALE,20000,Details
+EU497007,10-0,2019-03-15 12:08:07.267,Completed,Germany,100,Personenkonto des GMW,5023740,Gebäudemanagement der Stadt Wuppertal,Germany,100,WSW Energie & Wasser AG - Personenkonto,5015476,WSW Energie & Wasser AG,8843,Details
+EU497121,10-2,2019-03-15 12:08:04.277,Completed,United Kingdom,100,Pauls Malt Limited,5023041,Pauls Malt Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,4481,Details
+EU496837,10-0,2019-03-15 12:07:51.347,Completed,Germany,100,149 - Anlagenkonto,5014147,Kalkwerke H. Oetelshofen GmbH & Co. KG,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,30000,Details
+EU496971,10-0,2019-03-15 12:07:33.527,Completed,Germany,100,1554 - Anlagenkonto,5014966,Blue Cube Germany Assets GmbH & Co.KG,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,12000,Details
+EU496814,10-0,2019-03-15 12:07:19.035,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,25000,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU516229,10-36,2019-04-19 01:30:43.267,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,408 - Anlagenkonto,5014092,Wöhrl Ziegelwerk-Deckensysteme GmbH,233,Details
+EU509275,10-2,2019-04-18 22:18:14.767,Completed,Germany,100,1601 - Anlagenkonto,5015032,Milei GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,52852,Details
+EU515492,10-2,2019-04-18 20:50:06.838,Completed,Germany,100,Zuckerfabrik Zeitz,5013894,Südzucker AG,European Commission,100,EU Allowance deletion,5016380,European Commission,283017,Details
+EU515493,10-2,2019-04-18 20:49:12.878,Completed,Germany,100,Zuckerfabrik Wabern,5013903,Südzucker AG,European Commission,100,EU Allowance deletion,5016380,European Commission,42092,Details
+EU515494,10-2,2019-04-18 20:48:17.997,Completed,Germany,100,Zuckerfabrik Rain,5013905,Südzucker AG,European Commission,100,EU Allowance deletion,5016380,European Commission,79651,Details
+EU515496,10-2,2019-04-18 20:47:28.173,Completed,Germany,100,Zuckerfabrik Offenau,5013909,Südzucker AG,European Commission,100,EU Allowance deletion,5016380,European Commission,76837,Details
+EU515495,10-2,2019-04-18 20:46:15.289,Completed,Germany,100,Zuckerfabrik Plattling,5013907,Südzucker AG,European Commission,100,EU Allowance deletion,5016380,European Commission,125572,Details
+EU502557,10-2,2019-04-18 20:44:36.221,Completed,France,100,EIFFAGE GC CENTRALE ENROBAGE MOBILE MI 708,5023761,EIFFAGE GENIE CIVIL,European Commission,100,EU Allowance deletion,5016380,European Commission,2552,Details
+EU502560,10-2,2019-04-18 20:43:26.08,Completed,France,100,EIFFAGE GC - CENTRALE D'ENROBAGE MOBILE MI 704,5027219,EIFFAGE GC INFRA LINEAIRES,European Commission,100,EU Allowance deletion,5016380,European Commission,1724,Details
+EU502561,10-2,2019-04-18 20:42:08.076,Completed,France,100,EIFFAGE GC CENTRALE D'ENROBAGE MOBILE MI 707,5023762,EIFFAGE GC INFRA LINEAIRES,European Commission,100,EU Allowance deletion,5016380,European Commission,2867,Details
+EU516112,10-2,2019-04-18 20:35:26.183,Completed,Italy,100,Operator Account,5012796,C&T SpA,European Commission,100,EU Allowance deletion,5016380,European Commission,804,Details
+EU515497,10-2,2019-04-18 20:34:21.583,Completed,Germany,100,Zuckerfabrik Brottewitz,5013911,Südzucker AG,European Commission,100,EU Allowance deletion,5016380,European Commission,72412,Details
+EU515498,10-2,2019-04-18 20:33:35.449,Completed,Germany,100,Zuckerfabrik Warburg,5013919,Südzucker AG,European Commission,100,EU Allowance deletion,5016380,European Commission,34096,Details
+EU515499,10-2,2019-04-18 20:32:22.255,Completed,Germany,100,Zuckerfabrik Offstein,5013922,Südzucker AG,European Commission,100,EU Allowance deletion,5016380,European Commission,142764,Details
+EU503587,10-2,2019-04-18 20:32:03.296,Completed,France,100,EIFFAGE GC CENTRALE ENROBAGE MOBILE MI 744,5023763,EIFFAGE GENIE CIVIL,European Commission,100,EU Allowance deletion,5016380,European Commission,1182,Details
+EU515489,10-2,2019-04-18 19:18:29.326,Completed,Poland,100,Produkcja papieru lub tektury,5003563,MM Kwidzyn sp. z o.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,652707,Details
+EU516219,10-2,2019-04-18 19:17:17.067,Completed,Spain,100,Vidriería Rovira S.L.- Sevilla,5008915,"Vidriería Rovira, SL",European Commission,100,EU Allowance deletion,5016380,European Commission,56906,Details
+EU516213,10-2,2019-04-18 18:54:37.37,Completed,France,100,THE DOW CHEMICAL COMPANY,5000162,THE DOW CHEMICAL COMPANY,European Commission,100,EU Allowance deletion,5016380,European Commission,60,Details
+EU516218,10-72,2019-04-18 18:51:40.428,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,France,100,DESHYOUEST,5021444,DESHYOUEST,581,Details
+EU515461,10-71,2019-04-18 18:50:50.525,Completed,France,100,DESHYOUEST,5021444,DESHYOUEST,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,581,Details

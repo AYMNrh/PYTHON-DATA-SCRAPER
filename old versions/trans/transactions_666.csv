@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU507486,10-0,2019-04-05 14:27:12.18,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Portugal,100,"Transportes Aéreos Portugueses, S.A.",5000522,"Transportes Aéreos Portugueses, S.A.",20557,Details
+EU507473,10-0,2019-04-05 14:26:31.614,Completed,Spain,100,FUTURA CARBONO S.L.,5024181,FUTURA CARBONO S.L.,Spain,100,"Bestile, S.L.",5020076,"Bestile, S.L.",932,Details
+EU507490,10-71,2019-04-05 14:26:09.837,Completed,France,100,CPTE PAPETERIE DE BEGLES,5004882,PAPETERIE DE BEGLES,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,1591,Details
+EU507471,10-0,2019-04-05 14:25:31.155,Completed,Spain,100,FUTURA CARBONO S.L.,5024181,FUTURA CARBONO S.L.,Spain,100,"Cerámicas L'Alcalaten, S.A.",5019431,"Cerámicas L'Alcalaten, S.A.",331,Details
+EU503967,10-2,2019-04-05 14:25:30.847,Completed,Germany,100,Kalkwerk Istein,5014158,Rheinkalk GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,179910,Details
+EU506265,10-2,2019-04-05 14:25:08.328,Completed,Italy,100,Giancarlo Ferlini,5012901,Conserve Italia soc.coop.agricola,European Commission,100,EU Allowance deletion,5016380,European Commission,11273,Details
+EU507470,10-0,2019-04-05 14:24:35.629,Completed,Spain,100,FUTURA CARBONO S.L.,5024181,FUTURA CARBONO S.L.,Spain,100,"Bestile, S.L.",5020255,"Bestile, S.L.",292,Details
+EU503979,10-2,2019-04-05 14:24:07.321,Completed,Germany,100,155 - Anlagenkonto,5014178,Rheinkalk Grevenbrück GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,51979,Details
+EU506274,10-2,2019-04-05 14:24:03.458,Completed,Italy,100,Giancarlo Ferlini,5012902,Conserve Italia soc.coop.agricola,European Commission,100,EU Allowance deletion,5016380,European Commission,4291,Details
+EU507468,10-0,2019-04-05 14:23:23.679,Completed,Spain,100,FUTURA CARBONO S.L.,5024181,FUTURA CARBONO S.L.,Spain,100,"Cerámica Gómez, S.A.",5018390,"Cerámica Gómez, S.A.",360,Details
+EU507222,10-2,2019-04-05 14:22:31.061,Completed,France,100,CPTE PAPETERIE DE BEGLES,5004882,PAPETERIE DE BEGLES,European Commission,100,EU Allowance deletion,5016380,European Commission,30032,Details
+EU503991,10-2,2019-04-05 14:21:58.349,Completed,Germany,100,WK_Kalkwerk Regensburg,5014194,Walhalla Kalk GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,166483,Details
+EU506289,10-2,2019-04-05 14:21:23.718,Completed,Italy,100,Giancarlo Ferlini,5012903,Conserve Italia soc.coop.agricola,European Commission,100,EU Allowance deletion,5016380,European Commission,43007,Details
+EU507485,10-0,2019-04-05 14:20:48.535,Completed,Netherlands,100,JPM VEC Trading Account,5027817,J.P. Morgan Ventures Energy Corporation,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,119000,Details
+EU503999,10-2,2019-04-05 14:20:39.669,Completed,Germany,100,164 - Anlagenkonto,5014221,Rheinkalk GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,274,Details
+EU506465,10-0,2019-04-05 14:20:30.684,Completed,Germany,100,Glasschmelzwanne Wanne B,5013817,LEDVANCE GmbH,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,30000,Details
+EU504006,10-2,2019-04-05 14:19:31.136,Completed,Germany,100,165 - Anlagenkonto,5014226,Rheinkalk GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,1941442,Details
+EU506302,10-2,2019-04-05 14:18:52.15,Completed,Italy,100,Giancarlo Ferlini,5012905,Conserve Italia soc.coop.agricola,European Commission,100,EU Allowance deletion,5016380,European Commission,7615,Details
+EU504009,10-2,2019-04-05 14:18:17.041,Completed,Germany,100,166 - Anlagenkonto,5014236,Rheinkalk GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,69237,Details
+EU504012,10-2,2019-04-05 14:16:49.656,Completed,Germany,100,167 - Anlagenkonto,5014241,Rheinkalk GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,838146,Details

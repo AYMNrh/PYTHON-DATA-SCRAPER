@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU494884,10-2,2019-04-08 15:25:13.051,Completed,France,100,INEOS AUTOMOTIVE SAS,5004735,INEOS AUTOMOTIVE SAS,European Commission,100,EU Allowance deletion,5016380,European Commission,13102,Details
+EU508449,10-2,2019-04-08 15:24:25.195,Completed,Italy,100,Operator Account,5013556,Birra Peroni S.r.l.,European Commission,100,EU Allowance deletion,5016380,European Commission,5669,Details
+EU508454,10-2,2019-04-08 15:21:59.567,Completed,Italy,100,Operator Account,5013558,Birra Peroni S.r.l.,European Commission,100,EU Allowance deletion,5016380,European Commission,9370,Details
+EU507453,10-0,2019-04-08 15:21:40.254,Completed,Latvia,100,Operator Account:LV7,5012074,Pasvaldibas SIA „Ventspils siltums”,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,20000,Details
+EU505146,10-2,2019-04-08 15:21:27.327,Completed,Germany,100,Heizkraftwerk Technisches Zentrum Unique,5027631,unique Wärme GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,18856,Details
+EU508480,10-0,2019-04-08 15:20:28.947,Completed,Netherlands,100,BNP Paribas London Branch,5027681,BNP Paribas London Branch,France,100,BNP PARIBAS,5027964,BNP PARIBAS,1000,Details
+EU505560,10-2,2019-04-08 15:19:51.349,Completed,Germany,100,1004 - Anlagenkonto,5014157,Stadtwerke Bochum Holding GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,3453,Details
+EU507399,10-0,2019-04-08 15:16:27.905,Completed,Germany,100,1882 - EnBW Trading GmbH Personenkonto,5015443,EnBW Energie Baden-Württemberg AG,Germany,100,1327 - Anlagenkonto,5014647,KNG Kraftwerks- und Netzgesellschaft mbH,1823511,Details
+EU507450,10-0,2019-04-08 15:15:09.854,Completed,Sweden,100,Stallbacka värmeverk,5002242,Trollhättan Energi AB,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,20000,Details
+EU508390,10-2,2019-04-08 15:14:21.048,Completed,Spain,100,"International Paper Madrid Mill, S.L.U.",5009660,"International Paper Madrid Mill, S.L.U.",European Commission,100,EU Allowance deletion,5016380,European Commission,69780,Details
+EU507938,10-0,2019-04-08 15:13:35.554,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Germany,100,Dampfflutanlage Emlichheim,5014362,Wintershall Dea Deutschland GmbH,36609,Details
+EU508463,10-0,2019-04-08 15:11:52.671,Completed,United Kingdom,100,Gazprom Marketing & Trading Retail (Trading Account),5017319,Gazprom Marketing & Trading Retail Ltd,Ireland,100,Operator Account,5011953,Eli Lilly Kinsale Limited,11417,Details
+EU507739,10-0,2019-04-08 15:11:23.416,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Italy,100,Operator Account,5012950,BASF Italia S.p.A,14009,Details
+EU508455,10-0,2019-04-08 15:10:41.671,Completed,Czech Republic,100,"ČEZ, a.s. - obchodní účet",5016960,"ČEZ, a. s.",Czech Republic,100,"ČEZ, a. s. Obchodní 1",5006673,"ČEZ, a. s.",10000000,Details
+EU507741,10-0,2019-04-08 15:10:22.457,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Ireland,100,Operator Account,5011971,BASF Ireland Limited,6857,Details
+EU507444,10-0,2019-04-08 15:09:56.621,Completed,Italy,100,CONTO SCAMBIO IEN,5024606,Iren Energia S.p.A.,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,300000,Details
+EU507443,10-0,2019-04-08 15:09:37.824,Completed,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,Latvia,100,Operator Account:LV74,5012141,"LODE SIA, Ane plant",3029,Details
+EU507743,10-0,2019-04-08 15:08:42.377,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Germany,100,1582 - Lampertheim,5015005,BASF Lampertheim GmbH,16215,Details
+EU507397,10-0,2019-04-08 15:06:56.451,Completed,Slovakia,100,"Dolvap, s.r.o.",5002922,"DOLVAP, s.r.o.",Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,5000,Details
+EU507058,10-2,2019-04-08 15:06:51.032,Completed,Italy,100,Operator Account,5013313,ACEA PRODUZIONE S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,607,Details

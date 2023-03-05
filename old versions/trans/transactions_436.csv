@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU512256,10-2,2019-04-12 12:09:41.981,Completed,Italy,100,Operator Account,5023102,Fenice spa,European Commission,100,EU Allowance deletion,5016380,European Commission,57739,Details
+EU510875,10-0,2019-04-12 12:09:32.731,Completed,Denmark,100,Affaldvarme Aarhus,5006285,Aarhus Kommune,Denmark,100,Affaldsenergianlægget,5022173,Kredsløb Affaldsenergi A/S,38851,Details
+EU510879,10-0,2019-04-12 12:09:32.682,Completed,Netherlands,100,Dow Benelux B.V. BKG 6,5021279,DOW Benelux B.V.,Netherlands,100,Dow Benelux B.V. BKG 2,5021275,DOW Benelux B.V.,47198,Details
+EU510748,10-0,2019-04-12 12:09:30.063,Completed,Malta,100,Enemalta - Delimara Power Station,5006681,Enemalta plc,Malta,100,D3 Power Generation Ltd.,5027209,D3 Power Generation Ltd.,179612,Details
+EU510817,10-0,2019-04-12 12:09:26.681,Completed,France,100,Société Valmy Défense 17 - SVD17,5023377,SVD 17,France,100,155DCD21656K NANCY ENERGIE Chaufferie Urbaine,5004858,ESTIA RESEAUX DE CHALEUR,8835,Details
+EU510871,10-0,2019-04-12 12:09:23.49,Completed,Denmark,100,Affaldvarme Aarhus,5006285,Aarhus Kommune,Denmark,100,Odder Varmeværk,5006231,Odder Varmeværk A.m.b.A.,220,Details
+EU510790,10-0,2019-04-12 12:09:20.684,Completed,France,100,Société Valmy Défense 17 - SVD17,5023377,SVD 17,France,100,R ENERGIES - Chaufferie Beaurepaire,5004710,R ENERGIES,1549,Details
+EU510767,10-0,2019-04-12 12:09:19.189,Completed,United Kingdom,100,Britannia,5008569,Chrysaor (U.K) Britannia Limited,United Kingdom,100,ConocoPhillips (U.K.) Marketing and Trading Limited,5007127,CHRYSAOR PRODUCTION (U.K.) LIMITED,1175,Details
+EU510982,10-0,2019-04-12 12:09:18.156,Completed,Sweden,100,Notnäs,5002278,Värmevärden AB,Sweden,100,PC Grums Fjärrvärme,5002070,Värmevärden AB,784,Details
+EU510826,10-0,2019-04-12 12:09:10.898,Completed,Finland,100,LPRE KauVo,5010764,Kaukaan Voima Oy,Finland,100,Kaukaan Voima Oy:FI775,5010746,Kaukaan Voima Oy,76557,Details
+EU511068,10-0,2019-04-12 12:09:05.227,Completed,Italy,100,DOMUS LINEA,5017976,DOMUS LINEA SRL,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,500,Details
+EU510880,10-0,2019-04-12 12:09:02.112,Completed,Netherlands,100,Dow Benelux B.V. BKG 6,5021279,DOW Benelux B.V.,Netherlands,100,Dow Benelux B.V. BKG 1,5011128,DOW Benelux B.V.,39629,Details
+EU510870,10-0,2019-04-12 12:08:49.718,Completed,Denmark,100,Affaldvarme Aarhus,5006285,Aarhus Kommune,Denmark,100,Risskov Varmecentral,5006560,Kredsløb Fjernvarme A/S,117,Details
+EU511110,10-0,2019-04-12 12:08:48.66,Completed,Denmark,100,"Trading Account 2 , CER reserved for EEX, instant transfer",5006276,ØRSTED Salg & Service A/S,Denmark,100,ØRSTED Salg & Service,5006291,ØRSTED Salg & Service A/S,6100,Details
+EU510972,10-0,2019-04-12 12:08:47.056,Completed,Italy,100,Operator Account,5012816,CALCIDRATA SPA,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,10000,Details
+EU510877,10-0,2019-04-12 12:08:29.142,Completed,Netherlands,100,Dow Benelux B.V. BKG 8,5021281,DOW Benelux B.V.,Netherlands,100,Dow Benelux B.V. BKG 7,5021280,DOW Benelux B.V.,5194,Details
+EU510821,10-0,2019-04-12 12:08:29.14,Completed,Finland,100,RaVo UPM:FI676,5010696,Rauman Biovoima Oy,Finland,100,Rauman Voima :FI651,5010676,Rauman Biovoima Oy,43277,Details
+EU510852,10-0,2019-04-12 12:08:28.116,Completed,Ireland,100,Operator Account,5011960,Lakeland Dairies Co-operative Society Limited,Ireland,100,Operator Account,5011958,Lakeland Dairies Co-operative Society Limited,38967,Details
+EU510830,10-0,2019-04-12 12:08:25.332,Completed,France,100,Société Valmy Défense 17 - SVD17,5023377,SVD 17,France,100,CPTE SETE,5005688,STE NOUVELLE D'EXPLOIT. THERMIQUE DE L'ESPLANADE SETE,4762,Details
+EU510593,10-0,2019-04-12 12:08:19.741,Completed,Italy,100,Operator Account,5012761,BORMIO SPA,Italy,100,Operator Account,5012703,ADDA ONDULATI SPA.,2000,Details

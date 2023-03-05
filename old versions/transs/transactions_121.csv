@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU518596,10-36,2019-04-25 01:30:41.21,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Rauman Energia Oy:n päästökauppatili:FI366,5010422,Rauman Energia Oy,1599,Details
+EU518594,10-36,2019-04-25 01:30:41.065,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Pitkälahti:FI218,5011001,Kuopion Energia Oy,202,Details
+EU518593,10-36,2019-04-25 01:30:41.048,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Isolahden lämpökeskus:FI464,5010520,Vaasan Sähkö Oy,30,Details
+EU518590,10-36,2019-04-25 01:30:41.044,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Poland,100,EC Miechowice,5003594,Fortum Silesia S.A.,22741,Details
+EU518609,10-36,2019-04-25 01:30:40.999,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Kuusitien päästötili:FI529,5010585,Oy Perhonjoki Ab,28,Details
+EU518592,10-36,2019-04-25 01:30:40.998,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Skinnarila:FI259,5010315,Lappeenrannan Lämpövoima Oy,76,Details
+EU518591,10-36,2019-04-25 01:30:40.996,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Voimalaitos:FI432,5010488,Suur-Savon Sähkö Oy,1,Details
+EU518608,10-36,2019-04-25 01:30:40.986,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,NLI Jalostamo Päästötili:FI74,5010857,Neste Oyj,164258,Details
+EU518607,10-36,2019-04-25 01:30:40.984,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Tervasaari:FI457,5010513,UPM-Kymmene Oyj,125362,Details
+EU518606,10-36,2019-04-25 01:30:40.949,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Kaukas:FI454,5010510,UPM-Kymmene Oyj,72666,Details
+EU518605,10-36,2019-04-25 01:30:40.947,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Lk 307 Uusikaupunki,5024754,Adven Oy,11717,Details
+EU518604,10-36,2019-04-25 01:30:40.928,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Relanderinkadun lk pkt:FI498,5010554,Varkauden Aluelämpö Oy,56,Details
+EU518602,10-36,2019-04-25 01:30:40.892,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,PKT Enocell:FI33,5010816,Stora Enso Oyj,14731,Details
+EU518588,10-36,2019-04-25 01:30:40.888,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Poland,100,Zakład Produkcyjny 5 Wieczorek,5003575,Dalkia Polska Energia S.A.,2531,Details
+EU518601,10-36,2019-04-25 01:30:40.884,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Mukkula:FI238,5011021,Lahti Energia Oy,2109,Details
+EU518586,10-36,2019-04-25 01:30:40.88,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Poland,100,PGE Energia Ciepła S.A. Oddział Elektrociepłownia Gorzów,5003439,PGE Energia Ciepła S.A.,72830,Details
+EU518603,10-36,2019-04-25 01:30:40.875,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Kattelus:FI362,5010418,Oy Turku Energia Åbo Energi Ab,3,Details
+EU518589,10-36,2019-04-25 01:30:40.873,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,"LK 118, Kirkkonummi:FI64",5010847,Fortum Power and Heat Oy,493,Details
+EU518600,10-36,2019-04-25 01:30:40.856,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Ahtiala:FI228,5011011,Lahti Energia Oy,282,Details
+EU518587,10-36,2019-04-25 01:30:40.855,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Poland,100,PGE GiEK S.A. Oddział Elektrownia Opole,5003253,PGE Górnictwo i Energetyka Konwencjonalna S.A.,1414640,Details

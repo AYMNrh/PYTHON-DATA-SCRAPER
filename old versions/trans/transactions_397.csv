@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU511931,10-0,2019-04-15 12:00:26.741,Completed,Germany,100,Axpo Solutions AG,5017149,AXPO Solutions AG,Hungary,100,GlobalNRG,5027802,Global NRG Zrt,10000,Details
+EU513144,10-2,2019-04-15 12:00:23.207,Completed,Finland,100,Östanpå T1:FI136,5010919,Oy Herrfors Ab,European Commission,100,EU Allowance deletion,5016380,European Commission,72,Details
+EU513022,10-0,2019-04-15 12:00:05.481,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,574500,Details
+EU513121,10-2,2019-04-15 11:59:54.105,Completed,Spain,100,"Plastiverd, Pet Reciclado, S.A.",5009910,"Plastiverd, Pet Reciclado, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,51186,Details
+EU513093,10-2,2019-04-15 11:59:44.267,Completed,Germany,100,EL Essen,5018772,TRIMET Aluminium SE,European Commission,100,EU Allowance deletion,5016380,European Commission,258829,Details
+EU513168,10-72,2019-04-15 11:59:31.042,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,Gießerei Essen,5018773,TRIMET Aluminium SE,1665,Details
+EU513019,10-0,2019-04-15 11:59:00.534,Completed,Germany,100,Uniper Global Commodities SE,5016943,Uniper Global Commodities SE,Hungary,100,Gönyűi Erőmű,5011910,Uniper Hungary Kft.,845676,Details
+EU513103,10-71,2019-04-15 11:58:14.919,Completed,Germany,100,Gießerei Essen,5018773,TRIMET Aluminium SE,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,1665,Details
+EU513161,10-72,2019-04-15 11:58:05.564,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,EL Hamburg,5018774,TRIMET Aluminium SE,11353,Details
+EU512822,10-2,2019-04-15 11:57:16.413,Completed,Romania,100,Societatea ELECTROCENTRALE CONSTANTA SA,5010062,ELECTROCENTRALE BUCURESTI S.A,European Commission,100,EU Allowance deletion,5016380,European Commission,168265,Details
+EU513105,10-71,2019-04-15 11:56:43.554,Completed,Germany,100,EL Hamburg,5018774,TRIMET Aluminium SE,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,11353,Details
+EU512887,10-2,2019-04-15 11:56:41.535,Completed,Italy,100,PONTENOSSA,5021900,Pontenossa s.p.a.,European Commission,100,EU Allowance deletion,5016380,European Commission,72023,Details
+EU513154,10-72,2019-04-15 11:56:12.531,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,Anoden Hamburg,5018776,TRIMET Aluminium SE,1624,Details
+EU513140,10-2,2019-04-15 11:55:47.998,Completed,Poland,100,CIEPŁOWNIA FUB,5003744,Miejska Energetyka Cieplna,European Commission,100,EU Allowance deletion,5016380,European Commission,65874,Details
+EU513129,10-2,2019-04-15 11:55:35.807,Completed,Germany,100,1381 - Anlagenkonto,5014724,Südwestdeutsche Salzwerke Aktiengesellschaft,European Commission,100,EU Allowance deletion,5016380,European Commission,24296,Details
+EU513111,10-71,2019-04-15 11:54:47.224,Completed,Germany,100,Anoden Hamburg,5018776,TRIMET Aluminium SE,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,1624,Details
+EU513112,10-2,2019-04-15 11:53:49.39,Completed,Greece,100,AGETHRAVOL,5002327,ΑΓΕΤ ΗΡΑΚΛΗΣ,European Commission,100,EU Allowance deletion,5016380,European Commission,1265738,Details
+EU513146,10-72,2019-04-15 11:53:35.78,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,EL Voerde,5022255,TRIMET Aluminium SE,6698,Details
+EU510926,10-2,2019-04-15 11:53:26.334,Completed,Sweden,100,KVV Nynäshamn,5002282,Värmevärden i Nynäshamn AB,European Commission,100,EU Allowance deletion,5016380,European Commission,3353,Details
+EU510927,10-2,2019-04-15 11:52:22.493,Completed,Sweden,100,Notnäs,5002278,Värmevärden AB,European Commission,100,EU Allowance deletion,5016380,European Commission,436,Details

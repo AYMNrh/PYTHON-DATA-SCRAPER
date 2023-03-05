@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU503118,10-0,2019-03-29 15:50:06.54,Completed,United Kingdom,100,ED&F Man Capital Markets Ltd,5023256,E D & F MAN CAPITAL MARKETS LIMITED,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,50000,Details
+EU503086,10-2,2019-03-29 15:49:48.276,Completed,France,100,ALLARD EMBALLAGES,5005752,ALLARD EMBALLAGES,European Commission,100,EU Allowance deletion,5016380,European Commission,12,Details
+EU502981,10-2,2019-03-29 15:49:35.039,Completed,Germany,100,Euskirchen,5014458,Pfeifer & Langen GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,88667,Details
+EU502982,10-2,2019-03-29 15:48:20.226,Completed,Germany,100,Lage,5014466,Pfeifer & Langen GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,45700,Details
+EU503116,10-0,2019-03-29 15:45:15.019,Completed,United Kingdom,100,Litasco trading UK,5017260,LITASCO SA,Italy,100,Operator Account,5012681,ISAB S.r.l.,1000000,Details
+EU503109,10-0,2019-03-29 15:42:31.051,Completed,United Kingdom,100,UBS AG,5027651,UBS AG,Germany,100,Bayern LB,5016942,Bayerische Landesbank,650000,Details
+EU502242,10-0,2019-03-29 15:41:42.303,Completed,Austria,100,Kraftwerk Timelkam II,5004064,Energie AG Oberösterreich Erzeugung GmbH,Austria,100,Energie AG OÖ HKW Kirchdorf,5004061,Energie AG Oberösterreich Erzeugung GmbH,12091,Details
+EU503096,10-0,2019-03-29 15:40:14.895,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Ireland,100,Operator Account,5011960,Lakeland Dairies Co-operative Society Limited,8000,Details
+EU502983,10-2,2019-03-29 15:39:05.901,Completed,Germany,100,Appeldorn,5014488,Pfeifer & Langen GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,45114,Details
+EU502985,10-2,2019-03-29 15:37:40.847,Completed,Germany,100,Könnern,5014519,Pfeifer & Langen GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,109999,Details
+EU503100,10-0,2019-03-29 15:37:38.983,Completed,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,Czech Republic,100,"ČEZ, a.s. - obchodní účet",5016960,"ČEZ, a. s.",5000,Details
+EU501181,10-2,2019-03-29 15:36:50.044,Completed,Germany,100,V&B Fliesen GmbH,5021418,V & B Fliesen GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,25275,Details
+EU503102,10-0,2019-03-29 15:36:08.92,Completed,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,11000,Details
+FI92781,3-0,2019-03-29 15:34:02.365,Completed,Finland,120,Raahen terästehdas:FI373,373,SSAB Europe Oy,Finland,100,Raahen terästehdas:FI373,5010429,SSAB Europe Oy,339,Details
+EU503094,10-2,2019-03-29 15:33:19.184,Completed,United Kingdom,100,Sixt GMBH,5027963,SIXT GMBH & CO AUTOVERMIETUNG KG,European Commission,100,EU Allowance deletion,5016380,European Commission,412,Details
+EU503041,10-2,2019-03-29 15:30:01.424,Completed,France,100,QUOTA GES PEL CHAMPBLAIN,5005255,SAICA PAPER FRANCE,European Commission,100,EU Allowance deletion,5016380,European Commission,118504,Details
+EU503097,10-0,2019-03-29 15:29:48.941,Completed,Italy,100,ENEL TRADE ITALIA,5016899,Enel Global Trading S.p.A.,Italy,100,Operator Account,5013451,ENEL PRODUZIONE S.p.A.,9000,Details
+EU501051,10-2,2019-03-29 15:29:34.293,Completed,Sweden,100,Gjutarens panncentral,5002226,Alingsås Energi Nät AB,European Commission,100,EU Allowance deletion,5016380,European Commission,16,Details
+EU503048,10-2,2019-03-29 15:26:57.218,Completed,France,100,QUOTA GES PAPETERIES DE CHAMPAGNE,5005786,SAICA PAPER FRANCE,European Commission,100,EU Allowance deletion,5016380,European Commission,56655,Details
+EU502144,10-0,2019-03-29 15:26:55.944,Completed,Netherlands,100,"Air Products Nederland B.V., Locatie Botlek (Merseyweg)",5011355,Air Products Nederland B.V.,Netherlands,100,"Air Products Nederland B.V., Locatie Botlek (Botlekweg)",5019565,Air Products Nederland B.V.,33761,Details

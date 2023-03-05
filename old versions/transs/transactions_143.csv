@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU517250,10-2,2019-04-24 13:17:44.523,Completed,Czech Republic,100,Balsac papermill s.r.o. - Lukavice,5007070,Balsac papermill s.r.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,8251,Details
+EU518028,10-0,2019-04-24 13:17:20.525,Completed,Estonia,100,Eesti Energia Trading Account,5016951,Eesti Energia AS,Estonia,100,Auvere konto,5023928,Enefit Power AS,1463537,Details
+EU517628,10-2,2019-04-24 13:16:08.698,Completed,Netherlands,100,KLM Engineering & Maintenance Schiphol Oost,5011638,Koninklijke Luchtvaart Maatschappij N.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,13082,Details
+EU518033,10-0,2019-04-24 13:16:01.59,Completed,Estonia,100,Eesti Energia Trading Account,5016951,Eesti Energia AS,Estonia,100,Auvere konto,5023928,Enefit Power AS,55471,Details
+EU518015,10-2,2019-04-24 13:15:17.062,Completed,Portugal,100,"254-Preceram - Indústrias de Construção, SA",5003036,"Preceram - Indústrias de Construção, SA",European Commission,100,EU Allowance deletion,5016380,European Commission,9329,Details
+EU505456,10-2,2019-04-24 13:14:16.416,Completed,Germany,100,959 - Anlagenkonto,5014068,DSM Nutritional Products GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,110216,Details
+EU518022,10-2,2019-04-24 13:13:13.925,Completed,Portugal,100,"Argex - Argila Expandida, SA",5021774,"Argex - Argila Expandida, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,26442,Details
+EU516671,10-0,2019-04-24 13:12:23.752,Completed,Denmark,100,Neas Energy A/S,5020307,Centrica Energy Trading A/S,Denmark,100,Feldborg Energy ApS,5006157,FELDBORG ENERGY ApS,10750,Details
+EU518034,10-0,2019-04-24 13:10:30.562,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Cyprus,100,TUS Airways Ltd,5027281,Tus Airways Ltd,7038,Details
+EU518046,10-2,2019-04-24 13:10:28.714,Completed,Portugal,100,"Gyptec Ibérica - Gessos Técnicos, S.A.",5021775,"Gyptec Ibérica - Gessos Técnicos, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,16543,Details
+EU518040,10-2,2019-04-24 13:10:12.988,Completed,Greece,100,MEBGAL,5021283,ΜΕΒΓΑΛ,European Commission,100,EU Allowance deletion,5016380,European Commission,6852,Details
+EU518037,10-2,2019-04-24 13:10:05.152,Completed,Poland,100,PGE GiEK S.A. Oddział w Rybniku,5003274,PGE Górnictwo i Energetyka Konwencjonalna S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,5249573,Details
+EU518058,10-72,2019-04-24 13:08:48.099,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Greece,100,MEBGAL,5021283,ΜΕΒΓΑΛ,322,Details
+EU518023,10-0,2019-04-24 13:08:06.864,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Greece,100,ELLINAIR S.A.,5022838,ELLINAIR S.A.,3000,Details
+EU516407,10-71,2019-04-24 13:07:50.446,Completed,Greece,100,MEBGAL,5021283,ΜΕΒΓΑΛ,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,322,Details
+EU516741,10-0,2019-04-24 13:07:49.612,Completed,Slovenia,100,Lek farmacevtska družba d.d.,5023164,"LEK, D.D.",Slovenia,100,NAHA for account [1],5008619,Agencija Republike Slovenije za okolje,2796,Details
+EU518043,10-0,2019-04-24 13:06:39.827,Completed,Netherlands,100,FUTURES CLIENT TRADING ACCOUNT,5027936,Macquarie Bank Limited,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,174000,Details
+EU518027,10-0,2019-04-24 13:05:22.007,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Italy,100,Mistral Air,5016430,Poste Air Cargo Srl,1864,Details
+EU517811,10-0,2019-04-24 13:04:53.802,Completed,Netherlands,100,FUTURES CLIENT TRADING ACCOUNT,5027936,Macquarie Bank Limited,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,59000,Details
+EU517929,10-2,2019-04-24 13:04:07.614,Completed,France,100,CPTE CARTONNERIE OUDIN,5005713,CARTONNERIE OUDIN,European Commission,100,EU Allowance deletion,5016380,European Commission,8223,Details

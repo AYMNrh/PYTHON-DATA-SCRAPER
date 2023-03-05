@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU486907,10-2,2019-02-26 13:20:25.319,Completed,United Kingdom,100,,5000703,,European Commission,100,EU Allowance deletion,5016380,European Commission,6401,Details
+EU489993,10-0,2019-02-26 13:19:10.678,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Poland,100,Elektrociepłownia PCC Rokita SA,5002783,PCC Rokita SA,1000,Details
+EU489864,10-0,2019-02-26 13:18:18.65,Completed,Denmark,100,Danske Commodities A/S,5017234,Danske Commodities A/S,Denmark,100,Nordjyllandsværket,5006367,Nordjyllandsværket A/S,141000,Details
+EU490037,10-0,2019-02-26 13:17:48.43,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Greece,100,ELPETR,5017669,ΕΛΛΗΝΙΚΑ ΠΕΤΡΕΛΑΙΑ  Δ.Ε.Π.Π.Π. Α.Ε.,50000,Details
+EU489989,10-0,2019-02-26 13:17:39.232,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,United Kingdom,100,Inbev Magor,5007893,AB INBEV UK LIMITED,6132,Details
+EU489848,10-0,2019-02-26 13:17:23.698,Completed,Denmark,100,Danske Commodities A/S,5017234,Danske Commodities A/S,Denmark,100,Nordjyllandsværket,5006367,Nordjyllandsværket A/S,37000,Details
+EU489987,10-0,2019-02-26 13:16:15.153,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,United Kingdom,100,Inbev UK,5007892,AB INBEV UK LIMITED,15000,Details
+EU489986,10-0,2019-02-26 13:14:37.317,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,United Kingdom,100,Inbev Magor,5007893,AB INBEV UK LIMITED,15668,Details
+EU488090,10-0,2019-02-26 13:11:46.225,Completed,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,United Kingdom,100,RAF Brize Norton,5008334,Ministry of Defence,6500,Details
+EU487793,10-0,2019-02-26 13:11:03.852,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,United Kingdom,100,Wyman Gordon Livingston,5021831,Wyman-Gordon Limited,5709,Details
+EU488089,10-0,2019-02-26 13:10:44.185,Completed,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,Belgium,100,04369.CAL CARGO AIRLINES,5019028,CAL CARGO AIRLINES,2480,Details
+EU488093,10-0,2019-02-26 13:08:57.924,Completed,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,Belgium,100,04369.CAL CARGO AIRLINES,5019028,CAL CARGO AIRLINES,237,Details
+EU487795,10-0,2019-02-26 13:07:36.113,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,United Kingdom,100,Gateshead Energy Company,5025760,GATESHEAD ENERGY COMPANY LIMITED,6542,Details
+EU488072,10-0,2019-02-26 13:03:29.419,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Bulgaria,100,OGNYANOVO K  AD  - ZNHV Puklina,5016165,"OGNYANOVO K AD  ,ZNHV Puklina",3000,Details
+EU490010,10-0,2019-02-26 13:03:03.893,Completed,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,Italy,100,Operator Account,5013167,Lucchini Industries S.r.l.,1000,Details
+EU490038,10-0,2019-02-26 12:59:10.222,Completed,United Kingdom,100,Hurley Palmer Flatt,5020323,Hurley Palmer Flatt Ltd,Spain,100,"COLT TECHNOLOGY SERVICES, S.A.U.",5024824,"COLT TECHNOLOGY SERVICES, S.A.U.",82,Details
+EU490014,10-0,2019-02-26 12:58:13.88,Completed,United Kingdom,100,Toronto Branch - Exchange EUA - Trading,5017086,RBC Europe Limited,United Kingdom,100,Ninian Central,5008556,CNR International (UK) Limited,20000,Details
+EU490009,10-0,2019-02-26 12:57:56.167,Completed,Spain,100,"COMPAÑÍA ESPAÑOLA DE PETROLEOS, S.A.U.",5017896,"Compañía Española de Petróleos, S.A.",United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,20000,Details
+EU489948,10-0,2019-02-26 12:56:52.038,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Belgium,100,1284 BASF Antwerpen - 127e,5020272,B.A.S.F. Antwerpen,3934,Details
+EU490003,10-2,2019-02-26 12:55:40.737,Completed,United Kingdom,100,Zenium UK Ltd,5027414,Zenium UK Ltd,European Commission,100,EU Allowance deletion,5016380,European Commission,1,Details

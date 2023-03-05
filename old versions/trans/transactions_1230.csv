@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU493196,10-0,2019-03-06 12:09:22.001,Completed,Romania,100,Operator Account,5010077,EXPUR SA,Romania,100,TDR Energy SRL,5024160,TDR Energy SRL,16000,Details
+EU490701,10-0,2019-03-06 12:09:06.782,Completed,Poland,100,Kotłownia zakładowa,5003129,Bunge Polska Sp.z o.o.,Poland,100,Kotłownia zakładowa,5002872,Bunge Polska Sp.z o.o.,20000,Details
+EU490179,10-0,2019-03-06 12:08:32.562,Completed,France,100,CORSAIR,5000347,CORSAIR,United Kingdom,100,First Choice Holidays Finance ltd,5008420,First Choice Holidays Finance ltd,110000,Details
+EU493504,10-0,2019-03-06 12:08:31.105,Completed,Spain,100,"Global Factor Commodity Trading, S.A.U.",5016901,"Global Factor Commodity Trading, S.A.U.",Italy,100,Grottaglie,5012970,Leonardo S.p.A.,1000,Details
+EU494707,10-0,2019-03-06 12:08:15.137,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Italy,100,CONTO SCAMBIO IEN,5024606,Iren Energia S.p.A.,14000,Details
+EU494287,10-0,2019-03-06 12:08:05.701,Completed,Italy,100,Ring mill Spa,5020245,RING MILL S.P.A.,Italy,100,Operator Account,5012444,Rubiera Special Steel SpA,17000,Details
+EU493264,10-0,2019-03-06 12:08:05.701,Completed,United Kingdom,100,OI Europe CO2 Trading,5007373,OI Europe Sarl,United Kingdom,100,O-I Alloa Trading,5007647,O-I Glass Limited,65762,Details
+EU493266,10-0,2019-03-06 12:08:02.723,Completed,United Kingdom,100,OI Europe CO2 Trading,5007373,OI Europe Sarl,Italy,100,San Polo,5012728,O-I Italy S.p.A.,39200,Details
+EU493561,10-0,2019-03-06 12:07:55.954,Completed,Germany,100,Emissionshändler.com GEMB mbH,5019435,GEMB Gesellschaft für Emissionsmanagement und Beratung mbH,Germany,100,N3EOS-TEHG,5020939,N3 Engine Overhaul Services GmbH & Co. KG,322,Details
+EU493496,10-0,2019-03-06 12:07:27.953,Completed,Sweden,100,Värmeverket KSS-Ryd,5002056,Skövde Energi AB,Sweden,100,Värmecentralen P4,5002044,Skövde Energi AB,99,Details
+EU493318,10-0,2019-03-06 12:07:26.654,Completed,Ireland,100,ESB Moneypoint Generating Station Operator Account,5011985,Electricity Supply Board,Ireland,100,ESB Lough Ree Power Operator Account,5011983,Electricity Supply Board,18343,Details
+EU493539,10-0,2019-03-06 12:07:24.148,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,50000,Details
+EU493319,10-0,2019-03-06 12:07:14.283,Completed,Ireland,100,ESB Moneypoint Generating Station Operator Account,5011985,Electricity Supply Board,Ireland,100,ESB Lough Ree Power Operator Account,5011983,Electricity Supply Board,17145,Details
+EU493527,10-0,2019-03-06 12:07:09.438,Completed,United Kingdom,100,Gas Turbines,5007825,Imerys Minerals Limited,United Kingdom,100,Parkandillick China Clay Calcining Plant,5007829,Imerys Minerals Limited,5337,Details
+EU494274,10-0,2019-03-06 12:07:08.672,Completed,United Kingdom,100,Operator Account,5008618,SembCorp Utilities (UK) Limited,United Kingdom,100,Macquarie Bank Limited (EUA),5017114,Macquarie Bank Limited,320000,Details
+EU494762,10-0,2019-03-06 12:07:05.462,Completed,United Kingdom,100,Gazprom Marketing & Trading (TRADING ACCOUNT),5017318,Gazprom Marketing & Trading Limited,United Kingdom,100,Gazprom Marketing & Trading Retail (Trading Account),5017319,Gazprom Marketing & Trading Retail Ltd,11362,Details
+EU494302,10-0,2019-03-06 12:07:01.21,Completed,United Kingdom,100,A2A S.p.A.,5026060,A2A S.P.A.,Italy,100,Mincio,5012945,A2A GENCOGAS S.P.A.,5000,Details
+EU493467,10-0,2019-03-06 12:07:01.204,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Belgium,100,258 Milcobel Dairy - Ysco Langemark,5004668,Milcobel Dairy,6667,Details
+EU493486,10-0,2019-03-06 12:06:54.244,Completed,United Kingdom,100,Quinn Glass Elton,5007232,Encirc Limited,Spain,100,"Aiala Vidrio, S.A",5009491,"Aiala Vidrio, SA",7407,Details
+EU494272,10-0,2019-03-06 12:06:43.187,Completed,Italy,100,Operator Account,5012573,HOLCIM (ITALIA) SPA,United Kingdom,100,HBEL - ITA,5024082,Holcibel S.A.,542370,Details

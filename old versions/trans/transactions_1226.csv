@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU494863,10-2,2019-03-06 14:22:01.713,Completed,United Kingdom,100,Sage,5008597,Ancala Midstream Acquisitions Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,100485,Details
+EU494859,10-0,2019-03-06 14:20:28.469,Completed,United Kingdom,100,SSE Energy Supply Limited,5023336,SSE Energy Supply Limited,United Kingdom,100,Burghfield Power Station,5008571,SSEPG (OPERATIONS) LIMITED,6291,Details
+EU494448,10-0,2019-03-06 14:17:16.696,Completed,Czech Republic,100,Teplárna Kyjov - Paroplynová kogenerační j.,5006920,"Teplárna Kyjov, a.s.",Czech Republic,100,LAMA,5020068,LAMA energy a.s.,1750,Details
+EU494447,10-0,2019-03-06 14:13:35.663,Completed,Romania,100,S.C. Rompetrol Rafinare S.A. - punct de lucru Petromidia,5010132,S.C. ROMPETROL RAFINARE S.A.,Romania,100,S.C. ROMPETROL ENERGY S.A.,5010186,ROMPETROL ENERGY SA,108441,Details
+FI92780,3-0,2019-03-06 14:10:48.197,Completed,Finland,121,PCF-tili:FI769,769,Fortum Oyj,Finland,100,Trading 1,5023516,Fortum Power and Heat Oy,12362,Details
+EU494875,10-0,2019-03-06 14:05:06.155,Completed,Germany,100,SWU Energie GmbH,5020207,SWU Energie GmbH,Germany,100,Anlagenkonto TKL GmbH & Co. KG,5013872,Trianel Kohlekraftwerk Lünen GmbH & Co. KG,13800,Details
+EU494871,10-0,2019-03-06 14:05:02.233,Completed,United Kingdom,100,ETS AERO LTD,5017616,ETS AERO LTD,United Kingdom,100,,5000718,,972,Details
+EU494445,10-0,2019-03-06 14:04:58.959,Completed,Italy,100,Operator Account,5012817,CALCISERNIA S.P.A.,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,5000,Details
+EU494618,10-2,2019-03-06 14:00:23.871,Completed,United Kingdom,100,Operator Account,5007888,Manchester Airport PLC,European Commission,100,EU Allowance deletion,5016380,European Commission,6888,Details
+EU494444,10-0,2019-03-06 13:57:09.328,Completed,Denmark,100,SKVV,5006541,Silkeborg Varme A/S,Denmark,100,Kejlstrupvej 38,5006507,Silkeborg Varme A/S,3206,Details
+EU494785,10-2,2019-03-06 13:56:50.9,Completed,Germany,100,James Hardie Europe GmbH,5021617,James Hardie Europe GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,18235,Details
+EU494440,10-0,2019-03-06 13:54:12.963,Completed,Denmark,100,SKVV,5006541,Silkeborg Varme A/S,Denmark,100,Hostrupsgade 45,5006506,Silkeborg Varme A/S,1072,Details
+EU494851,10-0,2019-03-06 13:53:23.022,Completed,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,40000,Details
+EU494858,3-0,2019-03-06 13:52:10.843,Completed,United Kingdom,100,Numerco Limited,5025480,Numerco Limited,Sweden,121,Atmoz Consulting AB,890,Atmoz Consulting AB,1085,Details
+EU494854,10-0,2019-03-06 13:52:01.353,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,United Kingdom,100,Blue Islands Limited,5027214,Blue Islands Limited,131,Details
+EU494853,10-0,2019-03-06 13:50:24.881,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,United Kingdom,100,ETS AERO LTD,5017616,ETS AERO LTD,1000,Details
+EU494431,10-0,2019-03-06 13:45:39.723,Completed,Spain,100,"Ferraes Cerámica, S.A.",5018686,"Ferraes Cerámica, S.A.",Spain,100,Wind to Market SA,5017211,"WIND TO MARKET, S.A.",334,Details
+EU494430,10-0,2019-03-06 13:45:05.368,Completed,United Kingdom,100,Veolia DE,5007530,Veolia ES Sheffield Limited,United Kingdom,100,Sonoco CHP Plant,5007679,Veolia Energy Cleanpower One UK Ltd,4348,Details
+EU494427,10-0,2019-03-06 13:44:29.098,Completed,United Kingdom,100,South Ferriby Works,5007328,Cemex UK Cement Limited,United Kingdom,100,Rugby Works,5007322,Cemex UK Cement Limited,69523,Details
+EU494846,10-0,2019-03-06 13:41:15.409,Completed,Spain,100,"COMPAÑÍA ESPAÑOLA DE PETROLEOS, S.A.U.",5017896,"Compañía Española de Petróleos, S.A.",United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,40000,Details

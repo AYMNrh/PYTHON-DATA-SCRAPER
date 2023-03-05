@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU479882,10-0,2019-01-03 12:24:56.332,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Czech Republic,100,"ČEZ, a.s. - obchodní účet",5016960,"ČEZ, a. s.",4000000,Details
+EU479883,10-0,2019-01-03 12:18:27.592,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,2000000,Details
+EU479813,10-0,2019-01-03 12:16:33.546,Completed,Germany,100,eins energie in sachsen GmbH & Co. KG,5015652,eins energie in sachsen GmbH & Co. KG,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,300000,Details
+EU479863,10-0,2019-01-03 12:13:34.606,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,France,100,FERROPEM Usine de Laudun,5021802,FERROPEM,15000,Details
+EU479912,10-0,2019-01-03 12:11:50.089,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,7000,Details
+EU479909,10-0,2019-01-03 12:10:51.471,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,30000,Details
+EU479898,10-37,2019-01-03 12:10:37.259,Completed,European Commission,100,EU AUCTION ACCOUNT,5016932,EUROPEAN UNION,Germany,100,ECC AG Auction Delivery Account EU,5016991,European Commodity Clearing AG,2495000,Details
+EU479794,10-0,2019-01-03 12:10:08.849,Completed,United Kingdom,100,Operator Account,5007135,UPM-Kymmene (UK) Limited,Finland,100,UPM CO2 exchange trading,5017691,UPM-Kymmene Oyj,66000,Details
+EU479798,10-0,2019-01-03 12:10:01.933,Completed,Denmark,100,ØRSTED Salg & Service,5006291,ØRSTED Salg & Service A/S,Denmark,100,"Trading Account 2 , CER reserved for EEX, instant transfer",5006276,ØRSTED Salg & Service A/S,35000,Details
+EU479785,10-0,2019-01-03 12:08:48.352,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,25000,Details
+EU479780,10-0,2019-01-03 12:08:27.505,Completed,Portugal,100,Sugal - Benavente,5002577,"SUGAL - Alimentos, S.A.",Portugal,100,"259-SUGAL - Alimentos, S.A.",5003109,"SUGAL - Alimentos, S.A.",20000,Details
+EU479783,10-0,2019-01-03 12:08:03.853,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,25000,Details
+EU479786,10-0,2019-01-03 12:05:19.716,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,25000,Details
+EU479808,10-0,2019-01-03 12:04:50.434,Completed,Italy,100,Operator Account,5012570,TINTORIA CRESPI GIOVANNI & C.  S.R.L.,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,1000,Details
+EU479905,10-0,2019-01-03 12:03:06.154,Completed,Greece,100,CAOHELLAS,5023179,CaO HELLAS ΜΑΚΕΔΟΝΙΚΗ ΑΒΕΕ,Greece,100,IPPC S.A.,5016925,ΕΥΣΤΑΘΙΟΣ ΚΟΥΡΝΙΩΤΗΣ,3000,Details
+EU479793,10-0,2019-01-03 12:02:25.718,Completed,United Kingdom,100,Operator Account,5007132,SHOTTON MILL LIMITED,Finland,100,UPM CO2 exchange trading,5017691,UPM-Kymmene Oyj,50000,Details
+EU479804,10-0,2019-01-03 12:00:48.669,Completed,Slovakia,100,"RONA, a. s.",5003191,"RONA, a. s.",Slovakia,100,"PETUM, s.r.o.",5003555,PETUM s.r.o.,3000,Details
+EU479904,10-0,2019-01-03 11:36:21.756,Completed,United Kingdom,100,BNP PARIBAS COMMODITY FUTURES LTD,5017675,BNP Paribas Commodity Futures Limited,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,2068000,Details
+EU479900,10-0,2019-01-03 11:31:01.255,Completed,United Kingdom,100,Toronto Branch - Exchange EUA - Trading,5017086,RBC Europe Limited,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,470000,Details
+EU479887,10-0,2019-01-03 11:18:51.083,Completed,Germany,100,Bayern LB,5016942,Bayerische Landesbank,Netherlands,100,KLM trading account,5020977,Koninklijke Luchtvaart Maatschappij N.V.,150000,Details

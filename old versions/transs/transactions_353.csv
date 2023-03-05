@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU513886,10-36,2019-04-16 01:31:01.666,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,PC Iggesund,5001783,Värmevärden AB,45,Details
+EU513883,10-36,2019-04-16 01:31:01.631,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Rya Kraftvärmeverk,5002013,Göteborg Energi AB,43848,Details
+EU513881,10-36,2019-04-16 01:31:01.535,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Carlsborg HVC,5001584,Gävle Kraftvärme AB,77,Details
+EU513869,10-36,2019-04-16 01:31:01.151,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,Cerámica Nulense,5009717,"Cerámica Nulense, S.A.",127977,Details
+EU513875,10-36,2019-04-16 01:31:00.965,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Bergsåkersverket,5002108,Sundsvall Energi AB,14,Details
+EU513882,10-36,2019-04-16 01:31:00.789,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,LAMBOHOV HVC (HVC 60),5002213,Tekniska Verken i Linköping AB,455,Details
+EU513878,10-36,2019-04-16 01:31:00.788,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Gunnarstorpsvägen,5001625,Nevel AB,36,Details
+EU513867,10-36,2019-04-16 01:31:00.721,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Belgium,100,389 Advario Gas Terminal,5022319,Advario Gas Terminal,73,Details
+EU513862,10-36,2019-04-16 01:31:00.707,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Blomgatan,5001637,Vimmerby Energi & Miljö AB,7,Details
+EU513868,10-36,2019-04-16 01:31:00.63,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,HVC Regementet,5001644,Falu Energi & Vatten AB,2657,Details
+EU513803,10-36,2019-04-16 01:31:00.611,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Romania,100,S.C. CET GRIVITA S.R.L.,5010027,S.C. CET GRIVITA S.R.L.,1693,Details
+EU513864,10-36,2019-04-16 01:31:00.504,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Pc Långa Raden,5001456,Värnamo Energi AB,180,Details
+EU513848,10-36,2019-04-16 01:31:00.49,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Norsaverket HVC,5002205,Västra Mälardalens Energi och Miljö AB,2764,Details
+EU513872,10-36,2019-04-16 01:31:00.345,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Energías Alternativas Murcianas, S.A.",5027200,"Energías Alternativas Murcianas, S.A.",14730,Details
+EU513801,10-36,2019-04-16 01:31:00.148,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,Baldocer S.A. (Planta 3),5027062,"Baldocer, S.A.",7516,Details
+EU513874,10-36,2019-04-16 01:31:00.13,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Renault España,S.A-Factoría Villamuriel de Cerrato",5009518,"RENAULT ESPAÑA, S.A.",41599,Details
+EU513876,10-36,2019-04-16 01:31:00.108,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Södra Cell Mörrum,5001464,Södra Skogsägarna ekonomisk förening,42405,Details
+EU513865,10-36,2019-04-16 01:31:00.089,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,ScanDust AB,5001453,Befesa ScanDust AB,34113,Details
+EU513877,10-36,2019-04-16 01:31:00.087,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,Smalticeram España S.A.,5009632,"Smalticeram España, S.A.",3977,Details
+EU513842,10-36,2019-04-16 01:31:00.059,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Romania,100,Operator Account,5010041,S Complexul Energetic Oltenia SA,808645,Details

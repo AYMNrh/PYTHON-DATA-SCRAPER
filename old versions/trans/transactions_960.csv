@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU500765,10-2,2019-03-26 09:34:36.472,Completed,Latvia,100,Operator Account:LV112,5012172,"A/S ""Valmieras Energija"" Dzelzcela iela 7",European Commission,100,EU Allowance deletion,5016380,European Commission,1035,Details
+EU500757,10-2,2019-03-26 09:33:15.79,Completed,Latvia,100,Operator Account:LV111,5012171,"A/S ""Valmieras Energija"" Rigas iela 25",European Commission,100,EU Allowance deletion,5016380,European Commission,10883,Details
+EU500750,10-2,2019-03-26 09:31:38.254,Completed,Latvia,100,OHA:LV41,5012108,"SIA „Adven Latvia""",European Commission,100,EU Allowance deletion,5016380,European Commission,1355,Details
+EU500436,10-2,2019-03-26 09:20:05.363,Completed,Spain,100,"Lucart Tissue & Soap, S.L.U.",5009673,"Lucart Tissue & Soap, S.L.U.",European Commission,100,EU Allowance deletion,5016380,European Commission,16672,Details
+EU500742,10-2,2019-03-26 09:14:31.818,Completed,Germany,100,TOKAI ERFTCARBON GmbH,5020556,TOKAI ERFTCARBON GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,55000,Details
+EU500733,10-2,2019-03-26 09:11:20.322,Completed,Czech Republic,100,innogy Energo - Teplárna Králův Dvůr,5006787,"innogy Energo, s.r.o.",European Commission,100,EU Allowance deletion,5016380,European Commission,8112,Details
+EU500728,10-2,2019-03-26 09:05:21.951,Completed,Czech Republic,100,innogy Energo - Teplárna Náchod,5006786,"innogy Energo, s.r.o.",European Commission,100,EU Allowance deletion,5016380,European Commission,27440,Details
+EU500207,10-2,2019-03-26 09:00:42.379,Completed,Germany,100,1059 - Anlagenkonto,5014267,C.& A. Veltins GmbH & Co.KG,European Commission,100,EU Allowance deletion,5016380,European Commission,10726,Details
+EU500725,10-2,2019-03-26 08:59:21.62,Completed,Italy,100,SEM,5012953,Società Elettrica in Morbegno c.p.a.,European Commission,100,EU Allowance deletion,5016380,European Commission,16782,Details
+EU500730,10-2,2019-03-26 08:59:04.636,Completed,Italy,100,Refin,5018646,Ceramiche Refin S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,28625,Details
+EU500697,10-2,2019-03-26 08:58:33.872,Completed,Denmark,100,Skanderborg-Hørning Fjernvarme,5006328,Skanderborg-Hørning Fjernvarme,European Commission,100,EU Allowance deletion,5016380,European Commission,2736,Details
+EU500710,10-2,2019-03-26 08:58:22.75,Completed,Italy,100,Keope,5018636,Ceramiche Atlas Concorde S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,40248,Details
+EU500716,10-2,2019-03-26 08:57:53.948,Completed,Italy,100,Operator Account,5012653,VEBAD S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,56989,Details
+EU500714,10-2,2019-03-26 08:57:09.671,Completed,Italy,100,Caesar,5018638,Ceramiche Caesar S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,42015,Details
+EU500729,10-2,2019-03-26 08:56:27.495,Completed,Italy,100,Mirage,5018644,Mirage Granito Ceramico S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,58972,Details
+EU500601,10-2,2019-03-26 08:55:40.025,Completed,Germany,100,667 - Anlagenkonto,5014156,Evonik Superabsorber GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,66582,Details
+EU500727,10-2,2019-03-26 08:55:33.922,Completed,Italy,100,Meta,5018642,Meta S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,31357,Details
+EU500720,10-2,2019-03-26 08:54:36.449,Completed,Italy,100,Fap,5018639,Ceramiche Caesar S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,12004,Details
+EU500724,10-2,2019-03-26 08:53:50.292,Completed,Italy,100,AtlasConcorde,5018462,Ceramiche Atlas Concorde S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,56795,Details
+EU500726,10-2,2019-03-26 08:52:50.037,Completed,Italy,100,AtlasFinale,5018469,Ceramiche Atlas Concorde S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,12696,Details

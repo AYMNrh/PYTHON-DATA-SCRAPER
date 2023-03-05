@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU479387,10-0,2018-12-26 12:15:51.077,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,4760,Details
+EU479390,10-0,2018-12-26 12:15:51.076,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,3764,Details
+EU479386,10-0,2018-12-26 12:15:51.076,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,5545,Details
+EU479372,10-0,2018-12-26 12:15:51.075,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,49647,Details
+EU479373,10-0,2018-12-26 12:15:51.075,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,47045,Details
+EU479367,10-0,2018-12-26 12:15:51.074,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,92230,Details
+EU479374,10-0,2018-12-26 12:15:51.065,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,45609,Details
+EU479356,10-0,2018-12-26 12:15:51.063,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,266525,Details
+EU479388,10-0,2018-12-26 12:15:51.063,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,4730,Details
+EU479368,10-0,2018-12-26 12:15:51.061,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,76690,Details
+EU479370,10-0,2018-12-26 12:15:51.061,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,63713,Details
+EU479392,10-0,2018-12-26 12:15:51.058,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,15000,Details
+EU479384,10-0,2018-12-26 12:15:51.058,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,12000,Details
+EU479364,10-0,2018-12-26 12:15:51.055,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,102147,Details
+EU479404,10-72,2018-12-26 03:49:12.174,Completed,European Commission,100,EU Credit Exchange Account - Aviation,5022592,EUROPEAN COMMISSION,United Kingdom,100,,5016561,,156,Details
+EU479290,10-71,2018-12-26 03:48:22.485,Completed,United Kingdom,100,,5016561,,European Commission,100,EU International Credit Account - Aviation,5022591,EUROPEAN COMMISSION,156,Details
+EU479266,10-0,2018-12-25 12:06:52.497,Completed,Estonia,100,Renergypro account,5016354,Strolia Arturas,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,5000,Details
+EU479215,10-0,2018-12-24 17:40:11.103,Completed,United Kingdom,100,Operator Account,5007335,Repsol Sinopec Resources UK Limited,United Kingdom,100,Operator Account,5007341,Repsol Sinopec Resources UK Limited,90000,Details
+EU479212,10-0,2018-12-24 17:38:11.639,Completed,United Kingdom,100,Operator Account,5007335,Repsol Sinopec Resources UK Limited,United Kingdom,100,Operator Account,5007340,Repsol Sinopec Resources UK Limited,140000,Details
+EU479209,10-0,2018-12-24 17:35:53.183,Completed,United Kingdom,100,Operator Account,5007335,Repsol Sinopec Resources UK Limited,United Kingdom,100,Operator Account,5007334,Repsol Sinopec Resources UK Limited,100000,Details

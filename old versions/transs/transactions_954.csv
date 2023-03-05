@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU500001,10-0,2019-03-26 12:03:26.94,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Spain,100,"Mostos, Vinos y Alcoholes S.A-MOVIALSA V",5008860,"Mostos Vinos y Alcoholes, S.A.",23000,Details
+EU500031,10-0,2019-03-26 12:03:22.76,Completed,France,100,RENAULT SAS,5005046,RENAULT SAS,Spain,100,"Renault España,S.A.-Carrocería Montaje Valladolid",5009330,"RENAULT ESPAÑA, S.A.",21830,Details
+EU499935,10-0,2019-03-26 12:02:22.597,Completed,France,100,ENGIE ENERGIE SERVICES EPINAL,5005874,ENGIE ENERGIE SERVICES,France,100,Cogénération Les Noës Près Troyes,5005778,Troyes Champagne Metropole,9800,Details
+EU500036,10-0,2019-03-26 12:02:16.674,Completed,Sweden,100,West Atlantic Sweden AB,5000502,West Atlantic Sweden AB,United Kingdom,100,,5000521,,742,Details
+EU500029,10-0,2019-03-26 12:02:14.646,Completed,Sweden,100,West Atlantic Sweden AB,5000502,West Atlantic Sweden AB,United Kingdom,100,Janah Account,5000680,Janah Management Company Ltd,80,Details
+EU498740,10-0,2019-03-26 12:02:10.978,Completed,France,100,METEX NOOVISTAGO,5005776,METEX NOOVISTAGO,Norway,100,Kinect Energy AS,5020081,Kinect Energy AS,39108,Details
+EU500023,10-0,2019-03-26 12:02:04.064,Completed,France,100,RENAULT SAS,5005046,RENAULT SAS,France,100,AUTO CHASSIS INTERNATIONAL,5005775,AUTO CHASSIS INTERNATIONAL,7951,Details
+EU500921,10-0,2019-03-26 12:02:00.312,Completed,United Kingdom,100,ETS AERO LTD,5017616,ETS AERO LTD,United Kingdom,100,Volare Aviation Ltd,5027883,Volare Aviation Ltd,799,Details
+EU500000,10-0,2019-03-26 12:00:52.87,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,United Kingdom,100,Rotherham,5008252,Speciality Steel UK Limited,68181,Details
+EU500013,10-0,2019-03-26 12:00:36.691,Completed,France,100,RENAULT SAS,5005046,RENAULT SAS,France,100,RENAULT SOVAB,5022027,SOCIETE DE VEHICULES AUTOMOBILES DE BATILLY,7593,Details
+EU500028,10-0,2019-03-26 12:00:36.247,Completed,France,100,RENAULT SAS,5005046,RENAULT SAS,Spain,100,"Renault España,S.A-Factoría Villamuriel de Cerrato",5009518,"RENAULT ESPAÑA, S.A.",124,Details
+EU500088,10-0,2019-03-26 12:00:30.32,Completed,Italy,100,Operator Account,5012667,Smurfit Kappa Cartiera di Verzuolo srl,Italy,100,VERZUOLO,5012467,Smurfit Kappa Cartiera di Verzuolo srl,18819,Details
+EU499932,10-0,2019-03-26 12:00:30.319,Completed,France,100,ENGIE ENERGIE SERVICES Pooling,5005378,ENGIE ENERGIE SERVICES,France,100,AMIENS PIGEONNIER,5005745,AMIENS ENERGIES,19000,Details
+EU500053,10-0,2019-03-26 12:00:22.663,Completed,United Kingdom,100,,5000977,,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,300000,Details
+EU500918,10-0,2019-03-26 12:00:00.697,Completed,United Kingdom,100,ETS AERO LTD,5017616,ETS AERO LTD,United Kingdom,100,Air Charter Scotland,5027809,Air Charter Scotland Limited,8014,Details
+EU500871,10-2,2019-03-26 11:55:06.893,Completed,Netherlands,100,Rodruza - Steenfabriek Zandberg BV,5011554,Rodruza B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,14240,Details
+CDM57330,3-0,2019-03-26 11:46:47.563,Completed,CDM,110,,1000,,Germany,121,First Climate Markets AG,369,First Climate Markets AG,29765,Details
+EU500829,10-0,2019-03-26 11:40:48.421,Completed,United Kingdom,100,Eon UK Energy Markets Limited,5025199,Eon UK Energy Markets Limited,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,88000,Details
+EU500910,10-2,2019-03-26 11:40:45.513,Completed,Denmark,100,Svendborg Kraftvarme A/S,5019352,Svendborg Kraftvarme A/S,European Commission,100,EU Allowance deletion,5016380,European Commission,21999,Details
+EU500868,10-0,2019-03-26 11:40:33.132,Completed,Germany,100,Statkraft Markets GmbH,5017011,Statkraft Markets GmbH,Bulgaria,100,ContourGlobal Maritsa East 3 AD,5016120,ContourGlobal Maritsa East 3 AD,225000,Details

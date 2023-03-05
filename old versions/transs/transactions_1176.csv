@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU495206,10-0,2019-03-11 12:04:48.325,Completed,United Kingdom,100,HBEL - DEUB,5024081,Holcibel S.A.,United Kingdom,100,HBEL-AIUK,5024072,Holcibel S.A.,696799,Details
+EU495389,10-0,2019-03-11 12:04:39.828,Completed,United Kingdom,100,Santon Asphalt,5021622,Tarmac Trading Limited,United Kingdom,100,Agecroft Asphalt,5025621,Tarmac Trading Limited,5287,Details
+EU495393,10-0,2019-03-11 12:04:29.488,Completed,United Kingdom,100,Bardon Hill,5022810,Aggregate Industries UK Limited,United Kingdom,100,HBEL - AIUK,5024087,Holcibel S.A.,235,Details
+EU495193,10-0,2019-03-11 12:04:26.848,Completed,United Kingdom,100,HBEL - AUT,5024432,Holcibel S.A.,United Kingdom,100,HBEL-AIUK,5024072,Holcibel S.A.,1711702,Details
+EU495379,10-0,2019-03-11 12:04:26.362,Completed,United Kingdom,100,Santon Asphalt,5021622,Tarmac Trading Limited,United Kingdom,100,Torcoed Asphalt,5021643,Tarmac Trading Limited,2236,Details
+EU495035,10-0,2019-03-11 12:04:22.458,Completed,Germany,100,Anlandestation Greifswald,5013861,OPAL Gastransport GmbH & Co. KG,Germany,100,Erdgasverdichterstation Rysum - Gasturbinenanlage (1819),5015360,Gasunie Deutschland Transport Services GmbH,803,Details
+EU495377,10-0,2019-03-11 12:04:12.522,Completed,United Kingdom,100,Santon Asphalt,5021622,Tarmac Trading Limited,United Kingdom,100,Hillwood Asphalt,5021624,Tarmac Trading Limited,2627,Details
+EU495417,10-0,2019-03-11 12:04:07.199,Completed,France,100,D'AUCY LE FAOUET,5005909,D'AUCY LE FAOUET,France,100,UFM,5004688,UNION FERMIERE MORBIHANNAISE (UFM),6900,Details
+EU495205,10-0,2019-03-11 12:04:06.908,Completed,United Kingdom,100,HBEL - DEU,5024080,Holcibel S.A.,United Kingdom,100,HBEL-AIUK,5024072,Holcibel S.A.,1987150,Details
+EU495966,10-0,2019-03-11 12:04:06.375,Completed,United Kingdom,100,ED&F Man Capital Markets Ltd,5023256,E D & F MAN CAPITAL MARKETS LIMITED,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,20000,Details
+EU495210,10-0,2019-03-11 12:04:00.939,Completed,United Kingdom,100,HBEL-GRE,5024435,Holcibel S.A.,United Kingdom,100,HBEL-AIUK,5024072,Holcibel S.A.,2156931,Details
+EU495420,10-0,2019-03-11 12:03:45.408,Completed,France,100,D'AUCY LE FAOUET,5005909,D'AUCY LE FAOUET,France,100,COOPERATIVE EUREDEN,5023016,COOPERATIVE EUREDEN,3400,Details
+EU495223,10-0,2019-03-11 12:03:31.967,Completed,United Kingdom,100,HBEL - ITA,5024082,Holcibel S.A.,United Kingdom,100,HBEL-AIUK,5024072,Holcibel S.A.,572983,Details
+EU495202,10-0,2019-03-11 12:03:31.236,Completed,United Kingdom,100,HBEL-CZE,5024433,Holcibel S.A.,United Kingdom,100,HBEL-AIUK,5024072,Holcibel S.A.,428493,Details
+EU495527,10-0,2019-03-11 12:03:30.951,Completed,Spain,100,"Cristal Cerámicas, S.A. - Factoría II",5018386,"Cristal Cerámicas, S.A.",Spain,100,"Cristal Cerámicas, S.A. - Factoría III",5018387,"Cristal Cerámicas, S.A.",9200,Details
+EU495413,10-0,2019-03-11 12:03:05.502,Completed,Spain,100,"Atomizadas de Alcora, S.A.",5008870,"Atomizadas de Alcora, S.A.",Spain,100,Azuliber I S.L.,5009630,"AZULIBER 1, S.L.",12543,Details
+EU495383,10-0,2019-03-11 12:02:55.243,Completed,United Kingdom,100,Santon Asphalt,5021622,Tarmac Trading Limited,United Kingdom,100,Hothfield Asphalt,5021646,Tarmac Trading Limited,1872,Details
+EU495203,10-0,2019-03-11 12:02:46.295,Completed,United Kingdom,100,HBEL-CZE,5024433,Holcibel S.A.,United Kingdom,100,HBEL-AIUK,5024072,Holcibel S.A.,398760,Details
+EU495195,10-0,2019-03-11 12:02:19.724,Completed,United Kingdom,100,HBEL - BEL,5024079,Holcibel S.A.,United Kingdom,100,HBEL-AIUK,5024072,Holcibel S.A.,920494,Details
+EU494696,10-0,2019-03-11 12:02:17.268,Completed,Germany,100,Rhein Papier Hürth,5019202,Rhein Papier GmbH,Germany,100,1914 - RWE Power AG  Personenkonto,5015477,RWE Power AG,8407,Details

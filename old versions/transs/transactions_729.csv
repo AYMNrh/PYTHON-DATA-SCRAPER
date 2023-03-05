@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU506178,10-0,2019-04-04 10:04:18.148,Completed,Denmark,100,Trading Account nr 1,5019121,ØRSTED Salg & Service A/S,Denmark,100,De Danske Gærfabrikker A/S,5027536,De Danske Gærfabrikker A/S,8898,Details
+EU506116,10-0,2019-04-04 10:04:12.269,Completed,Bulgaria,100,Zagora Finacorp Jsc.,5027231,Zagora Finacorp Jsc.,Bulgaria,100,TPP Bobov Dol,5016122,TPP Bobov Dol,115000,Details
+EU505143,10-0,2019-04-04 10:04:01.119,Completed,Germany,100,RWE Power AG - Händlerkonto,5017639,RWE Power Aktiengesellschaft,Germany,100,4000 - Anlagenkonto,5013947,RWE Power Aktiengesellschaft,94311,Details
+EU505147,10-0,2019-04-04 10:03:28.456,Completed,Germany,100,RWE Power AG - Händlerkonto,5017639,RWE Power Aktiengesellschaft,Germany,100,1619 - Anlagenkonto,5015057,RWE Power Aktiengesellschaft,696070,Details
+EU506092,10-0,2019-04-04 10:03:27.677,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Italy,100,Mater-biotech CO2,5024750,Mater-Biotech Spa,1742,Details
+EU506119,10-0,2019-04-04 10:03:08.173,Completed,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,Austria,100,OMV TRADING,5016990,OMV Gas Marketing & Trading GmbH,62829,Details
+EU504453,10-0,2019-04-04 10:03:04.768,Completed,Italy,100,ETS Trading Account,5027821,Eni Global Energy Markets SpA,Italy,100,Piattaforma Garibaldi K,5013512,ENI S.P.A.,17127,Details
+EU504437,10-0,2019-04-04 10:02:59.466,Completed,Italy,100,ETS Trading Account,5027821,Eni Global Energy Markets SpA,Italy,100,Centrale Olio di Trecate,5013515,ENI S.P.A.,2828,Details
+EU506175,10-0,2019-04-04 10:02:20.544,Completed,Denmark,100,Trading Account nr 1,5019121,ØRSTED Salg & Service A/S,Denmark,100,Triplenine fish,5006549,TripleNine Thyborøn A/S,27000,Details
+EU505773,10-0,2019-04-04 10:02:01.687,Completed,Italy,100,A2A S.P.A.,5025361,A2A SPA,Italy,100,Tecnocity,5012758,A2A CALORE & SERVIZI Srl,10620,Details
+EU505751,10-0,2019-04-04 10:01:31.282,Completed,Italy,100,A2A S.P.A.,5025361,A2A SPA,Italy,100,Comasina,5023729,A2A CALORE & SERVIZI Srl,3809,Details
+EU506110,10-2,2019-04-04 10:01:30.638,Completed,Austria,100,VOEST-Alpine Stahl Linz (Kalk) Steyrling,5004151,voestalpine Stahl GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,274486,Details
+EU504483,10-0,2019-04-04 10:01:27.154,Completed,Italy,100,ETS Trading Account,5027821,Eni Global Energy Markets SpA,Italy,100,Raffineria di Venezia,5013482,ENI S.P.A.,231,Details
+EU506059,10-0,2019-04-04 10:01:18.123,Completed,Finland,100,Kaupankäyntitili,5026362,Fingrid Oyj,Finland,100,Vanaja:FI50,5010833,Fingrid Oyj,325,Details
+EU506060,10-0,2019-04-04 10:00:54.081,Completed,Finland,100,Kaupankäyntitili,5026362,Fingrid Oyj,Finland,100,Vaskiluoto:FI51,5010834,Fingrid Oyj,174,Details
+EU506133,10-0,2019-04-04 10:00:50.876,Completed,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,Netherlands,100,HBEL,5027810,Holcibel,100,Details
+EU506115,10-2,2019-04-04 10:00:47.693,Completed,Austria,100,Voestalpine Stahl Linz,5004149,voestalpine Stahl GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,7816077,Details
+EU506179,10-0,2019-04-04 10:00:46.022,Completed,Slovenia,100,Belektron TRD Si,5016820,BELEKTRON d.o.o.,Netherlands,100,FUTURES CLIENT TRADING ACCOUNT,5027936,Macquarie Bank Limited,7000,Details
+EU500807,10-2,2019-04-04 09:59:13.322,Completed,Netherlands,100,Tate & Lyle Netherlands B.V.,5011458,Tate & Lyle Netherlands B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,76519,Details
+EU502024,10-2,2019-04-04 09:59:10.835,Completed,Spain,100,"Sidenor Aceros Especiales, S.L. - Planta de Vitoria",5021518,"Sidenor Aceros Especiales, S.L.",European Commission,100,EU Allowance deletion,5016380,European Commission,18049,Details

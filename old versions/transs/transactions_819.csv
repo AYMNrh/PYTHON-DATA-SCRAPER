@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+CDM57410,3-0,2019-04-01 17:44:25.66,Completed,CDM,110,,1000,,Sweden,100,Internationella klimatinsatser,5017396,Statens energimyndighet,11555,Details
+CDM57409,3-0,2019-04-01 17:43:46.277,Completed,CDM,110,,1000,,Sweden,100,Internationella klimatinsatser,5017396,Statens energimyndighet,97964,Details
+EU504115,10-72,2019-04-01 17:41:55.446,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Portugal,100,"Primus Ceramics, S.A.",5021696,"Primus Ceramics, S.A.",521,Details
+EU501474,10-71,2019-04-01 17:41:06.295,Completed,Portugal,100,"Primus Ceramics, S.A.",5021696,"Primus Ceramics, S.A.",European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,521,Details
+EU504063,10-2,2019-04-01 17:38:48.372,Completed,Belgium,100,0991 Mouterij Albert N.V.-Enkele eesten,5020546,Alken-Maes,European Commission,100,EU Allowance deletion,5016380,European Commission,18943,Details
+EU503718,10-2,2019-04-01 17:37:16.821,Completed,Sweden,100,Iggesunds bruk,5001478,Iggesund Paperboard AB,European Commission,100,EU Allowance deletion,5016380,European Commission,25814,Details
+EU504078,10-2,2019-04-01 17:36:59.595,Completed,Belgium,100,0992 Mouterij Albert N.V.-Dubbele eesten,5020547,Alken-Maes,European Commission,100,EU Allowance deletion,5016380,European Commission,9904,Details
+EU503642,10-2,2019-04-01 17:35:25.95,Completed,France,100,PLACOPLATRE COGNAC,5022723,PLACOPLATRE,European Commission,100,EU Allowance deletion,5016380,European Commission,25131,Details
+EU504080,10-2,2019-04-01 17:32:26.07,Completed,Spain,100,"Siderúrgica Sevillana, S.A.",5009177,"Siderúrgica Sevillana, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,94607,Details
+CH26045,3-0,2019-04-01 17:31:43.451,Completed,Switzerland,100,,546,,Spain,100,"Ecotrade Solutions, S.L.",5022914,"Ecotrade Solutions, S.L.",6000,Details
+EU503267,10-2,2019-04-01 17:31:10.862,Completed,Estonia,100,Operator Account:EE8,5016313,OÜ VKG Energia,European Commission,100,EU Allowance deletion,5016380,European Commission,588839,Details
+EU504020,10-2,2019-04-01 17:24:47.782,Completed,Austria,100,FHW Innrain Innsbruck,5004242,Tirol Kliniken GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,10287,Details
+EU502565,10-2,2019-04-01 17:23:19.604,Completed,Germany,100,Anlagenkonto-0152,5013822,Eaton Technologies GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,5214,Details
+EU503898,10-2,2019-04-01 17:20:30.632,Completed,Spain,100,Dolomitas del Norte S.A. - Castro Urdiales,5008942,"DOLOMITAS DEL NORTE, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,63740,Details
+EU503908,10-2,2019-04-01 17:19:33.275,Completed,Spain,100,Calera de Alzo S.L,5009539,"Calera de Alzo, SL",European Commission,100,EU Allowance deletion,5016380,European Commission,235825,Details
+EU503915,10-2,2019-04-01 17:18:21.307,Completed,Spain,100,Dolomitas del Norte S.A. - Voto,5009285,"DOLOMITAS DEL NORTE, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,165309,Details
+EU503091,10-0,2019-04-01 17:16:53.415,Completed,Netherlands,100,Solidus Solutions Board B.V. locatie Hoogkerk,5011088,Solidus Solutions Board B.V.,Netherlands,100,Solidus Solutions Board B.V. locatie Bad Nieuweschans,5011319,Solidus Solutions Board B.V.,11600,Details
+EU502945,10-2,2019-04-01 17:15:30.058,Completed,Portugal,100,"41-Tejo Energia, S.A",5003945,"Tejo Energia, S.A",European Commission,100,EU Allowance deletion,5016380,European Commission,2792244,Details
+EU504072,10-2,2019-04-01 17:14:57.967,Completed,Belgium,100,1212 Agfa-Gevaert nv- Westerlo,5020366,Agfa-Gevaert,European Commission,100,EU Allowance deletion,5016380,European Commission,3246,Details
+EU503087,10-0,2019-04-01 17:10:22.769,Completed,Slovakia,100,"FORTISCHEM, a.s.",5021758,FORTISCHEM a. s.,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,28736,Details

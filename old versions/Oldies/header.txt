@@ -1,0 +1,39 @@
+Transaction ID
+Transaction Type
+Transaction Date
+Transaction Status
+Transferring Registry
+Transferring Account Type
+Transferring Account Name
+Transferring Account Identifier
+Transferring Account Holder
+Acquiring Registry
+Acquiring Account Type
+Acquiring Account Name
+Acquiring Account Identifier
+Acquiring Account Holder
+Nb of units
+
+for i in range(6):
+	"https://ec.europa.eu/clima/ets/transaction.do?languageCode=fr&startDate=&endDate=&transactionStatus=4&fromCompletionDate=&toCompletionDate=&transactionID=&transactionType=-1&suppTransactionType=-1&originatingRegistry=-1&destinationRegistry=-1&originatingAccountType=-1&destinationAccountType=-1&originatingAccountIdentifier=&destinationAccountIdentifier=&originatingAccountHolder=&destinationAccountHolder=&currentSortSettings=&resultList.currentPageNumber= (1) &nextList=Next%3E"
+
+
+import requests
+url_ = < some_url_ you _give >
+session_object = requests.Session()
+page_obj = session_object.get(url_)
+soup = BeautifulSoup(response_obj.text, ‘html.parser’ )
+
+
+pip install tqdm
+
+pip install cchardet 
+import cchardet 
+
+pip install lxml
+
+microsoft visual c++ required
+
+https://visualstudio.microsoft.com/visual-cpp-build-tools/
+
+https://medium.com/geekculture/how-to-make-webscraping-with-beautiful-soup-5x-faster-d3dcf0427837

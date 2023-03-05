@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU511221,10-2,2019-04-12 09:35:46.782,Completed,France,100,NSO ENERGIE,5004936,NSO ENERGIE,European Commission,100,EU Allowance deletion,5016380,European Commission,10192,Details
+EU500734,10-2,2019-04-12 09:35:34.412,Completed,France,100,BIO SPRINGER,5004818,BIO SPRINGER,European Commission,100,EU Allowance deletion,5016380,European Commission,44106,Details
+EU511962,10-2,2019-04-12 09:35:29.209,Completed,Romania,100,PEHART TEC TISSUE SA,5024292,PEHART TEC TISSUE SA,European Commission,100,EU Allowance deletion,5016380,European Commission,9769,Details
+EU511224,10-2,2019-04-12 09:35:06.746,Completed,France,100,THERMEVRA,5005598,THERMEVRA,European Commission,100,EU Allowance deletion,5016380,European Commission,13184,Details
+EU511230,10-2,2019-04-12 09:34:24.714,Completed,France,100,DALKIA - Chaufferie ZUP de Lens,5005353,DALKIA,European Commission,100,EU Allowance deletion,5016380,European Commission,665,Details
+EU512020,10-2,2019-04-12 09:34:18.21,Completed,Spain,100,"Crisnova Vidrio, S.A.",5008962,"Crisnova Vidrio, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,128803,Details
+EU511234,10-2,2019-04-12 09:33:47.308,Completed,France,100,VILLAE,5005334,VILLAE,European Commission,100,EU Allowance deletion,5016380,European Commission,2416,Details
+EU511239,10-2,2019-04-12 09:33:03.507,Completed,France,100,LISIEUX ENERGIE,5005977,LISIEUX ENERGIE,European Commission,100,EU Allowance deletion,5016380,European Commission,1631,Details
+EU511975,10-2,2019-04-12 09:32:55.262,Completed,Norway,100,Statnett SF Reservekraftanlegg Nyhamna,5012278,Statnett SF,European Commission,100,EU Allowance deletion,5016380,European Commission,214,Details
+EU511408,10-2,2019-04-12 09:32:21.798,Completed,Germany,100,Salpetersäure,5018634,SKW Stickstoffwerke Piesteritz GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,30145,Details
+EU511584,10-2,2019-04-12 09:32:16.254,Completed,France,100,CHALONS ENERGIES CHAUF SITE DRC,5005805,CHALONS ENERGIES,European Commission,100,EU Allowance deletion,5016380,European Commission,21006,Details
+EU511960,10-2,2019-04-12 09:32:13.373,Completed,Germany,100,AEG,5020213,INOVYN Deutschland GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,3093,Details
+EU511587,10-2,2019-04-12 09:31:40.428,Completed,France,100,DALKIA - ZUP de la Petite Hollande,5005491,DALKIA,European Commission,100,EU Allowance deletion,5016380,European Commission,2949,Details
+EU510684,10-2,2019-04-12 09:31:10.992,Completed,Germany,100,Rheinhafen-Dampfkraftwerk Karlsruhe,5014852,EnBW Energie Baden-Württemberg AG,European Commission,100,EU Allowance deletion,5016380,European Commission,3702300,Details
+EU511950,10-2,2019-04-12 09:30:55.405,Completed,Germany,100,VC,5020243,INOVYN Deutschland GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,20457,Details
+EU511590,10-2,2019-04-12 09:30:53.389,Completed,France,100,DALKIA - Centrale de production de vapeur Ebange,5005844,DALKIA,European Commission,100,EU Allowance deletion,5016380,European Commission,49293,Details
+EU511414,10-2,2019-04-12 09:30:51.408,Completed,Germany,100,782 - Anlagenkonto,5015240,SKW Stickstoffwerke Piesteritz GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,49946,Details
+EU511985,10-2,2019-04-12 09:30:38.274,Completed,Norway,100,Statnett SF Reservekraftanlegg Tjeldbergodden,5012279,Statnett SF,European Commission,100,EU Allowance deletion,5016380,European Commission,281,Details
+EU512011,10-2,2019-04-12 09:30:13.41,Completed,Spain,100,"Aiala Vidrio, S.A",5009491,"Aiala Vidrio, SA",European Commission,100,EU Allowance deletion,5016380,European Commission,100997,Details
+EU511991,10-2,2019-04-12 09:30:09.887,Completed,Poland,100,ENGIE Złotów Spółka z o.o.,5004005,ENGIE Złotów Spółka z ograniczoną odpowiedzialnością,European Commission,100,EU Allowance deletion,5016380,European Commission,24886,Details

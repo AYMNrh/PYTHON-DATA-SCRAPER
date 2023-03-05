@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU515842,10-0,2019-04-19 10:07:26.222,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Netherlands,100,EDF Energy Ltd,5027983,EDF Energy Limited,115878,Details
+EU516337,10-0,2019-04-19 10:06:55.732,Completed,France,100,COLAS,5023028,COLAS,Belgium,100,430 Colas Belgium - Aéroport de Liège,5027773,COLAS BELGIUM,2716,Details
+EU515831,10-0,2019-04-19 10:06:47.61,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Netherlands,100,EDF Energy Ltd,5027983,EDF Energy Limited,47045,Details
+EU515835,10-0,2019-04-19 10:06:44.89,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Netherlands,100,EDF Energy Ltd,5027983,EDF Energy Limited,131236,Details
+EU516145,10-0,2019-04-19 10:06:37.814,Completed,Malta,100,CFP Trading Limited,5027818,CFP Trading Limited,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,3000,Details
+EU515907,10-0,2019-04-19 10:06:30.885,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Netherlands,100,EDF Energy Ltd,5027983,EDF Energy Limited,27,Details
+EU515883,10-0,2019-04-19 10:06:28.514,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Netherlands,100,EDF Energy Ltd,5027983,EDF Energy Limited,95609,Details
+EU515806,10-0,2019-04-19 10:06:25.042,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Netherlands,100,EDF Energy Ltd,5027983,EDF Energy Limited,141000,Details
+EU515848,10-0,2019-04-19 10:06:21.139,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Netherlands,100,EDF Energy Ltd,5027983,EDF Energy Limited,243787,Details
+EU515816,10-0,2019-04-19 10:06:08.962,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Netherlands,100,EDF Energy Ltd,5027983,EDF Energy Limited,207984,Details
+EU516335,10-2,2019-04-19 10:06:03.791,Completed,Belgium,100,014 Vande Moortel,5004384,Steenbakkerij Vande Moortel,European Commission,100,EU Allowance deletion,5016380,European Commission,28511,Details
+EU515724,10-0,2019-04-19 10:05:30.63,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,France,100,EDF PEI Centrale de production d'électricité de Port Est,5018802,EDF PRODUCTION ELECTRIQUE INSULAIRE SAS,64974,Details
+EU515920,10-0,2019-04-19 10:05:19.389,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Netherlands,100,EDF Energy Ltd,5027983,EDF Energy Limited,3,Details
+EU515853,10-0,2019-04-19 10:05:08.227,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Netherlands,100,EDF Energy Ltd,5027983,EDF Energy Limited,291054,Details
+EU515828,10-0,2019-04-19 10:05:04.306,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Netherlands,100,EDF Energy Ltd,5027983,EDF Energy Limited,36447,Details
+EU515917,10-0,2019-04-19 10:04:25.793,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Netherlands,100,EDF Energy Ltd,5027983,EDF Energy Limited,52415,Details
+EU515863,10-0,2019-04-19 10:04:19.919,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Netherlands,100,EDF Energy Ltd,5027983,EDF Energy Limited,51142,Details
+EU515810,10-0,2019-04-19 10:04:11.516,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Netherlands,100,EDF Energy Ltd,5027983,EDF Energy Limited,38287,Details
+EU515820,10-0,2019-04-19 10:04:09.634,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Netherlands,100,EDF Energy Ltd,5027983,EDF Energy Limited,5730,Details
+EU515834,10-0,2019-04-19 10:04:07.29,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Netherlands,100,EDF Energy Ltd,5027983,EDF Energy Limited,1003,Details

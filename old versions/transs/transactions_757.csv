@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU505612,10-0,2019-04-03 14:46:51.169,Completed,Belgium,100,9008 Sappi Europe S.A.,5023469,Sappi Europe S.A.,Germany,100,EU-Konto Papiererzeugung,5013980,Sappi Stockstadt GmbH,200011,Details
+EU505602,10-0,2019-04-03 14:42:51.191,Completed,Belgium,100,9008 Sappi Europe S.A.,5023469,Sappi Europe S.A.,Austria,100,Sappi Gratkorn,5004128,Sappi Austria Produktions-GmbH & Co. KG,173390,Details
+EU505606,10-72,2019-04-03 14:42:06.804,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Italy,100,CALCE MARCELLINARA,5012804,CAL.ME. S.P.A.,13877,Details
+EU498773,10-71,2019-04-03 14:40:56.276,Completed,Italy,100,CALCE MARCELLINARA,5012804,CAL.ME. S.P.A.,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,13877,Details
+EU505590,10-2,2019-04-03 14:40:48.136,Completed,Belgium,100,367 Wimble Manufacturing Belgium bvba,5022409,Wimble Manufacturing Belgium bvba,European Commission,100,EU Allowance deletion,5016380,European Commission,33399,Details
+EU505185,10-2,2019-04-03 14:35:29.872,Completed,Germany,100,Anlagenkonto Sonae Arauco Beeskow GmbH,5020196,Sonae Arauco Beeskow GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,16287,Details
+EU505524,10-0,2019-04-03 14:35:11.164,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Netherlands,100,PGI Nonwovens B.V.,5011232,PGI Nonwovens B.V.,2883,Details
+EU505587,10-0,2019-04-03 14:34:55.271,Completed,France,100,BNP PARIBAS,5027964,BNP PARIBAS,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,10000,Details
+EU505513,10-0,2019-04-03 14:33:53.419,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Italy,100,PRIMOTECS S.P.A.,5022812,PRIMOTECS S.P.A.,1100,Details
+EU505505,10-0,2019-04-03 14:32:26.186,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Netherlands,100,PGI Nonwovens B.V.,5011232,PGI Nonwovens B.V.,61,Details
+EU505582,10-72,2019-04-03 14:31:56.073,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Finland,100,PPV CO2:FI186,5010969,Porin Prosessivoima Oy,12000,Details
+EU505490,10-0,2019-04-03 14:31:21.506,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Netherlands,100,FUTURES CLIENT TRADING ACCOUNT,5027936,Macquarie Bank Limited,53000,Details
+EU505063,10-71,2019-04-03 14:30:53.078,Completed,Finland,100,PPV CO2:FI186,5010969,Porin Prosessivoima Oy,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,12000,Details
+EU505558,10-2,2019-04-03 14:29:26.677,Completed,Norway,100,Avinor AS avd. Oslo Lufthavn Gardermoen,5012325,Avinor AS,European Commission,100,EU Allowance deletion,5016380,European Commission,631,Details
+EU505033,10-2,2019-04-03 14:28:50.384,Completed,Spain,100,"Kronospan, S.L.",5009737,"Kronospan, S.L.",European Commission,100,EU Allowance deletion,5016380,European Commission,4580,Details
+EU502990,10-2,2019-04-03 14:20:35.826,Completed,Belgium,100,176 Esso Raffinaderij,5004575,Exxonmobil Petroleum & Chemical,European Commission,100,EU Allowance deletion,5016380,European Commission,1994945,Details
+EU504866,10-0,2019-04-03 14:19:17.256,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Czech Republic,100,"Huhtamaki Česká republika,",5006836,"Huhtamaki Česká republika, a.s.",3162,Details
+EU504414,10-2,2019-04-03 14:18:26.225,Completed,Italy,100,IMPIANTO DI VICENZA,5012469,Acciaierie Valbruna S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,41144,Details
+EU502992,10-2,2019-04-03 14:18:12.002,Completed,Belgium,100,175 Antwerp Polymers Plant,5004574,Exxonmobil Petroleum & Chemical,European Commission,100,EU Allowance deletion,5016380,European Commission,33836,Details
+EU504863,10-0,2019-04-03 14:17:24.652,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,France,100,HUHTAMAKI LR,5005823,HUHTAMAKI LA ROCHELLE SNC (HLR),1122,Details

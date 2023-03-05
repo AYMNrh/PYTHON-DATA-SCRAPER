@@ -3,10 +3,10 @@ from bs4 import BeautifulSoup
 import time
 import pandas as pd
 
-with open('FinalVersion/HoldingAcc/links.csv', 'r') as f:
+with open('liens.csv', 'r') as f:
     urls = f.readlines()
 
-with open('FinalVersion/HoldingAcc/DataLien.csv', 'w', encoding='utf-8') as out_file:
+with open('DataLiens.csv', 'w', encoding='utf-8') as out_file:
     for url in urls:
         url = url.strip()  # remove whitespace characters (e.g. \n)
 

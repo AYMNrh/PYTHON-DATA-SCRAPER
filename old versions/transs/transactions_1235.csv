@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU488399,10-2,2019-03-06 10:11:17.829,Completed,United Kingdom,100,HEINEKEN UK - Manchester Brewery,5007734,Heineken UK Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,13736,Details
+EU494695,10-2,2019-03-06 10:09:14.739,Completed,United Kingdom,100,Ninian Southern,5008563,CNR International (UK) Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,187995,Details
+EU494481,10-0,2019-03-06 10:08:28.678,Completed,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,Belgium,100,028 CITRIBEL,5004414,CITRIBEL,2000,Details
+EU494533,10-0,2019-03-06 10:08:26.199,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Germany,100,Vattenfall Energy Trading GmbH,5017244,Vattenfall Energy Trading GmbH,13000,Details
+EU494531,10-0,2019-03-06 10:08:10.319,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Italy,100,ENEL TRADE ITALIA,5016899,Enel Global Trading S.p.A.,9000,Details
+EU494701,10-0,2019-03-06 10:07:27.589,Completed,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,Slovakia,100,"U. S. Steel Košice, s.r.o.-FE",5026051,"U. S. Steel Košice, s.r.o.",5000,Details
+EU493403,10-0,2019-03-06 10:07:04.562,Completed,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,45000,Details
+EU494683,10-0,2019-03-06 10:05:08.189,Completed,Finland,100,Gasum Consulting Oy,5018688,Gasum Consulting Oy,Finland,100,Trading 1,5023516,Fortum Power and Heat Oy,4000,Details
+EU494529,10-0,2019-03-06 10:02:43.586,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Norway,100,DNB Markets Trading Account,5017497,DNB Bank ASA,112000,Details
+EU494528,10-0,2019-03-06 10:00:34.055,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,United Kingdom,100,A2A S.p.A.,5026060,A2A S.P.A.,20000,Details
+EU494522,10-0,2019-03-06 10:00:21.588,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Hungary,100,MVM Partner ZRt.,5018650,MVM Partner ZRt.,2000,Details
+EU494669,10-2,2019-03-06 09:59:42.032,Completed,Czech Republic,100,EMBA spol. s r.o.,5006927,"EMBA, spol. s r.o.",European Commission,100,EU Allowance deletion,5016380,European Commission,3484,Details
+EU494694,10-2,2019-03-06 09:25:55.987,Completed,Slovakia,100,Považská cementáreň,5003138,"Považská cementáreň, a.s.",European Commission,100,EU Allowance deletion,5016380,European Commission,529922,Details
+EU490617,10-2,2019-03-06 08:46:45.829,Completed,Poland,100,CIEPŁOWNIA,5002546,Zakład Energetyki Cieplnej,European Commission,100,EU Allowance deletion,5016380,European Commission,32169,Details
+EU494621,10-2,2019-03-06 08:40:23.301,Completed,Ireland,100,Operator Account,5012058,Hovione Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,4343,Details
+EU490079,10-2,2019-03-06 08:39:16.754,Completed,Czech Republic,100,"Teplárna Liberec, a. s.",5006897,"Teplárna Liberec, a.s.",European Commission,100,EU Allowance deletion,5016380,European Commission,19130,Details
+EU494692,10-72,2019-03-06 08:39:03.029,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,FHW Dinslaken-Innenstadt,5014306,Fernwärmeversorgung Niederrhein GmbH,204,Details
+EU494679,10-71,2019-03-06 08:38:05.227,Completed,Germany,100,FHW Dinslaken-Innenstadt,5014306,Fernwärmeversorgung Niederrhein GmbH,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,204,Details
+EU494690,10-72,2019-03-06 08:36:57.195,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,FHW Moers,5014294,Fernwärmeversorgung Niederrhein GmbH,319,Details
+EU494680,10-71,2019-03-06 08:36:04.335,Completed,Germany,100,FHW Moers,5014294,Fernwärmeversorgung Niederrhein GmbH,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,319,Details

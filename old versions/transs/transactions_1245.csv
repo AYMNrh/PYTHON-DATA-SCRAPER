@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU494460,10-2,2019-03-05 13:05:34.494,Completed,Czech Republic,100,Jan Fiala - Cihelna Šterboholy,5006778,Jan Fiala - cihelna Štěrboholy,European Commission,100,EU Allowance deletion,5016380,European Commission,1085,Details
+EU494380,10-0,2019-03-05 13:02:19.672,Completed,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,186000,Details
+EU494320,10-0,2019-03-05 12:58:34.892,Completed,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,2000,Details
+EU494429,10-2,2019-03-05 12:54:39.27,Completed,Poland,100,CIEPŁOWNIA,5002879,Federal-Mogul Gorzyce Sp.z o.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,5229,Details
+EU493246,10-0,2019-03-05 12:53:10.243,Completed,Denmark,100,KVR,5006330,Verdo Produktion A/S,Denmark,100,Verdo Trading A/S,5019120,Verdo Trading A/S,378,Details
+EU494465,10-0,2019-03-05 12:51:05.991,Completed,Finland,100,Trading 1,5023516,Fortum Power and Heat Oy,Estonia,100,Pärnu SEJ: EE75,5016365,Gren Eesti AS,2500,Details
+EU494462,10-0,2019-03-05 12:49:57.994,Completed,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,62000,Details
+EU493248,10-0,2019-03-05 12:48:15.718,Completed,France,100,FERROPEM Usine d'Anglefort,5021798,FERROPEM,France,100,FERROPEM Usine de Montricher,5021800,FERROPEM,4801,Details
+EU492540,10-0,2019-03-05 12:47:37.904,Completed,France,100,Lafarge Ciments - Usine de Martres Tolosane,5004877,LAFARGE CIMENTS,France,100,Lafarge Ciments - Compte central,5005120,LAFARGE HOLCIM CIMENTS,428174,Details
+EU494314,10-2,2019-03-05 12:46:44.247,Completed,Czech Republic,100,LASSELSBERGER - závod RAKO 3,5006805,"LASSELSBERGER, s.r.o.",European Commission,100,EU Allowance deletion,5016380,European Commission,54712,Details
+EU493250,10-0,2019-03-05 12:46:41.535,Completed,France,100,FERROPEM Usine des Clavaux,5021799,FERROPEM,France,100,FERROPEM Usine de Montricher,5021800,FERROPEM,5480,Details
+EU493268,10-0,2019-03-05 12:46:33.957,Completed,United Kingdom,100,Operator Account,5007132,SHOTTON MILL LIMITED,Finland,100,UPM CO2 exchange trading,5017691,UPM-Kymmene Oyj,5000,Details
+EU492543,10-0,2019-03-05 12:46:07.595,Completed,France,100,Lafarge Ciments - Usine de Martres Tolosane,5004877,LAFARGE CIMENTS,France,100,Lafarge Ciments - Compte central,5005120,LAFARGE HOLCIM CIMENTS,540,Details
+EU493252,10-0,2019-03-05 12:45:23.207,Completed,France,100,FERROPEM Usine de Châteaufeuillet,5021801,FERROPEM,France,100,FERROPEM Usine de Montricher,5021800,FERROPEM,6837,Details
+EU492547,10-0,2019-03-05 12:44:37.688,Completed,France,100,Lafarge Ciments - Usine de Val d'Azergues,5005105,LAFARGE CIMENTS,France,100,Lafarge Ciments - Compte central,5005120,LAFARGE HOLCIM CIMENTS,232233,Details
+EU493254,10-0,2019-03-05 12:44:08.575,Completed,France,100,FERROPEM Usine de Châteaufeuillet,5021801,FERROPEM,France,100,FERROPEM Usine de Laudun,5021802,FERROPEM,52823,Details
+EU492550,10-0,2019-03-05 12:43:09.085,Completed,France,100,Lafarge Ciments - Usine du Teil,5005264,LAFARGE CIMENTS,France,100,Lafarge Ciments - Compte central,5005120,LAFARGE HOLCIM CIMENTS,513494,Details
+EU494446,10-2,2019-03-05 12:43:05.837,Completed,United Kingdom,100,,5019792,,European Commission,100,EU Allowance deletion,5016380,European Commission,525,Details
+EU492555,10-0,2019-03-05 12:41:53.982,Completed,France,100,Lafarge Ciments - Usine de Cruas,5005270,LAFARGE CIMENTS,France,100,Lafarge Ciments - Compte central,5005120,LAFARGE HOLCIM CIMENTS,39017,Details
+EU494459,10-2,2019-03-05 12:40:45.107,Completed,United Kingdom,100,Weston Point CHP Station,5008198,SSE Generation Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,1643,Details

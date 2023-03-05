@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU512402,10-2,2019-04-13 18:17:09.371,Completed,Germany,100,125 - Anlagenkonto,5014030,Dyckerhoff GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,248797,Details
+EU512404,10-2,2019-04-13 18:15:29.524,Completed,Germany,100,134 - Anlagenkonto,5014074,Dyckerhoff GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,1010775,Details
+EU512408,10-2,2019-04-13 18:13:14.283,Completed,Germany,100,137 - Anlagenkonto,5014094,Portland Zementwerke Seibel und Söhne GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,337898,Details
+EU512723,4-0,2019-04-13 10:31:49.297,Completed,Germany,100,Fokus Zukunft GmbH & Co.KG,5025499,Fokus Zukunft GmbH & Co. KG,European Commission,230,EU Cancellation Account Period 2,5022673,EUROPEAN UNION,10,Details
+EU512724,4-0,2019-04-13 10:31:12.689,Completed,Germany,100,Fokus Zukunft GmbH & Co.KG,5025499,Fokus Zukunft GmbH & Co. KG,European Commission,230,EU Cancellation Account Period 2,5022673,EUROPEAN UNION,24,Details
+EU512729,10-2,2019-04-13 09:42:32.932,Completed,Italy,100,FOMECETS,5022016,FOMEC S.P.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,8442,Details
+EU511269,10-2,2019-04-13 08:57:14.486,Completed,Italy,100,Eural Gnutti Spa,5022032,Eural Gnutti Spa,European Commission,100,EU Allowance deletion,5016380,European Commission,16834,Details
+EU511277,10-2,2019-04-13 08:55:37.394,Completed,Italy,100,Eural Gnutti Spa,5022033,Eural Gnutti Spa,European Commission,100,EU Allowance deletion,5016380,European Commission,12561,Details
+EU512726,10-72,2019-04-13 08:54:15.889,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Italy,100,Eural Gnutti Spa,5022032,Eural Gnutti Spa,291,Details
+EU511302,10-71,2019-04-13 08:53:11.712,Completed,Italy,100,Eural Gnutti Spa,5022032,Eural Gnutti Spa,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,291,Details
+EU512720,10-36,2019-04-13 01:30:19.474,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Romania,100,SAINT GOBAIN ISOVER,5010216,Pascutiu Ovidiu Adrian,10882,Details
+EU512721,10-36,2019-04-13 01:30:19.432,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Romania,100,Operator Account,5010053,S.C. DS SMITH PAPER ZARNESTI S.R.L.,27519,Details
+EU512710,10-36,2019-04-13 01:30:19.406,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Romania,100,Operator Account,5010064,Societatea ELECTROCENTRALE GALATI SA,17816,Details
+EU512713,10-36,2019-04-13 01:30:19.371,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Romania,100,Operator Account,5010036,COMPANIA LOCALA DE TERMOFICARE COLTERM SA,52488,Details
+EU512714,10-36,2019-04-13 01:30:19.335,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Romania,100,Operator Account,5010176,S.C. GLOBAL GRAIN INTERNATIONAL S.R.L.,4841,Details
+EU512722,10-36,2019-04-13 01:30:19.308,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Romania,100,Operator Account,5010163,SUCURSALA ELECTROCENTRALE PAROSENI,10063,Details
+EU512711,10-36,2019-04-13 01:30:19.278,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Romania,100,SC KRONOSPAN TRADING SRL,5010245,SC KRONOSPAN TRADING SRL,10132,Details
+EU512712,10-36,2019-04-13 01:30:19.247,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Romania,100,SC SCANDIC DISTILLERIES S.A,5010075,SC SCANDIC DISTILLERIES S.A,8976,Details
+EU512717,10-36,2019-04-13 01:30:19.218,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Romania,100,Operator Account,5009997,SC Liberty Galati SA,5643926,Details
+EU512718,10-36,2019-04-13 01:30:19.192,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Romania,100,Operator Account,5010030,THERMOENERGY GROUP SA Bacau,27271,Details

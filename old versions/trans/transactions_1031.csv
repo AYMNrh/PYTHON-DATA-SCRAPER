@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU495973,10-0,2019-03-21 15:57:14.845,Completed,France,100,Société Valmy Défense 17 - SVD17,5023377,SVD 17,France,100,Chaufferie Centrale Chartreux,5005848,SOCIETE D'ECONOMIE MIXTE ENERGIE,2258,Details
+GB72739,3-0,2019-03-21 15:56:24.529,Completed,United Kingdom,121,MACQEFP,2475,Macquarie Bank Limited,Australia,100,,1012,,260133,Details
+EU498468,10-2,2019-03-21 15:55:17.895,Completed,Germany,100,FW-Anlagenkonto,5020201,Fritz Winter Eisengießerei GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,221079,Details
+EU499079,10-0,2019-03-21 15:53:51.367,Completed,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,United Kingdom,100,CAVOK AIR LLC AOHA,5024752,CAVOK AIR LLC,6718,Details
+EU499074,10-0,2019-03-21 15:52:32.075,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,500000,Details
+EU499020,10-2,2019-03-21 15:50:21.779,Completed,Ireland,100,K2 Operator Holding Account,5027236,K2 Strategic Infrastructure Ireland Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,8118,Details
+EU499072,10-2,2019-03-21 15:46:52.127,Completed,United Kingdom,100,Inbev Magor,5007893,AB INBEV UK LIMITED,European Commission,100,EU Allowance deletion,5016380,European Commission,21414,Details
+EU498631,10-0,2019-03-21 15:46:21.366,Completed,Spain,100,"Magnesitas de Rubián, S.A.",5020080,"Magnesitas de Rubián, S.A.",Spain,100,"Global Factor Commodity Trading, S.A.U.",5016901,"Global Factor Commodity Trading, S.A.U.",5000,Details
+EU498564,10-0,2019-03-21 15:43:51.33,Completed,Denmark,100,ØRSTED Salg & Service,5006291,ØRSTED Salg & Service A/S,Denmark,100,EVK Industrivej,5006453,VIBORG VARME PRODUKTION A/S,3000,Details
+EU499071,10-0,2019-03-21 15:43:47.349,Completed,Spain,100,Santander Clientes,5017250,Banco Santander S.A.,Poland,100,TAURON Polska Energia S.A.,5019474,TAURON Polska Energia S.A.,6000,Details
+EU499070,10-0,2019-03-21 15:42:55.359,Completed,Netherlands,100,BCI Carbon Trading Account,5019414,Brainchild Capital Investments B.V.,Netherlands,100,Beekenkamp Plants BV,5011590,Beekenkamp Plants B.V.,6000,Details
+EU499061,10-0,2019-03-21 15:40:34.408,Completed,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,157913,Details
+EU499052,10-0,2019-03-21 15:39:38.76,Completed,United Kingdom,100,UBS AG,5027651,UBS AG,Germany,100,Bayern LB,5016942,Bayerische Landesbank,2500000,Details
+EU499057,10-0,2019-03-21 15:39:26.674,Completed,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,142087,Details
+EU499064,10-0,2019-03-21 15:38:59.032,Completed,Germany,100,Vattenfall Energy Trading GmbH,5017244,Vattenfall Energy Trading GmbH,Netherlands,100,Commonwealth Bank,5026245,Commonwealth Bank of Australia,1800000,Details
+EU498980,10-0,2019-03-21 15:37:55.94,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Norway,100,DNB Markets Trading Account,5017497,DNB Bank ASA,8000,Details
+EU499059,10-2,2019-03-21 15:37:51.505,Completed,Spain,100,"Realonda, S.A.",5020133,"Realonda, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,9704,Details
+EU499065,10-0,2019-03-21 15:37:13.383,Completed,United Kingdom,100,UBS TRADING ACCOUNT,5018280,UBS Limited,Germany,100,Alpiq AG,5021597,Alpiq AG,10000,Details
+EU499050,10-0,2019-03-21 15:36:48.301,Completed,United Kingdom,100,J.P. Morgan Securities Plc,5017695,J.P. Morgan Securities Plc,Netherlands,100,Commonwealth Bank,5026245,Commonwealth Bank of Australia,2000000,Details
+EU499063,10-0,2019-03-21 15:36:27.437,Completed,Norway,100,Kinect Energy AS,5020081,Kinect Energy AS,Norway,100,Norske Skog Saugbrugs AS,5012266,Norske Skog Saugbrugs AS,4937,Details

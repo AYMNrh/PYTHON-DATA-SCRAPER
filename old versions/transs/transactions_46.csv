@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU519923,10-36,2019-04-27 01:30:29.23,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,France,100,ELENGY - Terminal Méthanier de Montoir,5005817,ELENGY,13892,Details
+EU519922,10-36,2019-04-27 01:30:29.177,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,France,100,POLYREY SAS,5027146,POLYREY SAS,7032,Details
+EU519921,10-36,2019-04-27 01:30:29.121,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Bleachont, S.L.",5009777,"Bleachont, S.L.",13746,Details
+EU519920,10-36,2019-04-27 01:30:29.063,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Azulejos Mallol, S.L.",5019430,"Azulejos Mallol, S.L.",5124,Details
+EU519919,10-36,2019-04-27 01:30:29.011,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,France,100,Storengy France - Stockage de Chémery,5005629,STORENGY FRANCE,1,Details
+EU519918,10-36,2019-04-27 01:30:28.956,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Inalco (""Industrias Alcorenses Confederadas, SA"")",5020118,"Inalco (""Industrias Alcorenses Confederadas, SA"")",10621,Details
+EU519917,10-36,2019-04-27 01:30:28.898,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,France,100,ERENA CALIFORNIE,5026401,ENERGIES RENOUVELABLES NANTAISES ERENA,3603,Details
+EU519909,10-36,2019-04-27 01:30:28.825,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,France,100,Storengy France - Stockage de Céré-la-Ronde,5005760,STORENGY FRANCE,1,Details
+EU519910,10-36,2019-04-27 01:30:28.823,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,France,100,POLYREY SAS,5027146,POLYREY SAS,789,Details
+EU519908,10-72,2019-04-26 22:07:43.658,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Belgium,100,423 Ecofrost,5026142,ECOFROST,1114,Details
+EU519293,10-71,2019-04-26 22:06:41.921,Completed,Belgium,100,423 Ecofrost,5026142,ECOFROST,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,1114,Details
+EU519290,10-2,2019-04-26 22:02:52.325,Completed,Belgium,100,423 Ecofrost,5026142,ECOFROST,European Commission,100,EU Allowance deletion,5016380,European Commission,24757,Details
+EU519846,10-2,2019-04-26 21:08:21.075,Completed,Spain,100,"Tolsa, S.A.",5009466,"TOLSA, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,13709,Details
+EU517281,10-2,2019-04-26 21:03:44.034,Completed,Germany,100,1510 - Anlagenkonto,5014903,Outokumpu Nirosta GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,16039,Details
+EU517285,10-2,2019-04-26 21:02:31.284,Completed,Germany,100,Kaltwalzwerk Krefeld,5022087,Outokumpu Nirosta GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,44261,Details
+EU517288,10-2,2019-04-26 21:01:13.668,Completed,Germany,100,Kaltwalzwerk Dillenburg,5022089,Outokumpu Nirosta GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,27083,Details
+EU519905,10-2,2019-04-26 20:48:39.184,Completed,Slovenia,100,Adria Airways d.d.,5000337,Adria Airways d.o.o.- V STEČAJU,European Commission,100,EU Allowance deletion,5016380,European Commission,5000,Details
+EU519906,10-2,2019-04-26 20:41:33.087,Completed,France,100,Azul Linhas Aéreas Brasileiras S.A.,5027926,Azul Linhas Aéreas Brasileiras S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,124,Details
+EU519887,10-2,2019-04-26 20:13:09.656,Completed,Norway,100,Rely AS,5019770,Rely AS,European Commission,100,EU Allowance deletion,5016380,European Commission,1170,Details
+EU519895,10-2,2019-04-26 20:06:18.66,Completed,Poland,100,Przedsiębiorstwo Energetyki Cieplnej Mikołów Sp. z o.o.,5002533,Calor Energetyka Cieplna,European Commission,100,EU Allowance deletion,5016380,European Commission,10269,Details

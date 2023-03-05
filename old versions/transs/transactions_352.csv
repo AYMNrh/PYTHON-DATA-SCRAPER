@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU513814,10-36,2019-04-16 01:31:02.577,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Belgium,100,389 Advario Gas Terminal,5022319,Advario Gas Terminal,90,Details
+EU513850,10-36,2019-04-16 01:31:02.575,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Montefibre Hispania, S.A.",5027123,"Montefibre Hispania, S.A.",70191,Details
+EU513890,10-36,2019-04-16 01:31:02.574,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,PC Lärkträdet,5001631,Njudung Energi Vetlanda AB,136,Details
+EU513891,10-36,2019-04-16 01:31:02.572,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Årsta,5002126,Stockholm Exergi AB,5218,Details
+EU513810,10-36,2019-04-16 01:31:02.571,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Romania,100,Municipiul Iasi,5010029,Municipiul Iasi,30105,Details
+EU513818,10-36,2019-04-16 01:31:02.571,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Romania,100,Operator Account,5010030,THERMOENERGY GROUP SA Bacau,5700,Details
+EU513816,10-36,2019-04-16 01:31:02.57,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,Cerámica Nulense,5009717,"Cerámica Nulense, S.A.",4556,Details
+EU513811,10-36,2019-04-16 01:31:02.57,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,Conservas Vegetales de Tomates Guadiana Soc.Coop,5009348,Conservas Vegetales de Tomates del Guadiana Soc. Coop.,8191,Details
+EU513893,10-36,2019-04-16 01:31:02.569,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,PC Listen,5001634,Njudung Energi Vetlanda AB,394,Details
+EU513815,10-36,2019-04-16 01:31:02.569,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Romania,100,Operator Account,5010039,S Complexul Energetic Oltenia SA,482214,Details
+EU513817,10-36,2019-04-16 01:31:02.567,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,S.A. MINERA CATALANO ARAGONESA,5009720,S.A. MINERA CATALANO ARAGONESA,7646,Details
+EU513854,10-36,2019-04-16 01:31:02.544,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Kuggstången,5001740,Skellefteå Kraft AB,99,Details
+EU513859,10-36,2019-04-16 01:31:02.543,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"SC Valorizaciones Agropecuarias, S.L.",5026299,"SC Valorizaciones Agropecuarias, S.L.",16460,Details
+EU513857,10-36,2019-04-16 01:31:02.327,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Belgium,100,337 BPB Belgium,5004405,Saint Gobain Construction Products Belgium,4148,Details
+EU513855,10-36,2019-04-16 01:31:02.246,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Belgium,100,292 ETEX BUILDING PERFORMANCE,5004305,ETEX BUILDING PERFORMANCE,1941,Details
+EU513887,10-36,2019-04-16 01:31:02.066,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Halcón Cerámicas, S.L.",5022177,"Halcón Cerámicas, S.L.",25334,Details
+EU513889,10-36,2019-04-16 01:31:01.99,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Hammarby,5001984,Stockholm Exergi AB,26991,Details
+EU513884,10-36,2019-04-16 01:31:01.868,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Valåsdalens PC,5002058,Mölndal Energi AB,6,Details
+EU513888,10-36,2019-04-16 01:31:01.823,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,SAMCA Onda - S.A. Minera Catalano Aragonesa,5009253,S.A. MINERA CATALANO ARAGONESA,13355,Details
+EU513853,10-36,2019-04-16 01:31:01.806,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,Baldocer S.A. (Planta 3),5027062,"Baldocer, S.A.",7374,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU486724,10-36,2019-02-21 01:43:25.186,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Dampfkesselanlage Dortmund,5014768,ThyssenKrupp Steel Europe AG,8768,Details
+EU486399,10-36,2019-02-21 01:43:25.096,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1496 - Anlagenkonto,5014882,Energie und Wasser Potsdam GmbH,1411,Details
+EU486722,10-36,2019-02-21 01:43:25.038,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1720 - Anlagenkonto,5015200,Evonik Operations GmbH,28879,Details
+EU486720,10-36,2019-02-21 01:43:24.774,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Papierfabrik Gelsenkirchen - Anlagenkonto,5014087,Hamburger Rieger Gelsenkirchen GmbH & Co. KG,44545,Details
+EU486386,10-36,2019-02-21 01:43:24.67,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,HW Friedrichshagen,5014448,Vattenfall Wärme Berlin Aktiengesellschaft,2998,Details
+EU486756,10-36,2019-02-21 01:43:24.483,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Martinswerk GmbH,5018295,Martinswerk GmbH,109941,Details
+EU486541,10-36,2019-02-21 01:43:24.382,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,OGE Gescher,5015399,Open Grid Europe GmbH,4212,Details
+EU486601,10-36,2019-02-21 01:43:24.268,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Austria,100,Ziegelwerk Eder Peuerbach Bruck,5004145,Ziegelwerk Eder GmbH,23442,Details
+EU486737,10-36,2019-02-21 01:43:24.225,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,FVS Kesselanlage,5014201,STEAG New Energies GmbH,21244,Details
+EU486384,10-36,2019-02-21 01:43:24.159,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,758 - Anlagenkonto,5014981,Universität Ulm,221,Details
+EU486762,10-36,2019-02-21 01:43:24.054,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Austria,100,FW Leopoldau Fernwärme Wien,5004072,WIEN ENERGIE GmbH,953,Details
+EU486584,10-36,2019-02-21 01:43:24.003,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Austria,100,Technoglas Voitsberg,5004230,Technoglas Produktions-Gesellschaft m.b.H.,6543,Details
+EU486594,10-36,2019-02-21 01:43:23.854,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Austria,100,Agrana Tulln,5004041,AGRANA Zucker GmbH,90640,Details
+EU486592,10-36,2019-02-21 01:43:23.559,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Austria,100,AMI Agrolinz Melamine International Linz,5004044,Borealis Agrolinz Melamine GmbH,209703,Details
+EU486598,10-36,2019-02-21 01:43:23.408,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Austria,100,Zementwerk Wopfing,5004142,Baumit GmbH,249684,Details
+EU486595,10-36,2019-02-21 01:43:23.282,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,1043 - Anlagenkonto,5014235,WMF GmbH,10668,Details
+EU486590,10-36,2019-02-21 01:43:23.16,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,2132 - Anlagenkonto HKW Waldstadt,5015719,Stadtwerke Karlsruhe GmbH,336,Details
+EU486622,10-36,2019-02-21 01:43:23.048,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Portugal,100,"204-BA Vidro, S.A.",5002893,"BA Vidro, S.A.",63299,Details
+EU486391,10-36,2019-02-21 01:43:22.938,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Heizwerk Gelsenkirchen-Bismarck,5014634,STEAG Fernwärme GmbH,99,Details
+EU486600,10-36,2019-02-21 01:43:22.835,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Emery Anlagen in Düsseldorf,5018197,KLK Emmerich GmbH,74873,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU509086,10-2,2019-04-09 14:41:51.106,Completed,Italy,100,DISTER ENERGIA SPA,5013103,DISTER ENERGIA SPA,European Commission,100,EU Allowance deletion,5016380,European Commission,2108,Details
+EU509435,10-0,2019-04-09 14:41:51.054,Completed,Bulgaria,100,Zagora Finacorp Jsc.,5027231,Zagora Finacorp Jsc.,United Kingdom,100,ED&F Man Capital Markets Ltd,5023256,E D & F MAN CAPITAL MARKETS LIMITED,3000,Details
+EU506891,10-2,2019-04-09 14:41:18.647,Completed,Denmark,100,Næstved Forbrændingsanlæg,5022054,I/S AffaldPlus,European Commission,100,EU Allowance deletion,5016380,European Commission,55481,Details
+EU500331,10-2,2019-04-09 14:41:13.314,Completed,Sweden,100,HVC Kv. Betan,5002114,Kraftringen Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,659,Details
+EU500334,10-2,2019-04-09 14:40:01.284,Completed,Sweden,100,HVC Kv. Laxen,5002116,Kraftringen Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,59,Details
+EU502703,10-2,2019-04-09 14:39:59.078,Completed,Italy,100,Operator Account,5013195,MARELLI EUROPE SpA,European Commission,100,EU Allowance deletion,5016380,European Commission,1788,Details
+EU509438,10-0,2019-04-09 14:39:53.052,Completed,Poland,100,SEC Energia Sp. z o.o.,5024264,SEC Energia Sp. z o.o.,Poland,100,mBank S.A.,5023148,mBank S.A.,100000,Details
+EU500336,10-2,2019-04-09 14:38:58.36,Completed,Sweden,100,Örtoftaverket,5021322,Kraftringen Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,7942,Details
+FI92784,3-0,2019-04-09 14:37:34.947,Completed,Finland,121,COF,5016487,Climate Opportunity Fund Ky,Finland,100,Raahen terästehdas:FI373,5010429,SSAB Europe Oy,32585,Details
+EU507676,10-2,2019-04-09 14:37:10.904,Completed,Sweden,100,PC Gästgivaren,5001935,Solör Bioenergi Fjärrvärme AB,European Commission,100,EU Allowance deletion,5016380,European Commission,2,Details
+EU501338,10-2,2019-04-09 14:37:10.852,Completed,Sweden,100,Dalby,5027782,Kraftringen Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,65,Details
+EU509410,10-2,2019-04-09 14:36:22.329,Completed,France,100,ESSITY OPERATIONS FRANCE - GIEN,5005698,ESSITY OPERATIONS FRANCE,European Commission,100,EU Allowance deletion,5016380,European Commission,89622,Details
+EU509433,10-72,2019-04-09 14:35:06.907,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Sweden,100,Igelsta Kraftvärmeverk,5001812,Söderenergi AB,5446,Details
+EU507677,10-2,2019-04-09 14:34:59.791,Completed,Sweden,100,PC Sågen,5002127,Solör Bioenergi Fjärrvärme AB,European Commission,100,EU Allowance deletion,5016380,European Commission,110,Details
+EU508932,10-2,2019-04-09 14:34:54.142,Completed,Italy,100,conto San Vito al Tagliamento EUA,5012665,VETRI SPECIALI S.p.A,European Commission,100,EU Allowance deletion,5016380,European Commission,43535,Details
+EU509050,10-71,2019-04-09 14:34:09.606,Completed,Sweden,100,Igelsta Kraftvärmeverk,5001812,Söderenergi AB,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,5446,Details
+EU509420,10-2,2019-04-09 14:34:06.536,Completed,Germany,100,984 - Anlagenkonto,5014116,Stadtwerke Bochum Holding GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,85791,Details
+FI92783,3-0,2019-04-09 14:33:07.655,Completed,Finland,121,COF,5016487,Climate Opportunity Fund Ky,Estonia,100,Eesti Energia Trading Account,5016951,Eesti Energia AS,37405,Details
+EU508940,10-2,2019-04-09 14:32:34.396,Completed,Italy,100,conto Pergine EUA,5012663,VETRI SPECIALI S.p.A,European Commission,100,EU Allowance deletion,5016380,European Commission,11655,Details
+EU508188,10-0,2019-04-09 14:32:26.732,Completed,Germany,100,Axpo Solutions AG,5017149,AXPO Solutions AG,Hungary,100,GlobalNRG,5027802,Global NRG Zrt,15000,Details

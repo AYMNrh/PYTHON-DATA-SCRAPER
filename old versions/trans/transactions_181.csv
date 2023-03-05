@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU517216,10-72,2019-04-23 14:36:24.326,Completed,European Commission,100,EU Credit Exchange Account - Aviation,5022592,EUROPEAN COMMISSION,Poland,100,Ryanair Sun S.A.,5027639,Ryanair Sun S.A.,987,Details
+EU517199,10-2,2019-04-23 14:35:42.379,Completed,Hungary,100,Operator Account:HU17,5011657,BC-Erõmû Kft.,European Commission,100,EU Allowance deletion,5016380,European Commission,296881,Details
+EU517130,10-2,2019-04-23 14:35:32.854,Completed,France,100,VALTI,5022607,VALTI,European Commission,100,EU Allowance deletion,5016380,European Commission,8548,Details
+EU515765,10-2,2019-04-23 14:35:26.119,Completed,Spain,100,"Essity Operations Allo, S.L.",5009293,"Essity Operations Allo, S.L.",European Commission,100,EU Allowance deletion,5016380,European Commission,34294,Details
+EU516550,10-0,2019-04-23 14:35:26.117,Completed,Bulgaria,100,VMZ EAD Sopot-Iganovo,5016238,VMZ  EAD Sopot-Sopot,Bulgaria,100,VMZ  EAD Sopot-Sopot,5016237,VMZ  EAD Sopot-Sopot,2800,Details
+EU515893,10-0,2019-04-23 14:35:22.038,Completed,Spain,100,"Sistema Europeo de Negociación de Co2, S.L.",5020183,"SISTEMA EUROPEO DE NEGOCIACIÓN DE CO2, S.L.",Spain,100,"Keramex, SA",5019601,"Keramex, SA",349,Details
+EU517194,10-71,2019-04-23 14:34:59.861,Completed,Poland,100,Ryanair Sun S.A.,5027639,Ryanair Sun S.A.,European Commission,100,EU International Credit Account - Aviation,5022591,EUROPEAN COMMISSION,987,Details
+EU517015,10-0,2019-04-23 14:34:53.168,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Poland,100,CIEPŁOWNIA,5003082,Energa Ciepło Kaliskie Sp. z o.o.,2000,Details
+EU517208,10-0,2019-04-23 14:34:50.554,Completed,France,100,BNP PARIBAS,5027964,BNP PARIBAS,Netherlands,100,BNP Paribas London Branch,5027681,BNP Paribas London Branch,901000,Details
+EU517204,10-0,2019-04-23 14:33:34.38,Completed,France,100,BNP PARIBAS,5027964,BNP PARIBAS,France,100,SVD 38,5024626,SVD 38,6000,Details
+EU517016,10-0,2019-04-23 14:33:32.727,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,France,100,ARKIA ISRAELI AIRLINES LTD,5019786,ARKIA ISRAELI  AIRLINES LTD,473,Details
+EU517008,10-0,2019-04-23 14:31:43.881,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Belgium,100,404 LES ENROBES DU CENTRE,5022297,LES ENROBES DU CENTRE,3000,Details
+EU517165,10-2,2019-04-23 14:30:38.568,Completed,Netherlands,100,"McCain Foods Holland B.V., vestiging Lelystad",5011540,McCain Foods Holland B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,26682,Details
+EU517169,10-2,2019-04-23 14:28:52.763,Completed,Netherlands,100,"McCain Foods Holland B.V., vestiging Lewedorp",5011541,McCain Foods Holland B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,15280,Details
+EU513056,10-2,2019-04-23 14:28:33.669,Completed,Netherlands,100,Alco Energy Rotterdam BV,5011192,Alco Energy Rotterdam B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,340144,Details
+EU515895,10-0,2019-04-23 14:28:04.703,Completed,United Kingdom,100,Thames Water - Beckton,5008529,Thames Water Utilities Limited,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,50000,Details
+EU517196,10-0,2019-04-23 14:26:58.708,Completed,Slovenia,100,Belektron TRD Si,5016820,BELEKTRON d.o.o.,Germany,100,Anlagenkonto EO-Anlage,5018837,Sasol Germany GmbH,2905,Details
+EU517193,10-0,2019-04-23 14:26:03.526,Completed,Slovenia,100,Belektron TRD Si,5016820,BELEKTRON d.o.o.,Germany,100,Sasol Germany Produktionskomplex BB,5022715,Sasol Germany GmbH,8223,Details
+EU516402,10-0,2019-04-23 14:23:34.85,Completed,France,100,EUROVIA GPI TSM 25 MAJOR,5023208,EUROVIA GRANDS PROJETS FRANCE,France,100,EUROVIA GRANDS PROJETS FRANCE- TSMR28,5023052,EUROVIA GRANDS PROJETS FRANCE,1747,Details
+EU517179,10-2,2019-04-23 14:22:43.882,Completed,Denmark,100,Billund Varmeværk,5006178,Billund Varmeværk A.m.b.a.,European Commission,100,EU Allowance deletion,5016380,European Commission,508,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU487176,10-36,2019-02-22 01:34:18.47,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Moskogen,5001881,Kalmar Energi Värme AB,29969,Details
+EU487175,10-36,2019-02-22 01:34:18.432,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Axeln,5002124,Alvesta Energi AB,7279,Details
+EU487135,10-36,2019-02-22 01:34:18.425,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Ålidhems värmeverk,5002260,Umeå Energi AB,10615,Details
+EU487148,10-36,2019-02-22 01:34:18.393,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,"Ovako Steel AB, Hofors",5001508,Ovako Sweden AB,79412,Details
+EU487142,10-36,2019-02-22 01:34:18.382,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,PC Edsbyverken,5002204,Solör Bioenergi Fjärrvärme AB,3557,Details
+EU487180,10-36,2019-02-22 01:34:18.352,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Krongårdens värmeverk,5002237,Trollhättan Energi AB,2981,Details
+EU487171,10-36,2019-02-22 01:34:18.339,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Slovenia,100,KOMUNALA TRBOVLJE,5008670,"KOMUNALA TRBOVLJE, D.O.O.",3872,Details
+EU487145,10-36,2019-02-22 01:34:18.313,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Sysav,5020368,"Sydskånes avfallsaktiebolag, SYSAV",103367,Details
+EU487178,10-36,2019-02-22 01:34:18.296,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Harven,5002098,Skara Energi AB,3446,Details
+EU487149,10-36,2019-02-22 01:34:18.272,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Österby P1,5001639,Gotlands Energi AB,4846,Details
+EU487132,10-36,2019-02-22 01:34:18.257,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Eksjö Industri AB,5001638,Eksjö Industri AB,1417,Details
+EU487172,10-36,2019-02-22 01:34:18.226,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,PC Orsa Gamla,5001938,Adven Energilösningar AB,302,Details
+EU487133,10-36,2019-02-22 01:34:18.212,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Stena Aluminium AB,5019167,Stena Aluminium AB,3643,Details
+EU487155,10-36,2019-02-22 01:34:18.174,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Värmecentralen,5001973,Nybro Värmecentral AB,15618,Details
+EU487369,10-36,2019-02-22 01:34:02.557,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Gyproc AB,5001870,Saint-Gobain Sweden AB,16333,Details
+EU487363,10-36,2019-02-22 01:34:02.132,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,HVC Granskär,5002179,Söderhamn NÄRA AB,12772,Details
+EU487367,10-36,2019-02-22 01:34:02.131,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Effektvägen,5001664,E.ON MälarKraft Värme AB,1657,Details
+EU487368,10-36,2019-02-22 01:34:02.063,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Hjalmar Lundbohmskolan oljeanläggning,5001807,Kiruna kraft AB,24,Details
+EU487361,10-36,2019-02-22 01:34:01.937,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,HVC Sallerup,5001727,Kraftringen Energi AB,371,Details
+EU487358,10-36,2019-02-22 01:34:01.905,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,HVC Stilleryd,5002046,Karlshamn Energi AB,335,Details

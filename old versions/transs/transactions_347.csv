@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU507631,10-2,2019-04-16 09:42:58.22,Completed,Spain,100,"Halcón Cerámicas, S.L.",5024742,"Halcón Cerámicas, S.L.",European Commission,100,EU Allowance deletion,5016380,European Commission,42445,Details
+EU514055,10-2,2019-04-16 09:41:41.658,Completed,Germany,100,PE-HD Produktionsanlage,5027290,Basell Polyolefine GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,135,Details
+EU514038,10-2,2019-04-16 09:40:52.443,Completed,Romania,100,Operator Account,5010026,SC CET Govora SA,European Commission,100,EU Allowance deletion,5016380,European Commission,644630,Details
+EU507651,10-2,2019-04-16 09:40:28.722,Completed,Spain,100,"Halcón Cerámicas, S.L.(II)",5018010,"Halcón Cerámicas, S.L.",European Commission,100,EU Allowance deletion,5016380,European Commission,28658,Details
+EU514021,10-2,2019-04-16 09:39:55.871,Completed,Germany,100,OS-Anlage mit Dampfkessel PP,5014820,Basell Polyolefine GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,8957,Details
+EU514001,10-2,2019-04-16 09:38:31.648,Completed,Austria,100,FHKW Nord StW St. Pölten,5004104,Fernwärme St. Pölten GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,32342,Details
+EU514045,10-2,2019-04-16 09:38:27.252,Completed,Germany,100,HDPE-Anlage OG2,5026899,Basell Polyolefine GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,108,Details
+EU513950,10-2,2019-04-16 09:38:14.115,Completed,Sweden,100,Krackeranläggningen,5001437,Borealis AB,European Commission,100,EU Allowance deletion,5016380,European Commission,636536,Details
+EU513952,10-2,2019-04-16 09:37:20.349,Completed,Sweden,100,Polyetenanläggningen,5001438,Borealis AB,European Commission,100,EU Allowance deletion,5016380,European Commission,27289,Details
+EU514023,10-2,2019-04-16 09:37:15.191,Completed,Germany,100,Ethylenanlage OM6,5015909,Basell Polyolefine GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,732685,Details
+EU507654,10-2,2019-04-16 09:36:27.487,Completed,Spain,100,"Halcón Cerámicas, S.L.",5019043,"Halcón Cerámicas, S.L.",European Commission,100,EU Allowance deletion,5016380,European Commission,21247,Details
+EU514034,10-2,2019-04-16 09:34:32.755,Completed,Germany,100,HDPE Polymerisation Mümü,5019185,Basell Polyolefine GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,1722,Details
+EU512820,10-2,2019-04-16 09:34:32.678,Completed,Sweden,100,Arninge Pellets och Eo1,5024699,E.ON Energiinfrastruktur AB,European Commission,100,EU Allowance deletion,5016380,European Commission,213,Details
+EU514014,10-2,2019-04-16 09:33:28.696,Completed,Italy,100,Operator Account,5013347,Lfoundry S.r.l.,European Commission,100,EU Allowance deletion,5016380,European Commission,76221,Details
+EU512823,10-2,2019-04-16 09:32:44.703,Completed,Sweden,100,Åva fjärrvärmeanläggning,5024700,E.ON Energiinfrastruktur AB,European Commission,100,EU Allowance deletion,5016380,European Commission,121,Details
+EU510088,10-2,2019-04-16 09:32:40.966,Completed,Italy,100,Operator Account,5012642,Unigrà Srl,European Commission,100,EU Allowance deletion,5016380,European Commission,85032,Details
+EU514026,10-2,2019-04-16 09:32:11.537,Completed,Germany,100,Ethylenanlage OM4,5015911,Basell Polyolefine GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,384601,Details
+EU510794,10-2,2019-04-16 09:31:26.872,Completed,Spain,100,"Halcón Cerámicas, S.L.- Centro 1",5022780,"Halcón Cerámicas, S.L.",European Commission,100,EU Allowance deletion,5016380,European Commission,12255,Details
+EU512827,10-2,2019-04-16 09:31:08.04,Completed,Sweden,100,MPC Brandstation,5027723,E.ON Energiinfrastruktur AB,European Commission,100,EU Allowance deletion,5016380,European Commission,19,Details
+EU514020,10-2,2019-04-16 09:29:00.937,Completed,Germany,100,Dampfkessel Wesseling,5014960,Basell Polyolefine GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,666491,Details

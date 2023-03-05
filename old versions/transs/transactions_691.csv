@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU506987,10-0,2019-04-05 10:01:30.242,Completed,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,Slovakia,100,"U. S. Steel Košice, s.r.o.-FE",5026051,"U. S. Steel Košice, s.r.o.",5000,Details
+EU507061,10-2,2019-04-05 10:01:18.877,Completed,Germany,100,906 - Anlagenkonto,5013897,Rain Biomasse Wärmegesellschaft mbH,European Commission,100,EU Allowance deletion,5016380,European Commission,3111,Details
+EU507000,10-0,2019-04-05 10:01:12.814,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Slovenia,100,Belektron TRD Si,5016820,BELEKTRON d.o.o.,46500,Details
+EU507011,10-0,2019-04-05 10:01:12.814,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,France,100,Thermal Ceramics de France Saint Marcellin,5023726,Thermal Ceramics de France SASU,700,Details
+EU507092,10-0,2019-04-05 10:01:04.362,Completed,Romania,100,TDR Energy SRL,5024160,TDR Energy SRL,Slovenia,100,Belektron TRD Si,5016820,BELEKTRON d.o.o.,5000,Details
+EU506674,10-71,2019-04-05 10:00:18.753,Completed,France,100,EDF - CENTRALE LE HAVRE,5005648,EDF SA,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,472292,Details
+EU506154,10-2,2019-04-05 09:59:00.869,Completed,Spain,100,Azuliber I S.L.,5009630,"AZULIBER 1, S.L.",European Commission,100,EU Allowance deletion,5016380,European Commission,109920,Details
+EU507116,10-72,2019-04-05 09:58:56.205,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,France,100,CPTE EDF TAC Baie,5005193,EDF SA,23930,Details
+EU506681,10-71,2019-04-05 09:57:48.238,Completed,France,100,CPTE EDF TAC Baie,5005193,EDF SA,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,23930,Details
+EU507079,10-2,2019-04-05 09:57:32.066,Completed,Greece,100,TOSOH HELLAS A.I.C,5020584,TOSOH HELLAS A.I.C,European Commission,100,EU Allowance deletion,5016380,European Commission,22174,Details
+EU507113,10-72,2019-04-05 09:57:21.936,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,France,100,CPTE EDF BELLEFONTAINE A,5005517,EDF SA,2,Details
+EU507094,10-2,2019-04-05 09:56:48.634,Completed,Belgium,100,205 Usine de Namêche,5004604,Dolomies de Marche-les-Dames,European Commission,100,EU Allowance deletion,5016380,European Commission,232598,Details
+EU506684,10-71,2019-04-05 09:56:33.976,Completed,France,100,CPTE EDF BELLEFONTAINE A,5005517,EDF SA,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,2,Details
+EU507107,10-72,2019-04-05 09:56:19.279,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,France,100,CPTE EDF Pointe des Carrières,5005518,EDF SA,4,Details
+EU506687,10-71,2019-04-05 09:55:13.38,Completed,France,100,CPTE EDF Pointe des Carrières,5005518,EDF SA,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,4,Details
+EU507102,10-72,2019-04-05 09:55:00.182,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,France,100,CPTE EDF - Jarry Sud,5005534,EDF SA,3,Details
+EU507074,10-2,2019-04-05 09:54:25.991,Completed,Belgium,100,248 GSK Rixensart,5004649,GlaxoSmithKline Biologicals,European Commission,100,EU Allowance deletion,5016380,European Commission,18915,Details
+EU506691,10-71,2019-04-05 09:53:53.299,Completed,France,100,CPTE EDF - Jarry Sud,5005534,EDF SA,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,3,Details
+EU507066,10-2,2019-04-05 09:52:13.702,Completed,Belgium,100,279 GSK Wavre,5004292,GlaxoSmithKline Biologicals,European Commission,100,EU Allowance deletion,5016380,European Commission,26392,Details
+EU504521,10-2,2019-04-05 09:52:09.165,Completed,Finland,100,Karjalahti:FI179,5010962,Kemin Energia ja Vesi Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,32812,Details

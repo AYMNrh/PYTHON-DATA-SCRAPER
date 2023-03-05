@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU503325,10-2,2019-04-02 07:13:23.181,Completed,Finland,100,Tuukkalan lämpökeskus,5022815,Etelä-Savon Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,1,Details
+EU503329,10-2,2019-04-02 07:12:09.544,Completed,Finland,100,Otava:FI654,5010678,Etelä-Savon Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,29,Details
+EU503346,10-2,2019-04-02 07:10:49.657,Completed,Finland,100,ROKKALA:FI573,5010619,Etelä-Savon Energia Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,226,Details
+EU503932,10-2,2019-04-02 07:09:12.235,Completed,Germany,100,1089 - Anlagenkonto,5014318,Opel Automobile GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,12365,Details
+EU502457,10-2,2019-04-01 21:32:54.438,Completed,Ireland,100,Operator Account,5011996,Huntstown Power Company Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,497590,Details
+EU502465,10-2,2019-04-01 21:30:36.103,Completed,Ireland,100,Huntstown Power Station Phase II OHA,5012045,Energia Power Generation Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,545825,Details
+EU504142,10-2,2019-04-01 21:15:21.966,Completed,Belgium,100,327 Tessenderlo Chemie - Ham,5004420,Tessenderlo Group,European Commission,100,EU Allowance deletion,5016380,European Commission,102361,Details
+EU503897,10-2,2019-04-01 18:28:58.863,Completed,Spain,100,Cal de Castilla S.A.,5008819,Cal de Castilla S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,116171,Details
+EU503909,10-2,2019-04-01 18:26:11.658,Completed,Spain,100,Cales de la Plana S.A,5009006,"Cales de la Plana, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,50592,Details
+EU504124,10-2,2019-04-01 18:23:53.866,Completed,Spain,100,Cerámica Zaratán S.A.,5008951,"CERÁMICA ZARATÁN, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,10100,Details
+EU502468,10-2,2019-04-01 18:20:18.758,Completed,Ireland,100,Google Ireland Limited OHA,5022390,Google Ireland Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,164,Details
+EU504121,10-2,2019-04-01 18:20:04.354,Completed,Spain,100,"Megasider Zaragoza, S.A.U.",5008781,"Megasider Zaragoza, S.A.U.",European Commission,100,EU Allowance deletion,5016380,European Commission,36963,Details
+EU504123,10-2,2019-04-01 18:17:54.97,Completed,Spain,100,"Megasa Siderúrgica, S.L.",5009650,"Megasa Siderúrgica, S.L.",European Commission,100,EU Allowance deletion,5016380,European Commission,30943,Details
+EU502522,10-2,2019-04-01 18:10:02.946,Completed,Belgium,100,410 Crystal Computing,5023001,Crystal Computing,European Commission,100,EU Allowance deletion,5016380,European Commission,613,Details
+EU503130,10-0,2019-04-01 17:58:55.907,Completed,Italy,100,Ospedale UDINE,5012399,SIRAM SPA,Italy,100,Operator Account,5012376,SIRAM SPA,4252,Details
+EU503126,10-0,2019-04-01 17:55:35.913,Completed,Italy,100,Ospedale UDINE,5012399,SIRAM SPA,Italy,100,Operator Account,5012374,SIRAM SPA,5537,Details
+EU504117,10-2,2019-04-01 17:55:22.115,Completed,Spain,100,"Ercros, S.A ( Almussafes)",5009533,"Ercros, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,32116,Details
+EU503121,10-0,2019-04-01 17:52:50.254,Completed,Italy,100,Ospedale UDINE,5012399,SIRAM SPA,Italy,100,Operator Account,5012373,SIRAM SPA,14021,Details
+EU502074,10-2,2019-04-01 17:45:08.084,Completed,France,100,PAPETERIES DU LEMAN,5004967,PAPETERIES DU LEMAN (PDL),European Commission,100,EU Allowance deletion,5016380,European Commission,1536,Details
+CDM57411,3-0,2019-04-01 17:44:59.089,Completed,CDM,110,,1000,,Sweden,100,Internationella klimatinsatser,5017396,Statens energimyndighet,26540,Details

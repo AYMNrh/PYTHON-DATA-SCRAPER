@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU478945,10-0,2018-12-24 12:09:26.49,Completed,Sweden,100,AB Karl Hedin Sågverk Krylbo,5022756,AB Karl Hedin Sågverk,Sweden,100,Modity Energy Trading AB,5017168,Modity Energy Trading AB,5000,Details
+GB72677,3-0,2018-12-24 12:08:21.004,Completed,United Kingdom,121,Numerco Limited,5026108,Numerco Limited,United Kingdom,100,Numerco Limited,5025480,Numerco Limited,20000,Details
+EU478817,10-0,2018-12-24 12:07:46.749,Completed,United Kingdom,100,FGT,5007375,Ford Global Treasury,Germany,100,Ford Cologne Vehicle Operations,5017901,Ford-Werke GmbH,6100,Details
+NL31889,3-0,2018-12-24 12:07:36.392,Completed,Netherlands,121,ACT Carbon,778,ACT Financial Solutions B.V.,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,264011,Details
+EU478786,10-0,2018-12-24 12:07:30.582,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,United Kingdom,100,BP Gas Marketing Limited (2),5017286,BP Gas Marketing Limited,50000,Details
+EU478815,10-0,2018-12-24 12:06:35.199,Completed,United Kingdom,100,FGT,5007375,Ford Global Treasury,Germany,100,BHKW Fordwerke Saarlouis,5024805,Ford-Werke GmbH,12500,Details
+EU478398,10-0,2018-12-24 12:05:15.555,Completed,France,100,NOVACOGE,5004889,NOVACARB,France,100,CPTE NOVACARB,5004886,NOVACARB,35000,Details
+EU478801,10-0,2018-12-24 12:04:11.254,Completed,United Kingdom,100,VIRTUS,5025119,Virtus Hayes Limited,United Kingdom,100,Stockley Park LON5,5027628,Virtus LONDON 5 Limited,1,Details
+EU478788,10-0,2018-12-24 12:03:49.037,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,25000,Details
+EU478792,10-0,2018-12-24 12:03:44.088,Completed,Slovenia,100,KOTOCO2,5008674,KOTO d.o.o.,Slovenia,100,Belektron TRD Si,5016820,BELEKTRON d.o.o.,4670,Details
+EU478789,10-0,2018-12-24 12:03:37.138,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,50000,Details
+EU478793,10-0,2018-12-24 12:02:18.485,Completed,United Kingdom,100,First Choice Holidays Finance ltd,5008420,First Choice Holidays Finance ltd,Belgium,100,30011.TUI AIRLINES BELGIUM,5017391,TUI AIRLINES BELGIUM,72000,Details
+EU478794,10-0,2018-12-24 12:01:44.426,Completed,United Kingdom,100,First Choice Holidays Finance ltd,5008420,First Choice Holidays Finance ltd,Belgium,100,30011.TUI AIRLINES BELGIUM,5017391,TUI AIRLINES BELGIUM,4500,Details
+EU478802,10-0,2018-12-24 12:00:58.171,Completed,United Kingdom,100,Virtus Holdco Limited,5022961,Virtus Holdco Limited,United Kingdom,100,Stockley Park LON5,5027628,Virtus LONDON 5 Limited,9,Details
+EU479305,10-0,2018-12-24 11:39:58.866,Completed,United Kingdom,100,Gazprom Marketing & Trading Retail (Trading Account),5017319,Gazprom Marketing & Trading Retail Ltd,United Kingdom,100,Operator Account,5007082,Loughborough University,8000,Details
+EU479296,10-0,2018-12-24 11:38:48.553,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Belgium,100,303 EDFL - Seraing,5004316,Luminus,52104,Details
+EU479307,10-0,2018-12-24 11:38:44.781,Completed,United Kingdom,100,Gazprom Marketing & Trading Retail (Trading Account),5017319,Gazprom Marketing & Trading Retail Ltd,United Kingdom,100,Simpsons Malt Limited,5021740,Simpsons Malt Limited,3000,Details
+EU479308,10-0,2018-12-24 11:37:30.317,Completed,United Kingdom,100,Gazprom Marketing & Trading Retail (Trading Account),5017319,Gazprom Marketing & Trading Retail Ltd,United Kingdom,100,Beatson EUETS Trading,5007781,Beatson Clark Limited,20000,Details
+EU479297,10-0,2018-12-24 11:37:25.696,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,Belgium,100,303 EDFL - Seraing,5004316,Luminus,70377,Details
+EU479180,10-0,2018-12-24 11:34:06.981,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Bulgaria,100,Bulgarian Energy Holding EAD,5026019,Bulgarian Energy Holding EAD,450000,Details

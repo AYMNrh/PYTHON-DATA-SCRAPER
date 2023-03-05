@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU480681,10-0,2019-01-14 12:29:10.105,Completed,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,291000,Details
+EU480688,10-0,2019-01-14 12:28:51.014,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Greece,100,MOTOKOR,5016949,ΜΟΤΟΡ ΟΙΛ - Δ. ΚΟΡΙΝΘΟΥ,5000,Details
+EU480691,10-0,2019-01-14 12:27:24.821,Completed,France,100,MERCURIA ENERGY TRADING SA,5016876,MERCURIA ENERGY TRADING SA,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,150000,Details
+EU480689,10-0,2019-01-14 12:24:34.292,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Ireland,100,Operator Account,5011941,Edenderry Power Limited,25000,Details
+EU480656,10-0,2019-01-14 12:18:57.558,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,50500,Details
+EU480657,10-0,2019-01-14 12:17:06.219,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,320000,Details
+EU480658,10-0,2019-01-14 12:14:39.247,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Italy,100,CONTO SCAMBIO IEN,5024606,Iren Energia S.p.A.,36000,Details
+CDM56496,3-0,2019-01-14 12:12:17.973,Completed,CDM,110,,1000,,Netherlands,121,Carbon Rooster,5027591,Carbon Rooster Advisory Services B.V.,285858,Details
+EU480659,10-0,2019-01-14 12:11:52.862,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,125000,Details
+EU480683,10-0,2019-01-14 12:10:46.026,Completed,Poland,100,mBank S.A.,5023148,mBank S.A.,Poland,100,ELEKTROCIEPŁOWNIA,5002802,Grupa Azoty S.A.,65000,Details
+EU480530,10-0,2019-01-14 12:07:47.858,Completed,Germany,100,ECC AG Auction Delivery Account EU,5016991,European Commodity Clearing AG,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,2495000,Details
+EU480517,10-0,2019-01-14 12:07:00.561,Completed,United Kingdom,100,Operator Account,5008618,SembCorp Utilities (UK) Limited,United Kingdom,100,Bristol Road Power Station,5025761,UK Power Reserve Limited,21600,Details
+EU480526,10-0,2019-01-14 12:02:15.12,Completed,Germany,100,549 - Anlagenkonto,5015595,Kabel Premium Pulp & Paper GmbH,Germany,100,Bayern LB,5016942,Bayerische Landesbank,67000,Details
+EU480476,10-0,2019-01-14 12:02:00.94,Completed,Germany,100,812 - Anlagenkonto,5015544,Energieversorgung Oberhausen AG,Germany,100,RWE Vertrieb AG Retail - Trading,5017190,innogy SE,4855,Details
+EU480682,10-0,2019-01-14 11:59:58.384,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Iceland,100,Icelandair,5000334,Icelandair ehf.,10000,Details
+EU480568,10-0,2019-01-14 11:51:59.691,Completed,Greece,100,KORINTHOS POWER,5016838,KORINTHOS POWER SA,Greece,100,KORINTHOS POWER,5016731,KORINTHOS POWER SA,29000,Details
+EU480632,10-0,2019-01-14 11:45:26.175,Completed,Poland,100,TAURON Polska Energia S.A.,5019474,TAURON Polska Energia S.A.,Poland,100,Elektrociepłownia PCC Rokita SA,5002783,PCC Rokita SA,1000,Details
+EU480676,10-0,2019-01-14 11:44:26.624,Completed,Poland,100,TAURON Polska Energia S.A.,5019474,TAURON Polska Energia S.A.,Poland,100,Elektrociepłownia PCC Rokita SA,5002783,PCC Rokita SA,1000,Details
+EU480667,10-0,2019-01-14 11:43:21.29,Completed,Spain,100,FUTURA CARBONO S.L.,5024181,FUTURA CARBONO S.L.,Portugal,100,"Enerlousado, Recursos Energéticos Unipessoal, Lda",5003147,"Enerlousado, Recursos Energéticos Lda",1000,Details
+EU480662,10-0,2019-01-14 11:42:46.499,Completed,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,5000000,Details

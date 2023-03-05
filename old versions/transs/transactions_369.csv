@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU513617,10-71,2019-04-15 16:21:17.31,Completed,Italy,100,coppolaspa,5013247,Coppola S.p.a.,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,138,Details
+EU512127,10-0,2019-04-15 16:21:00.205,Completed,Italy,100,Taranto,5012598,Acciaierie d'Italia S.p.A.,Italy,100,conto di scambio,5017619,Acciaierie d'Italia S.p.A.,4693674,Details
+EU512066,10-0,2019-04-15 16:20:37.253,Completed,Spain,100,Fábrica Azucarera de Olmedo,5009710,Sociedad Cooperativa General Agropecuaria-ACOR,Spain,100,S.C.G.A. Acor. Fábrica de producción de biodiesel,5009507,Sociedad Cooperativa General Agropecuaria-ACOR,19807,Details
+EU510602,10-2,2019-04-15 16:20:22.612,Completed,Germany,100,HCAG_Zementwerk Ennigerloh,5013958,HeidelbergCement AG,European Commission,100,EU Allowance deletion,5016380,European Commission,492589,Details
+EU513638,10-2,2019-04-15 16:20:01.178,Completed,Norway,100,Aker BP ASA Edvard Grieg,5024034,Aker BP ASA,European Commission,100,EU Allowance deletion,5016380,European Commission,467,Details
+EU512439,10-0,2019-04-15 16:19:38.72,Completed,Austria,100,Borealis AG,5020105,Borealis AG,Belgium,100,221 Borealis - Kallo,5004620,Borealis Kallo,224554,Details
+EU512438,10-0,2019-04-15 16:19:22.777,Completed,Netherlands,100,LYB TC,5011220,LYB Trading Company B.V.,Germany,100,HDPE-Anlage OL4,5026900,Basell Polyolefine GmbH,400,Details
+EU510608,10-2,2019-04-15 16:18:05.996,Completed,Germany,100,HCAG_Zementwerk Geseke,5013962,HeidelbergCement AG,European Commission,100,EU Allowance deletion,5016380,European Commission,671875,Details
+EU512434,10-0,2019-04-15 16:17:38.37,Completed,Netherlands,100,LYB TC,5011220,LYB Trading Company B.V.,Germany,100,LDPE-Anlage OT4,5026901,Basell Polyolefine GmbH,1800,Details
+EU508013,10-2,2019-04-15 16:16:15.008,Completed,Sweden,100,Ovako Bar AB,5001492,Ovako Bar AB,European Commission,100,EU Allowance deletion,5016380,European Commission,44679,Details
+EU512431,10-0,2019-04-15 16:16:13.333,Completed,Austria,100,Borealis AG,5020105,Borealis AG,Belgium,100,281 Borealis Polymers - Beringen,5004294,Borealis Polymers,46911,Details
+EU510612,10-2,2019-04-15 16:15:56.203,Completed,Germany,100,HCAG_Zementwerk Paderborn,5013966,HeidelbergCement AG,European Commission,100,EU Allowance deletion,5016380,European Commission,260421,Details
+EU513589,10-2,2019-04-15 16:15:50.122,Completed,France,100,ENERGIE GRAND LITTORAL,5005323,ENERGIE GRAND LITTORAL,European Commission,100,EU Allowance deletion,5016380,European Commission,8110,Details
+EU512430,10-0,2019-04-15 16:15:46.139,Completed,Sweden,100,Dåva KVV,5001863,Umeå Energi AB,Sweden,100,PC Holmsund Tornfalken,5001912,Umeå Energi AB,8,Details
+EU512429,10-0,2019-04-15 16:15:37.502,Completed,Netherlands,100,LYB TC,5011220,LYB Trading Company B.V.,Germany,100,Tanklager D/E Feld und J500 Feld,5019119,Basell Polyolefine GmbH,191900,Details
+EU513595,10-2,2019-04-15 16:15:06.129,Completed,France,100,MONS ENERGIE,5005282,MONS ENERGIE,European Commission,100,EU Allowance deletion,5016380,European Commission,6750,Details
+EU508022,10-2,2019-04-15 16:13:39.751,Completed,Sweden,100,"Ovako Bar AB, Boxholm",5001830,Ovako Bar AB,European Commission,100,EU Allowance deletion,5016380,European Commission,24786,Details
+EU513611,10-2,2019-04-15 16:13:28.065,Completed,Italy,100,Itelyum Regeneration S.p.A. Stabilimento di Ceccano,5021850,ITELYUM REGENERATION SPA,European Commission,100,EU Allowance deletion,5016380,European Commission,29299,Details
+EU510615,10-2,2019-04-15 16:13:26.493,Completed,Germany,100,HCAG_Zementwerk Lengfurt,5013985,HeidelbergCement AG,European Commission,100,EU Allowance deletion,5016380,European Commission,728759,Details
+EU512426,10-0,2019-04-15 16:13:19.182,Completed,Netherlands,100,LYB TC,5011220,LYB Trading Company B.V.,Germany,100,Dampfkessel Wesseling,5014960,Basell Polyolefine GmbH,572900,Details

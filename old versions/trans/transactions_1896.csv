@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU480846,10-0,2019-01-17 12:04:07.287,Completed,Italy,100,Operator Account,5012811,Unicalce S.p.A.,Italy,100,Operator Account,5012635,Unicalce S.p.A.,30000,Details
+EU480853,10-0,2019-01-17 12:03:33.274,Completed,United Kingdom,100,Operator Account,5008176,Ineos Chemicals Grangemouth Limited,Belgium,100,9013 INEOS EUROPE AG,5027610,INEOS EUROPE AG,900000,Details
+EU480845,10-0,2019-01-17 12:03:29.863,Completed,Italy,100,Operator Account,5012811,Unicalce S.p.A.,Italy,100,Operator Account,5012630,Unicalce S.p.A.,50000,Details
+EU480863,10-0,2019-01-17 12:03:28.449,Completed,Germany,100,ECC AG Auction Delivery Account EU,5016991,European Commodity Clearing AG,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,2495000,Details
+EU480855,10-0,2019-01-17 12:01:37.951,Completed,United Kingdom,100,Operator Account,5008527,Centrica Storage Limited,United Kingdom,100,British Gas Trading Limited,5008001,British Gas Trading Limited,1,Details
+EU480862,10-0,2019-01-17 12:00:31.176,Completed,Germany,100,Stadtwerke Osnabrück AG,5013826,Stadtwerke Osnabrück AG,Germany,100,Anlagenkonto TKL GmbH & Co. KG,5013872,Trianel Kohlekraftwerk Lünen GmbH & Co. KG,10715,Details
+CDM56559,3-0,2019-01-17 11:53:29.037,Completed,CDM,110,,1000,,Sweden,121,NEFCO Carbon Fund,925,Nordic Environment Finance Corporation,22430,Details
+CDM56558,3-0,2019-01-17 11:52:44.536,Completed,CDM,110,,1000,,Norway,121,Nordic Environment Finance Cooperation (NEFCO),5023264,Nordic Environment Finance Cooperation (NEFCO),211803,Details
+EU481016,10-0,2019-01-17 11:27:17.042,Completed,Netherlands,100,AET - Azienda Elettrica Ticinese,5020195,Azienda Elettrica Ticinese,Germany,100,Anlagenkonto TKL GmbH & Co. KG,5013872,Trianel Kohlekraftwerk Lünen GmbH & Co. KG,40000,Details
+EU481008,10-0,2019-01-17 10:56:06.713,Completed,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,Slovakia,100,"U. S. Steel Košice, s.r.o.-FE",5026051,"U. S. Steel Košice, s.r.o.",13000,Details
+EU481012,10-0,2019-01-17 10:47:09.815,Completed,Poland,100,TAURON Polska Energia S.A.,5019474,TAURON Polska Energia S.A.,Poland,100,Elektrociepłownia PCC Rokita SA,5002783,PCC Rokita SA,1000,Details
+EU481014,10-0,2019-01-17 10:46:40.14,Completed,Germany,100,KWE Handelskonto,5018216,VSE Aktiengesellschaft,Germany,100,innogy SE,5017191,innogy SE,11881,Details
+EU481007,10-0,2019-01-17 10:34:31.208,Completed,Germany,100,BASF Group - Hub,5016965,BASF SE,Germany,100,UniCredit Bank AG 3,5013781,UniCredit Bank AG,8900000,Details
+EU481009,10-0,2019-01-17 10:28:25.457,Completed,Czech Republic,100,"ČEZ, a.s. - obchodní účet",5016960,"ČEZ, a. s.",United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,100000,Details
+EU480974,10-0,2019-01-17 10:17:39.542,Completed,Germany,100,Statkraft Markets GmbH,5017011,Statkraft Markets GmbH,Germany,100,2060 - DB Energie GmbH Personenkonto,5015633,DB Energie GmbH,100000,Details
+EU481006,10-0,2019-01-17 10:14:28.525,Completed,Germany,100,KWE Handelskonto,5018216,VSE Aktiengesellschaft,Germany,100,Handelskonto,5018212,VSE Aktiengesellschaft,33688,Details
+EU480998,10-0,2019-01-17 10:09:55.781,Completed,France,100,SOCIETE GENERALE,5017623,SOCIETE GENERALE,Czech Republic,100,"Komerční banka, a.s. obchodní účet",5016819,"Komerční banka, a.s.",2000,Details
+EU480994,10-0,2019-01-17 10:09:30.721,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,30000,Details
+EU480962,10-0,2019-01-17 10:09:28.418,Completed,Germany,100,Bayern LB,5016942,Bayerische Landesbank,Czech Republic,100,"ČEZ, a.s. - obchodní účet",5016960,"ČEZ, a. s.",200000,Details
+EU480982,10-0,2019-01-17 10:09:24.15,Completed,United Kingdom,100,Hartree Partners Power & Gas,5024579,Hartree Partners Power & Gas Company (UK) Limited,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,100000,Details

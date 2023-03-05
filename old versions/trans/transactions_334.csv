@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU512936,10-0,2019-04-16 12:07:31.103,Completed,Hungary,100,Észak-budai Fűtőmű,5011669,BKM Nonprofit Zrt.,Hungary,100,CHP Erőmű Kft. - Újpalota,5011865,CHP-ERÕMÛ Kft.,47421,Details
+EU512812,10-0,2019-04-16 12:07:31.099,Completed,Germany,100,717 - Anlagenkonto,5014586,Stadtwerke Greifswald Gesellschaft mit beschränkter Haftung,Germany,100,SWG_Händler_Konto,5026459,Stadtwerke Greifswald Gesellschaft mit beschränkter Haftung,19000,Details
+EU512787,10-0,2019-04-16 12:07:29.835,Completed,Poland,100,Zakład Produkcyjny 4 Murcki,5003571,Dalkia Polska Energia S.A.,Poland,100,Zakład Produkcyjny 13 Szopienice,5003469,Dalkia Polska Energia S.A.,31912,Details
+EU512750,10-0,2019-04-16 12:07:19.347,Completed,Spain,100,"Ecotrade Solutions, S.L.",5022914,"Ecotrade Solutions, S.L.",Spain,100,Planta Termosolar Soluz-Guzmán,5017210,GUZMÁN ENERGÍA S.L.,2323,Details
+EU512770,10-0,2019-04-16 12:07:07.622,Completed,Poland,100,Zakład Produkcyjny 4 Murcki,5003571,Dalkia Polska Energia S.A.,Poland,100,Zakład Produkcyjny 2 Niwka Modrzejów,5002621,Dalkia Polska Energia S.A.,12481,Details
+EU497533,10-2,2019-04-16 12:07:02.777,Completed,Sweden,100,Kuggstången,5001740,Skellefteå Kraft AB,European Commission,100,EU Allowance deletion,5016380,European Commission,360,Details
+EU512689,10-0,2019-04-16 12:06:55.075,Completed,France,100,NOVAPEX,5022586,NOVAPEX,France,100,NOVACOGE,5004889,NOVACARB,30000,Details
+EU512687,10-0,2019-04-16 12:06:45.894,Completed,Spain,100,"Baicerám, S.L",5009768,"Baicerám, S.L",Spain,100,"Global Factor Commodity Trading, S.A.U.",5016901,"Global Factor Commodity Trading, S.A.U.",500,Details
+EU511507,10-0,2019-04-16 12:06:38.915,Completed,Belgium,100,089 Electrabel Turbo Jet back up Cierreux,5004488,Electrabel,Belgium,100,081 Electrabel - Turbojet Zedelgem,5004480,Electrabel,353,Details
+EU512775,10-0,2019-04-16 12:06:36.14,Completed,Hungary,100,Operator Account:HU54,5011691,ISD Dunaferr Zrt.,Hungary,100,Operator Account:HU52,5011925,ISD Dunaferr Zrt.,104625,Details
+EU512921,10-0,2019-04-16 12:06:33.085,Completed,Netherlands,100,USG handelsrekening,5011363,Utility Support Group (USG) B.V.,Netherlands,100,Amercentrale,5011265,RWE Generation NL B.V.,6834,Details
+EU512767,10-0,2019-04-16 12:06:27.012,Completed,Poland,100,Zakład Produkcyjny 4 Murcki,5003571,Dalkia Polska Energia S.A.,Poland,100,CIEPŁOWNIA KAZIMIERZ,5002618,Dalkia Polska Energia S.A.,8429,Details
+EU510841,10-0,2019-04-16 12:05:54.748,Completed,France,100,GLOBAL EDF,5005470,EDF SA,France,100,CPTE EDF KOUROU,5004822,EDF SA,47853,Details
+EU514126,10-2,2019-04-16 12:05:43.351,Completed,Latvia,100,Operator Account:LV12,5012079,AS „Latvenergo” TEC-2,European Commission,100,EU Allowance deletion,5016380,European Commission,836698,Details
+EU512749,10-0,2019-04-16 12:05:37.752,Completed,Spain,100,"Ecotrade Solutions, S.L.",5022914,"Ecotrade Solutions, S.L.",Spain,100,"Enerstar Villena, S.A.",5022704,"Enerstar Villena, S.A.",358,Details
+EU511493,10-0,2019-04-16 12:05:34.625,Completed,Belgium,100,089 Electrabel Turbo Jet back up Cierreux,5004488,Electrabel,Belgium,100,078 Electrabel - Turbojet Aalter,5004477,Electrabel,350,Details
+EU497535,10-2,2019-04-16 12:05:29.538,Completed,Sweden,100,Skellefteå lasarett,5001741,Skellefteå Kraft AB,European Commission,100,EU Allowance deletion,5016380,European Commission,205,Details
+EU512773,10-0,2019-04-16 12:05:26.57,Completed,Hungary,100,Operator Account:HU54,5011691,ISD Dunaferr Zrt.,Hungary,100,Operator Account:HU53,5011690,ISD Dunaferr Zrt.,9818,Details
+EU512810,10-0,2019-04-16 12:05:23.704,Completed,Romania,100,Operator Account,5010036,COMPANIA LOCALA DE TERMOFICARE COLTERM SA,Romania,100,TDR Energy SRL,5024160,TDR Energy SRL,26244,Details
+EU512908,10-0,2019-04-16 12:05:22.307,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Italy,100,Operator Account,5013244,CALCARTA SRL,756,Details

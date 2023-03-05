@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU504384,10-2,2019-04-12 09:43:29.191,Completed,Germany,100,"Hamburger Rieger, PF Spremberg",5013875,Hamburger Rieger GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,1714,Details
+EU511918,10-2,2019-04-12 09:43:29.191,Completed,Sweden,100,Kumla HVC,5002187,E.ON Energiinfrastruktur AB,European Commission,100,EU Allowance deletion,5016380,European Commission,1325,Details
+EU508153,10-71,2019-04-12 09:42:51.28,Completed,Portugal,100,ROCA SA,5021956,ROCA SA,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,4876,Details
+EU512015,10-71,2019-04-12 09:42:32.035,Completed,Italy,100,Cargolux Italia,5016434,Cargolux Italia S.p.A.,European Commission,100,EU International Credit Account - Aviation,5022591,EUROPEAN COMMISSION,228,Details
+EU512025,10-2,2019-04-12 09:42:15.817,Completed,Portugal,100,"76-GALLOVIDRO, S.A.",5004018,"GALLOVIDRO, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,80650,Details
+EU511921,10-2,2019-04-12 09:41:51.472,Completed,Sweden,100,Gasverkets fjärrcentral,5002182,E.ON Energiinfrastruktur AB,European Commission,100,EU Allowance deletion,5016380,European Commission,675,Details
+EU507724,10-2,2019-04-12 09:41:38.72,Completed,Germany,100,Hilfsdampfkessel (HDK) des EBS Heizkraftwerk Hamburger Rieger Spremberg,5022547,Hamburger Rieger GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,1641,Details
+EU511175,10-2,2019-04-12 09:41:07.35,Completed,France,100,Chaufferie du MIN de Rungis,5023486,ENGIE ENERGIE SERVICES,European Commission,100,EU Allowance deletion,5016380,European Commission,317,Details
+EU510668,10-2,2019-04-12 09:41:00.019,Completed,Germany,100,Kraftwerk Walheim,5014862,EnBW Energie Baden-Württemberg AG,European Commission,100,EU Allowance deletion,5016380,European Commission,46228,Details
+EU511924,10-2,2019-04-12 09:40:28.974,Completed,Sweden,100,Åbyverket,5002201,E.ON Energiinfrastruktur AB,European Commission,100,EU Allowance deletion,5016380,European Commission,71740,Details
+EU511183,10-2,2019-04-12 09:40:26.789,Completed,France,100,SCUC CHAUFFERIE LE PALAIS,5004836,Société de chauffage urbain de Créteil,European Commission,100,EU Allowance deletion,5016380,European Commission,2220,Details
+EU511661,10-2,2019-04-12 09:39:51.242,Completed,Italy,100,A2L ENERGY,5024615,A2L ENERGY S.R.L.,European Commission,100,EU Allowance deletion,5016380,European Commission,23132,Details
+EU511197,10-2,2019-04-12 09:39:45.706,Completed,France,100,SCUC CHAUFFERIE CT1,5004832,Société de chauffage urbain de Créteil,European Commission,100,EU Allowance deletion,5016380,European Commission,14087,Details
+EU511200,10-2,2019-04-12 09:39:10.642,Completed,France,100,ENERLIS,5004985,ENERLIS,European Commission,100,EU Allowance deletion,5016380,European Commission,19462,Details
+EU511202,10-2,2019-04-12 09:38:32.479,Completed,France,100,GEOVAL,5005346,GEOVAL,European Commission,100,EU Allowance deletion,5016380,European Commission,2393,Details
+EU511208,10-2,2019-04-12 09:37:40.556,Completed,France,100,IDF Chaufferie d'appoint secours CACHAN,5024495,DALKIA,European Commission,100,EU Allowance deletion,5016380,European Commission,3444,Details
+EU512021,10-2,2019-04-12 09:37:38.604,Completed,Spain,100,"Castellar Vidrio, S.A.",5009438,"Castellar Vidrio, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,70822,Details
+EU511213,10-2,2019-04-12 09:37:03.187,Completed,France,100,Chaufferie des Bellevues,5004962,CENERGY,European Commission,100,EU Allowance deletion,5016380,European Commission,19046,Details
+EU511218,10-2,2019-04-12 09:36:25.378,Completed,France,100,ARTOIS ENERGIES,5005257,ARTOIS ENERGIES,European Commission,100,EU Allowance deletion,5016380,European Commission,25526,Details
+EU511932,10-2,2019-04-12 09:36:04.485,Completed,Italy,100,ERGOSUD,5013118,ERGOSUD S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,868206,Details

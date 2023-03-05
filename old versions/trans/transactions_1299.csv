@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU489940,10-0,2019-03-04 12:02:09.789,Completed,Poland,100,Tłocznia Gazu Maćkowice,5018543,Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A.,Poland,100,Tłocznia Gazu Jeleniów,5025439,Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A.,160,Details
+EU489873,10-0,2019-03-04 12:01:46.07,Completed,Poland,100,Tłocznia Gazu Hołowczyce II,5018542,Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A.,Poland,100,Tłocznia Gazu Maćkowice,5018543,Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A.,830,Details
+EU492862,10-0,2019-03-04 12:01:43.251,Completed,Germany,100,RP PM 11,5013951,Rhein Papier GmbH,Finland,100,UPM CO2 exchange trading,5017691,UPM-Kymmene Oyj,18272,Details
+EU492722,10-0,2019-03-04 12:01:42.749,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,United Kingdom,100,Morgan Stanley Capital Group Inc,5017295,Morgan Stanley Capital Group Inc,50000,Details
+EU492709,10-0,2019-03-04 12:01:41.461,Completed,United Kingdom,100,British Salt Trading,5007976,British Salt Limited,United Kingdom,100,Winnington,5008068,Winnington CHP Limited,255064,Details
+GB72727,3-0,2019-03-04 12:01:38.366,Completed,United Kingdom,121,ACT Commodities BV,5024448,ACT Commodities BV,Netherlands,121,ACT Carbon,778,ACT Financial Solutions B.V.,2000000,Details
+EU492725,10-0,2019-03-04 12:01:38.019,Completed,United Kingdom,100,Kemsley Mill,5007694,DS Smith Paper Ltd,United Kingdom,100,DS Smith Kemsley Paper Mill,5007696,DS Smith Paper Ltd,27,Details
+EU493282,10-0,2019-03-04 12:01:35.39,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,600000,Details
+EU489924,10-0,2019-03-04 12:01:33.567,Completed,Poland,100,Tłocznia Gazu Hołowczyce II,5018542,Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A.,Poland,100,Tłocznia Gazu Jarosław I i II,5018544,Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A.,3,Details
+EU490904,10-0,2019-03-04 12:01:27.452,Completed,United Kingdom,100,Operator Account,5008528,Chivas Brothers Limited,United Kingdom,100,The Glenlivet Distillery,5027324,Chivas Brothers Limited,10061,Details
+EU492903,10-0,2019-03-04 12:01:26.098,Completed,Sweden,100,PC Sågen,5002127,Solör Bioenergi Fjärrvärme AB,Sweden,100,Kraftvärmeverket Sveg,5026874,Härjeåns Energi AB,26000,Details
+EU492691,10-0,2019-03-04 12:01:10.527,Completed,Romania,100,Operator Account,5010086,SC Holcim (Romania) SA,Romania,100,Operator Account,5010087,SC Holcim (Romania) SA,909435,Details
+EU492465,10-0,2019-03-04 12:00:49.932,Completed,France,100,LEROUX - Orchies,5005235,LEROUX SAS,France,100,LEROUX - Vieille Eglise,5023186,LEROUX SAS,350,Details
+EU492607,10-0,2019-03-04 12:00:30.657,Completed,Italy,100,Clinker Marcelinara,5012805,CAL.ME. S.P.A.,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,21000,Details
+EU492730,10-0,2019-03-04 12:00:29.725,Completed,France,100,QUOTAS CO2 - EVERBAL,5005980,EVERBAL,France,100,QUOTAS CO2 - CLAIREFONTAINE,5004667,PAPETERIES DE CLAIREFONTAINE,27300,Details
+EU493272,10-2,2019-03-04 11:59:52.475,Completed,United Kingdom,100,Operator Account,5007132,SHOTTON MILL LIMITED,European Commission,100,EU Allowance deletion,5016380,European Commission,13148,Details
+EU493324,10-0,2019-03-04 11:59:19.779,Completed,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,Italy,100,Operator Account,5013003,La Doria S.p.A.,4860,Details
+EU493321,10-0,2019-03-04 11:55:44.284,Completed,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,Italy,100,Operator Account,5012981,La Doria S.p.A.,9645,Details
+EU492966,10-2,2019-03-04 11:50:23.411,Completed,United Kingdom,100,Kerry Ingredients & Flavours (EMEA),5007721,Kerry Ingredients (UK) Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,26494,Details
+EU493259,10-0,2019-03-04 11:47:51.939,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,51000,Details

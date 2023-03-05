@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU495483,10-0,2019-03-11 12:08:29.265,Completed,United Kingdom,100,Derby - PCF,5007855,Rolls-Royce plc,United Kingdom,100,Sinfin,5007852,Rolls-Royce plc,3230,Details
+EU495208,10-0,2019-03-11 12:08:09.712,Completed,United Kingdom,100,HBEL - ESP,5024077,Holcibel S.A.,United Kingdom,100,HBEL-AIUK,5024072,Holcibel S.A.,2986238,Details
+EU495234,10-0,2019-03-11 12:08:03.05,Completed,United Kingdom,100,HBEL - ROM,5024085,Holcibel S.A.,United Kingdom,100,HBEL-AIUK,5024072,Holcibel S.A.,804086,Details
+EU495524,10-0,2019-03-11 12:07:58.973,Completed,Spain,100,"Cristal Cerámicas, S.A. - Factoría II",5018386,"Cristal Cerámicas, S.A.",Spain,100,"Cristal Cerámicas, S.A. - Factoría III",5018387,"Cristal Cerámicas, S.A.",62,Details
+EU495198,10-0,2019-03-11 12:07:37.396,Completed,United Kingdom,100,HBEL - BEL,5024079,Holcibel S.A.,United Kingdom,100,HBEL-AIUK,5024072,Holcibel S.A.,1002585,Details
+EU495378,10-0,2019-03-11 12:07:35.806,Completed,Spain,100,"Hijos de Francisco Gaya Forés, S.L.- Factoria 2",5018056,"Hijos de Francisco Gaya Forés, S.L.",Portugal,100,TRADE2C,5026779,"TRADE2C, UNIPESSOAL, LDA.",620,Details
+EU495381,10-0,2019-03-11 12:07:28.618,Completed,United Kingdom,100,Santon Asphalt,5021622,Tarmac Trading Limited,United Kingdom,100,Hayes Asphalt,5021645,Tarmac Trading Limited,5860,Details
+EU495487,10-0,2019-03-11 12:07:19.459,Completed,United Kingdom,100,East Kilbride,5007853,Rolls-Royce plc,United Kingdom,100,Sinfin,5007852,Rolls-Royce plc,6301,Details
+EU495538,10-0,2019-03-11 12:07:05.1,Completed,Sweden,100,HVC/KVV Vattumannen,5002228,Eskilstuna Energi & Miljö AB,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,10000,Details
+EU495233,10-0,2019-03-11 12:07:03.345,Completed,United Kingdom,100,HBEL - ROM,5024085,Holcibel S.A.,United Kingdom,100,HBEL-AIUK,5024072,Holcibel S.A.,1728828,Details
+EU495114,10-0,2019-03-11 12:06:57.741,Completed,United Kingdom,100,Hewett 48/29A,5007119,Eni Hewett Limited,United Kingdom,100,ENI ETS UK 1,5016886,Eni Trading and Shipping SpA,15505,Details
+EU495386,10-0,2019-03-11 12:06:54.591,Completed,United Kingdom,100,Santon Asphalt,5021622,Tarmac Trading Limited,United Kingdom,100,Harper Lane Asphalt,5021648,Tarmac Aggregates Ltd,3253,Details
+EU495922,10-0,2019-03-11 12:06:44.208,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,257000,Details
+EU495219,10-0,2019-03-11 12:05:53.3,Completed,United Kingdom,100,HBEL - HRV,5024086,Holcibel S.A.,United Kingdom,100,HBEL-AIUK,5024072,Holcibel S.A.,658075,Details
+EU495199,10-0,2019-03-11 12:05:50.16,Completed,United Kingdom,100,HBEL - BGR,5024083,Holcibel S.A.,United Kingdom,100,HBEL-AIUK,5024072,Holcibel S.A.,1003773,Details
+EU495398,10-0,2019-03-11 12:05:44.983,Completed,United Kingdom,100,Gazprom Marketing & Trading (TRADING ACCOUNT),5017318,Gazprom Marketing & Trading Limited,United Kingdom,100,Batchelors Factory,5007989,Premier Foods Group Limited,6021,Details
+EU495209,10-0,2019-03-11 12:05:34.056,Completed,United Kingdom,100,HBEL-FRA2,5024434,Holcibel S.A.,United Kingdom,100,HBEL-AIUK,5024072,Holcibel S.A.,3303837,Details
+EU495216,10-0,2019-03-11 12:05:32.026,Completed,United Kingdom,100,HBEL-HUN,5024436,Holcibel S.A.,United Kingdom,100,HBEL-AIUK,5024072,Holcibel S.A.,963834,Details
+EU495227,10-0,2019-03-11 12:05:27.128,Completed,United Kingdom,100,HBEL-POL,5024437,Holcibel S.A.,United Kingdom,100,HBEL-AIUK,5024072,Holcibel S.A.,1569091,Details
+EU495392,10-0,2019-03-11 12:05:18.747,Completed,United Kingdom,100,Purfleet,5022844,Aggregate Industries UK Limited,United Kingdom,100,HBEL - AIUK,5024087,Holcibel S.A.,110,Details

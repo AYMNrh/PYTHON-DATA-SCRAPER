@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU518879,10-0,2019-04-25 12:12:06.498,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Romania,100,Operator Account,5009995,SC CET HIDROCARBURI SA  ARAD,28500,Details
+EU516513,10-2,2019-04-25 12:11:30.184,Completed,Belgium,100,29427.Flying Service,5019609,Flying Service,European Commission,100,EU Allowance deletion,5016380,European Commission,5160,Details
+EU517760,10-0,2019-04-25 12:09:56.308,Completed,Czech Republic,100,KOMTERM Morava - Tatra Kopřivnice,5006639,"KOMTERM Morava, s.r.o.",Czech Republic,100,"ČEZ ESCO, a.s.",5024707,"ČEZ ESCO, a.s.",10000,Details
+EU517661,10-0,2019-04-25 12:09:49.626,Completed,Austria,100,Borealis AG,5020105,Borealis AG,Netherlands,100,Rosier Nederland B.V.,5022627,Rosier Nederland B.V.,1352,Details
+EU517665,10-0,2019-04-25 12:09:47.57,Completed,Germany,100,SunExpress ETS holding account,5000519,SunExpress,Germany,100,ETS Konto SunExpress Deutschland,5018342,SunExpress Deutschland GmbH,5679,Details
+EU518868,10-0,2019-04-25 12:09:45.168,Completed,Romania,100,TDR Energy SRL,5024160,TDR Energy SRL,Romania,100,S.C. BERGENBIER S.A.,5010311,S.C. BERGENBIER S.A.,3375,Details
+EU517185,10-0,2019-04-25 12:09:37.503,Completed,Romania,100,SC KRONOSPAN TRADING SRL,5010095,SC KRONOSPAN TRADING SRL,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,200000,Details
+EU517763,10-0,2019-04-25 12:09:28.294,Completed,Germany,100,210 - Anlagenkonto,5014631,P-D Glasseiden GmbH Oschatz,Germany,100,Glashütte Freital GmbH,5015092,Glashütte Freital GmbH,1200,Details
+EU518882,10-72,2019-04-25 12:09:12.128,Completed,European Commission,100,EU Credit Exchange Account - Aviation,5022592,EUROPEAN COMMISSION,Romania,100,BLUE AIR AVIATION S.A.,5000174,BLUE AIR AVIATION S.A.,9088,Details
+EU518734,10-2,2019-04-25 12:08:52.335,Completed,Hungary,100,HU137 - TGM,5011767,MVM MIFŰ Kft.,European Commission,100,EU Allowance deletion,5016380,European Commission,19378,Details
+EU518838,10-0,2019-04-25 12:07:55.686,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,France,100,MONIER LIMOUX MASSIA,5004750,MONIER,36,Details
+EU518844,10-71,2019-04-25 12:07:52.322,Completed,Romania,100,BLUE AIR AVIATION S.A.,5000174,BLUE AIR AVIATION S.A.,European Commission,100,EU International Credit Account - Aviation,5022591,EUROPEAN COMMISSION,9088,Details
+EU517459,10-0,2019-04-25 12:07:51.14,Completed,Germany,100,Elektrostahlwerk,5015612,Buderus Edelstahl GmbH,Germany,100,Freiformschmiede Buderus Edelstahl GmbH,5018194,Buderus Edelstahl GmbH,10000,Details
+EU517766,10-0,2019-04-25 12:07:24.638,Completed,Cyprus,100,Operator Account:CY20,5012204,Varnavas Nicolaou,Bulgaria,100,Zagora Finacorp Jsc.,5027231,Zagora Finacorp Jsc.,2000,Details
+EU517438,10-0,2019-04-25 12:07:21.364,Completed,France,100,AUBERT & DUVAL - Firminy,5005139,AUBERT & DUVAL,France,100,AUBERT & DUVAL - Les Ancizes,5005960,AUBERT & DUVAL,12328,Details
+EU517630,10-0,2019-04-25 12:07:19.733,Completed,Belgium,100,062 INOVYN Jemeppe,5004461,INOVYN Manufacturing Belgium,Belgium,100,364 INOVYN BELGIUM,5022243,INOVYN BELGIUM,3500,Details
+EU517176,10-0,2019-04-25 12:07:18.127,Completed,Germany,100,Handelskonto der Condor Flugdienst GmbH,5000319,Condor Flugdienst Gesellschaft mit beschränkter Haftung,Netherlands,100,BP Gas Marketing Limited,5027775,BP Gas Marketing Limited,434650,Details
+EU517474,10-0,2019-04-25 12:07:15.762,Completed,Romania,100,SC KRONOSPAN TRADING SRL,5010095,SC KRONOSPAN TRADING SRL,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,100000,Details
+EU518836,10-0,2019-04-25 12:07:02.395,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Italy,100,Opera Group 2057,5018445,Opera Group s.r.l.,704,Details
+EU511745,10-0,2019-04-25 12:06:58.954,Completed,France,100,DS SMITH PAPER ROUEN,5005538,DS SMITH PAPER ROUEN,Portugal,100,DS Smith Energia Viana S.A.,5002907,"Europa&c Energia Viana, S.A.",56252,Details

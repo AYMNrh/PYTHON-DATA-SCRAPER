@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU479469,10-0,2018-12-28 13:13:50.589,Completed,Spain,100,"Cementos Tudela Veguín, S.A. - Aboño",5008924,Cementos Tudela Veguín SA,Spain,100,Pta.Cogeneración Fábrica de Cementos Tudela Veguín,5009858,"HC Tudela Cogeneración, S.L",934,Details
+EU479637,10-0,2018-12-28 13:09:55.004,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Poland,100,CIEPŁOWNIA,5003049,Spółdzielnia Mleczarska MLEKOVITA,30000,Details
+EU479635,10-0,2018-12-28 13:08:50.758,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Czech Republic,100,SPP Storage - PZP Dolní Bojanovice,5006624,"SPP Storage, s.r.o.",850,Details
+EU479588,10-0,2018-12-28 13:07:05.793,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,France,100,U.C.D.V,5021401,U.C.D.V,15000,Details
+EU479454,10-0,2018-12-28 12:56:45.454,Completed,Spain,100,"S.A.I.C.A.-1, S.A. - Industrias Celulosa Aragonesa",5009884,S.A.I.C.A.,United Kingdom,100,CO2 REGISTRY SAICA PAPER UK LIMITED,5008500,SAICA PAPER UK LIMITED,8000,Details
+EU479595,10-0,2018-12-28 12:55:52.214,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,France,100,NOVACOGE,5004889,NOVACARB,85000,Details
+EU479630,10-0,2018-12-28 12:46:41.371,Completed,Poland,100,mBank S.A.,5023148,mBank S.A.,Poland,100,Zakłady Górniczo-Hutnicze Bolesław S.A.,5019446,Zakłady Górniczo-Hutnicze Bolesław S.A.,5000,Details
+EU479247,10-0,2018-12-28 12:42:36.089,Completed,Germany,100,Wienerberger AG,5013733,Wienerberger AG,Sweden,100,Haga Tegelbruk,5001563,Wienerberger AB,5100,Details
+EU479451,10-0,2018-12-28 12:40:48.559,Completed,Spain,100,"LafargeHolcim España, S.A.U. - Instalación de Jeréz de la Frontera",5008891,"LafargeHolcim España, S.A.U.",United Kingdom,100,HBEL - ESP,5024077,Holcibel S.A.,770,Details
+EU479616,10-0,2018-12-28 12:39:30.101,Completed,France,100,SOCIETE GENERALE,5017623,SOCIETE GENERALE,Czech Republic,100,"Komerční banka, a.s. obchodní účet",5016819,"Komerční banka, a.s.",2000,Details
+EU479608,10-0,2018-12-28 12:35:11.587,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,United Kingdom,100,Dafen Reserve Power Limited,5023933,Dafen Reserve Power Limited,500,Details
+EU479599,10-0,2018-12-28 12:31:03.805,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,France,100,NOVAPEX,5022586,NOVAPEX,10000,Details
+EU479443,10-0,2018-12-28 12:27:50.568,Completed,Spain,100,"Aiala Vidrio, S.A",5009491,"Aiala Vidrio, SA",United Kingdom,100,Quinn Glass Derrylin,5007234,Encirc Limited,127292,Details
+EU479442,10-0,2018-12-28 12:25:03.427,Completed,Sweden,100,Ardagh Glass Limmared AB,5001567,Ardagh Glass Limmared AB,United Kingdom,100,Ardagh Glass - Headlands,5007536,Ardagh Glass Limited,51190,Details
+EU479441,10-0,2018-12-28 12:24:30.46,Completed,Belgium,100,296 Manufacture de verre Verre creux Ghlin,5004309,MD Verre,Spain,100,"Aiala Vidrio, S.A",5009491,"Aiala Vidrio, SA",39443,Details
+EU479626,10-0,2018-12-28 12:24:22.463,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Bulgaria,100,Bulgarian Energy Holding EAD,5026019,Bulgarian Energy Holding EAD,300000,Details
+EU479624,10-0,2018-12-28 12:23:02.551,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Poland,100,Zakłady Górniczo-Hutnicze Bolesław S.A.,5019446,Zakłady Górniczo-Hutnicze Bolesław S.A.,20000,Details
+EU479623,10-0,2018-12-28 12:21:57.246,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Poland,100,mBank S.A.,5023148,mBank S.A.,5000,Details
+EU479438,10-0,2018-12-28 12:21:49.86,Completed,Sweden,100,Ardagh Glass Limmared AB,5001567,Ardagh Glass Limmared AB,Germany,100,227 - Anlagenkonto,5014778,Ardagh Glass GmbH,68484,Details
+EU479434,10-0,2018-12-28 12:20:38.339,Completed,Portugal,100,"76-GALLOVIDRO, S.A.",5004018,"GALLOVIDRO, S.A.",Spain,100,"Aiala Vidrio, S.A",5009491,"Aiala Vidrio, SA",40848,Details

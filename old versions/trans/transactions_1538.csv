@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU487888,10-0,2019-02-25 17:55:17.339,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Spain,100,"Aiala Vidrio, S.A",5009491,"Aiala Vidrio, SA",20000,Details
+EU487895,10-0,2019-02-25 17:54:00.351,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Lithuania,100,Operator Account:LT22,5006013,AB Achema,20000,Details
+EU487890,10-0,2019-02-25 17:50:29.013,Completed,Germany,100,Zuckerfabrik Offstein,5013922,Südzucker AG,Germany,100,Banking Account,5015728,Südzucker AG,109647,Details
+EU487886,10-0,2019-02-25 17:48:07.783,Completed,Germany,100,Zuckerfabrik Warburg,5013919,Südzucker AG,Germany,100,Banking Account,5015728,Südzucker AG,18317,Details
+EU487871,10-0,2019-02-25 17:46:30.647,Completed,Spain,100,"Sistema Europeo de Negociación de Co2, S.L.",5020183,"SISTEMA EUROPEO DE NEGOCIACIÓN DE CO2, S.L.",Spain,100,"Linasa Cogeneración y Asociados, S.L.",5009945,"Linasa Cogeneración y Asociados, S.L.",5000,Details
+EU487879,10-0,2019-02-25 17:44:39.389,Completed,Germany,100,Zuckerfabrik Brottewitz,5013911,Südzucker AG,Germany,100,Banking Account,5015728,Südzucker AG,21735,Details
+EU487869,10-0,2019-02-25 17:44:02.721,Completed,Spain,100,"Sistema Europeo de Negociación de Co2, S.L.",5020183,"SISTEMA EUROPEO DE NEGOCIACIÓN DE CO2, S.L.",Spain,100,"Unión de Empresas Madereras, S.A.U.",5009059,"Unión de Empresas Madereras, S.A.U.",10000,Details
+EU488395,10-2,2019-02-25 17:43:55.389,Completed,United Kingdom,100,SYNTHITE LIMITED,5021255,SYNTHITE LIMITED,European Commission,100,EU Allowance deletion,5016380,European Commission,8625,Details
+EU487876,10-0,2019-02-25 17:41:36.341,Completed,Germany,100,Zuckerfabrik Offenau,5013909,Südzucker AG,Germany,100,Banking Account,5015728,Südzucker AG,50553,Details
+EU487873,10-0,2019-02-25 17:39:43.8,Completed,Germany,100,Zuckerfabrik Plattling,5013907,Südzucker AG,Germany,100,Banking Account,5015728,Südzucker AG,77680,Details
+EU487868,10-0,2019-02-25 17:37:40.952,Completed,Germany,100,Zuckerfabrik Rain,5013905,Südzucker AG,Germany,100,Banking Account,5015728,Südzucker AG,57216,Details
+EU487866,10-0,2019-02-25 17:36:02.188,Completed,Germany,100,Zuckerfabrik Wabern,5013903,Südzucker AG,Germany,100,Banking Account,5015728,Südzucker AG,23319,Details
+EU487119,10-2,2019-02-25 17:34:19.664,Completed,United Kingdom,100,Bridgnorth Aluminium Limited,5021755,Bridgnorth Aluminium Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,30360,Details
+EU487864,10-0,2019-02-25 17:33:00.841,Completed,Germany,100,Zuckerfabrik Zeitz,5013894,Südzucker AG,Germany,100,Banking Account,5015728,Südzucker AG,70824,Details
+EU487861,10-0,2019-02-25 17:29:46.812,Completed,Spain,100,"Sistema Europeo de Negociación de Co2, S.L.",5020183,"SISTEMA EUROPEO DE NEGOCIACIÓN DE CO2, S.L.",Italy,100,Operator Account,5013167,Lucchini Industries S.r.l.,2000,Details
+EU488203,10-2,2019-02-25 17:21:33.935,Completed,United Kingdom,100,Operator Account,5008330,Devonport Royal Dockyard Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,4854,Details
+EU484832,10-2,2019-02-25 17:16:52.093,Completed,United Kingdom,100,BBW Pinderfields,5008401,Engie Services Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,3141,Details
+EU487858,10-0,2019-02-25 17:09:23.899,Completed,Germany,100,Zuckerfabrik Ochsenfurt,5013892,Südzucker AG,Germany,100,Banking Account,5015728,Südzucker AG,85308,Details
+EU486989,10-2,2019-02-25 17:05:49.43,Completed,United Kingdom,100,Operator Account,5007951,Briar Chemicals Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,12415,Details
+EU487855,10-0,2019-02-25 17:00:54.85,Completed,Germany,100,Purchasing Account,5015606,Südzucker AG,Germany,100,CEB strat. Zukauf NAP4 2021-2030,5022281,CropEnergies Bioethanol GmbH,262000,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU496955,10-36,2019-03-14 01:30:34.745,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Södra Cell Mörrum,5001464,Södra Skogsägarna ekonomisk förening,135556,Details
+EU496960,10-36,2019-03-14 01:30:34.566,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Risskov Varmecentral,5006560,Kredsløb Fjernvarme A/S,106,Details
+EU496950,10-36,2019-03-14 01:30:34.495,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Czech Republic,100,Crystal BOHEMIA,5006782,"Crystal BOHEMIA, a.s.",5749,Details
+EU496962,10-36,2019-03-14 01:30:34.473,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Hedelund Spidsb,5006145,DIN Forsyning Varme A/S,180,Details
+EU496951,10-36,2019-03-14 01:30:34.441,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Gellerup Varmecentral,5006509,Kredsløb Transmission A/S,144,Details
+EU496949,10-36,2019-03-14 01:30:34.395,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Husums fabrik,5001504,Metsä Board Sverige AB,21280,Details
+EU496957,10-36,2019-03-14 01:30:34.269,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Czech Republic,100,Papírna APIS s.r.o.,5027201,"Papírna APIS, s.r.o.",1249,Details
+EU496946,10-36,2019-03-14 01:30:34.248,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Lemvig varmevær,5006176,Lemvig Varmeværk A M B A,3302,Details
+EU496958,10-36,2019-03-14 01:30:34.178,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Siri Feltet,5006366,INEOS E&P A/S,5533,Details
+EU496947,10-36,2019-03-14 01:30:34.147,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Värmekällan,5021483,Skövde Energi AB,11955,Details
+EU496948,10-36,2019-03-14 01:30:34.109,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Norway,100,INEOS Rafnes AS,5012260,INEOS Rafnes AS,325327,Details
+EU496893,10-36,2019-03-14 01:30:34.105,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Energnist,5020286,Energnist,5970,Details
+EU496894,10-36,2019-03-14 01:30:34.066,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,I/S Amager Ressourcecenter,5018309,I/S Amager ressourcecenter,39829,Details
+EU496895,10-36,2019-03-14 01:30:34.04,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Czech Republic,100,Papírna APIS s.r.o.,5027201,"Papírna APIS, s.r.o.",1532,Details
+EU496889,10-36,2019-03-14 01:30:34.017,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Energnist,5020286,Energnist,7065,Details
+EU496891,10-36,2019-03-14 01:30:34.016,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,BHKW/HW Tilsit,5015121,HanseWerk Natur GmbH,874,Details
+EU496892,10-36,2019-03-14 01:30:33.981,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Czech Republic,100,LASSELSBERGER - závod Podbořany,5006845,"LASSELSBERGER, s.r.o.",8690,Details
+EU496890,10-36,2019-03-14 01:30:33.978,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,I/S Amager Ressourcecenter,5018309,I/S Amager ressourcecenter,2970,Details
+EU496888,10-36,2019-03-14 01:30:33.976,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Denmark,100,Energnist,5020286,Energnist,898,Details
+EU496970,10-35,2019-03-14 01:30:33.976,Completed,European Commission,100,EU AVIATION ALLOCATION ACCOUNT,5022595,EUROPEAN UNION,Norway,100,Bristow Norway,5000317,Bristow Norway AS,3959,Details

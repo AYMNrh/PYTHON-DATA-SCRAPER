@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU484564,10-36,2019-02-19 01:30:17.329,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Netherlands,100,Total offshore platform F15A,5022307,TotalEnergies EP Nederland B.V.,16013,Details
+EU484570,10-35,2019-02-19 01:30:17.327,Completed,European Commission,100,EU AVIATION ALLOCATION ACCOUNT,5022595,EUROPEAN UNION,Iceland,100,Icelandair,5000334,Icelandair ehf.,186364,Details
+EU484566,10-36,2019-02-19 01:30:17.325,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Iceland,100,Rio Tinto á Íslandi,5016564,Rio Tinto á Íslandi,248629,Details
+EU483578,10-2,2019-02-18 23:10:13.23,Completed,United Kingdom,100,Lilly Speke Trading,5007840,Elanco UK AH Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,42718,Details
+EU484319,10-0,2019-02-18 17:59:39.52,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,France,100,L.N.U.F. BAYEUX,5020512,L.N.U.F. BAYEUX,1000,Details
+EU484316,10-0,2019-02-18 17:58:45.018,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,France,100,MARCILLAT CORCIEUX,5020485,MARCILLAT CORCIEUX,1250,Details
+EU484317,10-0,2019-02-18 17:58:00.244,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,France,100,SOLAIPA,5020448,SOLAIPA,1250,Details
+EU484313,10-0,2019-02-18 17:56:38.632,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,France,100,CANELIA PETIT FAYT BEURRE,5020467,CANELIA PETIT FAYT BEURRE,1250,Details
+EU484310,10-0,2019-02-18 17:55:11.716,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,France,100,SOCIETE FROMAGERE DE RODEZ,5020466,SOCIETE FROMAGERE DE RODEZ,1500,Details
+EU484301,10-0,2019-02-18 17:50:24.163,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,France,100,SOCIETE LAITIERE DE L'HERMITAGE,5020482,SOCIETE LAITIERE DE L'HERMITAGE,2500,Details
+EU484307,10-0,2019-02-18 17:49:48.359,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,France,100,SOCIETE INDUSTRIELLE DE SAINT FLORENT,5020509,SOCIETE INDUSTRIELLE DE SAINT FLORENT,1500,Details
+EU484304,10-0,2019-02-18 17:48:31.239,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,France,100,SOCIETE FROMAGERE DE BOUVRON,5020484,SOCIETE FROMAGERE DE BOUVRON,1500,Details
+EU484303,10-0,2019-02-18 17:47:34.07,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,France,100,SOCIETE LAITIERE DE VITRE,5020523,SOCIETE LAITIERE DE VITRE,2250,Details
+EU484334,10-2,2019-02-18 17:45:41.852,Completed,United Kingdom,100,Ashford Power Limited,5027025,Ashford Power Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,15951,Details
+EU484297,10-0,2019-02-18 17:43:36.808,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,United Kingdom,100,Eastham,5008125,Eastham Refinery Limited,21306,Details
+EU484302,10-0,2019-02-18 17:40:25.889,Completed,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,Poland,100,INSTALACJA DO WYTWARZANIA SZKŁA,5003793,ZIGNAGO VETRO POLSKA S.A.,2000,Details
+EU484293,10-0,2019-02-18 17:40:24.785,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,United Kingdom,100,,5000703,,6401,Details
+EU484228,10-0,2019-02-18 17:25:07.857,Completed,United Kingdom,100,Morgan Stanley Capital Group Inc,5017295,Morgan Stanley Capital Group Inc,Greece,100,MOTOKOR,5016949,ΜΟΤΟΡ ΟΙΛ - Δ. ΚΟΡΙΝΘΟΥ,20000,Details
+EU484261,10-0,2019-02-18 17:23:22.151,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,United Kingdom,100,Irwell Power Limited,5027203,Irwell Power Limited,411,Details
+EU484260,10-0,2019-02-18 17:22:33.272,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,United Kingdom,100,Kiln Power Limited,5027204,Kiln Power Limited,276,Details

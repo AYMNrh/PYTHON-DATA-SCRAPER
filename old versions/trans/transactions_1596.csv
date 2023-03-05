@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU487595,10-36,2019-02-22 01:33:08.779,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Lextorps värmeverk,5002238,Trollhättan Energi AB,13388,Details
+EU487611,10-36,2019-02-22 01:33:08.775,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Slovenia,100,TKI HRASTNIK D.D.,5008713,"TKI-HRASTNIK, D.D.",8664,Details
+EU487593,10-36,2019-02-22 01:33:08.768,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Dalidens PC,5001801,Kils Energi AB,78,Details
+EU487610,10-36,2019-02-22 01:33:08.757,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Härnösands KVV,5002087,Härnösand Energi & Miljö AB,13384,Details
+EU487597,10-36,2019-02-22 01:33:08.741,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Gullarpsverket,5002263,Fjärrvärme I Osby AB,3515,Details
+EU487666,10-35,2019-02-22 01:33:07.197,Completed,European Commission,100,EU AVIATION ALLOCATION ACCOUNT,5022595,EUROPEAN UNION,France,100,MIDDLE EAST AIRLINES - AIRLIBAN S.A.L.,5000129,MIDDLE EAST AIRLINES - AIRLIBAN S.A.L.,37,Details
+EU487667,10-35,2019-02-22 01:33:07.115,Completed,European Commission,100,EU AVIATION ALLOCATION ACCOUNT,5022595,EUROPEAN UNION,Slovenia,100,Adria Airways d.d.,5000337,Adria Airways d.o.o.- V STEČAJU,38891,Details
+EU487664,10-35,2019-02-22 01:33:07.061,Completed,European Commission,100,EU AVIATION ALLOCATION ACCOUNT,5022595,EUROPEAN UNION,France,100,TWIN JET,5000329,TWIN JET,1956,Details
+EU487665,10-35,2019-02-22 01:33:07.0,Completed,European Commission,100,EU AVIATION ALLOCATION ACCOUNT,5022595,EUROPEAN UNION,France,100,POLYNOMES,5000433,POLYNOMES,29,Details
+EU487668,10-35,2019-02-22 01:33:06.959,Completed,European Commission,100,EU AVIATION ALLOCATION ACCOUNT,5022595,EUROPEAN UNION,France,100,ASL AIRLINES FRANCE SA,5000172,ASL AIRLINES FRANCE SA,60684,Details
+EU487669,10-35,2019-02-22 01:33:06.925,Completed,European Commission,100,EU AVIATION ALLOCATION ACCOUNT,5022595,EUROPEAN UNION,France,100,AIR ALGERIE,5000164,AIR ALGERIE,27,Details
+EU487662,10-35,2019-02-22 01:33:06.858,Completed,European Commission,100,EU AVIATION ALLOCATION ACCOUNT,5022595,EUROPEAN UNION,France,100,NOFA AVIATION,5001078,NOFA AVIATION,1,Details
+EU487663,10-35,2019-02-22 01:33:06.852,Completed,European Commission,100,EU AVIATION ALLOCATION ACCOUNT,5022595,EUROPEAN UNION,France,100,CPI AVIATION LLC,5016621,CPI AVIATION LLC,10,Details
+EU486944,10-2,2019-02-21 18:30:47.545,Completed,United Kingdom,100,Queen's Hospital,5007549,Barking Havering and Redbridge Hospitals NHS Trust,European Commission,100,EU Allowance deletion,5016380,European Commission,4263,Details
+EU487059,4-0,2019-02-21 18:05:04.897,Completed,France,100,Association BLEU BLANC COEUR,5018170,Association BLEU BLANC COEUR,European Commission,230,EU Cancellation Account Period 1,5016449,European Commission,1272,Details
+EU485549,10-0,2019-02-21 18:00:03.497,Completed,Germany,100,Eisenacher Versorgungs-Betriebe GmbH,5027454,Eisenacher Versorgungs-Betriebe GmbH,Germany,100,1862 - Anlagenkonto,5015422,Opel Automobile GmbH,12000,Details
+EU485538,10-0,2019-02-21 17:58:42.384,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Lithuania,100,Operator Account:LT22,5006013,AB Achema,10000,Details
+EU485546,10-0,2019-02-21 17:54:36.837,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,France,100,SOCIETE FROMAGERE DE SAINTE CECILE,5020486,SOCIETE FROMAGERE DE SAINTE CECILE,1000,Details
+EU487060,10-2,2019-02-21 16:55:40.927,Completed,United Kingdom,100,Colt - Powergate,5023779,Colt Data Centre Services UK Ltd,European Commission,100,EU Allowance deletion,5016380,European Commission,33,Details
+EU487058,10-2,2019-02-21 16:52:19.217,Completed,United Kingdom,100,Interxion Carrier Hotel Ltd,5022962,Interxion Carrier Hotel Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,58,Details

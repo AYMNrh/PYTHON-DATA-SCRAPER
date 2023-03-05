@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU504277,10-2,2019-04-02 13:00:22.228,Completed,Poland,100,Cementownia Odra S.A.,5003237,Cementownia Odra SA,European Commission,100,EU Allowance deletion,5016380,European Commission,324689,Details
+EU504434,10-2,2019-04-02 13:00:18.361,Completed,Germany,100,Robert Frank,5014838,Statkraft Markets GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,436,Details
+EU503386,10-2,2019-04-02 13:00:04.824,Completed,Sweden,100,Södra Cell Mönsterås,5001581,Södra Skogsägarna ekonomisk förening,European Commission,100,EU Allowance deletion,5016380,European Commission,15703,Details
+EU504141,10-0,2019-04-02 12:59:57.173,Completed,Czech Republic,100,Obchodní Veolia Energie ČR,5017509,"Veolia Energie ČR, a.s.",Czech Republic,100,Veolia Energie - Teplárna Frýdek-Místek,5006655,"Veolia Energie ČR, a.s.",1497,Details
+EU504420,10-2,2019-04-02 12:58:52.21,Completed,Germany,100,Emden IV,5014189,Statkraft Markets GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,268,Details
+EU504442,10-2,2019-04-02 12:57:24.796,Completed,Germany,100,Knapsack I,5015762,Knapsack Power GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,161674,Details
+EU504444,10-2,2019-04-02 12:56:08.866,Completed,Germany,100,Knapsack II,5019053,Statkraft Markets GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,317032,Details
+EU504577,10-72,2019-04-02 12:55:32.738,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Finland,100,Neste Oyj Porvoon päästötili,5010858,Neste Oyj,197209,Details
+EU504568,10-71,2019-04-02 12:54:41.277,Completed,Finland,100,Neste Oyj Porvoon päästötili,5010858,Neste Oyj,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,197209,Details
+EU503389,10-0,2019-04-02 12:53:49.853,Completed,Germany,100,ECC AG Auction Delivery Account DE,5016816,European Commodity Clearing AG,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,3209000,Details
+EU503457,10-0,2019-04-02 12:48:25.702,Completed,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,Italy,100,ETforgitalitaly,5018198,Forgital Italy S.p.A.,1978,Details
+EU503794,10-2,2019-04-02 12:47:32.526,Completed,France,100,McCAIN ALIMENTAIRE HARNES,5004689,MC CAIN ALIMENTAIRE,European Commission,100,EU Allowance deletion,5016380,European Commission,38168,Details
+EU503983,10-0,2019-04-02 12:45:28.333,Completed,Netherlands,100,China Carbon N.V.,5026480,China Carbon N.V.,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,617,Details
+EU504525,10-0,2019-04-02 12:45:28.252,Completed,Slovenia,100,Belektron TRD Si,5016820,BELEKTRON d.o.o.,Slovenia,100,TGP VIPAP,5008647,"VIPAP VIDEM KRŠKO, D.D.",8000,Details
+EU504452,10-0,2019-04-02 12:44:22.652,Completed,Netherlands,100,China Carbon N.V.,5026480,China Carbon N.V.,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,9475,Details
+EU503756,10-2,2019-04-02 12:43:38.868,Completed,Czech Republic,100,kotelna Semperflex Optimit,5007076,Semperflex Optimit s.r.o,European Commission,100,EU Allowance deletion,5016380,European Commission,4865,Details
+EU503021,10-2,2019-04-02 12:39:04.438,Completed,Lithuania,100,Operator holding:LT110,5006093,Vi Ignalinos atomine elektrine,European Commission,100,EU Allowance deletion,5016380,European Commission,4874,Details
+EU504519,10-2,2019-04-02 12:34:49.044,Completed,Finland,100,AK CO2:FI319,5010375,Oy Alholmens Kraft Ab,European Commission,100,EU Allowance deletion,5016380,European Commission,657861,Details
+EU504463,10-0,2019-04-02 12:34:05.811,Completed,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,27000,Details
+EU504540,10-2,2019-04-02 12:34:01.63,Completed,Italy,100,Operator Account,5012844,EMILIANA CONSERVE SOCIETA' AGRICOLA S.P.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,7267,Details

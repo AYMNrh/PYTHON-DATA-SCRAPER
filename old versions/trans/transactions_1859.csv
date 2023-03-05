@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+CH25816,3-0,2019-01-28 08:32:41.216,Completed,Switzerland,100,,2115,,Sweden,100,Pilot Auction Facility,5025888,Statens energimyndighet,425889,Details
+CH25815,3-0,2019-01-28 08:32:23.597,Completed,Switzerland,100,,2115,,Sweden,100,Pilot Auction Facility,5025888,Statens energimyndighet,49800,Details
+CH25814,3-0,2019-01-28 08:32:05.725,Completed,Switzerland,100,,2115,,Sweden,100,Pilot Auction Facility,5025888,Statens energimyndighet,14400,Details
+CH25813,3-0,2019-01-28 08:31:44.832,Completed,Switzerland,100,,2115,,Sweden,100,Pilot Auction Facility,5025888,Statens energimyndighet,114600,Details
+CH25812,3-0,2019-01-28 08:31:18.137,Completed,Switzerland,100,,2115,,Sweden,100,Pilot Auction Facility,5025888,Statens energimyndighet,30000,Details
+CH25811,3-0,2019-01-28 08:30:55.451,Completed,Switzerland,100,,2115,,Sweden,100,Pilot Auction Facility,5025888,Statens energimyndighet,147000,Details
+CH25810,3-0,2019-01-28 08:30:22.201,Completed,Switzerland,100,,2115,,Sweden,100,Pilot Auction Facility,5025888,Statens energimyndighet,311250,Details
+CH25809,3-0,2019-01-28 08:30:01.953,Completed,Switzerland,100,,2115,,Sweden,100,Pilot Auction Facility,5025888,Statens energimyndighet,48000,Details
+CH25808,3-0,2019-01-28 08:29:28.128,Completed,Switzerland,100,,2115,,Sweden,100,Pilot Auction Facility,5025888,Statens energimyndighet,88800,Details
+CH25807,3-0,2019-01-28 08:28:52.293,Completed,Switzerland,100,,2115,,Germany,100,Pilot Auctioning Facility,5026067,Deutschland,48000,Details
+CH25806,3-0,2019-01-28 08:28:22.91,Completed,Switzerland,100,,2115,,Germany,100,Pilot Auctioning Facility,5026067,Deutschland,311250,Details
+CH25804,3-0,2019-01-28 08:28:04.444,Completed,Switzerland,100,,2115,,Germany,100,Pilot Auctioning Facility,5026067,Deutschland,30000,Details
+CH25805,3-0,2019-01-28 08:27:53.293,Completed,Switzerland,100,,2115,,Germany,100,Pilot Auctioning Facility,5026067,Deutschland,147000,Details
+CH25795,3-0,2019-01-28 08:16:56.248,Completed,Switzerland,100,,2115,,Germany,100,Pilot Auctioning Facility,5026067,Deutschland,24226,Details
+CH25794,3-0,2019-01-28 08:16:26.296,Completed,Switzerland,100,,2115,,Germany,100,Pilot Auctioning Facility,5026067,Deutschland,212824,Details
+CH25793,3-0,2019-01-28 08:16:01.943,Completed,Switzerland,100,,2115,,Germany,100,Pilot Auctioning Facility,5026067,Deutschland,49800,Details
+CH25792,3-0,2019-01-28 08:15:34.16,Completed,Switzerland,100,,2115,,Germany,100,Pilot Auctioning Facility,5026067,Deutschland,14400,Details
+CH25791,3-0,2019-01-28 08:14:52.076,Completed,Switzerland,100,,2115,,Germany,100,Pilot Auctioning Facility,5026067,Deutschland,114600,Details
+CH25790,3-0,2019-01-28 08:13:11.309,Completed,Switzerland,100,,2115,,Germany,100,Pilot Auctioning Facility,5026067,Deutschland,88800,Details
+EU481714,4-0,2019-01-26 09:54:07.579,Completed,Germany,100,Fokus Zukunft GmbH & Co.KG,5025499,Fokus Zukunft GmbH & Co. KG,European Commission,230,EU Cancellation Account Period 2,5022673,EUROPEAN UNION,11950,Details

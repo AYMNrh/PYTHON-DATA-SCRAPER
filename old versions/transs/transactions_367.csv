@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU512464,10-0,2019-04-15 16:39:43.738,Completed,Austria,100,Borealis AG,5020105,Borealis AG,Austria,100,AMI Agrolinz Melamine International Linz,5004044,Borealis Agrolinz Melamine GmbH,56227,Details
+EU513474,10-2,2019-04-15 16:39:13.823,Completed,France,100,ARGEVAL,5005853,ARGEVAL,European Commission,100,EU Allowance deletion,5016380,European Commission,6433,Details
+EU512461,10-0,2019-04-15 16:38:52.517,Completed,Netherlands,100,LYB TC,5011220,LYB Trading Company B.V.,Germany,100,HDPE Polymerisation Mümü,5019185,Basell Polyolefine GmbH,1700,Details
+EU513676,10-72,2019-04-15 16:38:46.984,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Spain,100,"Fagor Ederlan Tafalla, S.Coop.",5022331,"Fagor Ederlan Tafalla, S.Coop.",1848,Details
+EU513478,10-2,2019-04-15 16:38:26.582,Completed,France,100,NORD - Chaufferie de Caucriauville du Havre,5005660,RESOCEANE,European Commission,100,EU Allowance deletion,5016380,European Commission,25031,Details
+EU512459,10-0,2019-04-15 16:38:12.629,Completed,Austria,100,Borealis AG,5020105,Borealis AG,Austria,100,Borealis Agrolinz Melamine Salpetersäureanlage,5004281,Borealis Agrolinz Melamine GmbH,56719,Details
+EU513657,10-71,2019-04-15 16:37:48.191,Completed,Spain,100,"Fagor Ederlan Tafalla, S.Coop.",5022331,"Fagor Ederlan Tafalla, S.Coop.",European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,1848,Details
+EU513488,10-2,2019-04-15 16:37:42.172,Completed,France,100,CALAIS ENERGIE,5005384,CALAIS ENERGIE,European Commission,100,EU Allowance deletion,5016380,European Commission,6131,Details
+EU512457,10-0,2019-04-15 16:36:20.882,Completed,Austria,100,Borealis AG,5020105,Borealis AG,Austria,100,Borealis Schwechat,5004047,Borealis Polyolefine GmbH,10125,Details
+EU513490,10-2,2019-04-15 16:36:15.542,Completed,France,100,CHR DE LILLE,5005291,COGE SANTE LILLE,European Commission,100,EU Allowance deletion,5016380,European Commission,34773,Details
+EU513671,10-72,2019-04-15 16:36:14.371,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,Speira GmbH Neuss Elektrolyse,5019223,Speira GmbH,12327,Details
+EU512674,10-2,2019-04-15 16:36:14.351,Completed,Portugal,100,ROCA SA,5021956,ROCA SA,European Commission,100,EU Allowance deletion,5016380,European Commission,20123,Details
+EU513501,10-2,2019-04-15 16:35:32.936,Completed,France,100,COGESTAR - Réseau d'Arras,5005259,COGESTAR,European Commission,100,EU Allowance deletion,5016380,European Commission,16030,Details
+EU513384,10-71,2019-04-15 16:35:15.517,Completed,Germany,100,Speira GmbH Neuss Elektrolyse,5019223,Speira GmbH,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,12327,Details
+EU513512,10-2,2019-04-15 16:34:42.392,Completed,France,100,DALKIA - Chaufferie de la ZUP du Blanc Riez,5005349,DALKIA,European Commission,100,EU Allowance deletion,5016380,European Commission,7080,Details
+EU513534,10-2,2019-04-15 16:33:58.855,Completed,France,100,CREIL ENERGIE,5005142,CREIL ENERGIE,European Commission,100,EU Allowance deletion,5016380,European Commission,12051,Details
+EU513542,10-2,2019-04-15 16:33:18.742,Completed,France,100,CANTELEU ENERGIE,5005595,CANTELEU ENERGIE,European Commission,100,EU Allowance deletion,5016380,European Commission,9180,Details
+EU513664,10-72,2019-04-15 16:33:11.304,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,Speira GmbH Neuss ELB,5019224,Speira GmbH,1688,Details
+EU513552,10-2,2019-04-15 16:32:27.96,Completed,France,100,SVD 82 - DALKIA CURB CGC,5005590,SOCIETE VALMY DEFENSE 82 - SVD 82,European Commission,100,EU Allowance deletion,5016380,European Commission,30075,Details
+EU513650,10-2,2019-04-15 16:32:21.937,Completed,Italy,100,coppolaspa,5013247,Coppola S.p.a.,European Commission,100,EU Allowance deletion,5016380,European Commission,138,Details

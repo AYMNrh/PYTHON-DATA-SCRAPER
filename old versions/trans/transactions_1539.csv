@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU487846,10-0,2019-02-25 16:49:33.248,Completed,Slovenia,100,GORIČANE,5008651,GORIČANE D.D. MEDVODE,Slovenia,100,Belektron TRD Si,5016820,BELEKTRON d.o.o.,20000,Details
+EU488364,10-2,2019-02-25 16:40:25.28,Completed,United Kingdom,100,Humbly Grove Energy Limited,5007913,Humbly Grove Energy Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,6760,Details
+EU487839,10-0,2019-02-25 16:29:27.362,Completed,Latvia,100,"SCHWENK Latvija, SIA",5012185,"SCHWENK Latvija, SIA",Spain,100,"Cemex España Operaciones, S.L.U. - Alcanar",5009908,"Cemex España Operaciones, S.L.U.",1290980,Details
+EU487806,10-0,2019-02-25 16:28:18.878,Completed,United Kingdom,100,Spalding Energy Co Ltd,5007196,Spalding Energy Co Ltd,United Kingdom,100,Coryton Energy Company Ltd,5007266,Coryton Energy Company Ltd,25506,Details
+EU487837,10-0,2019-02-25 16:27:06.23,Completed,United Kingdom,100,SGHC Operator Account,5008445,Southampton Geothermal Heating Company Ltd (The),United Kingdom,100,Olympics Stratford City,5008340,East London Energy Limited,11571,Details
+EU487836,10-0,2019-02-25 16:24:46.397,Completed,Netherlands,100,Eastman Chemical Middelburg BV,5011366,Eastman Chemical Middelburg B.V.,Belgium,100,313 Taminco,5004326,Taminco,1,Details
+EU488359,10-72,2019-02-25 16:06:47.235,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,Salpetersäure-Fabrik,5017958,BASF SE,17650,Details
+EU488243,10-71,2019-02-25 16:05:45.08,Completed,Germany,100,Salpetersäure-Fabrik,5017958,BASF SE,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,17650,Details
+EU488238,10-86,2019-02-25 16:03:41.832,Completed,Germany,100,Salpetersäure-Fabrik,5017958,BASF SE,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,48212,Details
+EU488316,10-0,2019-02-25 15:58:53.259,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Germany,100,FHW Dinslaken-Innenstadt,5014306,Fernwärmeversorgung Niederrhein GmbH,10000,Details
+EU488328,10-0,2019-02-25 15:57:47.987,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Germany,100,FHW Dinslaken-Innenstadt,5014306,Fernwärmeversorgung Niederrhein GmbH,3327,Details
+EU488254,10-0,2019-02-25 15:57:20.767,Completed,Netherlands,100,China Carbon N.V.,5026480,China Carbon N.V.,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,133523,Details
+EU488347,10-0,2019-02-25 15:55:49.775,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Hungary,100,MOL Commodity Trading Kft,5017387,MOL Commodity Trading Kft.,31000,Details
+EU488350,10-0,2019-02-25 15:55:44.576,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Poland,100,KOTŁOWNIA KONSTANTYNOWSKA,5002611,ZAKŁAD ENERGETYKI CIEPLNEJ SP. Z O.O.W PABIANICACH,5000,Details
+EU488346,10-0,2019-02-25 15:54:53.865,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Spain,100,"Naturgy Energy Group, S.A.",5017187,"Naturgy Energy Group, S.A.",88000,Details
+EU488349,10-0,2019-02-25 15:54:53.785,Completed,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,Germany,100,511 - Anlagenkonto,5015260,Essity Operations Mannheim GmbH,18000,Details
+EU488199,10-0,2019-02-25 15:54:46.592,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Germany,100,Statkraft Markets GmbH,5017011,Statkraft Markets GmbH,500000,Details
+EU488345,10-0,2019-02-25 15:54:00.243,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Italy,100,ENEL TRADE ITALIA,5016899,Enel Global Trading S.p.A.,15000,Details
+EU488342,10-0,2019-02-25 15:53:10.688,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Germany,100,Axpo Solutions AG,5017149,AXPO Solutions AG,15000,Details
+EU488339,10-0,2019-02-25 15:52:06.363,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Norway,100,DNB Markets Trading Account,5017497,DNB Bank ASA,35000,Details

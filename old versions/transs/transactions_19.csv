@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU520391,10-72,2019-04-29 16:50:05.937,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Poland,100,TOMASZÓW 2,5020058,Ceramika Paradyż Sp. z o.o.,1109,Details
+EU520384,10-71,2019-04-29 16:49:09.299,Completed,Poland,100,TOMASZÓW 2,5020058,Ceramika Paradyż Sp. z o.o.,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,1109,Details
+EU520388,10-72,2019-04-29 16:48:35.77,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Poland,100,PARADYŻ,5020056,Ceramika Paradyż Sp. z o.o.,994,Details
+EU520381,10-71,2019-04-29 16:47:27.115,Completed,Poland,100,PARADYŻ,5020056,Ceramika Paradyż Sp. z o.o.,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,994,Details
+EU520363,10-2,2019-04-29 16:43:34.893,Completed,Spain,100,"DIOXIPE SOLAR, S.L.-Astexol 2",5016770,"DIOXIPE SOLAR, S.L.",European Commission,100,EU Allowance deletion,5016380,European Commission,1608,Details
+EU519764,10-0,2019-04-29 16:37:40.236,Completed,Italy,100,IMI ETS,5021939,INEOS MANUFACTURING ITALIA S.p.A.,Italy,100,Operator Account,5012479,SOLVAY CHIMICA ITALIA SPA,67848,Details
+EU520373,10-2,2019-04-29 16:37:33.473,Completed,Spain,100,Central Solar Termosolar ASTE 1A,5017937,"Aries Solar Termoeléctrica, S,L",European Commission,100,EU Allowance deletion,5016380,European Commission,760,Details
+EU520374,10-2,2019-04-29 16:35:05.437,Completed,Spain,100,Central Solar Termosolar ASTE 1B,5017938,"Aries Solar Termoeléctrica, S,L",European Commission,100,EU Allowance deletion,5016380,European Commission,856,Details
+EU519675,10-2,2019-04-29 16:34:35.13,Completed,Hungary,100,Operator Account:HU95,5011730,IMERYS Magyarország Tûzállóanyaggyártó Kft.,European Commission,100,EU Allowance deletion,5016380,European Commission,6673,Details
+EU519754,10-0,2019-04-29 16:33:42.023,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Germany,100,Air X Charter GmbH & Co. KG,5027787,Air X Charter (Germany) GmbH & Co. KG,7208,Details
+EU520249,10-2,2019-04-29 16:32:09.326,Completed,Germany,100,580 - Anlagenkonto,5015863,LENK Paper GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,19003,Details
+EU503107,10-2,2019-04-29 16:28:08.311,Completed,Netherlands,100,Wormdal Vastgoed BV,5011108,Wormdal Vastgoed B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,61,Details
+EU519749,10-0,2019-04-29 16:23:25.391,Completed,Norway,100,Hellefoss Paper AS,5012239,Hellefoss Paper AS,Denmark,100,Energi Danmark,5006414,ENERGI DANMARK A/S,10000,Details
+EU520370,10-2,2019-04-29 16:22:42.0,Completed,Belgium,100,220 Clarebout Potatoes,5004619,Clarebout Potatoes,European Commission,100,EU Allowance deletion,5016380,European Commission,48797,Details
+EU516733,10-2,2019-04-29 16:20:56.638,Completed,Sweden,100,PC Lövholmens såg,5001434,Klubbgärdet Fastighets AB,European Commission,100,EU Allowance deletion,5016380,European Commission,26,Details
+EU520359,10-2,2019-04-29 16:20:50.195,Completed,Hungary,100,Mercedes-BMH,5011911,Mercedes-Benz Manufacturing Hungary Kft.,European Commission,100,EU Allowance deletion,5016380,European Commission,16927,Details
+EU520368,10-2,2019-04-29 16:20:00.896,Completed,Denmark,100,"NCC Industry A/S, Trige",5006552,NCC Industry A/S,European Commission,100,EU Allowance deletion,5016380,European Commission,1130,Details
+EU520371,10-2,2019-04-29 16:18:39.905,Completed,Denmark,100,"NCC Industry A/S, Herlev",5006554,NCC Industry A/S,European Commission,100,EU Allowance deletion,5016380,European Commission,376,Details
+EU520369,10-2,2019-04-29 16:17:01.108,Completed,France,100,ISRAIR AIRLINES & TOURISM LTD,5021865,ISRAIR AIRLINES & TOURISM LTD,European Commission,100,EU Allowance deletion,5016380,European Commission,619,Details
+EU519740,10-0,2019-04-29 16:12:53.011,Completed,Denmark,100,"NCC Industry A/S, Ejby",5006553,NCC Industry A/S,Denmark,100,"NCC Industry A/S, Herlev",5006554,NCC Industry A/S,20,Details

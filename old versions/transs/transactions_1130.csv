@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU496219,10-2,2019-03-13 19:21:06.205,Completed,United Kingdom,100,Tunstead Cement,5007558,Tarmac Cement and Lime Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,582793,Details
+EU496220,10-2,2019-03-13 19:19:38.07,Completed,United Kingdom,100,Hindlow Lime,5007562,Tarmac Cement and Lime Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,169143,Details
+EU496782,10-2,2019-03-13 19:17:58.624,Completed,United Kingdom,100,Aberthaw,5007094,Tarmac Cement and Lime Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,336474,Details
+EU496785,10-2,2019-03-13 19:16:41.862,Completed,United Kingdom,100,Dunbar,5007102,Tarmac Cement and Lime Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,573545,Details
+EU496878,10-2,2019-03-13 18:43:13.878,Completed,United Kingdom,100,Brigghouse Bay Compressor Station,5008570,GNI (UK) Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,25840,Details
+EU496879,10-2,2019-03-13 18:41:09.904,Completed,United Kingdom,100,Beattock Compressor Station,5008572,GNI (UK) Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,29972,Details
+EU496867,10-2,2019-03-13 18:32:59.037,Completed,United Kingdom,100,EACL ETS Account,5000401,easyJet Airline Company Ltd,European Commission,100,EU Allowance deletion,5016380,European Commission,2873376,Details
+EU496872,10-2,2019-03-13 18:30:33.322,Completed,United Kingdom,100,,5027635,,European Commission,100,EU Allowance deletion,5016380,European Commission,3222457,Details
+EU496860,10-2,2019-03-13 17:59:35.903,Completed,United Kingdom,100,Thomas Cook Airlines Ltd,5000288,Thomas Cook Airlines Limited – in Liquidation,European Commission,100,EU Allowance deletion,5016380,European Commission,6739,Details
+EU496530,10-0,2019-03-13 17:57:12.202,Completed,United Kingdom,100,EACL ETS Account,5000401,easyJet Airline Company Ltd,United Kingdom,100,,5027635,,48000,Details
+EU496522,10-0,2019-03-13 17:51:45.85,Completed,Spain,100,FUTURA CARBONO S.L.,5024181,FUTURA CARBONO S.L.,Spain,100,"Azulev, S.A.U. - Planta de Onda",5020413,"Azulev, SAU",691,Details
+EU496520,10-0,2019-03-13 17:49:08.625,Completed,Portugal,100,TRADE2C,5026779,"TRADE2C, UNIPESSOAL, LDA.",Spain,100,"KERABEN GRUPO, S.A.U",5018115,"KERABEN GRUPO, S.A.U.",626,Details
+EU496498,10-0,2019-03-13 17:44:29.251,Completed,Germany,100,Repower AG CO2 Handelskonto,5015554,Repower AG,Italy,100,Rezia,5012867,Repower Italia S.p.A.,12979,Details
+EU496519,10-0,2019-03-13 17:40:19.445,Completed,United Kingdom,100,Acanitt Holding Intl,5023901,Acanitt Holding Intl,United Kingdom,100,Myco 61 Ltd,5027234,Myco 61 Limited,30,Details
+EU496521,10-0,2019-03-13 17:37:23.408,Completed,Germany,100,1919 - citiworks AG  Personenkonto,5015484,citiworks AG,Germany,100,GTKW Darmstadt,5018045,ENTEGA AG,538,Details
+EU496372,10-0,2019-03-13 17:25:52.837,Completed,Spain,100,"Axpo Iberia, S.L.U.",5017059,"Axpo  Iberia, S.L.U.",Spain,100,"Oleoenergía El Puente, S.L.",5009633,"Oleoenergía El Puente, S.L.",3000,Details
+EU496365,10-0,2019-03-13 17:23:51.967,Completed,Spain,100,"Axpo Iberia, S.L.U.",5017059,"Axpo  Iberia, S.L.U.",Spain,100,"Oleoenergía El Puente, S.L.",5009633,"Oleoenergía El Puente, S.L.",3000,Details
+EU496517,10-0,2019-03-13 17:22:25.98,Completed,United Kingdom,100,Thomas Cook Group Treasury Limited,5008399,Thomas Cook Group Treasury Limited,United Kingdom,100,Thomas Cook Airlines Ltd,5000288,Thomas Cook Airlines Limited – in Liquidation,6739,Details
+EU496134,10-2,2019-03-13 17:16:38.4,Completed,United Kingdom,100,Heartlands Power Limited,5008036,Whitetower Energy Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,5721,Details
+EU496138,10-2,2019-03-13 17:15:51.82,Completed,United Kingdom,100,Bristol Energy Limited,5008037,Whitetower Energy Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,918,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+CH26022,3-0,2019-03-20 15:45:08.138,Completed,Switzerland,100,,1090,,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,142087,Details
+EU498654,10-0,2019-03-20 15:44:38.472,Completed,Germany,100,Uniper Global Commodities SE,5016943,Uniper Global Commodities SE,Germany,100,1876 - E.ON Energy Projects GmbH  Personenkonto,5015437,E.ON Energy Projects GmbH,5000,Details
+CH26021,3-0,2019-03-20 15:43:57.017,Completed,Switzerland,100,,1090,,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,250046,Details
+EU498673,10-0,2019-03-20 15:42:42.12,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,United Kingdom,100,ED&F Man Capital Markets Ltd,5023256,E D & F MAN CAPITAL MARKETS LIMITED,85000,Details
+EU498183,10-0,2019-03-20 15:42:29.269,Completed,Netherlands,100,N.V. Nederlandse Gasunie LNG Maasvlakte,5011127,N.V. Nederlandse Gasunie,Netherlands,100,Nederlandse Gasunie CS Ravenstein N.V.,5020551,N.V. Nederlandse Gasunie,8000,Details
+EU498677,10-0,2019-03-20 15:41:08.678,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,United Kingdom,100,FUTURES CLIENT TRADING ACCOUNT,5017912,Macquarie Bank Limited,97000,Details
+EU498696,10-0,2019-03-20 15:39:51.86,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,89000,Details
+EU498681,10-0,2019-03-20 15:38:59.885,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,9000,Details
+EU498181,10-0,2019-03-20 15:38:35.198,Completed,Sweden,100,Östervångsverket,5001946,Adven Energilösningar AB,Sweden,100,ER1,5019367,Adven Energilösningar AB,500,Details
+EU498658,10-0,2019-03-20 15:38:15.089,Completed,United Kingdom,100,Mitsui Bussan Commodities Ltd,5017395,Mitsui Bussan Commodities Ltd,Malta,100,ED&F Man Capital Markets Ltd,5027909,ED&F Man Capital Markets Limited,250000,Details
+EU498686,10-0,2019-03-20 15:37:52.875,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,United Kingdom,100,UBS TRADING ACCOUNT,5018280,UBS Limited,10000,Details
+EU498177,10-0,2019-03-20 15:35:35.591,Completed,Sweden,100,Lersäters PC,5001799,Kils Energi AB,Sweden,100,Kilsund PC,5001890,Kils Energi AB,5,Details
+EU498688,10-0,2019-03-20 15:34:53.203,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,Germany,100,Commerzbank AG - Trading Account,5016810,COMMERZBANK Aktiengesellschaft,34000,Details
+EU498691,10-0,2019-03-20 15:34:01.019,Completed,United Kingdom,100,Trading Daily Emissions,5017041,ICE Clear Europe Ltd,United Kingdom,100,Newedge UK Financial Ltd,5016868,Societe Generale International Limited,672000,Details
+EU498655,10-2,2019-03-20 15:33:54.326,Completed,Sweden,100,Stegeholmsverket,5002279,Västervik Miljö & Energi AB,European Commission,100,EU Allowance deletion,5016380,European Commission,26758,Details
+EU498647,10-2,2019-03-20 15:32:10.044,Completed,Norway,100,"Esso Norge AS, Slagentangen",5012222,Esso Norge AS,European Commission,100,EU Allowance deletion,5016380,European Commission,366998,Details
+EU498684,3-0,2019-03-20 15:30:06.555,Completed,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,Switzerland,100,,1090,,250046,Details
+EU498680,3-0,2019-03-20 15:29:26.037,Completed,United Kingdom,100,Belektron TRD,5016818,Belektron d.o.o.,Switzerland,100,,1090,,142087,Details
+EU498675,10-0,2019-03-20 15:28:21.556,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Romania,100,Operator Account,5010037,COMPANIA LOCALA DE TERMOFICARE COLTERM SA,5000,Details
+EU498666,10-0,2019-03-20 15:20:59.254,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Greece,100,MOTOKOR,5016949,ΜΟΤΟΡ ΟΙΛ - Δ. ΚΟΡΙΝΘΟΥ,5000,Details

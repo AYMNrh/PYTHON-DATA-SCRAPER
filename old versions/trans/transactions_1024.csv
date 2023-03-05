@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU499515,10-36,2019-03-22 01:32:46.807,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Ford España, S.L.",5009825,"FORD ESPAÑA, S.L.",56817,Details
+EU499370,10-36,2019-03-22 01:32:46.764,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Outokumpu Tornio:FI318,5010374,Outokumpu Stainless Oy,704518,Details
+EU499518,10-36,2019-03-22 01:32:46.658,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,"LK194, Lapinlahti:FI70",5010853,Adven Oy,26181,Details
+EU499181,10-36,2019-03-22 01:32:46.648,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,TKS/ELV/CO2:FI565,5010612,Tampereen Sähkölaitos Oy,194,Details
+EU499180,10-36,2019-03-22 01:32:46.617,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,LLV:FI329,5010385,Oy Turku Energia Åbo Energi Ab,3946,Details
+EU499386,10-36,2019-03-22 01:32:46.592,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,TOVO,5010711,Tornion Voima Oy,96168,Details
+EU499383,10-36,2019-03-22 01:32:46.564,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Nastola:FI240,5011023,Lahti Energia Oy,104,Details
+EU499376,10-36,2019-03-22 01:32:46.46,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Enagás, S.A. - Estación de compresión de Montesa",5009367,"ENAGAS TRANSPORTE, S.A.U",3107,Details
+EU499346,10-36,2019-03-22 01:32:46.318,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Halcón Cerámicas, S.L.- Centro 1",5022780,"Halcón Cerámicas, S.L.",8453,Details
+EU499345,10-36,2019-03-22 01:32:46.316,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Pölkky:FI668,5010688,Pölkky Oy,2928,Details
+EU499369,10-36,2019-03-22 01:32:46.211,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Laitostili voimalaitos:FI504,5010560,Vatajankoski Oy,6624,Details
+EU499357,10-36,2019-03-22 01:32:46.157,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,KAVO:n päästökauppatili:FI159,5010942,Kainuun Voima Oy,26688,Details
+EU499390,10-36,2019-03-22 01:32:46.128,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Kuusamonevo:FI223,5011006,Kuusamon energia- ja vesiosuuskunta,1369,Details
+EU499366,10-36,2019-03-22 01:32:46.065,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Kaukaan Voima Oy:FI775,5010746,Kaukaan Voima Oy,44887,Details
+EU499145,10-36,2019-03-22 01:32:45.884,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,Hinkismäen voimalaitos:FI209,5010992,KSS Energia Oy,3299,Details
+EU499362,10-36,2019-03-22 01:32:45.857,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,Clariana S.A.,5009930,"Clariana, S.A.",6621,Details
+EU499511,10-36,2019-03-22 01:32:45.837,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Hijos de Cipriano Castelló Alfonso, SL",5021812,"Hijos de Cipriano Castelló Alfonso, SL",17532,Details
+EU499353,10-36,2019-03-22 01:32:45.766,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"Epifanio Campo, S.L.",5008812,"Epifanio Campo, S.L.",2898,Details
+EU499356,10-36,2019-03-22 01:32:45.739,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Finland,100,TKS/NSLLK/CO2:FI441,5010497,Tampereen Sähkölaitos Oy,84,Details
+EU499361,10-36,2019-03-22 01:32:45.647,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Spain,100,"ENAGAS TRANSPORTE, S.A.U. - Instalación de Almodovar",5009111,"ENAGAS TRANSPORTE, S.A.U",6,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU515207,10-0,2019-04-17 13:48:06.745,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Cyprus,100,Operator Account:CY8,5012192,Electricity Authority of Cyprus,49797,Details
+EU514295,10-0,2019-04-17 13:47:19.276,Completed,Spain,100,SARVAL BIO-INDUSTRIES S.L.U.,5020878,"SARVAL BIO-INDUSTRIES, S.L.U.",Spain,100,Cuenta entrega unidades en nombre de instalaciones excluidas,5023046,Cuenta entrega unidades en nombre de instalaciones excluidas,2596,Details
+EU514993,10-2,2019-04-17 13:45:47.277,Completed,Germany,100,219 - Anlagenkonto,5014706,Ardagh Glass GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,15712,Details
+EU514293,10-0,2019-04-17 13:45:27.458,Completed,Italy,100,Operator Account,5012479,SOLVAY CHIMICA ITALIA SPA,Italy,100,Operator Account,5013518,SOLVAY CHIMICA ITALIA SPA,781113,Details
+EU514279,10-0,2019-04-17 13:45:02.738,Completed,Netherlands,100,ENGIE Maximacentrale,5011278,ENGIE Energie Nederland N.V.,Germany,100,ENGIE GLOBAL MARKETS,5016881,ENGIE Global Markets,316618,Details
+EU514292,10-0,2019-04-17 13:44:44.251,Completed,Czech Republic,100,České aerolinie a.s.,5017425,České aerolinie a.s.,Poland,100,Smartwings Poland Sp. z o.o.,5019702,Smartwings Poland Sp. z o.o.,73720,Details
+EU515003,10-2,2019-04-17 13:44:40.003,Completed,Germany,100,220 - Anlagenkonto,5014710,Ardagh Glass GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,47509,Details
+EU515206,10-0,2019-04-17 13:43:48.305,Completed,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,Spain,100,"Sistema Europeo de Negociación de Co2, S.L.",5016896,"SISTEMA EUROPEO DE NEGOCIACIÓN DE CO2, S.L.",20000,Details
+EU515183,10-2,2019-04-17 13:43:47.242,Completed,Bulgaria,100,Zaharni zavodi AD,5016156,Zaharni zavodi AD,European Commission,100,EU Allowance deletion,5016380,European Commission,35160,Details
+EU515010,10-2,2019-04-17 13:43:42.205,Completed,Germany,100,221 - Anlagenkonto,5014717,Ardagh Glass GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,55423,Details
+EU511649,10-2,2019-04-17 13:43:22.574,Completed,Portugal,100,71-Celbi,5004010,Celbi,European Commission,100,EU Allowance deletion,5016380,European Commission,67104,Details
+EU503314,10-2,2019-04-17 13:42:58.685,Completed,Hungary,100,Operator Account:HU39,5011679,Csepeli Erõmû Kft.,European Commission,100,EU Allowance deletion,5016380,European Commission,814,Details
+EU515012,10-2,2019-04-17 13:42:49.877,Completed,Germany,100,222 - Anlagenkonto,5014726,Ardagh Glass GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,39660,Details
+EU515177,10-2,2019-04-17 13:42:11.868,Completed,Bulgaria,100,Biovet JSCo-Pechtera,5016153,Biovet JSCo,European Commission,100,EU Allowance deletion,5016380,European Commission,24167,Details
+EU515022,10-2,2019-04-17 13:42:03.481,Completed,Germany,100,225 - Anlagenkonto,5014758,Ardagh Glass GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,38221,Details
+EU515025,10-2,2019-04-17 13:41:08.793,Completed,Germany,100,227 - Anlagenkonto,5014778,Ardagh Glass GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,87867,Details
+EU515059,10-2,2019-04-17 13:40:16.213,Completed,Germany,100,274 - Anlagenkonto,5015235,Ardagh Glass GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,62546,Details
+EU515175,10-2,2019-04-17 13:39:56.429,Completed,Bulgaria,100,Svilosa AD,5016150,Svilosa  AD,European Commission,100,EU Allowance deletion,5016380,European Commission,15235,Details
+EU515108,10-2,2019-04-17 13:39:47.816,Completed,Poland,100,CIEPŁOWNIA,5002590,ZAKŁAD ENERGETYKI CIEPLNEJ,European Commission,100,EU Allowance deletion,5016380,European Commission,28083,Details
+EU515213,10-0,2019-04-17 13:38:37.535,Completed,Poland,100,PGE Dom Maklerski S.A.,5023795,PGE Dom Maklerski S.A.,Poland,100,CIEPŁOWNIA,5003850,OZORKOWSKIE PRZEDSIĘBIORSTWO KOMUNALNE SP. Z O. O.,4000,Details

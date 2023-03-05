@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU489832,10-0,2019-02-27 12:09:07.331,Completed,Germany,100,100 - Anlagenkonto,5015862,SCHWENK Zement GmbH & Co. KG,Germany,100,98 - Anlagenkonto,5015850,SCHWENK Zement GmbH & Co. KG,400000,Details
+EU488307,10-0,2019-02-27 12:09:00.929,Completed,Germany,100,Ammoniak-Fabrik 4,5017961,BASF SE,Germany,100,BASF Group - Hub,5016965,BASF SE,40410,Details
+EU488060,10-0,2019-02-27 12:08:56.081,Completed,Germany,100,843 - Anlagenkonto,5015804,Stadtwerke Rostock Aktiengesellschaft,Germany,100,Zuteilungskonto der SWR AG,5026419,Stadtwerke Rostock Aktiengesellschaft,49644,Details
+EU488400,10-0,2019-02-27 12:08:42.402,Completed,Germany,100,Anlagenkonto RCD,5020995,Radici Chimica Deutschland GmbH,Italy,100,RADEN01,5012424,Geoenergie S.p.A.,100000,Details
+EU489812,10-0,2019-02-27 12:08:32.073,Completed,Germany,100,Synthesegasanlage-ab_2013,5017955,BASF SE,Germany,100,BASF Group - Hub,5016965,BASF SE,8677,Details
+EU489881,10-0,2019-02-27 12:08:28.552,Completed,Netherlands,100,BP Raffinaderij Rotterdam B.V.,5011350,BP Raffinaderij Rotterdam B.V.,United Kingdom,100,BP Gas Marketing Limited (2),5017286,BP Gas Marketing Limited,1470323,Details
+EU488379,10-0,2019-02-27 12:08:24.233,Completed,United Kingdom,100,HEINEKEN UK - Ledbury Mill,5008078,Heineken UK Limited,United Kingdom,100,HEINEKEN UK - Bulmers Cider Mill,5007250,Heineken UK Limited,6000,Details
+GB72726,10-0,2019-02-27 12:08:20.26,Completed,United Kingdom,121,UPM Registry GB,5022206,UPM Umwelt-Projekt-Management GmbH,United Kingdom,121,Natural Capital Partners,1276,Natural Capital Partners Europe Limited,276870,Details
+EU488361,10-0,2019-02-27 12:07:45.43,Completed,Sweden,100,Domsjö fabriker,5001444,Domsjö Fabriker AB,Sweden,100,Scandem Handelskonto,5019942,Scandem AB,195000,Details
+EU489857,10-0,2019-02-27 12:07:36.497,Completed,Finland,100,Säynätsalo:FI97,5010880,Adven Oy,Finland,100,ADVEN Trading,5018009,Adven Oy,3612,Details
+EU490754,10-0,2019-02-27 12:06:38.747,Completed,Germany,100,UniCredit Bank AG Trading Account,5016811,UniCredit Bank AG,Italy,100,Trading Account,5017215,Tirreno Power SpA,15000,Details
+EU489808,10-0,2019-02-27 12:05:59.486,Completed,Germany,100,Acrylmonomere Nord,5018016,BASF SE,Germany,100,BASF Group - Hub,5016965,BASF SE,4333,Details
+EU488356,10-0,2019-02-27 12:05:56.629,Completed,United Kingdom,100,Operator Account,5008238,Tata Steel UK Limited,United Kingdom,100,Morgan Stanley Capital Group Inc,5017295,Morgan Stanley Capital Group Inc,25000,Details
+EU488330,10-0,2019-02-27 12:05:17.704,Completed,Germany,100,Natriumcarboxylat/Soda-Anlage,5018026,BASF SE,Germany,100,BASF Group - Hub,5016965,BASF SE,3509,Details
+EU488246,10-0,2019-02-27 12:05:16.128,Completed,Germany,100,Salpetersäure-Fabrik,5017958,BASF SE,Germany,100,BASF Group - Hub,5016965,BASF SE,17650,Details
+EU488279,10-0,2019-02-27 12:04:46.062,Completed,Germany,100,Acetylen-Anlage,5018020,BASF SE,Germany,100,BASF Group - Hub,5016965,BASF SE,7112,Details
+EU489806,10-0,2019-02-27 12:04:42.38,Completed,Germany,100,Acrylsäure-Fabrik II,5017970,BASF SE,Germany,100,BASF Group - Hub,5016965,BASF SE,3220,Details
+EU488380,10-0,2019-02-27 12:04:23.697,Completed,Ireland,100,Operator Account,5011941,Edenderry Power Limited,Ireland,100,Operator Account,5012014,Bord na Mona Fuels Limited,20500,Details
+EU488351,10-0,2019-02-27 12:03:58.12,Completed,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,Italy,100,cartiera pratolungo,5019010,Cartiera di Pratolungo,885,Details
+EU488320,10-0,2019-02-27 12:03:40.948,Completed,Germany,100,Anolon-Fabrik,5017971,BASF SE,Germany,100,BASF Group - Hub,5016965,BASF SE,511,Details

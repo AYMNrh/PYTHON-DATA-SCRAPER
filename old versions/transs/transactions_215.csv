@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU516405,10-2,2019-04-19 14:20:35.109,Completed,Italy,100,Wyeth Lederle SRL,5012688,Wyeth Lederle Srl,European Commission,100,EU Allowance deletion,5016380,European Commission,23473,Details
+EU516341,10-2,2019-04-19 14:19:34.467,Completed,Italy,100,IMPIANTO DI VICENZA,5012469,Acciaierie Valbruna S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,11423,Details
+EU516422,10-2,2019-04-19 14:15:19.972,Completed,Italy,100,FORNACE GATTELLI,5017923,GATTELLI SPA,European Commission,100,EU Allowance deletion,5016380,European Commission,14103,Details
+EU508670,10-2,2019-04-19 14:09:33.896,Completed,Italy,100,Operator Account,5013598,FEDRIGONI S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,89833,Details
+EU516369,10-2,2019-04-19 14:09:20.109,Completed,Italy,100,Operator Account,5013620,SUANFARMA ITALIA S.P.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,18802,Details
+EU508674,10-2,2019-04-19 14:08:13.567,Completed,Italy,100,Operator Account,5013599,FEDRIGONI S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,17492,Details
+EU508678,10-2,2019-04-19 14:06:51.73,Completed,Italy,100,Operator Account,5013601,FEDRIGONI S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,48175,Details
+EU508681,10-2,2019-04-19 14:05:26.078,Completed,Italy,100,Operator Account,5013602,FEDRIGONI S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,34329,Details
+EU508683,10-2,2019-04-19 14:03:51.215,Completed,Italy,100,Operator Account,5013604,FEDRIGONI S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,50831,Details
+EU515825,10-0,2019-04-19 13:50:43.245,Completed,Netherlands,100,Smurfit Kappa Parenco B.V.,5011324,Smurfit Kappa Parenco B.V.,Ireland,100,Smurfit Kappa Treasury,5017546,Smurfit Kappa Treasury Unlimited Company,10000,Details
+EU505722,10-2,2019-04-19 13:47:25.887,Completed,Ireland,100,Operator Account,5011962,College Proteins Unlimited Company,European Commission,100,EU Allowance deletion,5016380,European Commission,10120,Details
+EU509700,10-2,2019-04-19 13:43:45.871,Completed,Ireland,100,Operator Account,5011961,College Proteins Unlimited Company,European Commission,100,EU Allowance deletion,5016380,European Commission,87,Details
+EU516178,10-2,2019-04-19 13:36:54.111,Completed,France,100,CEA Marcoule,5005736,CEA,European Commission,100,EU Allowance deletion,5016380,European Commission,19349,Details
+EU506722,10-2,2019-04-19 13:30:07.348,Completed,France,100,CEA Cadarache,5005682,CEA,European Commission,100,EU Allowance deletion,5016380,European Commission,4864,Details
+EU516383,10-2,2019-04-19 13:28:38.167,Completed,France,100,CIMENTS CALCIA Usine de Beffes,5005597,CIMENTS CALCIA,European Commission,100,EU Allowance deletion,5016380,European Commission,371981,Details
+EU502520,10-2,2019-04-19 13:28:34.496,Completed,France,100,TELEHOUSE EUROPE- MAGNY LES HAMEAUX,5026861,TELEHOUSE INTERNATIONAL CORPORATION OF EUROPE LTD,European Commission,100,EU Allowance deletion,5016380,European Commission,57,Details
+EU515740,10-0,2019-04-19 13:28:26.018,Completed,France,100,SMURFIT KAPPA CELLULOSE DU PIN,5004843,SMURFIT KAPPA CELLULOSE DU PIN,Ireland,100,Smurfit Kappa Treasury,5017546,Smurfit Kappa Treasury Unlimited Company,45000,Details
+EU516385,10-2,2019-04-19 13:27:41.025,Completed,France,100,CIMENTS CALCIA Usine de Bussac-Forêt,5005911,CIMENTS CALCIA,European Commission,100,EU Allowance deletion,5016380,European Commission,397877,Details
+NL31953,3-0,2019-04-19 13:26:30.058,Completed,Netherlands,121,China Carbon N.V.,5016549,China Carbon N.V.,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,50000,Details
+NL31954,3-0,2019-04-19 13:25:07.292,Completed,Netherlands,121,China Carbon N.V.,5016549,China Carbon N.V.,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,2882,Details

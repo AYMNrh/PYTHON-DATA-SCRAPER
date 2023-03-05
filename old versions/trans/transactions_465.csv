@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU511362,10-2,2019-04-11 18:05:52.599,Completed,Sweden,100,Stormyrens HVC,5001712,Adven Energilösningar AB,European Commission,100,EU Allowance deletion,5016380,European Commission,56,Details
+EU511367,10-2,2019-04-11 18:04:25.522,Completed,Sweden,100,Tallnäs,5001839,Adven Energilösningar AB,European Commission,100,EU Allowance deletion,5016380,European Commission,665,Details
+EU511372,10-2,2019-04-11 18:03:20.156,Completed,Sweden,100,Industriområdet Timrå,5001840,Adven Energilösningar AB,European Commission,100,EU Allowance deletion,5016380,European Commission,16,Details
+EU511374,10-2,2019-04-11 18:02:00.145,Completed,Sweden,100,PC Östrand,5018451,Adven Energilösningar AB,European Commission,100,EU Allowance deletion,5016380,European Commission,870,Details
+EU511723,10-2,2019-04-11 18:01:59.976,Completed,Spain,100,"Repsol Química, S.A.",5009732,"Repsol Química, SA",European Commission,100,EU Allowance deletion,5016380,European Commission,6724,Details
+EU511378,10-2,2019-04-11 18:00:48.63,Completed,Sweden,100,Avfallspanna Mora,5021761,Adven Energilösningar AB,European Commission,100,EU Allowance deletion,5016380,European Commission,8323,Details
+EU511725,10-2,2019-04-11 17:59:18.299,Completed,Spain,100,"Repsol Química, S.A. - El Morell - Cogeneración",5009000,"Repsol Química, SA",European Commission,100,EU Allowance deletion,5016380,European Commission,782135,Details
+EU511380,10-2,2019-04-11 17:58:17.601,Completed,Sweden,100,Nipan,5023029,Adven Energilösningar AB,European Commission,100,EU Allowance deletion,5016380,European Commission,35,Details
+EU510613,10-0,2019-04-11 17:55:15.255,Completed,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,United Kingdom,100,Benhall Trading Account,5007904,GCHQ,1500,Details
+EU511327,10-2,2019-04-11 17:55:04.396,Completed,Germany,100,1671 - Anlagenkonto,5015129,Carlsberg Supply Company Deutschland  GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,13347,Details
+EU511704,10-2,2019-04-11 17:54:32.429,Completed,Belgium,100,434 A&S Energie,5027921,A&S Energie,European Commission,100,EU Allowance deletion,5016380,European Commission,5030,Details
+EU510633,10-0,2019-04-11 17:54:12.009,Completed,France,100,Société Valmy Défense 17 - SVD17,5023377,SVD 17,France,100,NORD - Chaufferie de Caucriauville du Havre,5005660,RESOCEANE,20756,Details
+EU511207,10-2,2019-04-11 17:53:40.592,Completed,Portugal,100,"INACER – Industria Nacional de Cerâmicas, Lda.",5003966,"INACER – Industria Nacional de Cerâmicas, Lda.",European Commission,100,EU Allowance deletion,5016380,European Commission,7557,Details
+EU510600,10-0,2019-04-11 17:53:35.102,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Lithuania,100,Operator Account:LT48,5006039,AB Vilniaus silumos tinklai,155000,Details
+EU510636,10-0,2019-04-11 17:53:19.731,Completed,France,100,Société Valmy Défense 17 - SVD17,5023377,SVD 17,France,100,CALAIS ENERGIE,5005384,CALAIS ENERGIE,1459,Details
+EU510637,10-0,2019-04-11 17:52:26.115,Completed,France,100,Société Valmy Défense 17 - SVD17,5023377,SVD 17,France,100,CHR DE LILLE,5005291,COGE SANTE LILLE,28764,Details
+EU511222,10-2,2019-04-11 17:51:11.533,Completed,Portugal,100,"55-Cerâmica das Quintãs, Lda.",5003968,"Cerâmica das Quintãs, Lda.",European Commission,100,EU Allowance deletion,5016380,European Commission,11347,Details
+EU510679,10-0,2019-04-11 17:50:59.777,Completed,Poland,100,Izba Rozliczeniowa Giełd Towarowych S.A.,5003879,Izba Rozliczeniowa Giełd Towarowych S.A.,Poland,100,Izba Rozliczeniowa Giełd Towarowych,5027385,Izba Rozliczeniowa Giełd Towarowych S.A.,5630000,Details
+EU510647,10-0,2019-04-11 17:50:24.277,Completed,France,100,Société Valmy Défense 17 - SVD17,5023377,SVD 17,France,100,COGESTAR - Réseau d'Arras,5005259,COGESTAR,13193,Details
+EU511717,10-2,2019-04-11 17:49:39.248,Completed,Spain,100,Repsol Petróleo S.A. - Instalación de Tarragona,5009394,"Repsol Petróleo, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,2266655,Details

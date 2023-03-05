@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU492794,10-36,2019-03-01 01:30:56.019,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Cyprus,100,Operator Account:CY8,5012192,Electricity Authority of Cyprus,198607,Details
+EU492801,10-36,2019-03-01 01:30:55.942,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,AB Grigeo,5006011,AB Grigeo,36502,Details
+EU492790,10-36,2019-03-01 01:30:55.897,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT65,5006056,Pravieniskiu pataisos namai-atviroji kolonija,1370,Details
+EU492837,10-36,2019-03-01 01:30:55.871,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT41,5006032,UAB Jonavos silumos tinklai,2483,Details
+EU492781,10-36,2019-03-01 01:30:55.831,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Romania,100,SC LUKOIL ENERGY&GAS ROMANIA SRL,5010296,SC LUKOIL ENERGY&GAS ROMANIA SRL,3018,Details
+EU492776,10-36,2019-03-01 01:30:55.808,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT74,5006065,AB Kauno energija,548,Details
+EU492806,10-36,2019-03-01 01:30:55.806,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT64,5006055,UAB Salcininku silumos tiklai,1827,Details
+EU492791,10-36,2019-03-01 01:30:55.763,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Veiklos vykdytojo:LT117,5006098,AB Panevezio energija,13294,Details
+EU492804,10-36,2019-03-01 01:30:55.61,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,UAB Hoegh LNG Klaipeda,5024025,UAB Hoegh LNG Klaipeda,24949,Details
+EU492772,10-36,2019-03-01 01:30:55.576,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT52,5006043,AB Vilniaus silumos tinklai,473,Details
+EU492807,10-36,2019-03-01 01:30:55.547,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT61,5006052,UAB Utenos silumos tinklai,15905,Details
+EU492810,10-36,2019-03-01 01:30:55.433,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT89,5006080,UAB Litesko,12983,Details
+EU492792,10-36,2019-03-01 01:30:55.394,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Belgium,100,052 Fluxys compressiestation Winksele,5004415,Fluxys Belgium,2384,Details
+EU492799,10-36,2019-03-01 01:30:55.335,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator holding:LT110,5006093,Vi Ignalinos atomine elektrine,2891,Details
+EU492768,10-36,2019-03-01 01:30:55.142,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT21,5006012,AB Simega,1854,Details
+EU492770,10-36,2019-03-01 01:30:55.104,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,SpK Elferweg - 788,5015313,Stadtwerke Würzburg Aktiengesellschaft,224,Details
+EU492836,10-36,2019-03-01 01:30:55.085,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Zarasu RK:LT71,5006062,AB Panevezio energija,2338,Details
+EU492812,10-36,2019-03-01 01:30:55.084,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Cyprus,100,Operator Account:CY20,5012204,Varnavas Nicolaou,9243,Details
+EU492805,10-36,2019-03-01 01:30:55.069,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Pasvalio RK:LT70,5006061,AB Panevezio energija,2545,Details
+EU492777,10-36,2019-03-01 01:30:55.024,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Lithuania,100,Operator Account:LT91,5006082,"AB ""Ignitis gamyba""",12950,Details

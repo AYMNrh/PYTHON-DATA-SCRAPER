@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU503008,10-0,2019-03-29 14:03:59.446,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Netherlands,100,FUTURES CLIENT TRADING ACCOUNT,5027936,Macquarie Bank Limited,50000,Details
+EU502980,10-2,2019-03-29 13:59:24.467,Completed,Norway,100,Ferroglobe Mangan Norge AS,5020519,Ferroglobe Mangan Norge AS,European Commission,100,EU Allowance deletion,5016380,European Commission,86831,Details
+EU502999,10-2,2019-03-29 13:56:23.121,Completed,Latvia,100,OHA:LV35,5012102,A/s „Putnu fabrika Kekava””,European Commission,100,EU Allowance deletion,5016380,European Commission,10823,Details
+EU502998,10-72,2019-03-29 13:48:22.52,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Germany,100,Hammerwerk Erft,5021950,Hammerwerk Erft G. Diederichs GmbH & Co KG,839,Details
+EU502984,10-0,2019-03-29 13:47:47.629,Completed,Netherlands,100,ICE Clear Europe Limited,5026873,ICE Clear Europe Limited,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,3000,Details
+EU502741,10-71,2019-03-29 13:47:24.359,Completed,Germany,100,Hammerwerk Erft,5021950,Hammerwerk Erft G. Diederichs GmbH & Co KG,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,839,Details
+EU502132,10-0,2019-03-29 13:47:16.715,Completed,Italy,100,Operator Account,5012486,GNL ITALIA SPA,Italy,100,Operator Account,5012526,Stogit S.p.A.,52525,Details
+EU499016,10-2,2019-03-29 13:46:28.233,Completed,Netherlands,100,Zeeland Refinery N.V.,5011352,Zeeland Refinery N.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,1632907,Details
+EU502182,10-0,2019-03-29 13:42:55.743,Completed,Belgium,100,298 EDFL - Centrale Ham 68 Gent,5004311,Luminus,Belgium,100,303 EDFL - Seraing,5004316,Luminus,7798,Details
+EU502181,10-0,2019-03-29 13:40:51.524,Completed,United Kingdom,100,EU ETS TRADING,5007683,Venator Materials UK Limited,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,4462,Details
+EU502717,10-2,2019-03-29 13:40:20.85,Completed,France,100,SUCRERIE D'EPPEVILLE,5005448,SAINT LOUIS SUCRE SA,European Commission,100,EU Allowance deletion,5016380,European Commission,112512,Details
+EU502715,10-2,2019-03-29 13:39:02.016,Completed,France,100,SUCRERIE DE CAGNY,5004715,SAINT LOUIS SUCRE SA,European Commission,100,EU Allowance deletion,5016380,European Commission,71672,Details
+EU502962,10-2,2019-03-29 13:38:27.713,Completed,Germany,100,1542 - Anlagenkonto,5014947,Stadtwerke Cottbus GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,275892,Details
+EU502177,10-0,2019-03-29 13:38:12.325,Completed,Belgium,100,303 EDFL - Seraing,5004316,Luminus,Belgium,100,301 EDFL - Angleur TGV1,5004314,Luminus,35178,Details
+EU502632,10-2,2019-03-29 13:37:57.82,Completed,Czech Republic,100,LASSELSBERGER - závod Borovany,5006799,"LASSELSBERGER, s.r.o.",European Commission,100,EU Allowance deletion,5016380,European Commission,12103,Details
+EU502718,10-2,2019-03-29 13:37:57.818,Completed,France,100,SUCRERIE D'ETREPAGNY,5005542,SAINT LOUIS SUCRE SA,European Commission,100,EU Allowance deletion,5016380,European Commission,89766,Details
+EU502637,10-2,2019-03-29 13:36:33.952,Completed,Czech Republic,100,LASSELSBERGER - závod Chlumčany,5006800,"LASSELSBERGER, s.r.o.",European Commission,100,EU Allowance deletion,5016380,European Commission,62769,Details
+EU502739,10-2,2019-03-29 13:36:17.109,Completed,Germany,100,Rackwitz Gießerei,5020649,Hydro Aluminium Gießerei Rackwitz GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,19125,Details
+EU502988,10-72,2019-03-29 13:35:18.448,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,Spain,100,"Nitricomax, S.L.U.",5022518,"Nitricomax, S.L.U.",1082,Details
+EU502721,10-2,2019-03-29 13:35:12.399,Completed,France,100,SUCRERIE DE ROYE,5005336,SAINT LOUIS SUCRE SA,European Commission,100,EU Allowance deletion,5016380,European Commission,73886,Details

@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU487443,10-36,2019-02-22 01:33:33.133,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,BI-QEM RESINS AB,5021576,BI-QEM RESINS AB,1429,Details
+EU487445,10-36,2019-02-22 01:33:32.755,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Hultsfreds värmeverk,5002158,Nevel AB,3573,Details
+EU487440,10-36,2019-02-22 01:33:32.749,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,SSAB Luleå,5001518,SSAB EMEA AB,2689458,Details
+EU487435,10-36,2019-02-22 01:33:32.652,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Ångcentralen A-omr.,5001417,Solör Bioenergi Utility Solutions AB,2070,Details
+EU487479,10-36,2019-02-22 01:33:32.652,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Preemraff Göteborg,5001552,Preem AB,382949,Details
+EU487441,10-36,2019-02-22 01:33:32.626,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Korstaverket,5002117,Sundsvall Energi AB,43583,Details
+EU487439,10-36,2019-02-22 01:33:32.462,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,KVV Oceanen,5002218,Halmstads Energi & Miljö AB,25454,Details
+EU487477,10-36,2019-02-22 01:33:32.427,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Stegeholmsverket,5002279,Västervik Miljö & Energi AB,16053,Details
+EU487436,10-36,2019-02-22 01:33:32.413,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Värmekraften 1,5001957,Gotlands Energi AB,436,Details
+EU487461,10-36,2019-02-22 01:33:32.388,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,KVV Djuped,5001995,Värmevärden AB,12243,Details
+EU487433,10-36,2019-02-22 01:33:32.366,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,FVC AVR Fagersta By,5001628,AB Borlänge Energi,181,Details
+EU487431,10-36,2019-02-22 01:33:32.355,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Hetvattencentral 1,5001831,Höganäs Energi AB,633,Details
+EU487468,10-36,2019-02-22 01:33:32.326,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Rättviks värmeverk,5001733,Värmevärden Siljan AB,3816,Details
+EU487471,10-36,2019-02-22 01:33:32.321,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Sjöviksverket,5001945,Trelleborgs Fjärrvärme AB,362,Details
+EU487438,10-36,2019-02-22 01:33:32.282,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,SSAB Oxelösund,5001515,SSAB EMEA AB,1793078,Details
+EU487466,10-36,2019-02-22 01:33:32.254,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Snickarens PC,5001765,Marks Energi AB,90,Details
+EU487432,10-36,2019-02-22 01:33:32.169,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,Salpetersäure-Fabrik,5017958,BASF SE,164496,Details
+EU487470,10-36,2019-02-22 01:33:32.167,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,PC Bulten,5001689,Landskrona Energi Kraft AB,72,Details
+EU487460,10-36,2019-02-22 01:33:32.145,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Avesta Jernverk,5001503,Outokumpu Stainless AB,103415,Details
+EU487464,10-36,2019-02-22 01:33:32.015,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Sweden,100,Lindås,5001583,Emmaboda Energi & Miljö AB,2044,Details

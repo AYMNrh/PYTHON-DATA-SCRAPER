@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU513375,10-0,2019-04-16 17:08:29.247,Completed,Netherlands,100,HBEL,5027810,Holcibel,France,100,Lafarge Ciments - Usine de Contes,5005653,LAFARGE CIMENTS,207790,Details
+EU513513,10-0,2019-04-16 17:08:19.484,Completed,Finland,100,NKCO2RR:FI297,5010353,Nordkalk Oy Ab,Finland,100,NKCO2LO:FI295,5010351,Nordkalk Oy Ab,59986,Details
+EU513096,10-0,2019-04-16 17:05:50.933,Completed,France,100,ARCELORMITTAL TREASURY Détention,5026253,ARCELORMITTAL TREASURY,Luxembourg,100,ArcelorMittal Rodange et Schifflange - Site de Rodange,5022290,ArcelorMittal Belval et Differdange,11,Details
+EU513507,10-0,2019-04-16 17:05:33.286,Completed,Finland,100,NKCO2RR:FI297,5010353,Nordkalk Oy Ab,Finland,100,NKCO2PA:FI296,5010352,Nordkalk Oy Ab,31818,Details
+EU514583,10-2,2019-04-16 17:03:55.286,Completed,Slovakia,100,"BYTES, s.r.o.",5022993,"BYTES, s.r.o.",European Commission,100,EU Allowance deletion,5016380,European Commission,182,Details
+EU513491,10-0,2019-04-16 17:01:59.223,Completed,Poland,100,Piec obrotowy do wypalania klinkieru dolomitowego,5003602,ArcelorMittal Refractories sp. z o.o.,Poland,100,Piece tunelowe do wypalania materiałów ogniotrwałych,5003603,ArcelorMittal Refractories sp. z o.o.,20000,Details
+EU513486,10-0,2019-04-16 17:00:16.223,Completed,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,Greece,100,KEBE AE,5002401,KEBE  AE,2700,Details
+EU509738,10-0,2019-04-16 16:58:45.23,Completed,France,100,ARKEMA FRANCE MONT,5020872,ARKEMA FRANCE,France,100,SOBEGI LACQ,5005002,SOBEGI,31465,Details
+EU513460,10-0,2019-04-16 16:56:19.92,Completed,Netherlands,100,HBEL,5027810,Holcibel,Italy,100,Operator Account,5012573,HOLCIM (ITALIA) SPA,504545,Details
+EU501199,10-2,2019-04-16 16:55:39.437,Completed,Ireland,100,Operator Account,5011939,Medite Europe Designated Activity Company,European Commission,100,EU Allowance deletion,5016380,European Commission,9048,Details
+EU501835,10-2,2019-04-16 16:53:07.808,Completed,Netherlands,100,Gouda Refractories BV,5011067,Gouda Refractories B.V.,European Commission,100,EU Allowance deletion,5016380,European Commission,9629,Details
+EU514554,10-2,2019-04-16 16:52:57.332,Completed,Hungary,100,Operator Account:HU93,5011728,Hungrana Keményítõ és Izocukorgyártó Kft.,European Commission,100,EU Allowance deletion,5016380,European Commission,145525,Details
+EU514730,10-2,2019-04-16 16:52:37.374,Completed,Spain,100,"Air Europa Líneas Aéreas, S.A.U.",5016952,"Air Europa Líneas Aéreas, S.A.U.",European Commission,100,EU Allowance deletion,5016380,European Commission,591003,Details
+EU514500,10-2,2019-04-16 16:50:55.799,Completed,Hungary,100,Gönyűi Erőmű,5011910,Uniper Hungary Kft.,European Commission,100,EU Allowance deletion,5016380,European Commission,845676,Details
+EU514732,10-72,2019-04-16 16:50:10.003,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,France,100,CPTE EDF - St Martin,5005530,EDF SA,3,Details
+EU513621,10-71,2019-04-16 16:49:21.413,Completed,France,100,CPTE EDF - St Martin,5005530,EDF SA,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,3,Details
+EU514728,10-72,2019-04-16 16:46:18.062,Completed,European Commission,100,EU Credit Exchange Account - Aviation,5022592,EUROPEAN COMMISSION,Spain,100,"Air Europa Líneas Aéreas, S.A.U.",5016952,"Air Europa Líneas Aéreas, S.A.U.",8865,Details
+EU514722,10-2,2019-04-16 16:45:52.395,Completed,Italy,100,Ansaldo. Trading,5013059,Ansaldo Energia Spa,European Commission,100,EU Allowance deletion,5016380,European Commission,1732,Details
+EU514249,10-2,2019-04-16 16:45:51.978,Completed,Belgium,100,058 Yara Tertre,5004457,YARA TERTRE,European Commission,100,EU Allowance deletion,5016380,European Commission,620408,Details
+EU514694,10-71,2019-04-16 16:45:19.882,Completed,Spain,100,"Air Europa Líneas Aéreas, S.A.U.",5016952,"Air Europa Líneas Aéreas, S.A.U.",European Commission,100,EU International Credit Account - Aviation,5022591,EUROPEAN COMMISSION,8865,Details

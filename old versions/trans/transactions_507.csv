@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU510125,10-2,2019-04-11 08:09:44.303,Completed,Finland,100,Hämeenlinnan tehdas:FI374,5010430,SSAB Europe Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,77102,Details
+EU509573,10-2,2019-04-11 07:57:42.616,Completed,Sweden,100,Okvista Värmeverk,5001715,E.ON Energiinfrastruktur AB,European Commission,100,EU Allowance deletion,5016380,European Commission,5,Details
+EU508929,10-2,2019-04-11 07:53:06.521,Completed,Germany,100,1082 - Anlagenkonto,5014308,Kraftwerke Mainz-Wiesbaden AG,European Commission,100,EU Allowance deletion,5016380,European Commission,427894,Details
+EU510907,10-2,2019-04-11 07:52:00.304,Completed,Poland,100,Cognor S.A. Oddział Ferrostal Łabędy w Zawierciu,5022254,COGNOR SPÓŁKA AKCYJNA,European Commission,100,EU Allowance deletion,5016380,European Commission,8465,Details
+EU509574,10-2,2019-04-11 07:51:55.176,Completed,Sweden,100,Effektvägen Pellets,5001793,E.ON MälarKraft Värme AB,European Commission,100,EU Allowance deletion,5016380,European Commission,13,Details
+EU509579,10-2,2019-04-11 07:49:13.752,Completed,Sweden,100,Badhusvägen,5001864,E.ON MälarKraft Värme AB,European Commission,100,EU Allowance deletion,5016380,European Commission,283,Details
+EU509584,10-2,2019-04-11 07:47:51.745,Completed,Sweden,100,HVC Hallonvägen,5001982,E.ON MälarKraft Värme AB,European Commission,100,EU Allowance deletion,5016380,European Commission,189,Details
+EU509587,10-2,2019-04-11 07:46:05.651,Completed,Sweden,100,Sandkilsverket Åkersberga,5024057,E.ON Energiinfrastruktur AB,European Commission,100,EU Allowance deletion,5016380,European Commission,143,Details
+EU510440,10-2,2019-04-11 07:44:13.744,Completed,Sweden,100,Hallsbergs HVC,5002184,E.ON Energiinfrastruktur AB,European Commission,100,EU Allowance deletion,5016380,European Commission,914,Details
+EU510900,10-2,2019-04-11 07:15:19.274,Completed,Estonia,100,Operator Account:EE36,5016341,Danpower Eesti AS,European Commission,100,EU Allowance deletion,5016380,European Commission,256,Details
+EU510895,10-2,2019-04-11 06:40:35.385,Completed,Finland,100,Junnikkala:FI653,5010677,Junnikkala Oy,European Commission,100,EU Allowance deletion,5016380,European Commission,57,Details
+EU510894,10-2,2019-04-11 03:30:35.066,Completed,France,100,China Eastern Airlines Co.Ltd.,5024092,China Eastern Airlines Co.Ltd.,European Commission,100,EU Allowance deletion,5016380,European Commission,93,Details
+EU510888,10-35,2019-04-11 01:30:18.012,Completed,European Commission,100,EU AVIATION ALLOCATION ACCOUNT,5022595,EUROPEAN UNION,Italy,100,AIR ITALY S.P.A.,5016557,AIR ITALY S.P.A.,238970,Details
+EU510887,10-35,2019-04-11 01:30:17.954,Completed,European Commission,100,EU AVIATION ALLOCATION ACCOUNT,5022595,EUROPEAN UNION,Italy,100,SIRIO co2,5016433,SIRIO S.p.A.,354,Details
+EU510886,10-35,2019-04-11 01:30:17.896,Completed,European Commission,100,EU AVIATION ALLOCATION ACCOUNT,5022595,EUROPEAN UNION,Italy,100,Cargolux Italia,5016434,Cargolux Italia S.p.A.,8000,Details
+EU510885,10-35,2019-04-11 01:30:17.832,Completed,European Commission,100,EU AVIATION ALLOCATION ACCOUNT,5022595,EUROPEAN UNION,Italy,100,Belavia,5016728,Belavia - Belarusian Airlines,33,Details
+EU510889,10-35,2019-04-11 01:30:17.775,Completed,European Commission,100,EU AVIATION ALLOCATION ACCOUNT,5022595,EUROPEAN UNION,Italy,100,ETHIOPIAN AIRLINES,5019903,ETHIOPIAN AIRLINES,11218,Details
+EU510891,10-35,2019-04-11 01:30:17.72,Completed,European Commission,100,EU AVIATION ALLOCATION ACCOUNT,5022595,EUROPEAN UNION,Italy,100,Alitalia ETS aviation,5016641,Alitalia Società Aerea Italiana S.p.A.,1022533,Details
+EU510890,10-35,2019-04-11 01:30:17.666,Completed,European Commission,100,EU AVIATION ALLOCATION ACCOUNT,5022595,EUROPEAN UNION,Italy,100,Mistral Air,5016430,Poste Air Cargo Srl,15072,Details
+EU510893,10-35,2019-04-11 01:30:17.615,Completed,European Commission,100,EU AVIATION ALLOCATION ACCOUNT,5022595,EUROPEAN UNION,Italy,100,NeosCO2,5016432,Neos Spa,16703,Details

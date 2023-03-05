@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+CDM57146,3-0,2019-03-12 16:36:02.71,Completed,CDM,110,,1000,,Sweden,100,Internationella klimatinsatser,5017396,Statens energimyndighet,141975,Details
+EU496297,10-2,2019-03-12 16:32:42.053,Completed,United Kingdom,100,Loggs,5007106,CHRYSAOR PRODUCTION (U.K.) LIMITED,European Commission,100,EU Allowance deletion,5016380,European Commission,73866,Details
+EU496204,10-2,2019-03-12 16:32:07.392,Completed,United Kingdom,100,Perenco-Trent,5007890,Perenco UK Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,11989,Details
+EU496209,10-2,2019-03-12 16:30:49.484,Completed,United Kingdom,100,Indefatigable 23A,5007886,Perenco UK Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,41373,Details
+EU496299,10-2,2019-03-12 16:30:28.116,Completed,United Kingdom,100,Murdoch,5007109,CHRYSAOR PRODUCTION (U.K.) LIMITED,European Commission,100,EU Allowance deletion,5016380,European Commission,58054,Details
+EU496302,10-2,2019-03-12 16:29:19.608,Completed,United Kingdom,100,Theddlethorpe Gas Terminal,5007117,CHRYSAOR PRODUCTION (U.K.) LIMITED,European Commission,100,EU Allowance deletion,5016380,European Commission,52772,Details
+EU496210,10-2,2019-03-12 16:29:16.774,Completed,United Kingdom,100,Leman 27A,5007887,Perenco UK Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,99829,Details
+EU496186,10-2,2019-03-12 16:27:42.094,Completed,United Kingdom,100,BPEOC Dimlington-Easington,5008311,Perenco UK Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,141145,Details
+EU496303,10-2,2019-03-12 16:27:33.666,Completed,United Kingdom,100,Judy,5008451,Chrysaor Petroleum Company U.K. Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,226977,Details
+EU496309,10-2,2019-03-12 16:25:24.258,Completed,United Kingdom,100,Britannia,5008569,Chrysaor (U.K) Britannia Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,417825,Details
+EU496532,10-2,2019-03-12 16:21:10.33,Completed,Ireland,100,Operator Account,5012064,Pfizer Ireland Pharmaceuticals,European Commission,100,EU Allowance deletion,5016380,European Commission,15198,Details
+EU496077,10-0,2019-03-12 16:15:16.841,Completed,Germany,100,Werk Neuburg,5014863,Verallia Deutschland AG,Germany,100,Werk Wirges,5014855,Verallia Deutschland AG,7840,Details
+EU496074,10-0,2019-03-12 16:13:21.999,Completed,United Kingdom,100,Solan Field,5024770,Premier Oil UK Limited,United Kingdom,100,Voyageur Spirit,5021063,Premier Oil E&P UK Ltd,3273,Details
+EU496072,10-0,2019-03-12 16:11:59.977,Completed,Poland,100,Walcownia Rur,5003868,ArcelorMittal Tubular Products Kraków,France,100,ARCELORMITTAL TREASURY Détention,5026253,ARCELORMITTAL TREASURY,20927,Details
+EU496529,10-2,2019-03-12 16:01:32.996,Completed,Spain,100,Esmaldur S.A.,5009443,"ESMALDUR, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,7649,Details
+EU496528,10-0,2019-03-12 15:56:25.157,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,United Kingdom,100,CFP Energy Limited,5017513,CFP Energy Limited,100000,Details
+EU496066,10-0,2019-03-12 15:55:53.97,Completed,United Kingdom,100,Allied Glass Trading,5007770,Allied Glass Containers Limited,United Kingdom,100,AGC Knottingley Trading,5007771,Allied Glass Containers Limited,35645,Details
+EU496526,10-0,2019-03-12 15:55:24.008,Completed,Spain,100,FUTURA CARBONO S.L.,5024181,FUTURA CARBONO S.L.,Spain,100,"Compañía Energetica de Pata de Mulo, S.L.",5009172,"Compañía Energética Pata de Mulo, S.L.",3481,Details
+EU495927,10-0,2019-03-12 15:54:51.359,Completed,Netherlands,100,STX Services BV,5017430,STX Commodities B.V.,Germany,100,1204 - Anlagenkonto,5014475,CP Kelco Germany GmbH,10000,Details
+EU496525,10-0,2019-03-12 15:54:26.899,Completed,Spain,100,FUTURA CARBONO S.L.,5024181,FUTURA CARBONO S.L.,Spain,100,"Compañía Energética de Puente del Obispo, S.L.",5009164,"Compañía Energética de Puente del Obispo, S.L.",5182,Details

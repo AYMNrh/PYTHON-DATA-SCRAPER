@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU493531,10-0,2019-03-08 17:17:26.885,Completed,United Kingdom,100,SABIC North Tees Aromatics,5008183,Sabic UK Petrochemicals Limited,United Kingdom,100,SABIC Wilton Olefins 6,5008179,Sabic UK Petrochemicals Limited,11346,Details
+EU495757,10-2,2019-03-08 17:16:04.02,Completed,United Kingdom,100,Bechtel,5017981,Bechtel,European Commission,100,EU Allowance deletion,5016380,European Commission,48,Details
+EU495327,10-0,2019-03-08 17:15:31.736,Completed,Sweden,100,Fisksätra PC,5002149,Vattenfall AB,Sweden,100,Boländerna,5002163,Vattenfall AB,6593,Details
+EU495808,10-2,2019-03-08 17:14:14.304,Completed,Ireland,100,Johnson & Johnson Aviation,5019448,Johnson & Johnson Aviation,European Commission,100,EU Allowance deletion,5016380,European Commission,132,Details
+EU495325,10-0,2019-03-08 17:11:51.602,Completed,Sweden,100,Ekobacken PC,5001916,Vattenfall AB,Sweden,100,Boländerna,5002163,Vattenfall AB,10659,Details
+EU495321,10-0,2019-03-08 17:08:47.095,Completed,Sweden,100,Idbäcksverket,5002236,Vattenfall AB,Sweden,100,Boländerna,5002163,Vattenfall AB,67517,Details
+EU495319,10-0,2019-03-08 17:03:49.757,Completed,Sweden,100,"Bergsättersverken, Motala",5002145,Vattenfall AB,Sweden,100,Boländerna,5002163,Vattenfall AB,43806,Details
+EU495315,10-0,2019-03-08 17:00:28.835,Completed,Sweden,100,Jordbro värmeverk,5002206,Vattenfall AB,Sweden,100,Boländerna,5002163,Vattenfall AB,92602,Details
+EU495313,10-0,2019-03-08 16:58:15.04,Completed,Sweden,100,Bollmora värmeverk,5002227,Vattenfall AB,Sweden,100,Boländerna,5002163,Vattenfall AB,6816,Details
+NL31928,3-0,2019-03-08 16:58:13.157,Completed,Netherlands,121,China Carbon N.V.,5016549,China Carbon N.V.,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,100000,Details
+EU495803,10-2,2019-03-08 16:56:41.717,Completed,United Kingdom,100,Loganair limited,5000602,Loganair limited,European Commission,100,EU Allowance deletion,5016380,European Commission,59759,Details
+EU495312,10-0,2019-03-08 16:55:24.622,Completed,Sweden,100,Knivstaverket,5002136,Vattenfall AB,Sweden,100,Boländerna,5002163,Vattenfall AB,11832,Details
+EU495639,10-2,2019-03-08 16:44:57.975,Completed,United Kingdom,100,KC Barrow Mill,5007909,Kimberly Clark Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,58474,Details
+EU495267,10-0,2019-03-08 16:39:23.827,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Netherlands,100,Coöp. Grasdrogerij Ruinerwold en Omstreken BA,5020262,Coöperatieve Grasdrogerij Ruinerwold en Omstreken B.A.,50000,Details
+EU495295,10-0,2019-03-08 16:34:39.979,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Netherlands,100,"Ministerie van Defensie, Nieuwe Haven Terrein",5011063,Ministerie van Defensie,6000,Details
+EU495301,10-0,2019-03-08 16:33:23.874,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,United Kingdom,100,Loganair limited,5000602,Loganair limited,12300,Details
+EU495792,10-2,2019-03-08 16:26:23.022,Completed,United Kingdom,100,Pelagia Aberdeen,5027702,Pelagia (UK) Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,923,Details
+EU495796,10-2,2019-03-08 16:22:35.501,Completed,United Kingdom,100,Century Link UK Communications,5025481,Centurylink Communications UK Limited,European Commission,100,EU Allowance deletion,5016380,European Commission,201,Details
+EU495289,10-0,2019-03-08 16:21:34.273,Completed,United Kingdom,100,EDF Energy Ltd,5007236,EDF Energy Limited,United Kingdom,100,West Burton B Power Station,5007555,EDF ENERGY (THERMAL GENERATION) LIMITED,2573845,Details
+EU495051,10-0,2019-03-08 16:08:40.165,Completed,France,100,ARCELORMITTAL TREASURY Détention,5026253,ARCELORMITTAL TREASURY,Belgium,100,204 Halo Steelrings Seraing,5004603,Halo Steelrings,286,Details

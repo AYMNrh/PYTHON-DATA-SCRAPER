@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU508513,10-2,2019-04-10 17:36:46.296,Completed,Italy,100,Operator Account,5012452,Snam Rete Gas S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,20170,Details
+EU493515,10-0,2019-04-10 17:36:46.225,Completed,France,100,ORIGNY,5005755,TEREOS FRANCE,France,100,ATTIN,5005405,TEREOS FRANCE,44772,Details
+EU508517,10-2,2019-04-10 17:35:43.234,Completed,Italy,100,Poggio Renatico,5012454,Snam Rete Gas S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,45252,Details
+EU493516,10-0,2019-04-10 17:35:08.075,Completed,France,100,ORIGNY,5005755,TEREOS FRANCE,France,100,LILLERS,5005412,TEREOS FRANCE,130127,Details
+EU508524,10-2,2019-04-10 17:34:42.516,Completed,Italy,100,MINERBIO SPINTA,5027534,Snam Rete Gas S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,7359,Details
+EU507324,10-2,2019-04-10 17:34:31.267,Completed,Germany,100,250 - Anlagenkonto,5014980,Pilkington Deutschland AG,European Commission,100,EU Allowance deletion,5016380,European Commission,149033,Details
+EU493518,10-0,2019-04-10 17:33:51.107,Completed,France,100,ORIGNY,5005755,TEREOS FRANCE,France,100,BUCY,5005460,TEREOS FRANCE,74061,Details
+EU508532,10-2,2019-04-10 17:32:37.017,Completed,Italy,100,SERGNANO SPINTA,5027533,Snam Rete Gas S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,12112,Details
+EU493519,10-0,2019-04-10 17:32:17.501,Completed,France,100,ORIGNY,5005755,TEREOS FRANCE,France,100,ARTENAY,5005685,TEREOS FRANCE,35882,Details
+EU507328,10-2,2019-04-10 17:32:10.627,Completed,Germany,100,288 - Anlagenkonto,5015370,Pilkington Deutschland AG,European Commission,100,EU Allowance deletion,5016380,European Commission,96639,Details
+EU509537,10-0,2019-04-10 17:31:26.108,Completed,Italy,100,EMISSION EMILIANA,5012845,EMILIANA CONSERVE SOCIETA' AGRICOLA S.P.A.,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,10036,Details
+EU508560,10-2,2019-04-10 17:31:25.176,Completed,Italy,100,Operator Account,5012514,Stogit S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,42952,Details
+EU493521,10-0,2019-04-10 17:30:25.296,Completed,France,100,ORIGNY,5005755,TEREOS FRANCE,France,100,CONNANTRE,5005900,TEREOS FRANCE,60577,Details
+EU508570,10-2,2019-04-10 17:30:10.479,Completed,Italy,100,Operator Account,5012515,Stogit S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,28152,Details
+EU508578,10-2,2019-04-10 17:28:47.357,Completed,Italy,100,Operator Account,5012518,Stogit S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,38474,Details
+EU493523,10-0,2019-04-10 17:28:42.023,Completed,France,100,ORIGNY,5005755,TEREOS FRANCE,France,100,CHEVRIERES PULPOSEC,5021842,TEREOS FRANCE,7459,Details
+EU509527,10-0,2019-04-10 17:28:25.022,Completed,Italy,100,Operator Account,5012844,EMILIANA CONSERVE SOCIETA' AGRICOLA S.P.A.,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,12182,Details
+EU506506,10-2,2019-04-10 17:28:19.83,Completed,Spain,100,"Bridgestone Hispania Manufacturing, S.L. - Puente San Miguel",5008751,"Bridgestone Hispania Manufacturing, S.L.",European Commission,100,EU Allowance deletion,5016380,European Commission,9488,Details
+EU508580,10-2,2019-04-10 17:27:46.861,Completed,Italy,100,Operator Account,5012520,Stogit S.p.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,17149,Details
+EU509140,10-0,2019-04-10 17:26:36.991,Completed,Norway,100,Norwegian Air Shuttle AOC,5000307,Norwegian Air Shuttle AOC AS,Ireland,100,Norwegian Air International Limited AOHA,5024733,Norwegian Air International Limited,1490000,Details

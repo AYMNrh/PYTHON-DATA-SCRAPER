@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU497871,10-0,2019-03-18 15:52:58.303,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,France,100,ALBIOMA BOIS-ROUGE,5005198,ALBIOMA BOIS ROUGE,68051,Details
+EU497904,10-0,2019-03-18 15:50:40.902,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Greece,100,ENERGTHES,5002385,ELPEDISON (ΠΡ ΕΝΕΡΓΕΙΑΚΗ ΘΕΣΣΑΛΟΝΙΚΗΣ Α.Ε.),5000,Details
+EU497913,10-0,2019-03-18 15:49:43.784,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Germany,100,"Pentastar Aviation, LLC",5000348,"Pentastar Aviation, LLC",183,Details
+EU497903,10-0,2019-03-18 15:49:28.372,Completed,United Kingdom,100,Redshaw Advisors,5023004,Louis Redshaw,Greece,100,ELPEDISONTHISVI,5002432,ELPEDISON (ΠΡ ΕΝΕΡΓΕΙΑΚΗ ΘΕΣΣΑΛΟΝΙΚΗΣ Α.Ε.),5000,Details
+EU497526,10-0,2019-03-18 15:46:46.64,Completed,Germany,100,FutureCamp Climate GmbH Personenkonto,5016067,FutureCamp Climate GmbH,Germany,100,2001 - Schlagmann Baustoffwerke GmbH Personenkonto,5015562,Schlagmann Poroton GmbH & Co. KG,3000,Details
+EU497909,10-0,2019-03-18 15:41:50.881,Completed,Croatia,100,INTERCAPITAL TRADING ACCOUNT,5021057,Interkapital vrijednosni papiri d.o.o.,Croatia,100,HEINEKEN HRVATSKA,5022832,HEINEKEN HRVATSKA d.o.o.,1440,Details
+EU497910,10-0,2019-03-18 15:41:11.668,Completed,Croatia,100,INTERCAPITAL TRADING ACCOUNT,5021057,Interkapital vrijednosni papiri d.o.o.,Croatia,100,HEINEKEN HRVATSKA,5022832,HEINEKEN HRVATSKA d.o.o.,68,Details
+EU497440,10-0,2019-03-18 15:39:27.481,Completed,United Kingdom,100,EMCL Fawley,5007294,ExxonMobil Chemical Limited,France,100,ERSAS PJG,5005719,ESSO RAFFINAGE,3548,Details
+EU497444,10-0,2019-03-18 15:37:37.839,Completed,United Kingdom,100,Fife Ethylene Plant,5007297,ExxonMobil Chemical Limited,France,100,ERSAS PJG,5005719,ESSO RAFFINAGE,162146,Details
+EU497452,10-0,2019-03-18 15:35:07.801,Completed,United Kingdom,100,Esso Fawley Refinery,5007301,Esso Petroleum Company Limited,Belgium,100,176 Esso Raffinaderij,5004575,Exxonmobil Petroleum & Chemical,280000,Details
+EU497466,10-0,2019-03-18 15:33:31.959,Completed,United Kingdom,100,Esso Fawley Refinery,5007301,Esso Petroleum Company Limited,France,100,ERSAS PJG,5005719,ESSO RAFFINAGE,85764,Details
+EU497477,10-0,2019-03-18 15:31:37.959,Completed,United Kingdom,100,Esso Fawley Cogeneration Unit,5007305,Esso Petroleum Company Limited,France,100,ERSAS PJG,5005719,ESSO RAFFINAGE,25787,Details
+EU497797,10-0,2019-03-18 15:30:04.223,Completed,France,100,EDF TRADING LIMITED,5027028,EDF TRADING LTD,France,100,RENAULT SAS,5005046,RENAULT SAS,88398,Details
+EU497519,10-0,2019-03-18 15:29:13.466,Completed,Greece,100,LIGNITIKI MEGALOPOLIS S.A.,5027604,ΛΙΓΝΙΤΙΚΗ ΜΕΓΑΛΟΠΟΛΗΣ Α.Ε,Greece,100,LIGNITIKI MEGALOPOLIS unit III,5002483,ΛΙΓΝΙΤΙΚΗ ΜΕΓΑΛΟΠΟΛΗΣ Α.Ε,1,Details
+EU497512,10-0,2019-03-18 15:29:06.815,Completed,Italy,100,A2A S.P.A.,5025361,A2A SPA,Italy,100,SESTO SAN GIOVANNI,5013358,EDISON SPA,21900,Details
+EU497898,10-2,2019-03-18 15:25:23.112,Completed,Croatia,100,KeramikaModusOrahovica2013,5020879,Keramika Modus d.o.o.,European Commission,100,EU Allowance deletion,5016380,European Commission,5199,Details
+EU497671,10-2,2019-03-18 15:21:42.661,Completed,Germany,100,1496 - Anlagenkonto,5014882,Energie und Wasser Potsdam GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,14193,Details
+EU497900,10-0,2019-03-18 15:20:46.749,Completed,Spain,100,Santander Clientes,5017250,Banco Santander S.A.,Poland,100,PGE Dom Maklerski S.A.,5023795,PGE Dom Maklerski S.A.,2000,Details
+EU497888,10-0,2019-03-18 15:19:04.46,Completed,Germany,100,Advantag Services GmbH,5022399,Advantag Services GmbH,Croatia,100,INTERCAPITAL TRADING ACCOUNT,5021057,Interkapital vrijednosni papiri d.o.o.,1440,Details
+EU497890,10-0,2019-03-18 15:18:04.15,Completed,Germany,100,Advantag Services GmbH,5022399,Advantag Services GmbH,Croatia,100,INTERCAPITAL TRADING ACCOUNT,5021057,Interkapital vrijednosni papiri d.o.o.,68,Details

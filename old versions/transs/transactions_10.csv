@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU520583,10-0,2019-04-30 11:54:50.21,Completed,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,Netherlands,100,BNP Paribas London Branch,5027681,BNP Paribas London Branch,270,Details
+EU520582,10-2,2019-04-30 11:52:12.352,Completed,Bulgaria,100,BRIKEL,5016143,BRIKEL EAD,European Commission,100,EU Allowance deletion,5016380,European Commission,475689,Details
+EU520574,10-0,2019-04-30 11:50:06.486,Completed,Slovenia,100,Belektron TRD Si,5016820,BELEKTRON d.o.o.,Spain,100,"Sistema Europeo de Negociación de Co2, S.L.",5020183,"SISTEMA EUROPEO DE NEGOCIACIÓN DE CO2, S.L.",12000,Details
+EU520575,10-0,2019-04-30 11:48:20.298,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Poland,100,CIEPŁOWNIA,5003499,Miejska Energetyka Cieplna Sp. z o.o.,9000,Details
+EU520581,10-72,2019-04-30 11:48:01.332,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,France,100,RECYTECH SA,5022406,RECYTECH SA,1233,Details
+EU520484,10-71,2019-04-30 11:47:12.648,Completed,France,100,RECYTECH SA,5022406,RECYTECH SA,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,1233,Details
+EU520579,10-72,2019-04-30 11:47:08.195,Completed,European Commission,100,EU Credit Exchange Account,5022593,EUROPEAN COMMISSION,France,100,RECYTECH SA,5022406,RECYTECH SA,1942,Details
+EU520572,10-0,2019-04-30 11:47:07.981,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Hungary,100,Operator Account:HU10,5011650,ALFA-NOVA Kft.,10194,Details
+EU520570,10-0,2019-04-30 11:46:11.706,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Hungary,100,Operator Account:HU11,5011651,ALFA-NOVA Kft.,1829,Details
+EU520486,10-71,2019-04-30 11:46:09.356,Completed,France,100,RECYTECH SA,5022406,RECYTECH SA,European Commission,100,EU International Credit Account,5022590,EUROPEAN COMMISSION,1942,Details
+EU520573,10-0,2019-04-30 11:45:37.323,Completed,Germany,100,innogy SE,5017191,innogy SE,Germany,100,RWE Vertrieb AG Retail - Trading,5017190,innogy SE,3500,Details
+EU520554,10-0,2019-04-30 11:45:24.259,Completed,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,Hungary,100,energott:HU284,5011876,ENERGOTT Kft.,7400,Details
+EU513926,10-2,2019-04-30 11:45:13.246,Completed,Norway,100,EVINY TERMO AS AVD BERGEN,5012212,Eviny Termo AS,European Commission,100,EU Allowance deletion,5016380,European Commission,6688,Details
+EU520567,10-0,2019-04-30 11:43:05.652,Completed,Spain,100,FUTURA CARBONO S.L.,5024181,FUTURA CARBONO S.L.,Spain,100,"APOLO CERÁMICAS, S.L.",5018275,"APOLO CERÁMICAS, S.L.",2714,Details
+EU520563,10-0,2019-04-30 11:42:50.563,Completed,Netherlands,100,BNP Paribas London Branch,5027681,BNP Paribas London Branch,United Kingdom,100,BNP Paribas,5017654,BNP Paribas,9964,Details
+EU520475,10-2,2019-04-30 11:42:33.102,Completed,Greece,100,ELVAL,5021399,ΕΛΒΑΛ ΕΛΛΗΝΙΚΗ ΒΙΟΜΗΧΑΝΙΑ ΑΛΟΥΜΙΝΙΟΥ ΑΕ,European Commission,100,EU Allowance deletion,5016380,European Commission,105905,Details
+EU510408,10-2,2019-04-30 11:34:55.21,Completed,Spain,100,Industrias Doy Manuel Morate S.L.,5009276,"Industrias Doy Manuel Morate, S.L.",European Commission,100,EU Allowance deletion,5016380,European Commission,17680,Details
+EU520562,10-2,2019-04-30 11:28:39.895,Completed,Germany,100,Feldmuehle GmbH Anlage PM,5015402,Feldmuehle GmbH,European Commission,100,EU Allowance deletion,5016380,European Commission,5672,Details
+EU520557,10-2,2019-04-30 11:25:04.093,Completed,Spain,100,Matías Goma Tomás S.A.,5009813,Matias Gomá Tomas S.A.,European Commission,100,EU Allowance deletion,5016380,European Commission,15516,Details
+EU520537,10-2,2019-04-30 11:24:48.133,Completed,Slovakia,100,"CHEMES, a. s. Humenné",5002996,"CHEMES, a.s. Humenné",European Commission,100,EU Allowance deletion,5016380,European Commission,55029,Details

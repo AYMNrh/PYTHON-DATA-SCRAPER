@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU512001,10-0,2019-04-15 12:02:20.692,Completed,United Kingdom,100,Exeter Power Limited,5008038,Whitetower Energy Limited,United Kingdom,100,Bristol Energy Limited,5008037,Whitetower Energy Limited,4,Details
+EU511089,10-0,2019-04-15 12:02:20.036,Completed,France,100,Société Valmy Défense 17 - SVD17,5023377,SVD 17,France,100,REYSSOUZE ENERGIE SERVICES,5005320,REYSSOUZE ENERGIE SERVICES,6376,Details
+EU511500,10-0,2019-04-15 12:02:09.61,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Italy,100,GCRSPA1,5021721,Gruppo Ceramiche Ricchetti spa,3382,Details
+EU511060,10-0,2019-04-15 12:02:06.493,Completed,France,100,Société Valmy Défense 17 - SVD17,5023377,SVD 17,France,100,COGESTAR 2- Ahlstrom Packaging,5005117,COGESTAR 2,41095,Details
+EU511987,10-0,2019-04-15 12:02:04.236,Completed,Finland,100,Porvoon Energia EUA:FI557,5010605,Porvoon Energia Oy-Borgå Energi Ab,Sweden,100,Vattenfall AB Handelskonto,5001587,Vattenfall AB,5000,Details
+EU513038,10-0,2019-04-15 12:01:54.622,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Germany,100,RWEST GmbH Trading Account,5016830,RWE Supply & Trading GmbH,500000,Details
+EU511441,10-0,2019-04-15 12:01:53.395,Completed,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,Luxembourg,100,KARP-KNEIP Matériaux,5022287,C. KARP-KNEIP Matériaux S.A.,1500,Details
+EU511999,10-0,2019-04-15 12:01:50.183,Completed,Bulgaria,100,Zagora Finacorp Jsc.,5027231,Zagora Finacorp Jsc.,Bulgaria,100,Saga Commodities AD,5017097,Saga Commodities EAD,281,Details
+EU511668,10-0,2019-04-15 12:01:41.683,Completed,Italy,100,Aitherco2 SpA,5016984,AitherCO2 SIM SpA,Greece,100,ΕΛΛΗΝΙΚΗ ΕΤΑΙΡΕΙΑ ΚΟΝΣΕΡΒΩΝ Α.Ε. ΚΥΚΝΟΣ,5022603,ΕΛΛΗΝΙΚΗ ΕΤΑΙΡΕΙΑ ΚΟΝΣΕΡΒΩΝ Α.Ε. ΚΥΚΝΟΣ,241,Details
+EU511064,10-0,2019-04-15 12:01:39.766,Completed,France,100,Société Valmy Défense 17 - SVD17,5023377,SVD 17,France,100,COGESTAR 2- ARKEMA LANNEMEZAN,5004831,COGESTAR 2,6442,Details
+EU513054,10-2,2019-04-15 12:01:34.03,Completed,Spain,100,"Fundiciones de Ódena, S.A.",5022425,"Fundiciones de Ódena, S.A.",European Commission,100,EU Allowance deletion,5016380,European Commission,20694,Details
+EU511705,10-0,2019-04-15 12:01:29.772,Completed,Germany,100,Zugeteilte Emissionsrechte,5013717,Städtische Werke Energie + Wärme GmbH,Germany,100,977 - Anlagenkonto - Heizkraftwerk Mittelfeld,5014100,Städtische Werke Energie + Wärme GmbH,685,Details
+EU505662,10-0,2019-04-15 12:01:10.881,Completed,France,100,LUZEAL- Site de PAUVRES,5022193,LUZEAL,France,100,LUZEAL- Site de RECY,5022194,LUZEAL,1058,Details
+EU512003,10-0,2019-04-15 12:01:08.034,Completed,Poland,100,CENTRALNA CIEPŁOWNIA,5002641,Celsium Sp. z o.o.,Poland,100,Ciepłownia w Starachowicach,5003066,Celsium Sp. z o.o.,1573,Details
+EU512013,10-0,2019-04-15 12:01:08.024,Completed,United Kingdom,100,Derby Cogeneration,5008196,Whitetower Energy Limited,United Kingdom,100,Bristol Energy Limited,5008037,Whitetower Energy Limited,254,Details
+EU511240,10-0,2019-04-15 12:01:03.875,Completed,Czech Republic,100,Cihelna Polom spol. s r.o.,5006906,"Cihelna Polom, spol. s r.o.",Spain,100,"Global Factor Commodity Trading, S.A.U.",5016901,"Global Factor Commodity Trading, S.A.U.",4000,Details
+EU511053,10-0,2019-04-15 12:01:03.874,Completed,France,100,Société Valmy Défense 17 - SVD17,5023377,SVD 17,France,100,SOFLEC,5005644,SOCIETE FLEURY CHAUFFAGE- SOFLEC,2036,Details
+EU505669,10-0,2019-04-15 12:00:45.192,Completed,France,100,LUZEAL- Site de PAUVRES,5022193,LUZEAL,France,100,LUZEAL- Site de PONTFAVERGER,5022197,LUZEAL,782,Details
+GB72786,3-0,2019-04-15 12:00:28.558,Completed,United Kingdom,121,Numerco Limited,5026108,Numerco Limited,United Kingdom,100,Numerco Limited,5025480,Numerco Limited,9000,Details
+EU511998,10-0,2019-04-15 12:00:26.846,Completed,Poland,100,CENTRALNA CIEPŁOWNIA,5002641,Celsium Sp. z o.o.,Poland,100,Ciepłownia w Sokółce,5002900,Celsium Sp. z o.o.,2382,Details

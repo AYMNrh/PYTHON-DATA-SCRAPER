@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU510725,10-0,2019-04-12 12:08:12.599,Completed,Spain,100,"Verallia Spain, S.A. - Instalación de Azuqueca de Henares",5009223,"VERALLIA SPAIN, S.A.",Spain,100,"Verallia Spain, S.A. - Verallia Zaragoza",5009408,"VERALLIA SPAIN, S.A.",12008,Details
+EU510970,10-0,2019-04-12 12:08:09.805,Completed,Spain,100,"Conservas Vegetales de Agraz, S.A.U.",5009795,"Conservas Vegetales de Agraz, S.A.U.",Portugal,100,"Conesa Portugal, S.A. (Ex-SOPRAGOL, S.A.)",5003128,"Conesa Portugal, S.A. (Ex-SOPRAGOL, S.A.)",6721,Details
+EU510878,10-0,2019-04-12 12:08:01.979,Completed,Netherlands,100,Dow Benelux B.V. BKG 8,5021281,DOW Benelux B.V.,Netherlands,100,Dow Benelux B.V. BKG 2,5021275,DOW Benelux B.V.,373,Details
+EU510738,10-0,2019-04-12 12:07:51.602,Completed,Germany,100,Anlagenkonto RCD,5020995,Radici Chimica Deutschland GmbH,Italy,100,RADEN01,5012424,Geoenergie S.p.A.,100000,Details
+EU512176,10-0,2019-04-12 12:07:49.926,Completed,Germany,100,ECC AG Handel,5016813,European Commodity Clearing AG,Netherlands,100,Vertis Environmental Finance Ltd,5017659,Vertis Environmental Finance Ltd,170000,Details
+EU510935,10-0,2019-04-12 12:07:47.769,Completed,Germany,100,1863 - Anlagenkonto,5015423,terranets bw GmbH,Germany,100,1834 - Anlagenkonto,5015383,terranets bw GmbH,3000,Details
+EU510819,10-0,2019-04-12 12:07:43.799,Completed,France,100,Société Valmy Défense 17 - SVD17,5023377,SVD 17,France,100,SODEVAR Puits Vouters,5005855,SODEVAR,3326,Details
+EU510755,10-0,2019-04-12 12:07:28.377,Completed,Denmark,100,Horsens Kraftv.,5006358,FJERNVARME HORSENS A/S,Denmark,100,Langmarksvej 84,5006205,Fjernvarme Horsens A.m.b.A,185,Details
+EU510194,10-0,2019-04-12 12:07:28.376,Completed,France,100,BRUYERES et Fils,5005822,SEE BRUYERES et Fils,Netherlands,100,ACT Trading,5017134,ACT Financial Solutions B.V.,5000,Details
+EU510828,10-0,2019-04-12 12:07:22.055,Completed,Spain,100,"Fertiberia, S.A. Fábrica de Sagunto",5009532,"Fertiberia, S.A.",Spain,100,"Fertiberia, S.A-Fábrica de Avilés",5017818,"Fertiberia, S.A.",24589,Details
+EU510996,10-0,2019-04-12 12:07:13.728,Completed,Sweden,100,Notnäs,5002278,Värmevärden AB,Sweden,100,Lastaren,5001998,Värmevärden AB,2380,Details
+EU510857,10-0,2019-04-12 12:07:06.475,Completed,Italy,100,Ospedale UDINE,5012399,SIRAM SPA,Italy,100,Operator Account,5012377,SIRAM SPA,4079,Details
+EU510801,10-0,2019-04-12 12:07:06.148,Completed,France,100,Société Valmy Défense 17 - SVD17,5023377,SVD 17,France,100,COGESTAR - Papeterie Arjowiggins,5005500,COGESTAR,20865,Details
+EU510779,10-0,2019-04-12 12:07:05.457,Completed,France,100,Société Valmy Défense 17 - SVD17,5023377,SVD 17,France,100,ENERGIE GRAND LITTORAL,5005323,ENERGIE GRAND LITTORAL,5635,Details
+EU510797,10-0,2019-04-12 12:07:03.34,Completed,France,100,Société Valmy Défense 17 - SVD17,5023377,SVD 17,France,100,COGERI Site Peugeot,5005556,COGERI,7372,Details
+EU510804,10-0,2019-04-12 12:06:55.29,Completed,France,100,Société Valmy Défense 17 - SVD17,5023377,SVD 17,France,100,COGESTAR 2 - Usine Continental,5005849,COGESTAR 2,10218,Details
+EU510947,10-0,2019-04-12 12:06:54.173,Completed,Sweden,100,KVV Oceanen,5002218,Halmstads Energi & Miljö AB,Sweden,100,Kristineheds Avfallsvärmeverk,5022216,Halmstads Energi & Miljö AB,42206,Details
+EU510950,10-0,2019-04-12 12:06:39.55,Completed,Spain,100,"ENCE, Energía y Celulosa, S.A.",5009063,"ENCE, Energía y Celulosa, S.A.",Spain,100,Celulosas de Asturias S.A.,5009273,Celulosas de Asturias S.A.,51631,Details
+EU512253,10-2,2019-04-12 12:06:31.519,Completed,Germany,100,1570 - Anlagenkonto,5014988,O. & L. Sels GmbH & Co. KG,European Commission,100,EU Allowance deletion,5016380,European Commission,39170,Details
+EU510803,10-0,2019-04-12 12:06:31.519,Completed,Germany,100,Bayern LB,5016942,Bayerische Landesbank,Germany,100,1280 - Anlagenkonto,5014581,Freiburger Wärmeversorgungs GmbH,3000,Details

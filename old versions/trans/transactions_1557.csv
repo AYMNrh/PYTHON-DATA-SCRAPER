@@ -1,0 +1,21 @@
+Transaction ID,Transaction Type,Transaction Date,Transaction Status,Transferring Registry,Transferring Account Type,Transferring Account Name,Transferring Account Identifier,Transferring Account Holder,Acquiring Registry,Acquiring Account Type,Acquiring Account Name,Acquiring Account Identifier,Acquiring Account Holder,Nb of units,Option
+EU487933,10-36,2019-02-23 01:30:38.89,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,WBEEKordoni6:EE63,5016355,Wienerberger  AS,5314,Details
+EU487954,10-36,2019-02-23 01:30:38.884,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,Operator Account:EE17,5016322,AS Utilitas Eesti,4636,Details
+EU487944,10-36,2019-02-23 01:30:38.881,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,Operator Account:EE41,5016346,AS Nordkalk,48158,Details
+EU487930,10-36,2019-02-23 01:30:38.874,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,Operator Account:EE36,5016341,Danpower Eesti AS,4434,Details
+EU487972,10-36,2019-02-23 01:30:38.859,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,Operator Account:EE45,5016350,Horizon Tselluloosi ja Paberi AS,83740,Details
+EU487959,10-36,2019-02-23 01:30:38.842,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,Operator Account:EE23,5016328,Kuressaare Soojus AS,5373,Details
+EU487932,10-36,2019-02-23 01:30:38.816,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,Operator Account:EE5,5016310,Enefit Power AS,57223,Details
+EU487936,10-36,2019-02-23 01:30:38.804,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,Digismart:EE74,5016364,OÜ Utilitas Tallinna Elektrijaam,31689,Details
+EU487971,10-36,2019-02-23 01:30:38.804,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,Pärnu SEJ: EE75,5016365,Gren Eesti AS,13437,Details
+EU487941,10-36,2019-02-23 01:30:38.782,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,PAKTERMINAL,5016314,Liwathon E.O.S. AS,1878,Details
+EU487976,10-36,2019-02-23 01:30:38.772,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,Operator Account:EE26,5016331,Gren Tartu AS,16176,Details
+EU487940,10-36,2019-02-23 01:30:38.716,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,Operator Account:EE6,5016311,Enefit Green AS,42766,Details
+EU487973,10-36,2019-02-23 01:30:38.714,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,Operator Account:EE21,5016326,Gren Eesti AS,619,Details
+EU487931,10-36,2019-02-23 01:30:38.711,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,Väo reservkatlamaja CHP,5026102,OÜ Utilitas Tallinna Elektrijaam,36451,Details
+EU487946,10-36,2019-02-23 01:30:38.709,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,Operator Account:EE16,5016321,Silpower AS,25424,Details
+EU487950,10-36,2019-02-23 01:30:38.705,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,Operator Account:EE30,5016335,Gren Tartu AS,3536,Details
+EU487945,10-36,2019-02-23 01:30:38.703,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,Operator Account:EE8,5016313,OÜ VKG Energia,410224,Details
+EU487929,10-36,2019-02-23 01:30:38.701,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,FHW Dortmund-Bodelschwingh,5024009,Fernwärmeversorgung Niederrhein GmbH,2916,Details
+EU487970,10-36,2019-02-23 01:30:38.7,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Estonia,100,Operator Account:EE15,5016320,Kiviõli Keemiatööstuse OÜ,84300,Details
+EU487957,10-36,2019-02-23 01:30:38.694,Completed,European Commission,100,EU ALLOCATION ACCOUNT,5022208,EUROPEAN UNION,Germany,100,FHW Dinslaken-Innenstadt,5014306,Fernwärmeversorgung Niederrhein GmbH,88,Details
